@@ -91,7 +91,9 @@ Lähde: https://escharts.com/top-games?order=peak
 
 Historiaa:
 
-Esports history timeline (chatgpt): 
+Esports history timeline (chatgpt, tarkista):
+
+1947: pinball machine
 
 1972: The first known video game competition took place at Stanford University for the game "Spacewar!"
 
