@@ -22,6 +22,7 @@ Dokumentteja ja videoita e-urheilun varhaisista vaiheista, ensimmäisistä kilpa
 - "Good Luck Have Fun: The Rise of eSports" 
 - Paljonko interneyhteyksiä on ollut: https://www.oecd.org/digital/ieconomy/48255770.pdf
 - Wasd- Quake, John Carmack https://www.youtube.com/watch?v=iIhmeRfmQns&ab_channel=theScoreesports
+ https://www.oecd.org/digital/ieconomy/48255770.pdf
 
 ### Sisältösuunnitelma:
 
