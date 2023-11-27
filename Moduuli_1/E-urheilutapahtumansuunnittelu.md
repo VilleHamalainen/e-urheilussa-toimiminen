@@ -1,4 +1,4 @@
-# Moduuli 1: E-urheilutapahtuman suunnittelu (5 osp)
+# Moduuli 1: e-urheilutapahtuman suunnittelu (5 osp)
 
 
 ## Tapahtuman luoteen ja kohderyhmän valinta
