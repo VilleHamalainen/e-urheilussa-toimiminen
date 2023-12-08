@@ -14,6 +14,7 @@
             height: 100px;
             border-top: 2px solid #333;
             padding-top: 20px;
+            overflow: hidden;
         }
 
         .event {
@@ -23,6 +24,7 @@
             background-color: #3498db;
             border-radius: 50%;
             margin-left: -10px;
+            cursor: pointer;
         }
 
         .event .event-content {
@@ -34,6 +36,7 @@
             border-radius: 5px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
             white-space: nowrap;
+            pointer-events: none;
         }
 
         .event:hover .event-content {
@@ -47,13 +50,24 @@
     <div class="timeline" id="timeline"></div>
 
     <script>
-        // Sample esports events data
         const eventData = [
-            { date: '1972-01-01', content: 'The first known video game competition took place at Stanford University for the game "Spacewar!"' },
-            { date: '1980-01-01', content: 'The Space Invaders Championship, hosted by Atari, became one of the earliest large-scale video game competitions.' },
-            { date: '1997-01-01', content: 'The Red Annihilation Quake tournament at the E3 gaming convention is considered one of the first major esports events with a grand prize—a Ferrari.' },
-            // ... (other events)
-        ];
+                { date: 'Before 1972', content: 'Competitive gaming was held in arcades, school halls, and private tournaments, with the advent of digital games and the influence of Flipper.' },
+                { date: '1972-01-01', content: 'The first known video game competition took place at Stanford University for the game "Spacewar!". The grand prize was a year\'s subscription to Rolling Stones magazine.' },
+                { date: '1980-01-01', content: 'Atari hosted The Space Invaders Championship, becoming one of the earliest large-scale video game competitions.' },
+                { date: '1997-01-01', content: 'The Red Annihilation Quake tournament at the E3 gaming convention is considered one of the first major esports events. The grand prize was a Ferrari, won by Dennis "Thresh" Fong.' },
+                { date: '1997-01-01', content: 'The Cyberathlete Professional League (CPL) was founded, marking a significant step in esports development.' },
+                { date: '1997-01-01', content: 'StarCraft, one of the popular esports titles, was released, gaining massive popularity globally and particularly in South Korea.' },
+                { date: '2000-01-01', content: 'The Electronic Sports World Cup (ESWC) and The World Cyber Games (WCG) were held, showcasing international esports competition.' },
+                { date: '2002-01-01', content: 'Major League Gaming (MLG) was established in New York, contributing to the growth of esports in the United States.' },
+                { date: '2003-01-01', content: 'The Championship Gaming Series (CGS) was organized in the United States, featuring various popular games like Counter-Strike 1.6 and Halo 2.' },
+                { date: '2011-01-01', content: 'Valve organized The International (TI) Dota 2 tournament, introducing an unprecedented prize pool to the esports scene.' },
+                { date: '2012-01-01', content: 'League of Legends (LoL), influenced by the original DotA, gained popularity, offering a distinct gaming experience.' },
+                { date: '2012-01-01', content: 'Counter-Strike: Global Offensive (CS:GO) was released, merging communities from Counter-Strike 1.6 and Source.' },
+                { date: '2019-01-01', content: "Fortnite World Cup took place with a substantial prize pool of 30 million dollars, showcasing the game's rise in the esports landscape."},
+                { date: '2020-01-01', content: 'Valorant and Apex Legends emerged as notable titles in the esports scene, contributing to the diversity of competitive gaming.' },
+                { date: '2023-01-01', content: 'LAN events make a comeback in esports after a period of online dominance, marking a return to in-person competitions.' },
+            ];
+
 
         // Create an SVG container for the timeline
         const svg = d3.select("#timeline").append("svg").attr("width", "100%").attr("height", 100);
@@ -63,11 +77,11 @@
             .data(eventData)
             .enter().append("g")
             .attr("class", "event")
-            .attr("transform", d => `translate(${calculatePosition(d.date)},50)`);
+            .attr("transform", (d, i) => `translate(${i * 50 + 10},50)`); // Adjusted the x-coordinate
 
         // Add circles for each event
         events.append("circle")
-            .attr("r", 20)
+            .attr("r", 10)
             .attr("fill", "#3498db");
 
         // Add content to display on hover
@@ -85,7 +99,6 @@
 
             const daysDifference = (currentDate - startDate) / millisecondsPerDay;
 
-            // Adjust the multiplier to control the spacing between events
             return daysDifference * 10; // Adjusted the multiplier for better spacing
         }
     </script>
