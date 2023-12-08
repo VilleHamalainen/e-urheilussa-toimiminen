@@ -25,9 +25,6 @@ Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
 - cs2 downloand server: https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows
  full guide: https://hub.tcno.co/games/cs2/dedicated_server/
 
-### Online
-- Faceitilla monia eri pelivaihtoehtoja. Onko ilmainen?
-
 
 ## Streamaus
    - https://www.twitch.tv/creatorcamp/en/paths/going-live/setting-up-your-stream/
@@ -41,3 +38,9 @@ Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
 ## Muut tapahtuman järjestämiseen liittyvät perusasiat 
   - (tilat, luvat, pelien säännöt, varusteet(byoc), ruoka, majoitukset ja ylinen tapahtuman organisointi.
 
+
+## Tehtäviä:
+   
+   - Perustakaa testiturnaus faceitpalveluun, johon kaikki osallistuvat. 
+   - Discord palvelun pystyttäminen 2022 pohjalta.
+   - Markkinointiviestit: alustat: ig, twitter jne.
