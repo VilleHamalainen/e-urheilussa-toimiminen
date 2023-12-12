@@ -20,6 +20,10 @@ Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
 
 ## Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
 
+
+## Roolit tapahtumassa:
+  - Selostajat, audio, production jne.
+
 ## Lan vs verkossa järjestettävä tapahtuma
 ### Lan
 - cs2 downloand server: https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows
@@ -44,3 +48,7 @@ Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
    - Perustakaa testiturnaus faceitpalveluun, johon kaikki osallistuvat. 
    - Discord palvelun pystyttäminen 2022 pohjalta.
    - Markkinointiviestit: alustat: ig, twitter jne.
+
+
+
+   https://www.udemy.com/course/how-to-start-esports-club/
