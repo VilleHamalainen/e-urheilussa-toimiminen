@@ -34,14 +34,34 @@
 
    Pelin tai pelien valinta vaikuttaa kohdeyleisöön ja tapahtuman luonteeseen. Helpointa on rajata peli aluksi yhteen ja mahdollisuuksien mukaan laajentaa pelikatalogia, jos sille on kysyntää. Gradia Cup on ollut aikaisemmin CS:GO ja nyt CS 2-turnaus. Miksi näin on? Yksi syy on tietenkin Counter Striken kestosuosio nuorten parissa ja pelin eri muodot ovat olleet suosiossa jo kaksi vuosikymmentä. Kuitenkin esimerkiksi Gradialta löytyy 22 0000 opiskelijaa, joten voisi olla, että myös muille peleille olisi kysyntää erilaisten tapahtumien muodossa.
 
-   Suosion lisäksi on syytä ottaa huomioon saa saavutettavuus. Eli mitä tarvitaan, että peliä voi a) pelata b) pelata kilpailullisesti? Esimerkiksi Counter Strike 2 on ilmainen päivitys CS:GO-peliin ja muutenkin ilmainen. Toisaalta esimerkiksi World Of Warcraft maksaa alkusjoituksen ja lisäksi maksun joka kuukausi. Onko pelillä ikärajoihin liittyvä rajoitteita? Esimerkiksi Counter Strike turnauksen järjestäminen alakoulussa voi osoittautua haastavaksi.
+   Suosion lisäksi on syytä ottaa huomioon saa saavutettavuus. Eli mitä tarvitaan, että peliä voi a) pelata b) pelata kilpailullisesti? Esimerkiksi Counter Strike 2 on ilmainen päivitys CS:GO-peliin ja muutenkin ilmainen. Toisaalta esimerkiksi World Of Warcraft maksaa alkusijoituksen ja lisäksi maksun joka kuukausi. 
 
-   Mitä peli vaatii järjestelmältä? Mikä on järjestelmä (konsoli, PC, puhelin)?
+   Yksi aspekti turnauksen luoteen kannalta ovat laitevaatimukset. Tämä koskee tapahtumia, jossa on koneet ovat valmiina. Tällöin tapahtuman järjestähän tulee pitää huoli, että pelattavat pelit toimivat tarpeeksi hyvin. Tapahtumassa tulee otta huomioon myös muut osa-alueet kuten näytöt, muut oheilaitteet kuten hiiret, näppäimistöt ja kuulokkeet. Yleensä myös laneihin, jossa koneet ovat omasta takaa tuodaan oma hiiri, näppäimistö ja hiirimatto. Palataan tähän aiheeseen myöhemmin tarkemmin.
+
+   Muita mahdollisia pohdinnan kohteita ovat kulttuuriset näkökohdat. Tällä tarkoitetaan lähinnä peligenrejen suosioita. Alla esimerkkejä:
+
+   StarCraft Koreassa: StarCraft ja StarCraft II ovat erittäin suosittuja Etelä-Koreassa, missä ne ovat kehittyneet suureksi osaksi pop-kulttuuria ja niillä on suuri ammattilaiskenttä. Tämä suosio ei välttämättä näy samalla tavalla muissa maissa. 
+
+   Mobiipelaaminen Aasiassa: Mobiilipelit kuten Honor of Kings tai PUBG Mobile ovat erittäin suosittuja Aasiassa, erityisesti Kiinassa ja Intiassa. Nämä pelit ovat sopeutuneet paikallisiin markkinoihin paremmin kuin länsimaiset vastineensa. Toisaalta taas e-urheilutapahtuman näkökulmasta tuntuisia hassulta pelata mobiibipelejä (opettajan mielipide), mutta voi olla, että tässä on paljonkin potentiaalia.
+
+   FIFA Latinalaisessa Amerikassa ja Euroopassa: Jalkapallopelit, kuten FIFA-sarja, ovat erityisen suosittuja Euroopassa ja Latinalaisessa Amerikassa, missä jalkapallo on suosituin urheilulaji, mutta pelit eivät nauti vastaavaa suosiota esimerkiksi Aasiassa tai Yhdysvalloissa.
+
+   Eettiset ja sosiaaliset rajoitteet on myös syytä pitää mielessä. Peleille on usein annettu ikärajat organisaatioiden, kuten Yhdysvaltain Entertainment Software Rating Board (ESRB) tai Euroopan Pan European Game Information (PEGI), toimesta. Nämä arviot tarjoavat ohjeita ikätason mukaisesta sisällöstä. Maasta tai alueesta riippuen voi olla laillisia rajoituksia tiettyjen ikäryhmien altistamisesta tietyille ikärajoitetuille peleille. Tapahtuman järjestäjien on noudatettava näitä lakeja välttääkseen oikeudellisia seuraamuksia.
+   
+   Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerkiksi PEGI 18 -luokiteltu peli ei olisi sopiva koulupohjaisessa turnauksessa. Esimerkiksi Counter Strike turnauksen järjestäminen alakoulussa ei onnistu. Tästä syystä kohdeyleisön tunteminen on tärkeää ja parempi vaihtoehto voisikin olla esim. Super Smash Bros peli, joka toimii Nintendolla, jolla on pitkä historia lasten ja nuorten pelikonsolina. Alaikäisiä osallistujia sisältävissä tapahtumissa vanhempien suostumuksen saaminen on tärkeää, jos pelin sisältöä voidaan pitää sopimattomana tietyille ikäryhmille.
+
+
+   Peligenren valinta on monimutkainen prosessi, joka vaatii huolellista harkintaa useista näkökulmista.
+
+
+
+
+
 
 
    <b>Tehtävä<b> Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapahtumille? Suunnitelkaa pienissä ryhmissä kyselomake Office 365 Formsia (https://forms.office.com/). Ottakaa huomioon erilaiset pelaajat (kilpailu vs yhteisöllisyys), eri peligenret ja tapahtuman luonne. Palauta kysely Moodlen työtilaan.
 
-   <b> Tehtävä<b> Tutustu oman suosikkipelisi ikärajoihin. https://pelikasvatus.fi/ohje-ikarajajouston-soveltamisesta/. Kerro eri ikärajamerkinnöistä ja mitä ne tarkoittavat. Miten tämä tulee ottaa huomioon tapahtumien järjestämisessä.
+   <b>Tehtävä<b> Tutustu oman suosikkipelisi ikärajoihin. https://pelikasvatus.fi/ohje-ikarajajouston-soveltamisesta/. Kerro eri ikärajamerkinnöistä ja mitä ne tarkoittavat. Miten tämä tulee ottaa huomioon tapahtumien järjestämisessä.
 
    Tässä on linkki vuoden 2022 Gradia Cup toteutuksen dokumentaation [GradiaCup2022.docx](https://github.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua. 
 
@@ -93,3 +113,7 @@ Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
 
 
    https://www.udemy.com/course/how-to-start-esports-club/
+
+
+
+   
