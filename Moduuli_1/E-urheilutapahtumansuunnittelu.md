@@ -13,13 +13,13 @@
 
    Palataan vielä tarkoitukseen. Yhtenä tavoitteena olisi tuoda opiskelijoita/pelaajia yhteen, jotta he muodostaisivat joukkueita ja yksi haastava tavoite voisi olla, että myös pelaajat, jotka eivät tunne entuudestaan toisiaan saisivat muodostettua joukkueita. Verkostoituminen ja uusien kavereiden löytäminen voisi olla yksi hieno tavoite turnaukselle, mutta myös yhteisöllisessä e-urheilutapahtumassa voi olla palkintoja. Tässä vaiheessa onkin hyvä tiedostaa, että vaikka turnauksen järjestäjät suunnittelevat turnauksen tietylle porukalle, niin on varmaa, että turnaukseen osallistuu pelaajia eri lähtökohodista. Olemme ihmisinä ja myös pelaajina erilaisia. Jatketaan Gradia Cupin kautta turnauksen kohdeyleisön kartoitusta. Ilman todella tarkkaa kieltolistaa (faceit elo, mm rank, pelitunnit) on täysin varmaa, että turnauksen sisällä on todella isoja tasoeroja, eikä tämä välttämättä ole ongelma. Osa pelaajista haluaa turnaukseen, jotta voi voittaa mahdolliset palkinnot ja tavoitteena on olla turnauksen paras joukkue. Osa joukkueista osallistuu ensimmäiseen turnaukseen, koska ajattelee, että se voisi olla hauskaa ajanvietettä kavereiden kanssa ilman minkäänlaisia tulostavoitteita. Tähänkin väliin mahtuu todella paljon erilaisia taitotasoja.
 
-   <b> Hybridi</b> e-urheilutapahtumissa haetaan tasapainoa kilpailun ja yhteisöllisyyden välille. Käytännössä kilpailullisissa turnauksissa voi olla myös oma BYOC-osio, jossa myös harrastemielessä pelaavat voivat tuoda omat koneensa ja pelata tapahtuman yhteydessä. Esimerkiksi joulukuun 15-17 2023 järjestettävä DreamHack Atlanta  https://dreamhack.com/atlanta/lan/ tarjoaa turnauksia, joissa palkintopotit ovat tuhansia euroja.
+   <b>Hybridi</b> e-urheilutapahtumissa haetaan tasapainoa kilpailun ja yhteisöllisyyden välille. Käytännössä kilpailullisissa turnauksissa voi olla myös oma BYOC-osio, jossa myös harrastemielessä pelaavat voivat tuoda omat koneensa ja pelata tapahtuman yhteydessä. Esimerkiksi joulukuun 15-17 2023 järjestettävä DreamHack Atlanta https://dreamhack.com/atlanta/lan/ tarjoaa turnauksia, joissa palkintopotit ovat tuhansia euroja.
 
    e-urheilutapahtumiusta, joilla on kilapailullinen tavoite. Periaattessa e-urheilua voidaan myös liittää osaksi yritysten liiketoimintaa ilman sen suurempaa kilpailua, mutta koska tavoitteena tutkinnon osassa on Gradia Cup 2024 onnistunut järjestäminen, niin suunnittelu lähtee tästä näkökulmasta. Mahdollisten toimeksiantojen myötä voimme myös suunnitella ja toteuttaa muita turnauksia, joten yleinen tieto tapahtumien järjestämisestä on paikallaan.
 
   <b>Tehtävä</b>: Mikä on Gradiancupin kohdeyleisö ja tapahtuman tyyppi? Mitä turnauksella haetaan a) Gradian puolelta b) Mitä pelaajat saavat turnaukselta?
 
-  <b> Tehtävä</b> Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja Gradia Cuppiin?
+  <b>Tehtävä</b> Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja Gradia Cuppiin?
 
 ## Kohdeyleisö
 
@@ -54,10 +54,62 @@
    Peligenren valinta on monimutkainen prosessi, joka vaatii huolellista harkintaa useista näkökulmista.
 
 
+   ## Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
 
 
+   Tapahtuman laajuus ja osallistujamäärä vaikuttavat luonnollisesti järjestelyihin ja tarvittaviin resursseihin. Eri kokoisten tapahtumien järjestelyissä on otettava huomioon useita eri tekijöitä. Käydään läpi näitä aspekteja tarkemmin sekä online- että LAN-tapahtumien näkökulmasta.
+
+   ## Online- ja Lan-tapahtuma
 
 
+   Tämän tutkinnon osan toteutus tehdään valmiilla turnausjärjestelmällä kuten Faceit, Esportal jne, mutta on hyvä tiedostaa, että mitä enemmmän pelaajia turnauksessa on, sitä enemmän tarvitaan moderointia ym. Mitä enemmän yleisöä tapahtumaan osallistuu, sitä enemmän moderointia tarvitaan myös muualla.
+
+   Online-tapahtumissa korostuvat viestintäkanavat ja niiden hyödytäminen esim. Discord yleiseen viestintään ja myös pelien aikan tapahtuvaan viestintään. Mitä isompi turnaus on, sitä tarkemmat suunnitelmat aikataulut vaativat ja myös tämä työllistää ihmisiä turnauksena aikana. Samoin tapahtuman streamauksen järjestäminen ja toteutus vaatii pohdintaa online- sekä lan-tapahtumassa.
+
+   Osallistumisen tulee olla selkeää ja sääntöje tulee olla hyvissä ajoin selvillä. Miten rekisteröityminen toteutetaan? Ohjeet ja säännöt tulee olla kirjattuna.
+
+
+   Lan-tapahtumassa tulee luonnollisesti miettiä:
+
+
+   1. Pelipaikat
+   Riittävä määrä pelipaikkoja ja -pöytiä.
+   Verkko ja Sähkö: Vahva ja luotettava LAN-verkko sekä riittävä sähkökapasiteetti.
+   Koneet ja Laitteet: Tarvittavat tietokoneet, näytöt ja muut pelilaitteet.
+   
+   2. Logistiikka ja turvallisuus
+   Tilan Järjestely: Ergonominen ja turvallinen tilan suunnittelu.
+   Turvallisuus: Paloturvallisuus, ensiapu ja järjestyksenvalvonta.
+   Saapuminen ja Poistuminen: Selkeät reitit saapumiselle ja poistumiselle.
+   
+   3. Yleisö ja katsojat
+   Katsomo: Mukavat ja hyvin näkyvät katsomoalueet.
+   Ravintola- ja Viihdepalvelut: Tarjoilut ja mahdolliset oheistoiminnot.
+   
+   4. Tapahtuman tunnelma
+   Äänentoisto ja Valaistus: Laadukas äänentoisto ja tunnelmallinen valaistus.
+   Visuaaliset Elementit: Näyttötaulut, bannerit ja muu visuaalinen ilme.
+   
+   Yhteiset tekijät
+   
+   1. Markkinointi ja Viestintä
+   Ennakkomarkkinointi: Tapahtuman markkinointi ja tiedotus ennen tapahtumaa.
+   Sosiaalinen Media: Aktiivinen läsnäolo ja vuorovaikutus sosiaalisessa mediassa.
+   
+   2. Budjetointi ja Rahoitus
+   Budjetin Laadinta: Tarkka budjetin suunnittelu ja seuranta.
+   Sponsorit ja Kumppanit: Mahdollisten sponsorien ja kumppaneiden hankkiminen.
+   
+   3. Henkilöstö ja Vapaaehtoiset
+   Tiimit ja Tehtävät: Selkeät roolit ja vastuualueet henkilöstölle ja vapaaehtoisille.
+   Koulutus: Henkilöstön ja vapaaehtoisten koulutus ja perehdytys.
+
+## Yhteenveto
+   
+   Online- ja LAN-tapahtumien järjestäminen e-urheilussa vaatii monipuolista suunnittelua ja huolellista toteutusta. Online-tapahtumat korostavat teknisen infrastruktuurin ja   virtuaalisen viestinnän merkitystä, kun taas LAN-tapahtumat keskittyvät fyysisen tilan, laitteiden ja yleisön kokemuksen hallintaan. Molemmissa tapahtumatyypeissä on tärkeä ä   kiinnittää huomiota markkinointiin, budjetointiin, henkilöstöhallintaan ja osallistujakokemukseen. Onnistunut tapahtuma edellyttää joustavaa suunnittelua, tehokasta koordinointia ja kykyä reagoida muuttuviin olosuhteisiin.
+
+
+## Tehtäviä
 
    <b>Tehtävä<b> Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapahtumille? Suunnitelkaa pienissä ryhmissä kyselomake Office 365 Formsia (https://forms.office.com/). Ottakaa huomioon erilaiset pelaajat (kilpailu vs yhteisöllisyys), eri peligenret ja tapahtuman luonne. Palauta kysely Moodlen työtilaan.
 
@@ -65,24 +117,31 @@
 
    Tässä on linkki vuoden 2022 Gradia Cup toteutuksen dokumentaation [GradiaCup2022.docx](https://github.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua. 
 
+
+
 ## Faceit turnauspohjana
    
    Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmeneet tarvetta. Vanha ohje: https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
 
+   GradiaCupin kannaltta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
 
+   https://cloud.google.com/customers/faceit
 
-Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
-
-## Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
+   https://www.gcppodcast.com/post/episode-201-faceit-with-maria-laura-scuri/
 
 
 ## Roolit tapahtumassa:
    - Selostajat, audio, production jne.
 
-## Lan vs verkossa järjestettävä tapahtuma
+
 ### Lan
-   - cs2 downloand server: https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows
+   - cs2 download server: https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows
  full guide: https://hub.tcno.co/games/cs2/dedicated_server/
+
+
+
+
+
 
 ### Esports lanin(local area network) perusteet
    - https://en.wikipedia.org/wiki/Local_area_network
@@ -116,4 +175,4 @@ Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
 
 
 
-   
+   Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
