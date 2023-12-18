@@ -140,9 +140,6 @@
 
 
 
-
-
-
 ### Esports lanin(local area network) perusteet
    - https://en.wikipedia.org/wiki/Local_area_network
    - internetti, Router (reititin), Switch (kytkin), ethernet kaapelit, mistä koneet?, kamera?, obs kone jota joku ohjaa, output production tiimille, josta voidaan koostaa highlightteja ym.
@@ -154,6 +151,173 @@
    - https://www.youtube.com/howyoutubeworks/product-features/live/
 
    Obs PC -> HDMI -> USB 3.0 -> prod pc ja obs monitori
+
+
+https://www.udemy.com/course/obs-studio-master-course/
+   Course content
+11 sections • 81 lectures • 5h 9m total length
+Preview
+00:46
+How to Better Benefit from the Course
+03:31
+How to Use the Platform
+07:06
+Installation
+01:05
+Preview
+13:28
+General Settings
+01:39
+Stream Settings
+03:53
+Output I - Simple
+08:09
+Bitrate/encoder Suggestions
+00:15
+Output II - Advanced
+06:09
+How to Convert Recorded Videos
+01:22
+Audio/Video
+04:05
+Custom Docks and Panels
+05:52
+Profile and Scene Collection
+03:00
+Audio Input Capture
+02:28
+Audio Output Capture
+02:02
+Output Capture for Mac Users
+00:16
+Browser Source
+02:52
+Color Source
+01:55
+Display Capture
+02:57
+Game Capture
+02:30
+Window Capture
+04:21
+Image Insertion
+01:48
+Slideshow
+05:48
+Media Source
+02:51
+Scenes
+02:01
+Text I - How to Insert
+02:23
+Text II - Stylizing
+08:02
+Webcam I - Initial Setup
+04:14
+Webcam II - Applying LUTs
+02:41
+Preview
+05:32
+Groups
+04:49
+Scene Transition
+06:46
+Setting Up Hotkeys
+02:23
+Introduction
+02:32
+Inserting a Microphone
+05:19
+Filters I - Gain
+03:19
+Filters II - Compressor
+04:20
+Filters III - Expander
+03:14
+FIlters IV - Limiter
+00:55
+FIlters V - Noise Gate
+02:27
+Filters VI - Noise Suppression
+02:32
+Source Order
+03:21
+Source Transformation
+05:08
+Resizing and Distorting
+03:03
+Color Correction
+04:37
+Color Key
+03:48
+Opacity
+06:55
+Introduction
+01:20
+Basic Settings
+03:36
+Overlay Creation
+12:02
+Checking Audio Levels
+02:33
+Defining Hotkeys
+04:39
+Performance Test
+05:08
+Performance Test: Important
+00:17
+How I Use OBS
+12:00
+How to Use an Android Phone as Webcam
+03:16
+How to Use an iPhone as Webcam (Windows/Mac)
+00:42
+How to Write on Screen
+01:42
+How to Mirror OBS Screen on Videoconference Apps (Zoom, Skype, Meets etc)
+02:27
+How to Use OBS Virtual Cam Plugin
+03:45
+How to Display your Chat on Screen
+06:03
+Introduction
+01:56
+Advanced Timer
+05:17
+Countdown
+03:49
+Audio Visualizer
+05:08
+Advanced Scene Switcher
+09:55
+How to Livestream on YouTube
+05:49
+How to Schedule a Stream on YouTube
+06:06
+Introduction
+02:19
+How to Identify Internet Connection Problems
+05:28
+Unbalanced Microphone
+03:02
+Not Listening to Anything / Not listening to Media Source
+03:35
+Encoding Overload I - First Thoughts
+02:01
+Encoding Overload II - Admin Mode
+01:25
+Encoder Overload III - Process Priority
+01:10
+Encoder Overload IV - Output Settings
+04:09
+Black Screen I - First Thoughts
+00:59
+Black Screen II - Game Capture
+04:03
+Black Screen III - Power Saving Mode
+02:31
+Conclusion
+00:35
 
 
 ## Laitteistovaatimukset ja muut resurssit (koneet ym).
