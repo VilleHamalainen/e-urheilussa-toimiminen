@@ -5,7 +5,7 @@
 	
    Tapahtumat voivat olla kohderyhmiltään ja luonteeltaan hyvin erilaisia. Onkin hyvin tärkeää tiedostaa, että kohdeyleisö ja turnauksen luonne kohtaavat. Esimerkkinä huonosti tehdystä arvioista voisi olla CS2-turnaus, jossa on mukana useampi ammattitason joukkue ja paljon harrastusmielessä pelaavia joukkueita. Usein urheilun puolella onkin niin, että pelaajat, jotka pelaavat ammatikseen tai tarpeaksi korkealla sarjatasolla eivät voi osallistua "leikkimielisiin" turnauksiin tai ainakin pelaajien määrää on jollain tavalla rajoitettu.
 
-### Tapahtuman luonne
+## Tapahtuman luonne
 
    <b>Kilpailullisissa</b> e-urheilutapahtumissa pääosassa on jännitys, kilpailu ja parhaiden pelaajien suoritusten seuraaminen. Tapahtumamn järjestäjänä näkökulmasta tärkeintä on houkutella ammatikseen pelaavia tai muuten todella taitavia pelaajia, jotka tarjoavat yleisölle korkean tason pelaamista. Viimesimpänä esim. Elisa Masters Espoo tai vielä isompana turnauksena Dota 2 TI. Turnauksessa korostuvat hyvät järjestelyt ja selkeä turnausformaatti. 
 
@@ -21,7 +21,7 @@
 
   <b>Tehtävä</b> Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja Gradia Cuppiin?
 
-### Kohdeyleisö
+## Kohdeyleisö
 
    Tapahtuman kohdeyleisön tunnistaminen on välttämättömyys, jotta turnauksesta tai tapahtumasta saadaan oikeanlainen. Gradia Cupin kohdeyleisö on isoksi osaksi Gradian opiskelijat ja tarkemmin opiskelijat, jotka tykkäävät Counter Strikesta. Luonnollisesti taas Dota 2 turnaus saa paikalle pelaajia, jotka ovat innokkaita Dotan pelaajia.
 
@@ -30,7 +30,7 @@
    Kohdeyleisöön vaikuttavat myös ikärajat. Tapahtuma voi olla suunnattu lapsille, nuorille tai aikuisille. Esimerkkinä nuorten pelileirit, jossa tarkoituksena on tarjota monipuolista ja opettavaista tekemistä nuorille. Vaihtoehtoisesti tapahtuma voi olla aikuisille suunnattu tapahtuma, jossa korostuu esimerkiksi ravintolapuoli ja muu viihtyminen.
 
 
-### Peligenren valinta ja ymmärtäminen 
+## Peligenren valinta ja ymmärtäminen 
 
    Pelin tai pelien valinta vaikuttaa kohdeyleisöön ja tapahtuman luonteeseen. Helpointa on rajata peli aluksi yhteen ja mahdollisuuksien mukaan laajentaa pelikatalogia, jos sille on kysyntää. Gradia Cup on ollut aikaisemmin CS:GO ja nyt CS 2-turnaus. Miksi näin on? Yksi syy on tietenkin Counter Striken kestosuosio nuorten parissa ja pelin eri muodot ovat olleet suosiossa jo kaksi vuosikymmentä. Kuitenkin esimerkiksi Gradialta löytyy 22 0000 opiskelijaa, joten voisi olla, että myös muille peleille olisi kysyntää erilaisten tapahtumien muodossa.
 
@@ -54,12 +54,12 @@
    Peligenren valinta on monimutkainen prosessi, joka vaatii huolellista harkintaa useista näkökulmista.
 
 
-### Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
+## Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
 
 
    Tapahtuman laajuus ja osallistujamäärä vaikuttavat luonnollisesti järjestelyihin ja tarvittaviin resursseihin. Eri kokoisten tapahtumien järjestelyissä on otettava huomioon useita eri tekijöitä. Käydään läpi näitä aspekteja tarkemmin sekä online- että LAN-tapahtumien näkökulmasta.
 
-### Online-tapahtuma
+## Online-tapahtuma
 
 
    Tämän tutkinnon osan toteutus tehdään valmiilla turnausjärjestelmällä kuten Faceit, Esportal jne, mutta on hyvä tiedostaa, että mitä enemmmän pelaajia turnauksessa on, sitä enemmän tarvitaan moderointia ym. Mitä enemmän yleisöä tapahtumaan osallistuu, sitä enemmän moderointia tarvitaan myös muualla.
@@ -70,7 +70,7 @@
 
 
 
-### Faceit turnauspohjana
+## Faceit turnauspohjana
    
    Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmeneet tarvetta. Vanha ohje löytyy osoitteesta https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
 
@@ -84,7 +84,7 @@
 
 
 
-   ## Tehtäviä:
+## Tehtäviä:
    
    - Perustakaa testiturnaus FACEIT-palveluun, johon kaikki osallistuvat. Tehtävän tavoitteena on pienessä mittakaavassa turnauksen suunnittelun, aikataulutuksen, pelien järjestämisen ja tulosten raportoinnin harjoittelu. Alla vaiheita, jota tulee ottaa huomioon.
 
@@ -97,7 +97,7 @@ Päättäkää turnauksen formaatti (esim. single-elimination, double-eliminatio
 
 Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Onko muita työkaluja esim. https://www.toornament.com/en_US/ tai https://challonge.com/fi/tournament/bracket_generator turnauksen hahmotteluun?
 
-### Rekisteröityminen ja joukkueiden Muodostaminen
+## Rekisteröityminen ja joukkueiden Muodostaminen
 
 Rekisteröitykää FACEIT-palveluun, jos ette ole vielä jäseniä.
 
@@ -110,13 +110,13 @@ Ohje otteluiden konffaukseen https://support.faceit.com/hc/en-us/articles/360010
 
 Tässä vaiheessa voimme testailla turnauksen toimintaa admin tasolla ja voimme testata turnausta muutammalla joukkueella ja pelata esim. bo3 pelin ja tutustua FaceItin toimintaan.
 
-### Turnauksen Toteutus
+## Turnauksen Toteutus
 
 
 Varmistakaa, että kaikki osallistujat ymmärtävät pelisäännöt ja -asetukset.
 Huolehtikaa, että kaikki tarvittavat tekniset asetukset ovat kunnossa ennen jokaista ottelua.
 
-### Viestintä 
+## Viestintä 
 
 Pitäkää yhteyttä osallistujiin ennen ja turnauksen aikana (esim. Discord, faceitin chatti, sähköposti). Tämä kannattaa suunnitella ja testata hyvin etukäteen ja tässä vaiheessa voimmekin mietti erilaisia skenaariotia, joita turnauksen aikana voi tapahtua.
 
@@ -136,7 +136,7 @@ Laatikaa raportti, jossa käydään läpi koko turnauksen suunnittelu, toteutus 
 
 
 
-### Lan-tapahtuma
+## Lan-tapahtuma
    
    Lan-tapahtumassa tulee luonnollisesti miettiä seuraavia asioita:
 
@@ -174,16 +174,28 @@ Laatikaa raportti, jossa käydään läpi koko turnauksen suunnittelu, toteutus 
 
 
 
-### Esports lanin(local area network) perusteet
+## Esports lanin(local area network) perusteet
    - https://en.wikipedia.org/wiki/Local_area_network
    - internetti, Router (reititin), Switch (kytkin), ethernet kaapelit, mistä koneet?, kamera?, obs kone jota joku ohjaa, output production tiimille, josta voidaan koostaa highlightteja ym.
 
+   https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-network-infrastructure.html
+   Mikä on lani? https://www.cloudflare.com/learning/network-layer/what-is-a-lan/
 
-### Yhteenveto
+   Reititin: https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-to-set-up-router.html
+   Gigabit kytkin: https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
+
+
+## LanCache isommille laneille
+
+  Dockerin asennus: https://docs.docker.com/engine/install/ubuntu/#installation-methods
+  LanCachen asennus: https://lancache.net/docs/installation/docker-compose/
+
+
+## Yhteenveto
    
    Online- ja LAN-tapahtumien järjestäminen e-urheilussa vaatii monipuolista suunnittelua ja huolellista toteutusta. Online-tapahtumat korostavat teknisen infrastruktuurin ja   virtuaalisen viestinnän merkitystä, kun taas LAN-tapahtumat keskittyvät fyysisen tilan, laitteiden ja yleisön kokemuksen hallintaan. Molemmissa tapahtumatyypeissä on tärkeä ä   kiinnittää huomiota markkinointiin, budjetointiin, henkilöstöhallintaan ja osallistujakokemukseen. Onnistunut tapahtuma edellyttää joustavaa suunnittelua, tehokasta koordinointia ja kykyä reagoida muuttuviin olosuhteisiin.
 
-### Tehtäviä
+## Tehtäviä
 
    <b>Tehtävä<b> Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapahtumille? Suunnitelkaa pienissä ryhmissä kyselomake Office 365 Formsia (https://forms.office.com/). Ottakaa huomioon erilaiset pelaajat (kilpailu vs yhteisöllisyys), eri peligenret ja tapahtuman luonne. Palauta kysely Moodlen työtilaan.
 
@@ -233,7 +245,7 @@ Laatikaa raportti, jossa käydään läpi koko turnauksen suunnittelu, toteutus 
    
    <b>Suoratoiston testaus.</b> Suorita suorituskykytestit koulun koneella ja optimoi asetukset parhaan mahdollisen laadun saavuttamiseksi.
    
-   <b>Suoratoiston toteutus</b> Toteuta suunniteltu suoratoistolähetys, käyttäen hyväksi valtsemasi sovelluksen työkaluja
+   <b>Suoratoiston toteutus</b> Toteuta suunniteltu suoratoistolähetys, käyttäen hyväksi valtsemasi sovelluksen työkaluja.
  
    <b>Kerää palautetta kanssaopiskelijoilta.</b> Kerää palautetta streamista ja arvioi, mitä voisit parantaa tulevaisuudessa. 
 
