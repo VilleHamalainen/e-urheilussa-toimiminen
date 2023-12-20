@@ -12,26 +12,17 @@
 - Esimerkkejä suosituista e-urheilupeleistä ja -lajeista.
   
 
-## E-urheilun historia ja nousu:
 
-### Materiaalit:
-
-Dokumentteja ja videoita e-urheilun varhaisista vaiheista, ensimmäisistä kilpapeleistä ja turnauksista.
-- History of e-sports 1 by ESL https://www.youtube.com/watch?v=D-S65ZUHig8&ab_channel=ESL 4 vuotta vanha video
-- History of e-sports 2 by ESL https://www.youtube.com/watch?v=cKOTolQQ3Lw&ab_channel=ESL 4 vuotta vanha video*
-- "Good Luck Have Fun: The Rise of eSports" 
-- Paljonko interneyhteyksiä on ollut: https://www.oecd.org/digital/ieconomy/48255770.pdf
-- Wasd- Quake, John Carmack https://www.youtube.com/watch?v=iIhmeRfmQns&ab_channel=theScoreesports
- https://www.oecd.org/digital/ieconomy/48255770.pdf
-
-### Sisältösuunnitelma:
+###  Tehtävä: Mitä on elektroninen urheilu, e-urheilu, kilpapelaaminen?
+   - pvp (esim mortal kombat), fps, moba, sports sims
 
 
 #### E-sportsin lyhyt historia
+
 Esportsin historia on varsin lyhyt, mutta mielenkiintoinen matka. Ennen kuin esports termiä alettiin käyttää oli kilpailullisia pelejä pelattu jo pitkään pelihalleissa, koulujen saleissa sekä yksityissä turnauksissa. Pelien historiaan ei tässä materiaalissa mennä sen syvällisemmin, mutta mainittakoot, että ensimmäisiä askeleita digitaalisiin peleihin saatiin Flipperin ansiosta ja tarkemmin siitä kun joku keksi laittaa peliin osat, joilla palloa voi lyödä eli flipperit. Aikaisemmin peli toimi niin, että pallo laitettiin liikkeelle ja ihmiset löivät vetoa siitä kuinka pallo käyttäytyisi. Flipperit mahdollistivat pelimuodot, jossa ihmiset kilpailisivat toisiaan vastaan.
 
 
-Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa vuonna 1972 pelille "Spacewar!" (katso video:https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro). Pääpalkintona oli vuoden Rolling Stones lehden tilaus! Nykyään palkintosummat ovat hieman suurempia. On hyvin luonnollista, että myös pelit lähtivät yliopistoilta liikkeelle, koska vain heillä oli käytössään tarpeeksi tehokkaita tietokoneita. Tämä tapahtuma loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu The Space Invaders Championship in 1980 (katso video: https://www.youtube.com/watch?v=pft_MCrLhZI&ab_channel=neiarcade99Playagame)m, jonka järjesti sihen aikaan suurin videopeliyritys Atari (ks. https://www.computerhistory.org/revolution/computer-games/16/185). 
+Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa vuonna 1972 pelille "Spacewar!" (katso video:https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro). Pääpalkintona oli vuoden Rolling Stones lehden tilaus! Nykyään palkintosummat ovat hieman suurempia. On hyvin luonnollista, että myös pelit lähtivät yliopistoilta liikkeelle, koska vain heillä oli käytössään tarpeeksi tehokkaita tietokoneita. Tämä tapahtuma loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu The Space Invaders Championship in 1980 (katso video: https://www.youtube.com/watch?v=pft_MCrLhZI&ab_channel=neiarcade99Playagame), jonka järjesti sihen aikaan suurin videopeliyritys Atari (ks. https://www.computerhistory.org/revolution/computer-games/16/185). 
 
 
 Kuitenkin vasta 1990-luvulla esportsin eli kilpapelaamisen perusta vahvistui. Markkinoille alkoi tulla entistä nopeampia tietokoneita ja konsoleita, jotka mahdollistivat monipuolisempien pelien pelaamisen. Vuonna 1997 Electronic Entertainment Expo (E3)-pelimessuilla järjestetty Red Annihilation Quake-turnaus mainitaan usein yhtenä varhaisimmista suurista esports-tapahtumista. Turnauksessa kilpailtiin Quake-nimisessä ensimmäisen persoonan ammuntapelissä (1st person shooter tai fps), jonka oli kehittänyt id Software. Turnauksen suurpalkintona oli Ferrari 328 GTS-urheiluauto, joka oli ensimmäinen arvokas ja mielenkiintoa herättävä palkinto (vrt. vuoden Rolling Stones lehden tilaus). Palkinnon ja näkyvyyden ansioista esports osoitti, että se voi vetää paikan päälle isoja määriä katsojia. Hyvänä ehdokkaana ensimääiseksi "esports ammattilaiseksi" onkin Dennis "Thresh" Fong, joka voitti kyseisen Ferrasin (katso video: https://www.youtube.com/watch?v=4xUmZxnEMUI&ab_channel=QCP).
@@ -213,3 +204,12 @@ Modernin ajan alku 2013 lol turnaus Staples Center. (Turnauksia on ollut aikaise
 Pelaaja some: otetaan mieluummin brändätty pelaaja kuin tuntematon.
 
 
+### Materiaalit:
+
+Dokumentteja ja videoita e-urheilun varhaisista vaiheista, ensimmäisistä kilpapeleistä ja turnauksista.
+- History of e-sports 1 by ESL https://www.youtube.com/watch?v=D-S65ZUHig8&ab_channel=ESL 4 vuotta vanha video
+- History of e-sports 2 by ESL https://www.youtube.com/watch?v=cKOTolQQ3Lw&ab_channel=ESL 4 vuotta vanha video*
+- "Good Luck Have Fun: The Rise of eSports" 
+- Paljonko interneyhteyksiä on ollut: https://www.oecd.org/digital/ieconomy/48255770.pdf
+- Wasd- Quake, John Carmack https://www.youtube.com/watch?v=iIhmeRfmQns&ab_channel=theScoreesports
+ https://www.oecd.org/digital/ieconomy/48255770.pdf

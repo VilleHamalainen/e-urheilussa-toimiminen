@@ -5,7 +5,7 @@
 	
    Tapahtumat voivat olla kohderyhmiltään ja luonteeltaan hyvin erilaisia. Onkin hyvin tärkeää tiedostaa, että kohdeyleisö ja turnauksen luonne kohtaavat. Esimerkkinä huonosti tehdystä arvioista voisi olla CS2-turnaus, jossa on mukana useampi ammattitason joukkue ja paljon harrastusmielessä pelaavia joukkueita. Usein urheilun puolella onkin niin, että pelaajat, jotka pelaavat ammatikseen tai tarpeaksi korkealla sarjatasolla eivät voi osallistua "leikkimielisiin" turnauksiin tai ainakin pelaajien määrää on jollain tavalla rajoitettu.
 
-## Tapahtuman luonne
+### Tapahtuman luonne
 
    <b>Kilpailullisissa</b> e-urheilutapahtumissa pääosassa on jännitys, kilpailu ja parhaiden pelaajien suoritusten seuraaminen. Tapahtumamn järjestäjänä näkökulmasta tärkeintä on houkutella ammatikseen pelaavia tai muuten todella taitavia pelaajia, jotka tarjoavat yleisölle korkean tason pelaamista. Viimesimpänä esim. Elisa Masters Espoo tai vielä isompana turnauksena Dota 2 TI. Turnauksessa korostuvat hyvät järjestelyt ja selkeä turnausformaatti. 
 
@@ -21,7 +21,7 @@
 
   <b>Tehtävä</b> Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja Gradia Cuppiin?
 
-## Kohdeyleisö
+### Kohdeyleisö
 
    Tapahtuman kohdeyleisön tunnistaminen on välttämättömyys, jotta turnauksesta tai tapahtumasta saadaan oikeanlainen. Gradia Cupin kohdeyleisö on isoksi osaksi Gradian opiskelijat ja tarkemmin opiskelijat, jotka tykkäävät Counter Strikesta. Luonnollisesti taas Dota 2 turnaus saa paikalle pelaajia, jotka ovat innokkaita Dotan pelaajia.
 
@@ -30,7 +30,7 @@
    Kohdeyleisöön vaikuttavat myös ikärajat. Tapahtuma voi olla suunnattu lapsille, nuorille tai aikuisille. Esimerkkinä nuorten pelileirit, jossa tarkoituksena on tarjota monipuolista ja opettavaista tekemistä nuorille. Vaihtoehtoisesti tapahtuma voi olla aikuisille suunnattu tapahtuma, jossa korostuu esimerkiksi ravintolapuoli ja muu viihtyminen.
 
 
-## Peligenren valinta ja ymmärtäminen 
+### Peligenren valinta ja ymmärtäminen 
 
    Pelin tai pelien valinta vaikuttaa kohdeyleisöön ja tapahtuman luonteeseen. Helpointa on rajata peli aluksi yhteen ja mahdollisuuksien mukaan laajentaa pelikatalogia, jos sille on kysyntää. Gradia Cup on ollut aikaisemmin CS:GO ja nyt CS 2-turnaus. Miksi näin on? Yksi syy on tietenkin Counter Striken kestosuosio nuorten parissa ja pelin eri muodot ovat olleet suosiossa jo kaksi vuosikymmentä. Kuitenkin esimerkiksi Gradialta löytyy 22 0000 opiskelijaa, joten voisi olla, että myös muille peleille olisi kysyntää erilaisten tapahtumien muodossa.
 
@@ -54,89 +54,123 @@
    Peligenren valinta on monimutkainen prosessi, joka vaatii huolellista harkintaa useista näkökulmista.
 
 
-   ## Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
+### Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
 
 
    Tapahtuman laajuus ja osallistujamäärä vaikuttavat luonnollisesti järjestelyihin ja tarvittaviin resursseihin. Eri kokoisten tapahtumien järjestelyissä on otettava huomioon useita eri tekijöitä. Käydään läpi näitä aspekteja tarkemmin sekä online- että LAN-tapahtumien näkökulmasta.
 
-   ## Online- ja Lan-tapahtuma
+### Online-tapahtuma
 
 
    Tämän tutkinnon osan toteutus tehdään valmiilla turnausjärjestelmällä kuten Faceit, Esportal jne, mutta on hyvä tiedostaa, että mitä enemmmän pelaajia turnauksessa on, sitä enemmän tarvitaan moderointia ym. Mitä enemmän yleisöä tapahtumaan osallistuu, sitä enemmän moderointia tarvitaan myös muualla.
 
-   Online-tapahtumissa korostuvat viestintäkanavat ja niiden hyödytäminen esim. Discord yleiseen viestintään ja myös pelien aikan tapahtuvaan viestintään. Mitä isompi turnaus on, sitä tarkemmat suunnitelmat aikataulut vaativat ja myös tämä työllistää ihmisiä turnauksena aikana. Samoin tapahtuman streamauksen järjestäminen ja toteutus vaatii pohdintaa online- sekä lan-tapahtumassa.
+   Online-tapahtumissa korostuvat viestintäkanavat ja niiden hyödytäminen esim. Discord yleiseen viestintään ja myös pelien aikaa tapahtuvaan viestintään. Mitä isompi turnaus on, sitä tarkemmat suunnitelmat aikataulut vaativat, ja myös tämä työllistää ihmisiä turnauksena aikana. Samoin tapahtuman streamauksen järjestäminen ja toteutus vaatii pohdintaa online- sekä lan-tapahtumassa.
 
-   Osallistumisen tulee olla selkeää ja sääntöje tulee olla hyvissä ajoin selvillä. Miten rekisteröityminen toteutetaan? Ohjeet ja säännöt tulee olla kirjattuna.
-
-
-   Lan-tapahtumassa tulee luonnollisesti miettiä:
+   Osallistumisen tulee olla selkeää ja sääntöjen tulee olla hyvissä ajoin selvillä. Miten rekisteröityminen toteutetaan? Ohjeet ja säännöt tulee olla kirjattuna.
 
 
-   1. Pelipaikat
-   Riittävä määrä pelipaikkoja ja -pöytiä.
-   Verkko ja Sähkö: Vahva ja luotettava LAN-verkko sekä riittävä sähkökapasiteetti.
-   Koneet ja Laitteet: Tarvittavat tietokoneet, näytöt ja muut pelilaitteet.
+
+### Faceit turnauspohjana
    
-   2. Logistiikka ja turvallisuus
-   Tilan Järjestely: Ergonominen ja turvallinen tilan suunnittelu.
-   Turvallisuus: Paloturvallisuus, ensiapu ja järjestyksenvalvonta.
-   Saapuminen ja Poistuminen: Selkeät reitit saapumiselle ja poistumiselle.
-   
-   3. Yleisö ja katsojat
-   Katsomo: Mukavat ja hyvin näkyvät katsomoalueet.
-   Ravintola- ja Viihdepalvelut: Tarjoilut ja mahdolliset oheistoiminnot.
-   
-   4. Tapahtuman tunnelma
-   Äänentoisto ja Valaistus: Laadukas äänentoisto ja tunnelmallinen valaistus.
-   Visuaaliset Elementit: Näyttötaulut, bannerit ja muu visuaalinen ilme.
-   
-   Yhteiset tekijät
-   
-   1. Markkinointi ja Viestintä
-   Ennakkomarkkinointi: Tapahtuman markkinointi ja tiedotus ennen tapahtumaa.
-   Sosiaalinen Media: Aktiivinen läsnäolo ja vuorovaikutus sosiaalisessa mediassa.
-   
-   2. Budjetointi ja Rahoitus
-   Budjetin Laadinta: Tarkka budjetin suunnittelu ja seuranta.
-   Sponsorit ja Kumppanit: Mahdollisten sponsorien ja kumppaneiden hankkiminen.
-   
-   3. Henkilöstö ja Vapaaehtoiset
-   Tiimit ja Tehtävät: Selkeät roolit ja vastuualueet henkilöstölle ja vapaaehtoisille.
-   Koulutus: Henkilöstön ja vapaaehtoisten koulutus ja perehdytys.
-
-## Yhteenveto
-   
-   Online- ja LAN-tapahtumien järjestäminen e-urheilussa vaatii monipuolista suunnittelua ja huolellista toteutusta. Online-tapahtumat korostavat teknisen infrastruktuurin ja   virtuaalisen viestinnän merkitystä, kun taas LAN-tapahtumat keskittyvät fyysisen tilan, laitteiden ja yleisön kokemuksen hallintaan. Molemmissa tapahtumatyypeissä on tärkeä ä   kiinnittää huomiota markkinointiin, budjetointiin, henkilöstöhallintaan ja osallistujakokemukseen. Onnistunut tapahtuma edellyttää joustavaa suunnittelua, tehokasta koordinointia ja kykyä reagoida muuttuviin olosuhteisiin.
-
-
-## Tehtäviä
-
-   <b>Tehtävä<b> Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapahtumille? Suunnitelkaa pienissä ryhmissä kyselomake Office 365 Formsia (https://forms.office.com/). Ottakaa huomioon erilaiset pelaajat (kilpailu vs yhteisöllisyys), eri peligenret ja tapahtuman luonne. Palauta kysely Moodlen työtilaan.
-
-   <b>Tehtävä<b> Tutustu oman suosikkipelisi ikärajoihin. https://pelikasvatus.fi/ohje-ikarajajouston-soveltamisesta/. Kerro eri ikärajamerkinnöistä ja mitä ne tarkoittavat. Miten tämä tulee ottaa huomioon tapahtumien järjestämisessä.
-
-   Tässä on linkki vuoden 2022 Gradia Cup toteutuksen dokumentaation [GradiaCup2022.docx](https://github.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua. 
-
-
-
-## Faceit turnauspohjana
-   
-   Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmeneet tarvetta. Vanha ohje: https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
+   Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmeneet tarvetta. Vanha ohje löytyy osoitteesta https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
 
    GradiaCupin kannaltta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
+
+
 
    https://cloud.google.com/customers/faceit
 
    https://www.gcppodcast.com/post/episode-201-faceit-with-maria-laura-scuri/
 
 
-## Roolit tapahtumassa:
-   - Selostajat, audio, production jne.
+
+   ## Tehtäviä:
+   
+   - Perustakaa testiturnaus FACEIT-palveluun, johon kaikki osallistuvat. Tehtävän tavoitteena on pienessä mittakaavassa turnauksen suunnittelun, aikataulutuksen, pelien järjestämisen ja tulosten raportoinnin harjoittelu. Alla vaiheita, jota tulee ottaa huomioon.
+
+   
+Turnauksen Suunnittelu
+
+Valitkaa peli, jota pelataan (esim. CS2, Dota 2). Meidän tapauksessa CS2.
+
+Päättäkää turnauksen formaatti (esim. single-elimination, double-elimination, round robin).
+
+Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Onko muita työkaluja esim. https://www.toornament.com/en_US/ tai https://challonge.com/fi/tournament/bracket_generator turnauksen hahmotteluun?
+
+### Rekisteröityminen ja joukkueiden Muodostaminen
+
+Rekisteröitykää FACEIT-palveluun, jos ette ole vielä jäseniä.
+
+Perustakaa turnaus FACEIT:ssä käyttäen palvelun turnaustyökaluja.
+
+Ohje turnauksen luomiseen https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
+Ohje turnaukseen liittymiseen https://support.faceit.com/hc/en-us/articles/360010716659
+Ohje aikataulun luomiseen https://support.faceit.com/hc/en-us/articles/360010717279
+Ohje otteluiden konffaukseen https://support.faceit.com/hc/en-us/articles/360010717799
+
+Tässä vaiheessa voimme testailla turnauksen toimintaa admin tasolla ja voimme testata turnausta muutammalla joukkueella ja pelata esim. bo3 pelin ja tutustua FaceItin toimintaan.
+
+### Turnauksen Toteutus
 
 
-### Lan
-   - cs2 download server: https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows
- full guide: https://hub.tcno.co/games/cs2/dedicated_server/
+Varmistakaa, että kaikki osallistujat ymmärtävät pelisäännöt ja -asetukset.
+Huolehtikaa, että kaikki tarvittavat tekniset asetukset ovat kunnossa ennen jokaista ottelua.
+
+### Viestintä 
+
+Pitäkää yhteyttä osallistujiin ennen ja turnauksen aikana (esim. Discord, faceitin chatti, sähköposti). Tämä kannattaa suunnitella ja testata hyvin etukäteen ja tässä vaiheessa voimmekin mietti erilaisia skenaariotia, joita turnauksen aikana voi tapahtua.
+
+Seuratkaa ja päivittäkää turnauksen tuloksia ja aikatauluja aktiivisesti.
+
+Tulosten Raportointi ja Arviointi
+
+Raportoikaa turnauksen lopputulokset ja tehkää analyysi turnauksen sujumisesta.
+
+Palkintojen ja Huomionosoitusten Jakaminen
+
+Jos turnauksessa on palkintoja, jakakaa ne voittajille turnauksen päätyttyä.
+
+Muistakaa kiittää kaikkia osallistujia ja tarvittaessa tunnustaa erityisiä saavutuksia.
+Raportointi ja Arviointi
+Laatikaa raportti, jossa käydään läpi koko turnauksen suunnittelu, toteutus ja seuranta. Raportissa tulee olla yksityiskohtainen kuvaus jokaisesta vaiheesta, mukaan lukien mahdolliset haasteet ja miten ne ratkaistiin.
+
+
+
+### Lan-tapahtuma
+   
+   Lan-tapahtumassa tulee luonnollisesti miettiä seuraavia asioita:
+
+   1. Pelipaikat
+   Riittävä määrä pelipaikkoja ja -pöytiä.
+   Verkko ja sähkö: Luotettava LAN-verkko sekä riittävä sähkökapasiteetti.
+   Koneet ja laitteet: Tarvittavat tietokoneet, näytöt ja muut pelilaitteet.
+   
+   2. Logistiikka ja turvallisuus
+   Tilan Järjestely: Ergonominen ja turvallinen tilan suunnittelu.
+   Turvallisuus: Paloturvallisuus, ensiapu ja järjestyksenvalvonta.
+   Saapuminen ja poistuminen: Selkeät reitit saapumiselle ja poistumiselle.
+   
+   3. Yleisö ja katsojat
+   Katsomo: Mukavat ja hyvin näkymät pelialueelle ja streamiin.
+   Ravintola- ja viihdepalvelut (K18): Tarjoilut ja mahdolliset oheistoiminnot.
+   
+   4. Tapahtuman tunnelma
+   Äänentoisto ja valaistus: Laadukas äänentoisto ja tunnelmallinen valaistus.
+   Visuaaliset elementit: Näyttötaulut, bannerit ja muu visuaalinen ilme.
+   
+   Yhteiset tekijät
+   
+   1. Markkinointi ja viestintä
+   Ennakkomarkkinointi: Tapahtuman markkinointi ja tiedotus ennen tapahtumaa.
+   Sosiaalinen media: Aktiivinen läsnäolo ja vuorovaikutus sosiaalisessa mediassa.
+   
+   2. Budjetointi ja rahoitus
+   Budjetin laadinta: Tarkka budjetin suunnittelu ja seuranta.
+   Sponsorit ja kumppanit: Mahdollisten sponsorien ja kumppaneiden hankkiminen.
+   
+   3. Henkilöstö ja vapaaehtoiset
+   Tiimit ja tehtävät: Selkeät roolit ja vastuualueet henkilöstölle ja vapaaehtoisille.
+   Koulutus: Henkilöstön ja vapaaehtoisten koulutus ja perehdytys.
 
 
 
@@ -145,7 +179,28 @@
    - internetti, Router (reititin), Switch (kytkin), ethernet kaapelit, mistä koneet?, kamera?, obs kone jota joku ohjaa, output production tiimille, josta voidaan koostaa highlightteja ym.
 
 
-## Streamaus
+### Yhteenveto
+   
+   Online- ja LAN-tapahtumien järjestäminen e-urheilussa vaatii monipuolista suunnittelua ja huolellista toteutusta. Online-tapahtumat korostavat teknisen infrastruktuurin ja   virtuaalisen viestinnän merkitystä, kun taas LAN-tapahtumat keskittyvät fyysisen tilan, laitteiden ja yleisön kokemuksen hallintaan. Molemmissa tapahtumatyypeissä on tärkeä ä   kiinnittää huomiota markkinointiin, budjetointiin, henkilöstöhallintaan ja osallistujakokemukseen. Onnistunut tapahtuma edellyttää joustavaa suunnittelua, tehokasta koordinointia ja kykyä reagoida muuttuviin olosuhteisiin.
+
+### Tehtäviä
+
+   <b>Tehtävä<b> Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapahtumille? Suunnitelkaa pienissä ryhmissä kyselomake Office 365 Formsia (https://forms.office.com/). Ottakaa huomioon erilaiset pelaajat (kilpailu vs yhteisöllisyys), eri peligenret ja tapahtuman luonne. Palauta kysely Moodlen työtilaan.
+
+   <b>Tehtävä<b> Tutustu oman suosikkipelisi ikärajoihin. https://pelikasvatus.fi/ohje-ikarajajouston-soveltamisesta/. Kerro eri ikärajamerkinnöistä ja mitä ne tarkoittavat. Miten tämä tulee ottaa huomioon tapahtumien järjestämisessä.
+
+   Tässä on linkki vuoden 2022 Gradia Cup toteutuksen dokumentaation [GradiaCup2022.docx](https://github.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua. 
+
+   <b>Tehtävä</b> Tehtävä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen porukalle. Miten toteutusta lähdettäisiin tekemään? Millaisilla laitteilla tässä voitaisiin onnistua? Ladatkaa ja tutustukaa cs2-palvelimen pystyttämiseen. Ohjeita:
+
+   https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows
+   https://hub.tcno.co/games/cs2/dedicated_server/
+
+
+
+## Streamaus- tekninen puoli
+
+   - Maksullinen Udemy kurssi https://www.udemy.com/course/obs-studio-master-course/
    - https://www.twitch.tv/creatorcamp/en/paths/going-live/setting-up-your-stream/
    - twitch studio vai obs?
    - https://www.youtube.com/howyoutubeworks/product-features/live/
@@ -153,185 +208,43 @@
    Obs PC -> HDMI -> USB 3.0 -> prod pc ja obs monitori
 
 
-https://www.udemy.com/course/obs-studio-master-course/
-   Course content
-11 sections • 81 lectures • 5h 9m total length
-Preview
-00:46
-How to Better Benefit from the Course
-03:31
-How to Use the Platform
-07:06
-Installation
-01:05
-Preview
-13:28
-General Settings
-01:39
-Stream Settings
-03:53
-Output I - Simple
-08:09
-Bitrate/encoder Suggestions
-00:15
-Output II - Advanced
-06:09
-How to Convert Recorded Videos
-01:22
-Audio/Video
-04:05
-Custom Docks and Panels
-05:52
-Profile and Scene Collection
-03:00
-Audio Input Capture
-02:28
-Audio Output Capture
-02:02
-Output Capture for Mac Users
-00:16
-Browser Source
-02:52
-Color Source
-01:55
-Display Capture
-02:57
-Game Capture
-02:30
-Window Capture
-04:21
-Image Insertion
-01:48
-Slideshow
-05:48
-Media Source
-02:51
-Scenes
-02:01
-Text I - How to Insert
-02:23
-Text II - Stylizing
-08:02
-Webcam I - Initial Setup
-04:14
-Webcam II - Applying LUTs
-02:41
-Preview
-05:32
-Groups
-04:49
-Scene Transition
-06:46
-Setting Up Hotkeys
-02:23
-Introduction
-02:32
-Inserting a Microphone
-05:19
-Filters I - Gain
-03:19
-Filters II - Compressor
-04:20
-Filters III - Expander
-03:14
-FIlters IV - Limiter
-00:55
-FIlters V - Noise Gate
-02:27
-Filters VI - Noise Suppression
-02:32
-Source Order
-03:21
-Source Transformation
-05:08
-Resizing and Distorting
-03:03
-Color Correction
-04:37
-Color Key
-03:48
-Opacity
-06:55
-Introduction
-01:20
-Basic Settings
-03:36
-Overlay Creation
-12:02
-Checking Audio Levels
-02:33
-Defining Hotkeys
-04:39
-Performance Test
-05:08
-Performance Test: Important
-00:17
-How I Use OBS
-12:00
-How to Use an Android Phone as Webcam
-03:16
-How to Use an iPhone as Webcam (Windows/Mac)
-00:42
-How to Write on Screen
-01:42
-How to Mirror OBS Screen on Videoconference Apps (Zoom, Skype, Meets etc)
-02:27
-How to Use OBS Virtual Cam Plugin
-03:45
-How to Display your Chat on Screen
-06:03
-Introduction
-01:56
-Advanced Timer
-05:17
-Countdown
-03:49
-Audio Visualizer
-05:08
-Advanced Scene Switcher
-09:55
-How to Livestream on YouTube
-05:49
-How to Schedule a Stream on YouTube
-06:06
-Introduction
-02:19
-How to Identify Internet Connection Problems
-05:28
-Unbalanced Microphone
-03:02
-Not Listening to Anything / Not listening to Media Source
-03:35
-Encoding Overload I - First Thoughts
-02:01
-Encoding Overload II - Admin Mode
-01:25
-Encoder Overload III - Process Priority
-01:10
-Encoder Overload IV - Output Settings
-04:09
-Black Screen I - First Thoughts
-00:59
-Black Screen II - Game Capture
-04:03
-Black Screen III - Power Saving Mode
-02:31
-Conclusion
-00:35
+   Tututustutaan erilaisiin työkaluihin. Lataa koneellesi OBS Studio https://obsproject.com/fi ja https://www.twitch.tv/broadcast/studio
+   - How to use OBS studio https://www.youtube.com/watch?v=yCMdj7B8WiA&t=100s&ab_channel=PrimalVideo
+   - Twitch Studio https://www.youtube.com/watch?v=WnP4m0AWCRQ&ab_channel=CpawsMusic
+
+## Tehtäviä
+
+   <b>Tehtävä</b> Tutustu molempien työkalujen perusominaisuuksiin ja kirjoita lyhyt dokumentti studioiden hyvistä ja huonoista puolista. Vertailu sovellusten ominaisuuksia kuten käytön helppous, tarvittavat konffaukset, muut ominaisuudet kuten chatti. Jos olet käyttänyt jompaa kumpaa sovellusta, niin voit myös kertoa omista kokemuksista ja jakaa osaamista muille!
 
 
-## Laitteistovaatimukset ja muut resurssit (koneet ym).
+   <b>Tehtävä</b>OBS- tai Twitch-studion käyttö ja streamauksen suunnittelu. Tehtävänä on suunnitella, valmistella ja toteuttaa suoratoistolähetys käyttäen OBS- tai Twitch-studiota. Prosessin aikana sinun tulee käydä läpi ja soveltaa kaikkia yllä mainittuja OBS Studion toimintoja ja ominaisuuksia. Lopputuloksena sinun tulee tuottaa vähintään 15 minuutin pituinen suoratoistolähetys, jossa osoitat valitsemasi suoratoistopalvelun osaamisen.
 
+   <b>Tehtävän vaiheet</b>
 
-## Muut tapahtuman järjestämiseen liittyvät perusasiat 
-  - (tilat, luvat, pelien säännöt, varusteet(byoc), ruoka, majoitukset ja ylinen tapahtuman organisointi.
-
-
-## Tehtäviä:
+   <b>Laadi suunnitelma suoratoistolähetyksellesi,</b> mukaan lukien aihe, aikataulu ja sisältö. //tähän tarkennusta.
    
-   - Perustakaa testiturnaus faceitpalveluun, johon kaikki osallistuvat. 
-   - Discord palvelun pystyttäminen 2022 pohjalta.
-   - Markkinointiviestit: alustat: ig, twitter jne.
+   <b>Aseta ääni- ja videolähteet.</b> Konfiguroi suoratoistoasetukset ja testaa yhteys valitsemaasi alustaan (esim. Twitch tai YouTube).
+  
+   <b> Kohtaukset ja ulostulot.</b> Luo erilaisia kohtauksia, kuten aloitusruutu, pelinäkymä ja lopetusruutu. Lisää ja mukauta erilaisia lähteitä kuten pelinäyttö, web-kamera ja teksti.
+   
+   <b>Ääniasetukset ja mikrofoni.</b> Määritä mikrofoniasetukset ja lisää tarvittavat äänisuodattimet.
+   
+   <b>Interaktiiviset elementit.</b> Lisää chattinäkymä ja mahdolliset äänivisualisaatiot streamiin.
+   
+   <b>Suoratoiston testaus.</b> Suorita suorituskykytestit koulun koneella ja optimoi asetukset parhaan mahdollisen laadun saavuttamiseksi.
+   
+   <b>Suoratoiston toteutus</b> Toteuta suunniteltu suoratoistolähetys, käyttäen hyväksi valtsemasi sovelluksen työkaluja
+ 
+   <b>Kerää palautetta kanssaopiskelijoilta.</b> Kerää palautetta streamista ja arvioi, mitä voisit parantaa tulevaisuudessa. 
+
+   <b>Raportoi koko prosessi</b>, mukaan lukien suunnitteluvaiheet, käytetyt sovelluksen toiminnot ja kohtaamasi haasteet. Arvioi myös, kuinka hyvin onnistuit  suoratoiston toteutuksessa ja mitä opit koko prosessin aikana.
+   
+   
+   <b>Palauta raportti ja linkki tallennettuun suoratoistolähetykseen</b> Moodlen työtilaan. Varmista, että linkki on toimiva ja että se sisältää koko 15 minuutin  lähetyksen.
+
+## Streamauksen sisällöntuotanto ja yleisön kiinnittäminen
+
+   GradiaCup ei tule kestämään useampaa päivää, mutta meidän on silti syytä tutustua steamauksen muihin osa-aluisiin.
 
 
 

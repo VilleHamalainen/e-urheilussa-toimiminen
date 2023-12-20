@@ -2,6 +2,9 @@
 
 ## Tapahtuman aikana olevat roolitukset 
 
+
+
+
 •	toimii projektisuunnitelman ja aikataulutuksen mukaisesti vastuuta ottaen määrätyissä tehtävissä, esim:
 o	juontaa ja selostaa tapahtumaa 
 o	valvoa ja moderoida lähetyskanavaa
