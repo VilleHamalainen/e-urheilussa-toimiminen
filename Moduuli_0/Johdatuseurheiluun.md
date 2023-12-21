@@ -54,6 +54,13 @@ Suurimpia turnauksia ennen 2020-lukua muissa peleissä ovat olleet esimerkiksi F
 Yllä on lyhyt esportsin historia kuvattuna globaalisti. Väliin mahtuu myös COVID-19, joka pysäytti koko oikean maailman ja isot lanitapahtumat. Seurauksena kaikki siirtyivät enemmän tai vähemmän verkkoon. Tällä on ollut sekä hyviä, että huonoja seurauksia. Hyvänä puolena voidaan pitää sitä, että e-urheilu on saanut varmasti lisää katsojia. Toistaalta taas LAN-tapahtumien puuttuminen on vaikuttanut negatiivisesti monien organisaatioiden tulon lähteisiin. Tätä materiaalia tehdessä elämme vuoden 2023 loppua ja pian vuosi vaihtuu. Maailman tilanne COVID-19:n osalta on hieman normalisoitunut ja LAN-tapahtumat ovatkin tehneet paluun. 
 
 
+
+![E-urheilun evoluutio](Kuvat/DALL·E%202023-12-15%2016.35.21%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games,%20indica.png)
+
+Kuva. Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
+
+
+
 #### E-sports Suomessa
 
 Suomessa esportsin nousu on ollut osa maailmanlaajuista kehitystä. Suomessa on syntynyt useita menestyviä pelaajia ja joukkueita eri pelilajeissa, kuten Counter-Strike: Global Offensive, Dota 2 ja League of Legends. Lisäksi suomalaiset pelaajat ja joukkueet ovat saavuttaneet menestystä kansainvälisissä turnauksissa. Viimeaikaisia suuria suorituksia ovat mm. Jerax:n ja Topsonin Dota 2 TI -turnauksen voitot vuosina 2018 ja 2019. Eikä suinkaan unohdeta vuonna 2017 samaisen turnauksen voittanutta Matumbamania. Voitot tekivät kyseisitä pelaajista miljonäärejä. Encen CS:GO Majorin toinen sija vuonna 2019 oli myös huikea altavastaaja tarina, joka valitettavasti ei saanut jatkoa joukkueen pelillisen johtahan vaihtumisen myötä. Vaikka Star Craft 2 ei olekaan enää suosionsa huipulla voitanee todeta, että Serral yksi suurimmista e-urheilut tähdistä, joita Suomessa on koskaan ollut. Serralista tuli ensimmäinen Korean ulkopuolelta oleva pelaaja, joka voitti korkeimman tason (S-tier) Korealaisen StarCraft II turnauksen kun hän voitti GSL vs. The World vuonna 2018.
@@ -97,9 +104,6 @@ Ota mallia aikaisemmasta teorista ja kerro lyhyesti oman pelisi tai genren tärk
 #### E-urheilukaupungit Köln ja Katowice (pareittain tai pienissä ryhmissä)
 
 Selvitä ja analysoi kaupunkien merkitystä e-urheilun brändäämisessä. Valitse Köln, Katovice tai jokin muu historiallisesti merkittävä e-urheilu kaupunki. Pohdi, miten nämä kaupungit ovat vaikuttaneet e-urheilun kehitykseen, tunnettavuuten ja kasvuun. Miten kumpikin kaupunki on integroinut e-urheilun osaksi paikallista identiteettiä ja miten ne ovat hyödyntäneet e-urheilutapahtumiaan brändäämisen näkökulmasta? Pohdi mitä Jyväskylä voisi oppia kyseisiltä kaupungeilta? Onko kyseisillä kapungeilla jotain mitä Jyväskylällä ei ole?
-
-
-
 
 
 
