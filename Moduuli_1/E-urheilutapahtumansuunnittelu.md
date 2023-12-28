@@ -76,28 +76,20 @@
 
    GradiaCupin kannaltta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
 
-
-
-   https://cloud.google.com/customers/faceit
-
-   https://www.gcppodcast.com/post/episode-201-faceit-with-maria-laura-scuri/
-
-
-
 ## Tehtäviä:
-   
+
+
+### Suunnittelu 
+
    - Perustakaa testiturnaus FACEIT-palveluun, johon kaikki osallistuvat. Tehtävän tavoitteena on pienessä mittakaavassa turnauksen suunnittelun, aikataulutuksen, pelien järjestämisen ja tulosten raportoinnin harjoittelu. Alla vaiheita, jota tulee ottaa huomioon.
+   
+   - Valitkaa peli, jota pelataan (esim. CS2, Dota 2). Meidän tapauksessa CS2.
+   
+   - Päättäkää turnauksen formaatti (esim. single-elimination, double-elimination, round robin).
+   
+   - Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Onko muita työkaluja esim.   https://www.toornament.com/en_US/ tai https://challonge.com/fi/tournament/bracket_generator turnauksen hahmotteluun?
 
-   
-   Turnauksen Suunnittelu
-   
-   Valitkaa peli, jota pelataan (esim. CS2, Dota 2). Meidän tapauksessa CS2.
-   
-   Päättäkää turnauksen formaatti (esim. single-elimination, double-elimination, round robin).
-   
-   Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Onko muita työkaluja esim.   https://www.toornament.com/en_US/ tai https://challonge.com/fi/tournament/bracket_generator turnauksen hahmotteluun?
-
-## Rekisteröityminen ja joukkueiden Muodostaminen
+### Rekisteröityminen ja joukkueiden Muodostaminen
 
    Rekisteröitykää FACEIT-palveluun, jos ette ole vielä jäseniä.
    
@@ -110,13 +102,13 @@
    
    Tässä vaiheessa voimme testailla turnauksen toimintaa admin tasolla ja voimme testata turnausta muutammalla joukkueella ja pelata esim. bo3 pelin ja tutustua FaceItin toimintaan.
 
-## Turnauksen Toteutus
+### Turnauksen Toteutus
 
 
    Varmistakaa, että kaikki osallistujat ymmärtävät pelisäännöt ja -asetukset.
    Huolehtikaa, että kaikki tarvittavat tekniset asetukset ovat kunnossa ennen jokaista ottelua.
 
-## Viestintä 
+### Viestintä 
 
    Pitäkää yhteyttä osallistujiin ennen ja turnauksen aikana (esim. Discord, faceitin chatti, sähköposti). Tämä kannattaa suunnitella ja testata hyvin etukäteen ja tässä vaiheessa voimmekin mietti erilaisia skenaariotia, joita turnauksen  aikana voi tapahtua.   
    
@@ -233,7 +225,6 @@
    Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Kytkin on laite, jola kytketään useampi laite samaan laniin. Reititin operoi käyttämällä IP-osoitteita kun taas kytkin toimii tutkimalla MAC-osoitteita, jotka ovat tiedon siirron välineitä. Kytkin rakentaa taulun laitteista, jotka on kytketty kytkimen portteihin ja ohjaa tällä perusteella liikennettä.
 
 
-
    Kuva kytkimestä: "C:\Users\vilbo\source\repos\E-urheilussa-toimiminen\Kuvat\OSImalli.png"
 
    Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli VLAN-verkkoihin, jolloin verkon liikennettä saadaan jaettua entisestään. Tämä edistää mm. tietoturvaa, koska verkot eivät juttele keskenään. Käyttännön esimerkkinä voitasiin pitää putkea, jonka sisällä on useampi eri värinen putki (nämä ovat siis WLANEJA). Hyötynä laajemmissa organisaatioissa voisi olla, että esim. Sähkö/ICT:llä olisi oma verkko, koska opiskelijat tarvitevat todennäköisesti verkkoa enemmän kuin jonkun toisen alan opiskelijat. Tai työelämässä esimerkiksi eri osastot kuten laskutus ja myynti saisivat omat virtuaaliset verkkonsa. 
@@ -271,7 +262,6 @@ Enempää emme tässä yhteydessä rupea verkkoteknologiaa läpi käymään. All
 
 https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-network-infrastructure.html
 https://www.cloudflare.com/learning/network-layer/what-is-a-lan/Reititin
-
 https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-to-set-up-router.html
 https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
@@ -304,21 +294,71 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 ## Streamaus- tekninen puoli
 
-   - Maksullinen Udemy kurssi https://www.udemy.com/course/obs-studio-master-course/
+  
    - https://www.twitch.tv/creatorcamp/en/paths/going-live/setting-up-your-stream/
    - twitch studio vai obs?
-   - https://www.youtube.com/howyoutubeworks/product-features/live/
 
-   Obs PC -> HDMI -> USB 3.0 -> prod pc ja obs monitori
+   Lataus twitchstuio: https://www.twitch.tv/broadcast/studio
+   Lataus obs: https://obsproject.com/
 
+
+   OBS-käyttö: https://www.youtube.com/watch?v=ySENWFIkL7c&ab_channel=KevinStratvert
+               https://www.youtube.com/watch?v=wO2gswOEVAQ&ab_channel=JoeMilne
 
    Tututustutaan erilaisiin työkaluihin. Lataa koneellesi OBS Studio https://obsproject.com/fi ja https://www.twitch.tv/broadcast/studio
    - How to use OBS studio https://www.youtube.com/watch?v=yCMdj7B8WiA&t=100s&ab_channel=PrimalVideo
    - Twitch Studio https://www.youtube.com/watch?v=WnP4m0AWCRQ&ab_channel=CpawsMusic
 
+
+### Twitch
+
+   Twitch on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena, mutta nykyäänn se tarjoaa myös monipuolista muuta sisältöä kuten taidetta, musiikkia ja erilaisia IRL-streameja.Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia 'Biteillä' tai suorilla lahjoituksilla. Lisäksi streamaajat voivat hakea Affiliate(https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)- tai Partner-ohjelmiin (https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US), jotka tarjoavat erilaisia lisäetuja, mutta vaativat streamilta myös enemmän.
+
+
+
+   Kuva. Streamaajien eri tasot/sopimukset Twitchin kanssa.
+
+
+   <b>Mitä Streamaus Twitchissä vaatii?</b>
+
+   Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit personoida kanavasi bannereilla, kuvauksilla ja sosiaalisen median linkeillä. Twitchiin streamaamiseen tarvitset ohjelmiston, kuten OBS Studion, Streamlabs OBS:n tai Twitch Studion, joiden avulla voidaan jakaa pelikuvaa, web-kameran ja erilaisisa muita elementtejä.
+
+   Menestyminen ja streamauksen tekeminen ammatikseen onkin sitten toinen juttu, joka vaatii kiinnostavan, johdonmukaisen sisällön tuottaminen sekä säännölliset streamausaikataulut, jolloin yleisö pääsee tutuksi streamaajan kanssa. Lisäksi menestys vaatii perinteisesti myös hyvää vuorovaikutusta katsojien kanssa streameissä, chatissa ja muilla alustoilla kuten Discordissa sekä YouTubessa. Lisäksi yhteistyö muiden striimaajien kanssa ja osallistuminen Twitch-yhteisöihin auttaa oman yhteisön rakentamisessa. Twitch-chatilla on oma kulttuurinsa ja norminsa, jonka ymmärtäminen ja moderointi on myös oma taiteenlajinsa.
+
+   https://www.twitch.tv/creatorcamp/en/paths/going-live/setting-up-your-stream/
+
+
+### Youtube
+
+   YouTube on yksi maailman käytetyimmistä videonjakopalveluista, joka tavoittaa yleisöä hieman eri tavalla kuin Twitch. Nykyään onkin hyvin yleistä, että Twitch-streameista tehdään koosteita YouTubeen. YouTube tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja Super Chat-viestit (https://www.youtube.com/howyoutubeworks/product-features/monetization/?_gl=1*fiaaq5*_up*MQ..*_ga*MTIxMTgyNzcxOS4xNzAzNzYxMzA4*_ga_M0180HEFCY*MTcwMzc2MTMwNy4xLjAuMTcwMzc2MTMxMy4wLjAuMA..#overview). YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä toisin kun Twitchissä, jossa uusien streaamaajien voi olla todella vaikeaa löytää yleisöä.YouTube yhdistää streamauksen, videoiden jakamisen ja yhteisötoiminnot, tarjoten kattavan alustan sisällön levittämiseen ja yleisön sitouttamiseen.
+
+
+   Twitch VODien (Video on Demand) siirtäminen YouTubeen on hyvä käytänne useista syistä:
+
+    Twitch-streamien tallenteiden jakaminen YouTubessa auttaa tavoittamaan uuden yleisön ja tarjoaa mahdollisuuden lisätuloihin YouTube-mainosten kautta. Toisin kuin Twitchissä, jossa VODit poistetaan tietyssä ajassa, YouTube säilyttää sisällön pysyvästi, mikä tarkoittaa, että videot voivat kerätä uusia katsojia vielä vuosienkin jälkeen. Lisäksi kun Twitch-streamit siirretään YouTubeen, ne hyötyvät YouTuben hakukoneoptimoinnista, joka voi parantaa sisällön löydettävyyttä ja houkutella uusia seuraajia.
+
+  
+   Alustus YouTube-Streamaukselle
+   Aloittaessasi YouTube-streamauksen, keskity seuraaviin asioihin:
+
+   Kanavan Optimointi: Varmista, että kanavasi on ammattimaisesti asetettu, sisältäen laadukkaan bannerin, kanavakuvauksen ja SEO-ystävälliset avainsanat.
+
+   Sisällön Suunnittelu: Laadi selkeä suunnitelma siitä, mitä aiot streamata, mukaan lukien aiheet, formaatit ja aikataulutus.
+
+   Yhteisön Rakentaminen: Kannusta vuorovaikutusta ja yhteisön rakentamista kommenttien, tykkäysten ja tilausten kautta.
+
+   Mainostaminen ja Markkinointi: Käytä sosiaalista mediaa ja muita kanavia tiedottaaksesi tulevista streameista ja uusista videoista.
+
+   Aloittamalla streamauksen YouTubessa ja hyödyntämällä Twitch VODien potentiaalia, voit laajentaa digitaalista jalanjälkeäsi, lisätä ansaintamahdollisuuksiasi ja rakentaa vahvemman yhteyden yleisöösi.
+   
+
+   https://kstatic.googleusercontent.com/files/6a52d1116197cb18ec9e18691e2b31b25676f7f4d8b37ad74fb56526034674aad137626f3331e9fc925a08dd9f3e1085a4b1a4e532f4e1fabec98ffd5e50f56d
+
+   https://tuberanker.com/blog/how-to-upload-twitch-stream-to-youtube
+
 ## Tehtäviä
 
-   <b>Tehtävä</b> Tutustu molempien työkalujen perusominaisuuksiin ja kirjoita lyhyt dokumentti studioiden hyvistä ja huonoista puolista. Vertailu sovellusten ominaisuuksia kuten käytön helppous, tarvittavat konffaukset, muut ominaisuudet kuten chatti. Jos olet käyttänyt jompaa kumpaa sovellusta, niin voit myös kertoa omista kokemuksista ja jakaa osaamista muille!
+   <b>Tehtävä</b> Tutustu molempien työkalujen perusominaisuuksiin ja kirjoita lyhyt dokumentti studioiden hyvistä ja huonoista puolista. Vertaile sovellusten ominaisuuksia kuten käytön helppous, tarvittavat konffaukset, muut ominaisuudet kuten chatti. Jos olet käyttänyt jompaa kumpaa sovellusta, niin voit myös kertoa omista kokemuksista ja jakaa tätä kautta osaamista muille!
 
 
    <b>Tehtävä</b>OBS- tai Twitch-studion käyttö ja streamauksen suunnittelu. Tehtävänä on suunnitella, valmistella ja toteuttaa suoratoistolähetys käyttäen OBS- tai Twitch-studiota. Prosessin aikana sinun tulee käydä läpi ja soveltaa kaikkia yllä mainittuja OBS Studion toimintoja ja ominaisuuksia. Lopputuloksena sinun tulee tuottaa vähintään 15 minuutin pituinen suoratoistolähetys, jossa osoitat valitsemasi suoratoistopalvelun osaamisen.
@@ -343,10 +383,15 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
    <b>Raportoi koko prosessi</b>, mukaan lukien suunnitteluvaiheet, käytetyt sovelluksen toiminnot ja kohtaamasi haasteet. Arvioi myös, kuinka hyvin onnistuit  suoratoiston toteutuksessa ja mitä opit koko prosessin aikana.
    
-   
    <b>Palauta raportti ja linkki tallennettuun suoratoistolähetykseen</b> Moodlen työtilaan. Varmista, että linkki on toimiva ja että se sisältää koko 15 minuutin  lähetyksen.
 
+
+
+
 ## Streamauksen sisällöntuotanto ja yleisön kiinnittäminen
+
+
+   https://www.youtube.com/watch?v=0i9gkprYekI&ab_channel=Ludwig
 
    GradiaCup ei tule kestämään useampaa päivää, mutta meidän on silti syytä tutustua steamauksen muihin osa-aluisiin.
 
@@ -357,3 +402,4 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 
    Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
+
