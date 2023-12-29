@@ -310,6 +310,7 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 
 
+
 ## Tehtäviä
 
    <b>Tehtävä</b> Tutustu molempien työkalujen perusominaisuuksiin ja kirjoita lyhyt dokumentti studioiden hyvistä ja huonoista puolista. Vertaile sovellusten ominaisuuksia kuten käytön helppous, tarvittavat konffaukset, muut ominaisuudet kuten chatti. Jos olet käyttänyt jompaa kumpaa sovellusta, niin voit myös kertoa omista kokemuksista ja jakaa tätä kautta osaamistasi muille! Hyödynnä alla olevia otsikoita ja kirjoita hyvät ja huonot puolet näiden alle.
@@ -330,6 +331,61 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
    <b>Oman suosikin valinta</b>
       - Kumpaa sovellusta käyttäisit mieluummin?
 
+
+
+### Canva
+
+
+   Suoratoisto-overlayn luominen Canvassa on helppo tapa luoda visuaalisesti näyttäviä grafiikoita Twitchiin ja Youtubeen. Canvan käyttöönoton vaiheet:
+
+   1. Kirjaudu sisään Canvaan
+
+   Jos sinulla ei ole vielä Canva-tiliä, luo tili osoitteessa www.canva.com ja kirjaudu sisään.
+   
+   2. Luo uusi suunnitelma
+
+   Napsauta Canvan etusivulla "Laadi suunnittelumalli" -painiketta.
+  
+   Hakuvalikossa valitse "Mukautettu koko" ja syötä overlayn mitat. Overlayn mitat riippuvat siitä mitä olemme tekemässä. 
+   
+   Napsauta "Luo uusi suunnitelumalli" -painiketta.
+   
+   3. Suunnittele overlay
+   
+   Käytä Canvan suunnittelutyökaluja overlayn luomiseen. Voit lisätä elementtejä, kuten web-kameran kehyksen, chat-ruudun, sosiaalisen median kuvakkeita jne.
+   
+   Mukauta värit, fontit ja tyylit vastaamaan brändiäsi tai omia mieltymyksiäsi. Ota myös huomioon läpinäkyvyys tarvittaessa.
+   
+   Kun overlayn suunnittelu on valmis, napsauta Canvan oiekassa yläkulmassa olevaa "Jakiminen" -painiketta ja sieltä löytyvää "Lataa" -painiketta.
+   
+   Valitse haluamasi muoto (esim. PNG tai JPG) ja napsauta uudelleen "Lataa" -painiketta.
+   
+   4. Käytä overlayta suoratoistosoftassa
+   
+   Avaa suoratoistosoftasi (esim. OBS Studio tai Twitch Studio).
+   
+   Luo uusi näkymä tai overlay-lähde.
+   
+   Lisää ladattu overlaykuva lähteenä näkymääsi.
+   
+   Säädä overlayn sijainti ja koko sopimaan suoratoistolayoutiisi.
+   
+   Vaihe 7: Testaa ja mene lähetykseen
+   
+   Esikatsele suoratoimintaasi suoratoistosoftassa varmistaaksesi, että overlay näkyy oikein.
+  
+   Suoratoisto-overlayn eri tyyppejä ovat esimerkiksi:
+   
+   - Web-kamera-kehys
+   - Chat-overlay
+   - Ilmoitus-overlayt: Elementit tilaajan, lahjoituksen tai seuraajan ilmoitusten näyttämiseen
+   - Sosiaalisen median kuvakkeet
+   - Laskurit ja countdown-elementit: Laskurit erikoistapahtumille tai ilmoituksille
+   - Palaan pian (BRB)-overlay
+   - Suoratoiston alkuilmoitus
+
+   Stream-overlayt ja paneelit ovat tärkeämpiä Twitchissä kuin YouTubessa. Niihin sisältyy tietoa  uusista tilaajista, lahjoituksista, sosiaalisen median linkeistä ja stream-säännöistä.
+ 
    
 ### Twitch
 
@@ -343,26 +399,28 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
    Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit personoida kanavasi bannereilla, kuvauksilla ja sosiaalisen median linkeillä. Twitchiin streamaamiseen tarvitset ohjelmiston, kuten OBS Studion, Streamlabs OBS:n tai Twitch Studion, joiden avulla voidaan jakaa pelikuvaa, web-kameran ja erilaisisa muita elementtejä.
 
+### Twitch-tilin luominen
+
+   - Luo aluksi Twitch-tili osoitteessa https://www.twitch.tv/, jos sinulla ei vielä sellaista ole. On myös syytä miettiä haluammeko käyttää omaa tiliämme vai luoda erillisen tunnuksen kurssia varten. Streamausta varten tarvitaan myös kaksivaiheinen tunnistautuminen (two-factor authentication).
+   - Liitä streamausohjelmisto (OBS-studio) Twitchiin stream-avaimen avulla. Avaimen löydät Asetukset -> Lähetys -valikon takaa.
+   - Varmista, että OBS:n puolella kaikki on kunnossa. Voit testata streamia menemättä live-tilaan.
+   - Mene liveen! Testaillaan rohkeasti streamia omalla porukalla.
+
+
    Menestyminen ja streamauksen tekeminen ammatikseen onkin sitten toinen juttu, joka vaatii kiinnostavan ja johdonmukaisen sisällön tuottaminen sekä säännölliset streamausaikataulut, jolloin yleisö pääsee tutuksi streamaajan kanssa. Lisäksi menestys vaatii perinteisesti myös hyvää vuorovaikutusta katsojien kanssa streameissä, chatissa ja muilla alustoilla kuten Discordissa sekä YouTubessa. Lisäksi yhteistyö muiden striimaajien kanssa ja osallistuminen Twitch-yhteisöihin auttaa oman yhteisön rakentamisessa. Twitch-chatilla on oma kulttuurinsa ja norminsa, jonka ymmärtäminen ja moderointi on myös oma taiteenlajinsa. Twitchin oma ohje, johon tutustutaan tarkasti yhdessä https://www.twitch.tv/creatorcamp/en/paths/going-live/setting-up-your-stream/.
 
 
 
-   Twitch-Bannerit ja Grafiikat
-   Bannerin Koko ja Asettelu:
+### Twitch-bannerit
+
+   Olemme puhuneet streamin ulkoasun tärkeydestä. Tällä kurssilla tutustumme Canvan toimintaan (https://www.canva.com/), jonka avulla voimme helposti luoda erilaisia grafiikoita eri palveluihin. Työkaluja on useita, mutta kyseinen työkalu valikoitui helppokättöisyyden vuoksi.
    
    Twitch suosittelee kanavan bannerin kokoa 1200 x 480 pikseliä. Tämä banneri näkyy kanavasi yläosassa ja on vähemmän muuttuva eri laitteissa verrattuna YouTubeen.
-   Sisältö ja Tyyli:
    
-   Twitch-bannerit keskittyvät usein välittömän visuaalisen vaikutelman luomiseen. Niihin voi sisältyä dynaamisia ja rohkeita suunnitelmia, jotka heijastavat striimaajan persoonallisuutta ja peli- tai striimaustyyliä.
-   Sosiaalisen median käyttäjätunnusten tai sponsorilogojen sisällyttäminen on myös yleistä.
-   Stream-Overlayt ja Paneelit:
-   
-   Stream-overlayt ja paneelit ovat tärkeämpiä Twitchissä kuin YouTubessa. Niihin sisältyy tietoa kuten uusista tilaajista, lahjoituksista, sosiaalisen median linkeistä ja stream-säännöistä.
-   Overlayt käytetään live-streameissa ja niiden tulisi parantaa streamia häiritsemättä pelin tai sisällön tärkeitä visuaaleja.
-   Vuorovaikutus ja Teema:
-   
-   Twitchin grafiikat keskittyvät usein vuorovaikutukseen ja sitoutumiseen, suunnitelmilla, jotka täydentävät live-streamausta ja yleisön vuorovaikutusta.
+   Twitch-bannerit keskittyvät usein välittömän visuaalisen vaikutelman luomiseen. Bannerit voivat olla dynaamisia tai staattisia je heijastavat usein streamaajan persoonallisuutta ja contenttia. Sosiaalisen median käyttäjätunnusten tai sponsorilogojen sisällyttäminen on myös yleistä Bannereissa.
 
+
+   
 
 
    <b>Tehtävä</b>OBS- tai Twitch-studion käyttö ja streamauksen suunnittelu. Tehtävänä on suunnitella, valmistella ja toteuttaa suoratoistolähetys käyttäen OBS- tai Twitch-studiota. Prosessin aikana sinun tulee käydä läpi ja soveltaa kaikkia allamainittuja OBS Studion toimintoja ja ominaisuuksia. Lopputuloksena sinun tulee tuottaa vähintään 15 minuutin pituinen suoratoistolähetys, jossa osoitat valitsemasi työkalun osaamisen.
