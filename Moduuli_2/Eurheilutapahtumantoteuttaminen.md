@@ -19,3 +19,19 @@ o	jne…
 •	kerää ja analysoi palautetta, sekä kehittää toimintaa saamansa palautteen perusteella
 •	hallitsee tallenteiden esim. videoiden, äänen ja still- kuvien jälkikäsittelyn ja jakamisen
 •	Opiskelija dokumentoi tapahtuman ja työnsä riittävällä tasolla toistettavuuden ja skaalautuvuutta varten 
+
+
+
+Seuratkaa ja päivittäkää turnauksen tuloksia ja aikatauluja aktiivisesti.
+
+Tulosten Raportointi ja Arviointi
+
+Raportoikaa turnauksen lopputulokset ja tehkää analyysi turnauksen sujumisesta.
+
+Palkintojen ja Huomionosoitusten Jakaminen
+
+Jos turnauksessa on palkintoja, jakakaa ne voittajille turnauksen päätyttyä.
+
+Muistakaa kiittää kaikkia osallistujia ja tarvittaessa tunnustaa erityisiä saavutuksia.
+Raportointi ja Arviointi
+Laatikaa raportti, jossa käydään läpi koko turnauksen suunnittelu, toteutus ja seuranta. Raportissa tulee olla yksityiskohtainen kuvaus jokaisesta vaiheesta, mukaan lukien mahdolliset haasteet ja miten ne ratkaistiin.

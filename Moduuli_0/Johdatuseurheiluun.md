@@ -11,7 +11,7 @@
 Mitä kaikkea muuta e-urheilun ekosysteemiin kuuluu? 
 
 
-- <details><summary>Kuva skosysteemistä</summary>
+- <details><summary>Kuva ekosysteemistä</summary>
 
 - <details><summary>Detail 2</summary>
 

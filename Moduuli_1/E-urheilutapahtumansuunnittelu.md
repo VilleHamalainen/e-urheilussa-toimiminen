@@ -89,7 +89,7 @@
    
    - Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Onko muita työkaluja esim.   https://www.toornament.com/en_US/ tai https://challonge.com/fi/tournament/bracket_generator turnauksen hahmotteluun?
 
-### Rekisteröityminen ja joukkueiden Muodostaminen
+### Rekisteröityminen ja joukkueiden muodostaminen
 
    Rekisteröitykää FACEIT-palveluun, jos ette ole vielä jäseniä.
    
@@ -333,7 +333,7 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 
 
-### Canva
+## Canva
 
 
    Suoratoisto-overlayn luominen Canvassa on helppo tapa luoda visuaalisesti näyttäviä grafiikoita Twitchiin ja Youtubeen. Canvan käyttöönoton vaiheet:
@@ -370,9 +370,7 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
    
    Säädä overlayn sijainti ja koko sopimaan suoratoistolayoutiisi.
    
-   Vaihe 7: Testaa ja mene lähetykseen
-   
-   Esikatsele suoratoimintaasi suoratoistosoftassa varmistaaksesi, että overlay näkyy oikein.
+   5. Esikatsele suoratoimintaasi suoratoistosoftassa varmistaaksesi, että overlay näkyy oikein.
   
    Suoratoisto-overlayn eri tyyppejä ovat esimerkiksi:
    
@@ -387,7 +385,7 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
    Stream-overlayt ja paneelit ovat tärkeämpiä Twitchissä kuin YouTubessa. Niihin sisältyy tietoa  uusista tilaajista, lahjoituksista, sosiaalisen median linkeistä ja stream-säännöistä.
  
    
-### Twitch
+## Twitch
 
    Twitch on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena, mutta nykyäänn se tarjoaa myös monipuolista muuta sisältöä kuten taidetta, musiikkia ja erilaisia IRL-streameja.Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia "Biteillä"" tai suorilla lahjoituksilla. Lisäksi streamaajat voivat hakea Affiliate(https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)- tai Partner-ohjelmiin (https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US), jotka tarjoavat erilaisia lisäetuja, mutta vaativat streamilta myös enemmän.
 
@@ -413,14 +411,11 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 ### Twitch-bannerit
 
-   Olemme puhuneet streamin ulkoasun tärkeydestä. Tällä kurssilla tutustumme Canvan toimintaan (https://www.canva.com/), jonka avulla voimme helposti luoda erilaisia grafiikoita eri palveluihin. Työkaluja on useita, mutta kyseinen työkalu valikoitui helppokättöisyyden vuoksi.
    
-   Twitch suosittelee kanavan bannerin kokoa 1200 x 480 pikseliä. Tämä banneri näkyy kanavasi yläosassa ja on vähemmän muuttuva eri laitteissa verrattuna YouTubeen.
+   Twitch suosittelee kanavan bannerin kokoa 1200 x 480 pikseliä. Tämä banneri näkyy kanavasi yläosassa ja on vähemmän muuttuva eri laitteissa verrattuna YouTubeen. Tarkempaa tietoa Twitch elementtien kokosuosituksista löydät https://www.canva.com/sizes/twitch/
    
    Twitch-bannerit keskittyvät usein välittömän visuaalisen vaikutelman luomiseen. Bannerit voivat olla dynaamisia tai staattisia je heijastavat usein streamaajan persoonallisuutta ja contenttia. Sosiaalisen median käyttäjätunnusten tai sponsorilogojen sisällyttäminen on myös yleistä Bannereissa.
 
-
-   
 
 
    <b>Tehtävä</b>OBS- tai Twitch-studion käyttö ja streamauksen suunnittelu. Tehtävänä on suunnitella, valmistella ja toteuttaa suoratoistolähetys käyttäen OBS- tai Twitch-studiota. Prosessin aikana sinun tulee käydä läpi ja soveltaa kaikkia allamainittuja OBS Studion toimintoja ja ominaisuuksia. Lopputuloksena sinun tulee tuottaa vähintään 15 minuutin pituinen suoratoistolähetys, jossa osoitat valitsemasi työkalun osaamisen.
@@ -448,7 +443,7 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 
 
-### Youtube
+## Youtube
 
    YouTube on yksi maailman käytetyimmistä videonjakopalveluista, joka tavoittaa yleisöä hieman eri tavalla kuin Twitch. Nykyään onkin hyvin yleistä, että Twitch-streameista tehdään koosteita YouTubeen. YouTube tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja Super Chat-viestit (https://www.youtube.com/howyoutubeworks/product-features/monetization/?_gl=1*fiaaq5*_up*MQ..*_ga*MTIxMTgyNzcxOS4xNzAzNzYxMzA4*_ga_M0180HEFCY*MTcwMzc2MTMwNy4xLjAuMTcwMzc2MTMxMy4wLjAuMA..#overview). YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä toisin kun Twitchissä, jossa uusien streaamaajien voi olla todella vaikeaa löytää yleisöä.YouTube yhdistää streamauksen, videoiden jakamisen ja yhteisötoiminnot, tarjoten kattavan alustan sisällön levittämiseen ja yleisön sitouttamiseen.
 
@@ -466,13 +461,10 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
    Käytä sosiaalista mediaa ja muita kanavia tiedottaaksesi tulevista streameista ja uusista videoista.
 
+### Youtube-bannerit
 
+   YouTube-kanavan pääbannerin suositellaan olevan kokoa 2560 x 1440 pikseliä Tämä varmistaa, että bannerin olennaiset elementit näkyvät eri laitteilla, kuten televisioissa,  tietokoneissa, tableteissa ja mobiililaitteissa. Tarkempaa tietoa suosituksia löydät https://www.canva.com/sizes/youtube/
 
-   YouTube-Bannerit ja Grafiikat
-   Bannerin Koko ja Asettelu:
-
-   YouTube-kanavan bannerit (tunnetaan myös nimellä kanavataide) suositellaan olevan kokoa 2560 x 1440 pikseliä, keskellä turva-alueena 1546 x 423 pikseliä. Tämä varmistaa, että bannerin olennaiset elementit näkyvät eri laitteilla, kuten televisioissa,   tietokoneissa, tableteissa ja mobiililaitteissa.
-   Sisältö ja Tyyli:
 
    Bannerien tulisi heijastaa kanavan teemaa ja sisältöä. Usein niihin sisältyy kanavan nimi, logo ja muita brändielementtejä.
    Voit myös sisällyttää aikataulun, jos sinulla on säännöllisiä julkaisuaikoja, sekä kehotuksia toimintaan, kuten sosiaalisen median käyttäjätunnuksia.
@@ -492,9 +484,6 @@ Grafiikat ja bannerit tulisi pitää linjassa kanavan yleisen brändäyksen ja t
    https://tuberanker.com/blog/how-to-upload-twitch-stream-to-youtube
 
 
-  
-
-
 
 ## Streamauksen sisällöntuotanto ja yleisön kiinnittäminen
 
@@ -503,11 +492,6 @@ Grafiikat ja bannerit tulisi pitää linjassa kanavan yleisen brändäyksen ja t
 
    GradiaCup ei tule kestämään useampaa päivää, mutta meidän on silti syytä tutustua steamauksen muihin osa-aluisiin.
 
-
-
    https://www.udemy.com/course/how-to-start-esports-club/
 
-
-
-   Toimeksianto shakedown parkin videokuvaus ja mahdollisten ohjeiden testaaminen.
 
