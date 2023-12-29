@@ -294,26 +294,46 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 ## Streamaus- tekninen puoli
 
-  
-   - https://www.twitch.tv/creatorcamp/en/paths/going-live/setting-up-your-stream/
-   - twitch studio vai obs?
+   Streamaus, eli suoratoisto, on prosessi, jossa sisältöä lähetetään reaaliajassa internetin välityksellä. Tämä voi sisältää videopelien pelaamista, musiikkiesityksiä, opetusta tai  vain keskustelua. Tutustutaan seuraavaksi tarvittaviin työkaluihin. Lataa aluksi molemmat ohjelmistot.
 
-   Lataus twitchstuio: https://www.twitch.tv/broadcast/studio
-   Lataus obs: https://obsproject.com/
+   Lataus TwitchStudio: https://www.twitch.tv/broadcast/studio
+   Lataus OBS: https://obsproject.com/
 
 
-   OBS-käyttö: https://www.youtube.com/watch?v=ySENWFIkL7c&ab_channel=KevinStratvert
-               https://www.youtube.com/watch?v=wO2gswOEVAQ&ab_channel=JoeMilne
-
-   Tututustutaan erilaisiin työkaluihin. Lataa koneellesi OBS Studio https://obsproject.com/fi ja https://www.twitch.tv/broadcast/studio
-   - How to use OBS studio https://www.youtube.com/watch?v=yCMdj7B8WiA&t=100s&ab_channel=PrimalVideo
-   - Twitch Studio https://www.youtube.com/watch?v=WnP4m0AWCRQ&ab_channel=CpawsMusic
+   OBS-studio on ollut käytössä pidempään, joten siihen löytyy paljon olemassa olevia ohjeita, joihin kannattaa tutustua ajatuksella. Esimerkkejä obsin käytöstä löydät:
+   - https://www.youtube.com/watch?v=ySENWFIkL7c&ab_channel=KevinStratvert
+   - https://www.youtube.com/watch?v=wO2gswOEVAQ&ab_channel=JoeMilne
+   - https://www.youtube.com/watch?v=yCMdj7B8WiA&t=100s&ab_channel=PrimalVideo
 
 
+   Twitch Studio on hieman uudempi Twitchin oma työkalu, jonka vahvuuksia ovat käytön helppous, koska useat Twitchin toiminnallisuudet tai vaatimukset on integroitu studioon. Esimerkkeinä Twitch-tili, stream-avaimet, chat-integraatio ja varoitukset. Tutustutaan myös kyseisen työkalun toiminnallisuuksiin. Ohjeita saat katsomalla esimerkiksi https://www.youtube.com/watch?v=WnP4m0AWCRQ&ab_channel=CpawsMusic
+
+
+
+## Tehtäviä
+
+   <b>Tehtävä</b> Tutustu molempien työkalujen perusominaisuuksiin ja kirjoita lyhyt dokumentti studioiden hyvistä ja huonoista puolista. Vertaile sovellusten ominaisuuksia kuten käytön helppous, tarvittavat konffaukset, muut ominaisuudet kuten chatti. Jos olet käyttänyt jompaa kumpaa sovellusta, niin voit myös kertoa omista kokemuksista ja jakaa tätä kautta osaamistasi muille! Hyödynnä alla olevia otsikoita ja kirjoita hyvät ja huonot puolet näiden alle.
+
+   <b>Yleinen käytettävyys ja asennuksen helppous</b>
+      - Mieti miten intuitiivinen asennusprosessi oli.
+      - Vertaile ohjelmien käyttöliittymiä ja niiden intuitiivisuutta.
+      - Mitkä ovat isoimmat erot käyttöliittymässä ja navigaatiossa?
+   <b>Streamin asetukset</b>
+      - Miten streamin eri asetukset kuten resoluutio, bitrate ja framerate asetukset säädetään?
+      - Miten helppoa livestreamaus on eri työkaluilla? Onko tässä eroja?
+   <b>Ominaisuudet</b>
+      - Mitä uniikkeja ominaisuuksia kummallakin ohjelmistolla on? Löytyykö molemmista eri näkymiä (Scene), äänen miksaus, lähteiden filtterit jne.
+      - Mitä kaikkea ohjelmissa voi muokata itse? Löytyykö kustomoituja overlayta, plugineja jne?
+   <b>Suorituskyky</b>
+      - Joudumme ainakin alustavasti toimimaan oppivelvollisuuskoneilla. Onko sovelluksissa suorituskykyeroja CPU:n, GPU:n tai muistin käytön suhteen?
+      - Testaa myös nopeasti streamin laatua ja raportoi mahdollisista eroista.
+   <b>Oman suosikin valinta</b>
+      - Kumpaa sovellusta käyttäisit mieluummin?
+
+   
 ### Twitch
 
-   Twitch on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena, mutta nykyäänn se tarjoaa myös monipuolista muuta sisältöä kuten taidetta, musiikkia ja erilaisia IRL-streameja.Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia 'Biteillä' tai suorilla lahjoituksilla. Lisäksi streamaajat voivat hakea Affiliate(https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)- tai Partner-ohjelmiin (https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US), jotka tarjoavat erilaisia lisäetuja, mutta vaativat streamilta myös enemmän.
-
+   Twitch on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena, mutta nykyäänn se tarjoaa myös monipuolista muuta sisältöä kuten taidetta, musiikkia ja erilaisia IRL-streameja.Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia "Biteillä"" tai suorilla lahjoituksilla. Lisäksi streamaajat voivat hakea Affiliate(https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)- tai Partner-ohjelmiin (https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US), jotka tarjoavat erilaisia lisäetuja, mutta vaativat streamilta myös enemmän.
 
 
    Kuva. Streamaajien eri tasot/sopimukset Twitchin kanssa.
@@ -323,53 +343,36 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
    Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit personoida kanavasi bannereilla, kuvauksilla ja sosiaalisen median linkeillä. Twitchiin streamaamiseen tarvitset ohjelmiston, kuten OBS Studion, Streamlabs OBS:n tai Twitch Studion, joiden avulla voidaan jakaa pelikuvaa, web-kameran ja erilaisisa muita elementtejä.
 
-   Menestyminen ja streamauksen tekeminen ammatikseen onkin sitten toinen juttu, joka vaatii kiinnostavan, johdonmukaisen sisällön tuottaminen sekä säännölliset streamausaikataulut, jolloin yleisö pääsee tutuksi streamaajan kanssa. Lisäksi menestys vaatii perinteisesti myös hyvää vuorovaikutusta katsojien kanssa streameissä, chatissa ja muilla alustoilla kuten Discordissa sekä YouTubessa. Lisäksi yhteistyö muiden striimaajien kanssa ja osallistuminen Twitch-yhteisöihin auttaa oman yhteisön rakentamisessa. Twitch-chatilla on oma kulttuurinsa ja norminsa, jonka ymmärtäminen ja moderointi on myös oma taiteenlajinsa.
-
-   https://www.twitch.tv/creatorcamp/en/paths/going-live/setting-up-your-stream/
+   Menestyminen ja streamauksen tekeminen ammatikseen onkin sitten toinen juttu, joka vaatii kiinnostavan ja johdonmukaisen sisällön tuottaminen sekä säännölliset streamausaikataulut, jolloin yleisö pääsee tutuksi streamaajan kanssa. Lisäksi menestys vaatii perinteisesti myös hyvää vuorovaikutusta katsojien kanssa streameissä, chatissa ja muilla alustoilla kuten Discordissa sekä YouTubessa. Lisäksi yhteistyö muiden striimaajien kanssa ja osallistuminen Twitch-yhteisöihin auttaa oman yhteisön rakentamisessa. Twitch-chatilla on oma kulttuurinsa ja norminsa, jonka ymmärtäminen ja moderointi on myös oma taiteenlajinsa. Twitchin oma ohje, johon tutustutaan tarkasti yhdessä https://www.twitch.tv/creatorcamp/en/paths/going-live/setting-up-your-stream/.
 
 
-### Youtube
 
-   YouTube on yksi maailman käytetyimmistä videonjakopalveluista, joka tavoittaa yleisöä hieman eri tavalla kuin Twitch. Nykyään onkin hyvin yleistä, että Twitch-streameista tehdään koosteita YouTubeen. YouTube tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja Super Chat-viestit (https://www.youtube.com/howyoutubeworks/product-features/monetization/?_gl=1*fiaaq5*_up*MQ..*_ga*MTIxMTgyNzcxOS4xNzAzNzYxMzA4*_ga_M0180HEFCY*MTcwMzc2MTMwNy4xLjAuMTcwMzc2MTMxMy4wLjAuMA..#overview). YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä toisin kun Twitchissä, jossa uusien streaamaajien voi olla todella vaikeaa löytää yleisöä.YouTube yhdistää streamauksen, videoiden jakamisen ja yhteisötoiminnot, tarjoten kattavan alustan sisällön levittämiseen ja yleisön sitouttamiseen.
-
-
-   Twitch VODien (Video on Demand) siirtäminen YouTubeen on hyvä käytänne useista syistä:
-
-    Twitch-streamien tallenteiden jakaminen YouTubessa auttaa tavoittamaan uuden yleisön ja tarjoaa mahdollisuuden lisätuloihin YouTube-mainosten kautta. Toisin kuin Twitchissä, jossa VODit poistetaan tietyssä ajassa, YouTube säilyttää sisällön pysyvästi, mikä tarkoittaa, että videot voivat kerätä uusia katsojia vielä vuosienkin jälkeen. Lisäksi kun Twitch-streamit siirretään YouTubeen, ne hyötyvät YouTuben hakukoneoptimoinnista, joka voi parantaa sisällön löydettävyyttä ja houkutella uusia seuraajia.
-
-  
-   Alustus YouTube-Streamaukselle
-   Aloittaessasi YouTube-streamauksen, keskity seuraaviin asioihin:
-
-   Kanavan Optimointi: Varmista, että kanavasi on ammattimaisesti asetettu, sisältäen laadukkaan bannerin, kanavakuvauksen ja SEO-ystävälliset avainsanat.
-
-   Sisällön Suunnittelu: Laadi selkeä suunnitelma siitä, mitä aiot streamata, mukaan lukien aiheet, formaatit ja aikataulutus.
-
-   Yhteisön Rakentaminen: Kannusta vuorovaikutusta ja yhteisön rakentamista kommenttien, tykkäysten ja tilausten kautta.
-
-   Mainostaminen ja Markkinointi: Käytä sosiaalista mediaa ja muita kanavia tiedottaaksesi tulevista streameista ja uusista videoista.
-
-   Aloittamalla streamauksen YouTubessa ja hyödyntämällä Twitch VODien potentiaalia, voit laajentaa digitaalista jalanjälkeäsi, lisätä ansaintamahdollisuuksiasi ja rakentaa vahvemman yhteyden yleisöösi.
+   Twitch-Bannerit ja Grafiikat
+   Bannerin Koko ja Asettelu:
    
+   Twitch suosittelee kanavan bannerin kokoa 1200 x 480 pikseliä. Tämä banneri näkyy kanavasi yläosassa ja on vähemmän muuttuva eri laitteissa verrattuna YouTubeen.
+   Sisältö ja Tyyli:
+   
+   Twitch-bannerit keskittyvät usein välittömän visuaalisen vaikutelman luomiseen. Niihin voi sisältyä dynaamisia ja rohkeita suunnitelmia, jotka heijastavat striimaajan persoonallisuutta ja peli- tai striimaustyyliä.
+   Sosiaalisen median käyttäjätunnusten tai sponsorilogojen sisällyttäminen on myös yleistä.
+   Stream-Overlayt ja Paneelit:
+   
+   Stream-overlayt ja paneelit ovat tärkeämpiä Twitchissä kuin YouTubessa. Niihin sisältyy tietoa kuten uusista tilaajista, lahjoituksista, sosiaalisen median linkeistä ja stream-säännöistä.
+   Overlayt käytetään live-streameissa ja niiden tulisi parantaa streamia häiritsemättä pelin tai sisällön tärkeitä visuaaleja.
+   Vuorovaikutus ja Teema:
+   
+   Twitchin grafiikat keskittyvät usein vuorovaikutukseen ja sitoutumiseen, suunnitelmilla, jotka täydentävät live-streamausta ja yleisön vuorovaikutusta.
 
-   https://kstatic.googleusercontent.com/files/6a52d1116197cb18ec9e18691e2b31b25676f7f4d8b37ad74fb56526034674aad137626f3331e9fc925a08dd9f3e1085a4b1a4e532f4e1fabec98ffd5e50f56d
-
-   https://tuberanker.com/blog/how-to-upload-twitch-stream-to-youtube
-
-## Tehtäviä
-
-   <b>Tehtävä</b> Tutustu molempien työkalujen perusominaisuuksiin ja kirjoita lyhyt dokumentti studioiden hyvistä ja huonoista puolista. Vertaile sovellusten ominaisuuksia kuten käytön helppous, tarvittavat konffaukset, muut ominaisuudet kuten chatti. Jos olet käyttänyt jompaa kumpaa sovellusta, niin voit myös kertoa omista kokemuksista ja jakaa tätä kautta osaamista muille!
 
 
-   <b>Tehtävä</b>OBS- tai Twitch-studion käyttö ja streamauksen suunnittelu. Tehtävänä on suunnitella, valmistella ja toteuttaa suoratoistolähetys käyttäen OBS- tai Twitch-studiota. Prosessin aikana sinun tulee käydä läpi ja soveltaa kaikkia yllä mainittuja OBS Studion toimintoja ja ominaisuuksia. Lopputuloksena sinun tulee tuottaa vähintään 15 minuutin pituinen suoratoistolähetys, jossa osoitat valitsemasi suoratoistopalvelun osaamisen.
-
+   <b>Tehtävä</b>OBS- tai Twitch-studion käyttö ja streamauksen suunnittelu. Tehtävänä on suunnitella, valmistella ja toteuttaa suoratoistolähetys käyttäen OBS- tai Twitch-studiota. Prosessin aikana sinun tulee käydä läpi ja soveltaa kaikkia allamainittuja OBS Studion toimintoja ja ominaisuuksia. Lopputuloksena sinun tulee tuottaa vähintään 15 minuutin pituinen suoratoistolähetys, jossa osoitat valitsemasi työkalun osaamisen.
    <b>Tehtävän vaiheet</b>
 
    <b>Laadi suunnitelma suoratoistolähetyksellesi,</b> mukaan lukien aihe, aikataulu ja sisältö. //tähän tarkennusta.
    
    <b>Aseta ääni- ja videolähteet.</b> Konfiguroi suoratoistoasetukset ja testaa yhteys valitsemaasi alustaan (esim. Twitch tai YouTube).
   
-   <b> Kohtaukset ja ulostulot.</b> Luo erilaisia kohtauksia, kuten aloitusruutu, pelinäkymä ja lopetusruutu. Lisää ja mukauta erilaisia lähteitä kuten pelinäyttö, web-kamera ja teksti.
+   <b>Kohtaukset ja ulostulot.</b> Luo erilaisia kohtauksia, kuten aloitusruutu, pelinäkymä ja lopetusruutu. Lisää ja mukauta erilaisia lähteitä kuten pelinäyttö, web-kamera ja teksti.
    
    <b>Ääniasetukset ja mikrofoni.</b> Määritä mikrofoniasetukset ja lisää tarvittavat äänisuodattimet.
    
@@ -385,6 +388,53 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
    
    <b>Palauta raportti ja linkki tallennettuun suoratoistolähetykseen</b> Moodlen työtilaan. Varmista, että linkki on toimiva ja että se sisältää koko 15 minuutin  lähetyksen.
 
+
+
+### Youtube
+
+   YouTube on yksi maailman käytetyimmistä videonjakopalveluista, joka tavoittaa yleisöä hieman eri tavalla kuin Twitch. Nykyään onkin hyvin yleistä, että Twitch-streameista tehdään koosteita YouTubeen. YouTube tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja Super Chat-viestit (https://www.youtube.com/howyoutubeworks/product-features/monetization/?_gl=1*fiaaq5*_up*MQ..*_ga*MTIxMTgyNzcxOS4xNzAzNzYxMzA4*_ga_M0180HEFCY*MTcwMzc2MTMwNy4xLjAuMTcwMzc2MTMxMy4wLjAuMA..#overview). YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä toisin kun Twitchissä, jossa uusien streaamaajien voi olla todella vaikeaa löytää yleisöä.YouTube yhdistää streamauksen, videoiden jakamisen ja yhteisötoiminnot, tarjoten kattavan alustan sisällön levittämiseen ja yleisön sitouttamiseen.
+
+
+   Twitch VODien (Video on Demand) siirtäminen YouTubeen on hyvä käytänne useista syistä:
+
+   Twitch-streamien tallenteiden jakaminen YouTubessa auttaa tavoittamaan yleisöä eri tavalla kuin Twitch  ja tarjoaa samalla mahdollisuuden lisätuloihin YouTube-mainosten kautta, jos katsojia on tarpeeksi. Toisin kuin Twitchissä, jossa VODit poistetaan tietyssä ajassa, säilyttää YouTube sisällön pysyvästi, jolloin videot voivat kerätä uusia katsojia vielä vuosienkin jälkeen. Lisäksi kun Twitch-streamit siirretään YouTubeen, ne hyötyvät YouTuben hakukoneoptimoinnista (ks. SEO alla), joka voi parantaa sisällön löydettävyyttä ja houkutella uusia seuraajia.
+
+   
+   Molemmissa kanavissa on tärkeää panostaa houkuttelevaan ulkoasuun, selkeään kanavakuvauksen ja varmistaa, että kanavalla on SEO-ystävälliset avainsanat. Emme kurssin puitteissa mene kovinkaan syvälle hakukoneoptimointiin, mutta meidän on hyvä tutustua alla olevaan materiaaliin, jotta ainakin tiedämme, mistä on kyse.
+   - https://developers.google.com/search/docs/fundamentals/seo-starter-guide. 
+   - https://www.bu.edu/prsocial/best-practices/search-engine-optimization-seo-best-practices/
+   
+   Laadi selkeä suunnitelma siitä, mitä aiot streamata, mukaan lukien aiheet, formaatit ja aikataulutus. Kannusta vuorovaikutusta ja yhteisön rakentamista kommenttien, tykkäysten ja tilausten kautta. Tässä voisi olla hyvä vertaus oikeaan elämään. Jos sanot streamaavasi joka päivä, niin sinun tulisi näin myös tehdä, koska voi olla, että jotkut katsojat oikeasti odottavat alkavia streameja, ja onkin iso pettymuksen tunne, jos luvattu streami ei toteudukkaan. Sama pätee myös koulussa ja työpaikoilla. 
+
+   Käytä sosiaalista mediaa ja muita kanavia tiedottaaksesi tulevista streameista ja uusista videoista.
+
+
+
+   YouTube-Bannerit ja Grafiikat
+   Bannerin Koko ja Asettelu:
+
+   YouTube-kanavan bannerit (tunnetaan myös nimellä kanavataide) suositellaan olevan kokoa 2560 x 1440 pikseliä, keskellä turva-alueena 1546 x 423 pikseliä. Tämä varmistaa, että bannerin olennaiset elementit näkyvät eri laitteilla, kuten televisioissa,   tietokoneissa, tableteissa ja mobiililaitteissa.
+   Sisältö ja Tyyli:
+
+   Bannerien tulisi heijastaa kanavan teemaa ja sisältöä. Usein niihin sisältyy kanavan nimi, logo ja muita brändielementtejä.
+   Voit myös sisällyttää aikataulun, jos sinulla on säännöllisiä julkaisuaikoja, sekä kehotuksia toimintaan, kuten sosiaalisen median käyttäjätunnuksia.
+   Thumbnail-Grafiikat:
+
+   Mukautetut thumbnail-kuvat videoille ovat tärkeitä YouTubessa. Niiden tulisi olla huomiota herättäviä ja relevantteja videon sisällölle, yleensä 1280 x 720 pikselin resoluutiolla.
+   Johdonmukaisuus Kanavan Brändäyksessä:
+
+Grafiikat ja bannerit tulisi pitää linjassa kanavan yleisen brändäyksen ja tyylin kanssa yhtenäisen ilmeen ylläpitämiseksi.
+
+### Tehtäviä:
+
+   Tutustu alla oleviin materiaaleihin, josta löytyy tietoa youtuben peruskäytöstä sekä siitä, kuinka Twitchin VODeja lisätään Youtube-kanavalle.
+
+   https://kstatic.googleusercontent.com/files/6a52d1116197cb18ec9e18691e2b31b25676f7f4d8b37ad74fb56526034674aad137626f3331e9fc925a08dd9f3e1085a4b1a4e532f4e1fabec98ffd5e50f56d
+
+   https://tuberanker.com/blog/how-to-upload-twitch-stream-to-youtube
+
+
+  
 
 
 
