@@ -69,15 +69,16 @@
    Osallistumisen tulee olla selkeää ja sääntöjen tulee olla hyvissä ajoin selvillä. Miten rekisteröityminen toteutetaan? Ohjeet ja säännöt tulee olla kirjattuna.
 
 
-
 ## Faceit turnauspohjana
    
    Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmeneet tarvetta. Vanha ohje löytyy osoitteesta https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
 
    GradiaCupin kannaltta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
 
-## Tehtäviä:
+   ![Oman turnauksen luominen FaceIt-palvelussa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/assets/33627661/41b8d95a-faec-4206-a104-16981d52865b)
 
+
+## Tehtäviä:
 
 ### Suunnittelu 
 
@@ -86,6 +87,8 @@
    - Valitkaa peli, jota pelataan (esim. CS2, Dota 2). Meidän tapauksessa CS2.
    
    - Päättäkää turnauksen formaatti (esim. single-elimination, double-elimination, round robin).
+
+     ![Formaatin valinta on ratkaisevassa roolissa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Valitseturnausformaatti.png)
    
    - Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Onko muita työkaluja esim.   https://www.toornament.com/en_US/ tai https://challonge.com/fi/tournament/bracket_generator turnauksen hahmotteluun?
 
@@ -222,14 +225,15 @@
 
   2. Mikä on kytkin (switch)?
 
-   Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Kytkin on laite, jola kytketään useampi laite samaan laniin. Reititin operoi käyttämällä IP-osoitteita kun taas kytkin toimii tutkimalla MAC-osoitteita, jotka ovat tiedon siirron välineitä. Kytkin rakentaa taulun laitteista, jotka on kytketty kytkimen portteihin ja ohjaa tällä perusteella liikennettä.
+Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Kytkin on laite, jola kytketään useampi laite samaan laniin. Reititin operoi käyttämällä IP-osoitteita kun taas kytkin toimii tutkimalla MAC-osoitteita, jotka ovat tiedon siirron välineitä. Kytkin rakentaa taulun laitteista, jotka on kytketty kytkimen portteihin ja ohjaa tällä perusteella liikennettä.
 
 
-   Kuva kytkimestä: "C:\Users\vilbo\source\repos\E-urheilussa-toimiminen\Kuvat\OSImalli.png"
+![Kytkin](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png)
+Kuva perinteisestä kytkimestä, johon olette laineilla saattaneet törmätä.
 
-   Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli VLAN-verkkoihin, jolloin verkon liikennettä saadaan jaettua entisestään. Tämä edistää mm. tietoturvaa, koska verkot eivät juttele keskenään. Käyttännön esimerkkinä voitasiin pitää putkea, jonka sisällä on useampi eri värinen putki (nämä ovat siis WLANEJA). Hyötynä laajemmissa organisaatioissa voisi olla, että esim. Sähkö/ICT:llä olisi oma verkko, koska opiskelijat tarvitevat todennäköisesti verkkoa enemmän kuin jonkun toisen alan opiskelijat. Tai työelämässä esimerkiksi eri osastot kuten laskutus ja myynti saisivat omat virtuaaliset verkkonsa. 
+Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli VLAN-verkkoihin, jolloin verkon liikennettä saadaan jaettua entisestään. Tämä edistää mm. tietoturvaa, koska verkot eivät juttele keskenään. Käyttännön esimerkkinä voitasiin pitää putkea, jonka sisällä on useampi eri värinen putki (nämä ovat siis WLANEJA). Hyötynä laajemmissa organisaatioissa voisi olla, että esim. Sähkö/ICT:llä olisi oma verkko, koska opiskelijat tarvitevat todennäköisesti verkkoa enemmän kuin jonkun toisen alan opiskelijat. Tai työelämässä esimerkiksi eri osastot kuten laskutus ja myynti saisivat omat virtuaaliset verkkonsa. 
 
-   Pelilanien näkökulmasta edut ovat myös selkeitä. Jokainen laite saa oman kanavansa kun se liitetään kytkimeen ethernet-kaapelilla. Tilanne voi muutta jos siinä vaiheessa kun paikalle tulee pieni määrä yleisöä. Onko syytä jakaa verkko vierailla ja pelaajille erikseen, koska on suotavaa, että pelaajat saavat parhaan mahollisen kaistan pelejään varten. Pienemmissä tapahtumissa tätä tuskin tarvitsee miettiä, mutta usein tekniikan parissa tulee yllätyksiä, jos niihin ei varaudu. On myös hyvä miettiä laneja, joss pelejä ladataan paljon. Tilanne voisi olla seuraava: pelaajat keksivät, että he halauvat pelata porukassa peliä mitään kenelläkään ei ole. Verkon kannalta on todella huono homma, jos 20 ihmistä alkaa latamaan 40 gB:n kokoista peliä. Fiksumpaa onkin miettiä voisiko laneilla asentaa oman niin sanotun Lan-Cachen, johon ladataan peli kerran ja tämän jälkeen verkon sisällä hoidetaan pelin levittäminen. Omassa kotiverkossakin voi olla syytä miettiä ja olla tietoinen reitittimen asetuksista. Oman verkon tietoja Windows-koneella pääsee katsomaan ipconfig-komennolla.
+Pelilanien näkökulmasta edut ovat myös selkeitä. Jokainen laite saa oman kanavansa kun se liitetään kytkimeen ethernet-kaapelilla. Tilanne voi muutta jos siinä vaiheessa kun paikalle tulee pieni määrä yleisöä. Onko syytä jakaa verkko vierailla ja pelaajille erikseen, koska on suotavaa, että pelaajat saavat parhaan mahollisen kaistan pelejään varten. Pienemmissä tapahtumissa tätä tuskin tarvitsee miettiä, mutta usein tekniikan parissa tulee yllätyksiä, jos niihin ei varaudu. On myös hyvä miettiä laneja, joss pelejä ladataan paljon. Tilanne voisi olla seuraava: pelaajat keksivät, että he halauvat pelata porukassa peliä mitään kenelläkään ei ole. Verkon kannalta on todella huono homma, jos 20 ihmistä alkaa latamaan 40 gB:n kokoista peliä. Fiksumpaa onkin miettiä voisiko laneilla asentaa oman niin sanotun Lan-Cachen, johon ladataan peli kerran ja tämän jälkeen verkon sisällä hoidetaan pelin levittäminen. Omassa kotiverkossakin voi olla syytä miettiä ja olla tietoinen reitittimen asetuksista. Oman verkon tietoja Windows-koneella pääsee katsomaan ipconfig-komennolla.
 
    ```console
 
@@ -286,6 +290,8 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
    <b>Tehtävä</b> Selvitä mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat lanien kannalta? Mihin kerrokseen ne kuuluvat?
 
+   ![OSI-malli](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/OSImalli.png)
+   
    <b> Bonustehtävä</b> LanCache isommille laneille.
 
       Dockerin asennus: https://docs.docker.com/engine/install/ubuntu/#installation-methods
@@ -307,7 +313,6 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 
    Twitch Studio on hieman uudempi Twitchin oma työkalu, jonka vahvuuksia ovat käytön helppous, koska useat Twitchin toiminnallisuudet tai vaatimukset on integroitu studioon. Esimerkkeinä Twitch-tili, stream-avaimet, chat-integraatio ja varoitukset. Tutustutaan myös kyseisen työkalun toiminnallisuuksiin. Ohjeita saat katsomalla esimerkiksi https://www.youtube.com/watch?v=WnP4m0AWCRQ&ab_channel=CpawsMusic
-
 
 
 
@@ -389,7 +394,10 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
    Twitch on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena, mutta nykyäänn se tarjoaa myös monipuolista muuta sisältöä kuten taidetta, musiikkia ja erilaisia IRL-streameja.Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia "Biteillä"" tai suorilla lahjoituksilla. Lisäksi streamaajat voivat hakea Affiliate(https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)- tai Partner-ohjelmiin (https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US), jotka tarjoavat erilaisia lisäetuja, mutta vaativat streamilta myös enemmän.
 
-
+![Twitchin yleisnakyma](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchnakyma.png)
+   
+   
+   
    Kuva. Streamaajien eri tasot/sopimukset Twitchin kanssa.
 
 
@@ -401,6 +409,8 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
    - Luo aluksi Twitch-tili osoitteessa https://www.twitch.tv/, jos sinulla ei vielä sellaista ole. On myös syytä miettiä haluammeko käyttää omaa tiliämme vai luoda erillisen tunnuksen kurssia varten. Streamausta varten tarvitaan myös kaksivaiheinen tunnistautuminen (two-factor authentication).
    - Liitä streamausohjelmisto (OBS-studio) Twitchiin stream-avaimen avulla. Avaimen löydät Asetukset -> Lähetys -valikon takaa.
+     ![Lähetys](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchlahetys1.png)
+     ![Stream avain](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchlahetys2.png)
    - Varmista, että OBS:n puolella kaikki on kunnossa. Voit testata streamia menemättä live-tilaan.
    - Mene liveen! Testaillaan rohkeasti streamia omalla porukalla.
 
