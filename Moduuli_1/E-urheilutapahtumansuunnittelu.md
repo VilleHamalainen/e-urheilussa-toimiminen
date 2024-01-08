@@ -104,8 +104,8 @@
 
 ### Turnauksen Toteutus
 
-
    Varmistakaa, että kaikki osallistujat ymmärtävät pelisäännöt ja -asetukset.
+   
    Huolehtikaa, että kaikki tarvittavat tekniset asetukset ovat kunnossa ennen jokaista ottelua.
 
 ### Viestintä 
@@ -273,9 +273,9 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 ## Tehtäviä
 
-   <b>Tehtävä<b> Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapahtumille? Suunnitelkaa pienissä ryhmissä kyselomake Office 365 Formsia (https://forms.office.com/). Ottakaa huomioon erilaiset pelaajat (kilpailu vs yhteisöllisyys), eri peligenret ja tapahtuman luonne. Palauta kysely Moodlen työtilaan.
+   <b>Tehtävä</b> Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapahtumille? Suunnitelkaa pienissä ryhmissä kyselomake Office 365 Formsia (https://forms.office.com/). Ottakaa huomioon erilaiset pelaajat (kilpailu vs yhteisöllisyys), eri peligenret ja tapahtuman luonne. Palauta kysely Moodlen työtilaan.
 
-   <b>Tehtävä<b> Tutustu oman suosikkipelisi ikärajoihin. https://pelikasvatus.fi/ohje-ikarajajouston-soveltamisesta/. Kerro eri ikärajamerkinnöistä ja mitä ne tarkoittavat. Miten tämä tulee ottaa huomioon tapahtumien järjestämisessä.
+   <b>Tehtävä</b> Tutustu oman suosikkipelisi ikärajoihin. https://pelikasvatus.fi/ohje-ikarajajouston-soveltamisesta/. Kerro eri ikärajamerkinnöistä ja mitä ne tarkoittavat. Miten tämä tulee ottaa huomioon tapahtumien järjestämisessä.
 
    Tässä on linkki vuoden 2022 Gradia Cup toteutuksen dokumentaation [GradiaCup2022.docx](https://github.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua. 
 
@@ -468,12 +468,9 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
    Bannerien tulisi heijastaa kanavan teemaa ja sisältöä. Usein niihin sisältyy kanavan nimi, logo ja muita brändielementtejä.
    Voit myös sisällyttää aikataulun, jos sinulla on säännöllisiä julkaisuaikoja, sekä kehotuksia toimintaan, kuten sosiaalisen median käyttäjätunnuksia.
-   Thumbnail-Grafiikat:
+   Mukautetut thumbnail-kuvat videoille ovat tärkeitä YouTubessa. Niiden tulisi olla huomiota herättäviä ja relevantteja videon sisällölle.
+ 
 
-   Mukautetut thumbnail-kuvat videoille ovat tärkeitä YouTubessa. Niiden tulisi olla huomiota herättäviä ja relevantteja videon sisällölle, yleensä 1280 x 720 pikselin resoluutiolla.
-   Johdonmukaisuus Kanavan Brändäyksessä:
-
-Grafiikat ja bannerit tulisi pitää linjassa kanavan yleisen brändäyksen ja tyylin kanssa yhtenäisen ilmeen ylläpitämiseksi.
 
 ### Tehtäviä:
 
@@ -486,7 +483,6 @@ Grafiikat ja bannerit tulisi pitää linjassa kanavan yleisen brändäyksen ja t
 
 
 ## Streamauksen sisällöntuotanto ja yleisön kiinnittäminen
-
 
    https://www.youtube.com/watch?v=0i9gkprYekI&ab_channel=Ludwig
 

@@ -11,12 +11,7 @@
 Mitä kaikkea muuta e-urheilun ekosysteemiin kuuluu? 
 
 
-- <details><summary>Kuva ekosysteemistä</summary>
-
-- <details><summary>Detail 2</summary>
-
-</details>
-</details>
+- <details><summary>Kuva ekosysteemistä</summary></details>
 
 
 Lee, Je Seok & Steinkuehler, Constance. (2019). Esports as a catalyst for connected learning: the North America Scholastics Esports Federation. XRDS: Crossroads, The ACM Magazine for Students. 25. 54-59. 10.1145/3331075. 
