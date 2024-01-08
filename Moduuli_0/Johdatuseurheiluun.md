@@ -69,15 +69,13 @@ Kuva. Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herät
 
 Suomessa esportsin nousu on ollut osa maailmanlaajuista kehitystä. Suomessa on syntynyt useita menestyviä pelaajia ja joukkueita eri pelilajeissa, kuten Counter-Strike: Global Offensive, Dota 2 ja League of Legends. Lisäksi suomalaiset pelaajat ja joukkueet ovat saavuttaneet menestystä kansainvälisissä turnauksissa. Viimeaikaisia suuria suorituksia ovat mm. Jerax:n ja Topsonin Dota 2 TI -turnauksen voitot vuosina 2018 ja 2019. Eikä suinkaan unohdeta vuonna 2017 samaisen turnauksen voittanutta Matumbamania. Voitot tekivät kyseisitä pelaajista miljonäärejä. Encen CS:GO Majorin toinen sija vuonna 2019 oli myös huikea altavastaaja tarina, joka valitettavasti ei saanut jatkoa joukkueen pelillisen johtahan vaihtumisen myötä. Vaikka Star Craft 2 ei olekaan enää suosionsa huipulla voitanee todeta, että Serral yksi suurimmista e-urheilut tähdistä, joita Suomessa on koskaan ollut. Serralista tuli ensimmäinen Korean ulkopuolelta oleva pelaaja, joka voitti korkeimman tason (S-tier) Korealaisen StarCraft II turnauksen kun hän voitti GSL vs. The World vuonna 2018.
 
-Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman rankingeissa. Menestystä on tullut yksittäisille pelaajille PUBG:ssa, Valorantissa, Rainbow Six Siegess, Owerwatchissa, Fortnitessa, Lolissa, Hearthstonessa ja myös e
+Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman rankingeissa. Menestystä on tullut yksittäisille pelaajille PUBG:ssa, Valorantissa, Rainbow Six Siegessä, Owerwatchissa, Fortnitessa, Lolissa, Hearthstonessa ja myös elektronisissa ajopeleissä.
 
 Tarkempia tietoja tienesteistä voi katsoa osoitteesta https://www.esportsearnings.com/countries/fi
 
 Esports on kasvattanut suosiotaan myös koulutussektorilla, ja useat oppilaitokset tarjoavat nyt esports-ohjelmia ja stipendejä lahjakkaille pelaajille. Tästä seuraksena myös tutkinnon osa, jota olette tulleet opiskelemaan. Tämä on osaltaan edistänyt esportsin hyväksymistä virallisena urheilumuotona monissa maissa.
 
-Hankkeen sivut: https://coesports.gg/
-
-GamePit Pro: https://www.jamk.fi/fi/palvelut/tila-ja-ravintolapalvelut/gamepit-pro
+Tämäkin tutkinnon osa on tehty osaksi hanketta KSEOK-hanketta https://coesports.gg/
 
 Kaiken kaikkiaan esportsin matka marginaalista maailmanlaajuiseksi ilmiöksi on ollut nopea ja vaikuttava. Se on muuttunut perinteisestä harrastuksesta ammattimaiseksi toimialaksi, joka vaikuttaa monin tavoin kulttuuriin, talouteen ja urheilumaailmaan.
 
@@ -146,7 +144,7 @@ Vision omaperäisyys ja toteuttamiskelpoisuus.
 Tehkää suunnitelmasta muistio, jossa kerrotte visionne selkeästi kirjoittaen. Muistiot vaihdetaan muiden ryhmien kesken ja näistä keskustellaan.
 
 
-### Materiaaleja (todo organisoi):
+### Materiaaleja:
 
 Dokumentteja ja videoita e-urheilun varhaisista vaiheista, ensimmäisistä kilpapeleistä ja turnauksista.
 - History of e-sports 1 by ESL https://www.youtube.com/watch?v=D-S65ZUHig8&ab_channel=ESL 4 vuotta vanha video
