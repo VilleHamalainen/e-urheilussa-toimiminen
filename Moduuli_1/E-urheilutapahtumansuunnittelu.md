@@ -167,7 +167,7 @@
    Tiimit ja tehtävät: Selkeät roolit ja vastuualueet henkilöstölle ja vapaaehtoisille.
    Koulutus: Henkilöstön ja vapaaehtoisten koulutus ja perehdytys.
 
-   ![Alt text] ALL·E 2023-12-15 16.37.32 - Illustrate a detailed LAN gaming room focusing on its technical aspects. The room should have multiple gaming stations with high-end computers and mon.png"
+  ![Tekoälyn näkemys lanista](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png)
    Kuva. Kuva futuristisesta lanialueesta. Milloin Gradialle saadaan tälläinen?
 
 
@@ -176,6 +176,7 @@
    
    - https://en.wikipedia.org/wiki/Local_area_network
 
+![Tekoälyn näkemys lanista ja eri laitteista](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-21%2010.36.12%20-%20Create%20an%20illustrative%20and%20educational%20image%20of%20a%20Local%20Area%20Network%20(LAN).%20Include%20a%20central%20switch%20connected%20to%20various%20devices%20via%20LAN%20cables.%20The%20.png)
    Lanissa tapahtuva pelaaminen voi olla pieniä kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa vanhempien poissaollessa. Toisaalta taas Lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteututettu ammattitason tapahtuma. Periaattessa lanin koosta riippumatta käytössä on yleensä liittymäkohta internettiin, vaikka tämä ei vaatimus olekaan. Yhtyden internetin ja lanin välillä hoitaa Reitin (Router). Reititin on tärkeä verkkolaite, joka on keskeisessä roolissa siinä, miten data liikkuu tietokoneesi ja internetin välillä. 
 
    1. Mikä on Reititin (Router)?
