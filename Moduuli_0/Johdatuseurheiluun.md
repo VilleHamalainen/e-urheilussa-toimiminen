@@ -62,7 +62,7 @@ Lähde: https://escharts.com/top-games?order=peak
 ![E-urheilun evoluutio](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png)
 
 
-Kuva. Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
+Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
 
 
 ## E-urheilu Suomessa
