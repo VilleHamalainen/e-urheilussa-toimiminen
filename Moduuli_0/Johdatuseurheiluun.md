@@ -69,9 +69,10 @@ Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
 
 Suomessa esportsin nousu on ollut osa maailmanlaajuista kehitystä. Suomessa on syntynyt useita menestyviä pelaajia ja joukkueita eri pelilajeissa, kuten Counter-Strike: Global Offensive, Dota 2 ja League of Legends. Lisäksi suomalaiset pelaajat ja joukkueet ovat saavuttaneet menestystä kansainvälisissä turnauksissa. Viimeaikaisia suuria suorituksia ovat mm. Jerax:n ja Topsonin Dota 2 TI -turnauksen voitot vuosina 2018 ja 2019. Eikä suinkaan unohdeta vuonna 2017 samaisen turnauksen voittanutta Matumbamania. Voitot tekivät kyseisitä pelaajista miljonäärejä. Encen CS:GO Majorin toinen sija vuonna 2019 oli myös huikea altavastaaja tarina, joka valitettavasti ei saanut jatkoa joukkueen pelillisen johtahan vaihtumisen myötä. Vaikka Star Craft 2 ei olekaan enää suosionsa huipulla voitanee todeta, että Serral yksi suurimmista e-urheilut tähdistä, joita Suomessa on koskaan ollut. Serralista tuli ensimmäinen Korean ulkopuolelta oleva pelaaja, joka voitti korkeimman tason (S-tier) Korealaisen StarCraft II turnauksen kun hän voitti GSL vs. The World vuonna 2018.
 
-Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman rankingeissa. Menestystä on tullut yksittäisille pelaajille PUBG:ssa, Valorantissa, Rainbow Six Siegessä, Owerwatchissa, Fortnitessa, Lolissa, Hearthstonessa ja myös elektronisissa ajopeleissä.
+Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman rankingeissa. Menestystä on tullut yksittäisille pelaajille PUBG:ssa, Valorantissa, Rainbow Six Siegessä, Owerwatchissa, Fortnitessa, Lolissa, Hearthstonessa ja myös elektronisissa ajopeleissä. Tarkempia tietoja tienesteistä voi katsoa osoitteesta https://www.esportsearnings.com/countries/fi.
 
-Tarkempia tietoja tienesteistä voi katsoa osoitteesta https://www.esportsearnings.com/countries/fi
+Hieno tarina Suomalaisten menestyksestä on esimerkiksi Dota 2: The International kooste. [![The International 2018](http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg)](https://www.youtube.com/watch?v=Bv4CqIxqTMA "True Sight : The International 2018 Finals")
+
 
 Esports on kasvattanut suosiotaan myös koulutussektorilla, ja useat oppilaitokset tarjoavat nyt esports-ohjelmia ja stipendejä lahjakkaille pelaajille. Tästä seuraksena myös tutkinnon osa, jota olette tulleet opiskelemaan. Tämä on osaltaan edistänyt esportsin hyväksymistä virallisena urheilumuotona monissa maissa.
 
@@ -125,8 +126,7 @@ Markkinoiden muutos. Aasia on jo nyt yksi e-urheilun suurimmista markkinoista, j
 Uudet peligenret, kuten AR/VR-pohjaiset pelit, voivat luoda uusia kilpailumuotoja e-urheiluun. Näiden pelien erityispiirteet, kuten tilan ja liikkeen hyödyntäminen, tarjoavat uusia haasteita ja mahdollisuuksia pelaajille.
 E-urheilun kilpailut voivat laajentua yhä enemmän kattamaan erilaisia genrejä ja pelityylejä, mukaan lukien mobiilipelit, jotka ovat erityisen suosittuja kehittyvillä markkinoilla. 
 
-
-Myös erilaiset tapahtumat ja kilpailut voivat olla tulevaisuudessa suosittija. Yhdistämällä fyysisiä ja virtuaalisia elementtejä, e-urheilutapahtumat voivat luoda hybridimuotoja, jotka tarjoavat ainutlaatuisia kokemuksia sekä paikan päällä että verkossa oleville katsojille. Youtubesta voi jo nyt katsoa streamaajien välisiä otteluita, joissa nyrkkeillään ja pelataan shakkia. 
+Myös erilaiset tapahtumat ja kilpailut voivat olla tulevaisuudessa suosittuja. Yhdistämällä fyysisiä ja virtuaalisia elementtejä, e-urheilutapahtumat voivat luoda hybridimuotoja, jotka tarjoavat ainutlaatuisia kokemuksia sekä paikan päällä että verkossa oleville katsojille. Youtubesta voi jo nyt katsoa streamaajien välisiä otteluita, joissa nyrkkeillään ja pelataan shakkia. 
 
 E-urheilun kasvava suosio voi johtaa uusien koulutus- ja harjoitusympäristöjen kehittymiseen, jotka tukevat pelaajien ammatillista kehitystä.
 
