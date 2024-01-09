@@ -147,9 +147,8 @@ Tehkää suunnitelmasta muistio, jossa kerrotte visionne selkeästi kirjoittaen.
 ### Materiaaleja:
 
 Dokumentteja ja videoita e-urheilun varhaisista vaiheista, ensimmäisistä kilpapeleistä ja turnauksista.
-- History of e-sports 1 by ESL https://www.youtube.com/watch?v=D-S65ZUHig8&ab_channel=ESL 4 vuotta vanha video
-- History of e-sports 2 by ESL https://www.youtube.com/watch?v=cKOTolQQ3Lw&ab_channel=ESL 4 vuotta vanha video*
-- "Good Luck Have Fun: The Rise of eSports" 
+- History of e-sports 1 by ESL https://www.youtube.com/watch?v=D-S65ZUHig8&ab_channel=ESL
+- History of e-sports 2 by ESL https://www.youtube.com/watch?v=cKOTolQQ3Lw&ab_channel=ESL
 - Paljonko interneyhteyksiä on ollut: https://www.oecd.org/digital/ieconomy/48255770.pdf
 - Wasd- Quake, John Carmack https://www.youtube.com/watch?v=iIhmeRfmQns&ab_channel=theScoreesports
  https://www.oecd.org/digital/ieconomy/48255770.pdf
