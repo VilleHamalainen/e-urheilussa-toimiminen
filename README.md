@@ -1,4 +1,4 @@
-# Gradia E-Urheilun Osaamiskeskittymä
+# Gradianm rooli E-Urheilun ssaamiskeskittymässsä
 
 ## Johdanto
 Gradian näkökulmasta. Tämä hanke keskittyy elinkeinoelämän tarpeiden ja toiveiden tunnistamiseen oppilaitosyhteistyössä, erityisesti e-urheilijapolun suunnittelussa ja kehittämisessä.
@@ -26,3 +26,4 @@ Tämän hankkeen päätavoitteena on luoda vahva perusta tulevaisuuden e-urheilu
 
 Lisätietoja: Lisätietoja hankkeesta ja sen edistymisestä löytyy Gradia Osaamiskeskittymän verkkosivuilta ja julkaisuista. Olemme sitoutuneet tarjoamaan ajantasaista ja hyödyllistä tietoa kaikille sidosryhmillemme.
 
+https://coesports.gg/
