@@ -451,6 +451,10 @@ Streamaajien eri tasot/sopimukset Twitchin kanssa.
    <b>Palauta raportti ja linkki tallennettuun suoratoistolähetykseen</b> Moodlen työtilaan. Varmista, että linkki on toimiva ja että se sisältää koko 15 minuutin  lähetyksen.
 
 
+### Twitchin pimeä puoli
+
+https://areena.yle.fi/1-66964296
+
 
 ## Youtube
 
