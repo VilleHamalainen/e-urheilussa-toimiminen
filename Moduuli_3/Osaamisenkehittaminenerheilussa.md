@@ -23,17 +23,27 @@ Ampumisen lisäksi muita osa-alueita ovat esimerkiksi:
 
 Karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkuueelle. 
 
-Tiimityöskentely ja kommunikaatio ovat usein (opettajan uskomus) ylikatsottuja asioita varsinkin nuorempien pelaajien osalta. Kommunikaatio ei ole tarkkaa tiedettä ja joukkeilla onkin erilaisia tapoja kommunikoida. Alla esimerkki Navi ja Vitalityn välisestä kommunikaatiosta.
+Tiimityöskentely ja kommunikaatio ovat usein (opettajan uskomus) ylikatsottuja asioita varsinkin nuorempien pelaajien osalta. Kommunikaatio ei ole tarkkaa tiedettä ja joukkeilla onkin erilaisia tapoja kommunikoida.
 
-[![Esimerkki kommunkaatiosta Navi - Vitality](http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU "Team Comms: NaVi takes apart Vitality with English Subs")
+## Tehtäviä
 
-## Tehtävä
-
-Analysoi parin kanssa Navi-Vitality peli kommunikaatiota. Vastatkaa ainakin seuraaviin kysymyksiin:
+1. Analysoi parin kanssa Navi-Vitality pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
 Millaisia erilaisia kommunikaatiotilanteita tunnistatte? Esimerkiksi onko kierroksen alussa, keskellä ja lopussa tapahtuvalla kommunikaatiolla eroja?
 Onko joukkueen strategia erän aikana selkeä? Toimiiko kommunikaatio selkeästi?
 Näkyykö paine kommunikaatiosa missään vaiheessa? Onko kommuikaatio erilaista alussa kuin lopun clutch-tilanteessa?
 Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
+
+[![Esimerkki kommunkaatiosta Navi - Vitality](http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU "Team Comms: NaVi takes apart Vitality with English Subs")
+
+2. Analysoi parin kanssa Faze-G2 pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
+Huomaatteko joukkueiden kommunikaatiossa selkeitä eroja?
+Tunnistatteko eroja joukkueiden välillä, jotka puhuvat natiivisti samaa kieltä vs kaikki puhuvat englantia?
+Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputulokseen?
+
+  
+[![Esimerkki kommunkaatiosta Faze - G2"](http://img.youtube.com/vi/8owi_WvrGuk/0.jpg)](https://www.youtube.com/watch?v=8owi_WvrGuk "Team Comms: JKS and ROPZ 2v5 IEM Katowice 2022")
+
+
 
 Nykyään on kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi:
 1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
