@@ -98,10 +98,10 @@
    
    Perustakaa turnaus FACEIT:ssä käyttäen palvelun turnaustyökaluja.
    
-   Ohje turnauksen luomiseen https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
-   Ohje turnaukseen liittymiseen https://support.faceit.com/hc/en-us/articles/360010716659
-   Ohje aikataulun luomiseen https://support.faceit.com/hc/en-us/articles/360010717279
-   Ohje otteluiden konffaukseen https://support.faceit.com/hc/en-us/articles/360010717799
+   - Ohje turnauksen luomiseen https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
+   - Ohje turnaukseen liittymiseen https://support.faceit.com/hc/en-us/articles/360010716659
+   - Ohje aikataulun luomiseen https://support.faceit.com/hc/en-us/articles/360010717279
+   - Ohje otteluiden konffaukseen https://support.faceit.com/hc/en-us/articles/360010717799
    
    Tässä vaiheessa voimme testailla turnauksen toimintaa admin tasolla ja voimme testata turnausta muutammalla joukkueella ja pelata esim. bo3 pelin ja tutustua FaceItin toimintaan.
 
@@ -168,7 +168,7 @@
    Koulutus: Henkilöstön ja vapaaehtoisten koulutus ja perehdytys.
 
   ![Tekoälyn näkemys lanista](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png)
-   Kuva. Kuva futuristisesta lanialueesta. Milloin Gradialle saadaan tälläinen?
+Kuva futuristisesta lanialueesta. Milloin Gradialle saadaan tälläinen?
 
 
 
@@ -230,6 +230,7 @@ Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Ky
 
 
 ![Kytkin](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png)
+
 Kuva perinteisestä kytkimestä, johon olette laineilla saattaneet törmätä.
 
 Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli VLAN-verkkoihin, jolloin verkon liikennettä saadaan jaettua entisestään. Tämä edistää mm. tietoturvaa, koska verkot eivät juttele keskenään. Käyttännön esimerkkinä voitasiin pitää putkea, jonka sisällä on useampi eri värinen putki (nämä ovat siis WLANEJA). Hyötynä laajemmissa organisaatioissa voisi olla, että esim. Sähkö/ICT:llä olisi oma verkko, koska opiskelijat tarvitevat todennäköisesti verkkoa enemmän kuin jonkun toisen alan opiskelijat. Tai työelämässä esimerkiksi eri osastot kuten laskutus ja myynti saisivat omat virtuaaliset verkkonsa. 
@@ -396,10 +397,7 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
    Twitch on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena, mutta nykyäänn se tarjoaa myös monipuolista muuta sisältöä kuten taidetta, musiikkia ja erilaisia IRL-streameja.Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia "Biteillä"" tai suorilla lahjoituksilla. Lisäksi streamaajat voivat hakea Affiliate(https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)- tai Partner-ohjelmiin (https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US), jotka tarjoavat erilaisia lisäetuja, mutta vaativat streamilta myös enemmän.
 
 ![Twitchin yleisnakyma](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchnakyma.png)
-   
-   
-   
-   Kuva. Streamaajien eri tasot/sopimukset Twitchin kanssa.
+Streamaajien eri tasot/sopimukset Twitchin kanssa.
 
 
    <b>Mitä Streamaus Twitchissä vaatii?</b>
