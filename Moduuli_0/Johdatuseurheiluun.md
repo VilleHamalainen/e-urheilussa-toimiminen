@@ -91,11 +91,15 @@ Tämäkin tutkinnon osa on tehty osaksi hanketta KSEOK-hanketta https://coesport
 
 Kaiken kaikkiaan esportsin matka marginaalista maailmanlaajuiseksi ilmiöksi on ollut nopea ja vaikuttava. Se on muuttunut perinteisestä harrastuksesta ammattimaiseksi toimialaksi, joka vaikuttaa monin tavoin kulttuuriin, talouteen ja urheilumaailmaan.
 
+## Suomalaiset e-urheilukaupungit
 
-## Espoo 
+Myös Suomessa eri koulutusalojen toimijat ovat heränneet e-urheiluun. Ei varmaan ole täysin utopistinen ajatus, että muutaman vuosikymmenen kuluttua nuoret ovat mukana jalkapallon nappulaliigan lisäksi myös jossain e-urheiluun liittyvässä toiminnassa tai sitten toiminta on integroitu osaksi nuorien urheiluntoimintaa. Mene ja tiedä, mutta Suomessa varsinkin Espoo on nostanut profiiliaan e-urheilun kaupunkina. Osoituksena tästä myös 2023 vuoden lopulla järjestetty Elisa Masters Espoo, joka sai houkuteltua paikalle huippujoukkueita ympäri maailman. Omnia https://www.omnia.fi/koulutustarjonta/urheiluoppilaitos-sportomnia
 
-Katowicesta mallia.
-https://www.espoo.fi/fi/uutiset/2023/12/heimo-esports-tuo-e-urheilun-harrastusmahdollisuuksia-espooseen
+
+Myös Tampereella AhlmanEdu tarjoaa koulutusta e-urheilun saralla https://www.mtvuutiset.fi/artikkeli/suomessa-on-yksi-koulu-jossa-voi-opiskella-e-urheilun-ammattilaiseksi-mtv-selvitti-mihin-silla-tahdataan/8716096#gs.2hmh4p
+
+Aaltoyliopisto https://gamesnow.aalto.fi/gn-lectures-2023-24/ 
+
 
 
 ## Tehtäviä
@@ -148,7 +152,7 @@ Myös erilaiset tapahtumat ja kilpailut voivat olla tulevaisuudessa suosittuja. 
 E-urheilun kasvava suosio voi johtaa uusien koulutus- ja harjoitusympäristöjen kehittymiseen, jotka tukevat pelaajien ammatillista kehitystä.
 
 
-### Tehtäviä (pareittain tai pienissä ryhmissä)
+## Tehtäviä (pareittain tai pienissä ryhmissä)
 
 Tutustukaa aikaisemman teorian lisäksi itse nykyisiin ja tuleviin trendeihin. Muten uudet teknologiat, markkinoiden muutokset ja peligenrejen monipuolistuminen voivat luoda uusia mahdollisuuksia ja haasteita? 
 
