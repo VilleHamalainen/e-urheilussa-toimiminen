@@ -92,6 +92,12 @@ Tämäkin tutkinnon osa on tehty osaksi hanketta KSEOK-hanketta https://coesport
 Kaiken kaikkiaan esportsin matka marginaalista maailmanlaajuiseksi ilmiöksi on ollut nopea ja vaikuttava. Se on muuttunut perinteisestä harrastuksesta ammattimaiseksi toimialaksi, joka vaikuttaa monin tavoin kulttuuriin, talouteen ja urheilumaailmaan.
 
 
+## Espoo 
+
+Katowicesta mallia.
+https://www.espoo.fi/fi/uutiset/2023/12/heimo-esports-tuo-e-urheilun-harrastusmahdollisuuksia-espooseen
+
+
 ## Tehtäviä
 
 ### Minä e-urheilijana ja pelaajana (yksilötehtävä)
