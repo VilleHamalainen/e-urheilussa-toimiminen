@@ -5,12 +5,41 @@
 
 E-urheilu ei periaatessa erio perinteisestä urheilusta niin paljon kuin voisi kuvitella. Pelien pelaaminen ja niissä kilpaileminen vaativat taitoa, strategiaa ja henkistä kanttia. Tässä tutkinnon osassa keskustelemme asioista Counter Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tottakai pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa HearthStonea ja Counterstrikea suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
 
+Pelitaitojen tai pelimekaanikan kehittäminen on yksi perusvaatimuksista pelissä pärjäämiselle. Ampumapeleissä luonnollisesti ensimmäinen asia on tähtääminen mahdollisimman nopeasti ja tarkasti vastustajaan. Tähän on kehitetty omia uusia työkaluja, joiden avulla ns. "1st bullet accuracya" voidaan kehittää. Nopea ja tarkka apuminen on kuitenkin vain yksi osa kilpapelaamista ja ampumistyylejä on esimerkiksi Counter Strikessa erilaisia ja parhaat pelaajat hyödyntävät niitä eri tilanteissa eri tavoilla. Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaniinen osaaminen ei yksin riitä huipulle asti vaan myös muita ominaisuuksia vaaditaan.
 
 <center>
 
 [![Aimin parantaminen](http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg)](https://www.youtube.com/watch?v=1vN2H0rzd5U "Aimin parantaminen")
 
 </center>
+
+Ampumisen lisäksi muita osa-alueita ovat esimerkiksi:
+
+Karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti.
+Tiimityöskentely ja kommunikaatio ovat usein (opettajan uskomus) ylikatsottuja asioita varsinkin nuorempien pelaajien osalta. Tämä voikin olla yksi este ammattiunelmille tai pelissä kehittymiselle, koska kuten Styko mainsitseekin, niin nykyään on kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi
+1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
+2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukuueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit. 
+
+Tästä päästäänkin strategioihin ja taktiikoihin, joita yksilötasolla on vaikeampi suunnitella ja toteuttaa. Yksilönä voit joutua peleissä tekemään ns. omia pelejä, koska joukkukaverit eivät ole kiinnostuneita kommunikoimaan ja pelaamaan joukkueen eteen. Tämä ei välttämättä ole huono asia, mutta pelaajille, jotka haaveilevat ammattilaisuudesta tämä tuottaa varmasti haasteita ja vaatii myöhemmin paljon oppimista. 
+
+
+Nopea tilanteiden hahmottaminen on elintärkeä osa ja varsinkin pelien huiput erottuvat nimenomaan tässä taidossa ja usein harrastajalle voikin näyttää, että pelaaja näkee jopa seinien läpi, mutta todellisuudessa tuhansin tuntien kautta tuleva kokemus antaa huipuille ideoita ja todennäköisyyksiä sille, missä pelaajat ovat. Tässä palataan myös joukkuepelaamiseen ja tiedon jakamiseen pelaajien kesken. Usein nopeissa pelitilanteissa voikin olla hyödyllistä sanoa, että "pelaaja x on yleensä pelannut eri paikassa, joten varo yllättäviä tilanteita" tai "sinulla on enää 5 ammusta jäljellä", koska usein pelin tiimellyksessä nämä asiat saattavat unohtua. Tälle kursille onkin valikoitunut paljon materiaalia Stykolta, joka ei ole se tyypillisin huippupelaaja ja hän onkin joutunut vaihtamaan joukkuetta usein ja myös kokenut urallaan paljon kritiikkiä ja tästä syystä joutunut miettimään peliä usealta eri kantilta.
+
+
+How to improve like Niko
+https://www.youtube.com/watch?v=g1pzQ0BN5ys&ab_channel=STYKO
+
+How to improve faster
+https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO
+
+How pros do it
+https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO
+
+
+
+Styko demokatselmus
+
+https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO
 
 
 ## Oman brandin rakentaminen
@@ -141,17 +170,4 @@ Morning: Lecture on healthy lifestyle.
 Afternoon: Networking strategies and goal-setting workshop.
 This course aims to provide a holistic approach to improving as an esports athlete, combining skill development with mental, physical, and strategic training. The practical tasks encourage active participation and real-world application of the learned concepts.
 
-How to improve like Niko
-https://www.youtube.com/watch?v=g1pzQ0BN5ys&ab_channel=STYKO
 
-How to improve faster
-https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO
-
-How pros do it
-https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO
-
-
-
-Styko demokatselmus
-
-https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO
