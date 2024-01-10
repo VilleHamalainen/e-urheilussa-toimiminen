@@ -491,7 +491,7 @@ Streamaajien eri tasot/sopimukset Twitchin kanssa.
 
 
 
-## Streamauksen sisällöntuotanto ja yleisön kiinnittäminen
+## Streamauksen sisällöntuotanto ja yleisön kiinnittäminen (Jamk?)
 
    https://www.youtube.com/watch?v=0i9gkprYekI&ab_channel=Ludwig
 
