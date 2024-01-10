@@ -5,9 +5,12 @@
 
 E-urheilu ei periaatessa erio perinteisestä urheilusta niin paljon kuin voisi kuvitella. Pelien pelaaminen ja niissä kilpaileminen vaativat taitoa, strategiaa ja henkistä kanttia. Tässä tutkinnon osassa keskustelemme asioista Counter Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tottakai pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa HearthStonea ja Counterstrikea suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
 
-Ensimmäinen ja oleellisin tapa 
 
-https://www.youtube.com/watch?v=1vN2H0rzd5U&ab_channel=STYKO
+<center>
+
+[![Aimin parantaminen](http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg)](https://www.youtube.com/watch?v=1vN2H0rzd5U "Aimin parantaminen")
+
+</center>
 
 
 ## Oman brandin rakentaminen
