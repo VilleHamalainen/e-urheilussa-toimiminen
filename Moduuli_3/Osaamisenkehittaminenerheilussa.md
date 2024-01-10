@@ -11,7 +11,7 @@ Esimerkiksi Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tap
 
 Ampumisessa voidaan puhua lisäksi liikkuvan kohteen seuraamisesta varsinkin burst tai spray ampumatyyleissä ja nopeista reaktiotilanteista, joissa pelaaja "flickkaa" tähtäimen millisekunneissa eri kohtaan kuin missä se alunperin oli.
 
-Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaniinen osaaminen ei yksin riitä huipulle asti vaan myös muita ominaisuuksia vaaditaan.
+Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaniinen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.
 
 <center>
 
@@ -21,15 +21,29 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
 
 Ampumisen lisäksi muita osa-alueita ovat esimerkiksi:
 
-Karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein 
+Karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkuueelle. 
 
+Tiimityöskentely ja kommunikaatio ovat usein (opettajan uskomus) ylikatsottuja asioita varsinkin nuorempien pelaajien osalta. Kommunikaatio ei ole tarkkaa tiedettä ja joukkeilla onkin erilaisia tapoja kommunikoida. Alla esimerkki Navi ja Vitalityn välisestä kommunikaatiosta.
 
-Tiimityöskentely ja kommunikaatio ovat usein (opettajan uskomus) ylikatsottuja asioita varsinkin nuorempien pelaajien osalta. Tämä voikin olla yksi este ammattiunelmille tai pelissä kehittymiselle, koska kuten Styko mainsitseekin, niin nykyään on kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi
+[![Esimerkki kommunkaatiosta Navi - Vitality](http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU "Team Comms: NaVi takes apart Vitality with English Subs")
+
+## Tehtävä
+
+Analysoi parin kanssa Navi-Vitality peli kommunikaatiota. Vastatkaa ainakin seuraaviin kysymyksiin:
+Millaisia erilaisia kommunikaatiotilanteita tunnistatte? Esimerkiksi onko kierroksen alussa, keskellä ja lopussa tapahtuvalla kommunikaatiolla eroja?
+Onko joukkueen strategia erän aikana selkeä? Toimiiko kommunikaatio selkeästi?
+Näkyykö paine kommunikaatiosa missään vaiheessa? Onko kommuikaatio erilaista alussa kuin lopun clutch-tilanteessa?
+Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
+
+Nykyään on kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi:
 1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
 2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukuueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit. 
 
 Tästä päästäänkin strategioihin ja taktiikoihin, joita yksilötasolla on vaikeampi suunnitella ja toteuttaa. Yksilönä voit joutua peleissä tekemään ns. omia pelejä, koska joukkukaverit eivät ole kiinnostuneita kommunikoimaan ja pelaamaan joukkueen eteen. Tämä ei välttämättä ole huono asia, mutta pelaajille, jotka haaveilevat ammattilaisuudesta tämä tuottaa varmasti haasteita ja vaatii myöhemmin paljon oppimista. 
 
+Utility
+
+Roolit pelin sisällä ja niistä keskustelu
 
 Nopea tilanteiden hahmottaminen on elintärkeä osa ja varsinkin pelien huiput erottuvat nimenomaan tässä taidossa ja usein harrastajalle voikin näyttää, että pelaaja näkee jopa seinien läpi, mutta todellisuudessa tuhansin tuntien kautta tuleva kokemus antaa huipuille ideoita ja todennäköisyyksiä sille, missä pelaajat ovat. Tässä palataan myös joukkuepelaamiseen ja tiedon jakamiseen pelaajien kesken. Usein nopeissa pelitilanteissa voikin olla hyödyllistä sanoa, että "pelaaja x on yleensä pelannut eri paikassa, joten varo yllättäviä tilanteita" tai "sinulla on enää 5 ammusta jäljellä", koska usein pelin tiimellyksessä nämä asiat saattavat unohtua. Tälle kursille onkin valikoitunut paljon materiaalia Stykolta, joka ei ole se tyypillisin huippupelaaja ja hän onkin joutunut vaihtamaan joukkuetta usein ja myös kokenut urallaan paljon kritiikkiä ja tästä syystä joutunut miettimään peliä usealta eri kantilta.
 
