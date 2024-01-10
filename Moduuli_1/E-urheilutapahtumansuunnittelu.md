@@ -75,7 +75,7 @@
 
    GradiaCupin kannaltta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
 
-   ![Oman turnauksen luominen FaceIt-palvelussa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/assets/33627661/41b8d95a-faec-4206-a104-16981d52865b)
+   ![Oman turnauksen luominen FaceIt-palvelussa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/Luoturnaus.png)
 
 
 ## Tehtäviä:
