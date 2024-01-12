@@ -458,7 +458,9 @@ https://areena.yle.fi/1-66964296
 
 ## Youtube
 
-   YouTube on yksi maailman käytetyimmistä videonjakopalveluista, joka tavoittaa yleisöä hieman eri tavalla kuin Twitch. Nykyään onkin hyvin yleistä, että Twitch-streameista tehdään koosteita YouTubeen. YouTube tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja Super Chat-viestit (https://www.youtube.com/howyoutubeworks/product-features/monetization/?_gl=1*fiaaq5*_up*MQ..*_ga*MTIxMTgyNzcxOS4xNzAzNzYxMzA4*_ga_M0180HEFCY*MTcwMzc2MTMwNy4xLjAuMTcwMzc2MTMxMy4wLjAuMA..#overview). YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä toisin kun Twitchissä, jossa uusien streaamaajien voi olla todella vaikeaa löytää yleisöä.YouTube yhdistää streamauksen, videoiden jakamisen ja yhteisötoiminnot, tarjoten kattavan alustan sisällön levittämiseen ja yleisön sitouttamiseen.
+   YouTube on yksi maailman käytetyimmistä videonjakopalveluista, joka tavoittaa yleisöä hieman eri tavalla kuin Twitch. Nykyään onkin hyvin yleistä, että Twitch-streameista tehdään koosteita YouTubeen. YouTube tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja superchat-viestit. YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä toisin kun Twitchissä, jossa uusien streaamaajien voi olla todella vaikeaa löytää yleisöä.YouTube yhdistää streamauksen, videoiden jakamisen ja yhteisötoiminnot, tarjoten kattavan alustan sisällön levittämiseen ja yleisön sitouttamiseen.
+
+   Todo: tutustu https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ youtubecreators ohjeita kaikenlaiseen tekemiseen.
 
 
    Twitch VODien (Video on Demand) siirtäminen YouTubeen on hyvä käytänne useista syistä:
