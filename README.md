@@ -1,4 +1,4 @@
-# E-urheilussa toimimisen tutkinnon osa ja hankkeen kuvaus
+# E-urheilussa toimimisen tutkinnon osa ja KESOK-hankkeen kuvaus
 
 ## Johdanto
 Gradia keskittyy hankeessa elinkeinoelämän tarpeiden ja toiveiden tunnistamiseen ja pyrkii luomaan pohjan e-urheilussa toimimisen tutkinnon osan avulla.
