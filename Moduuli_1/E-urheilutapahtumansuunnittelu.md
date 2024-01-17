@@ -78,7 +78,7 @@
    ![Oman turnauksen luominen FaceIt-palvelussa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Luoturnaus.png)
 
 
-## Tehtäviä:
+## Tehtäviä
 
 ### Suunnittelu 
 
@@ -487,7 +487,7 @@ https://areena.yle.fi/1-66964296
  
 
 
-### Tehtäviä:
+### Tehtäviä
 
    Tutustu alla oleviin materiaaleihin, josta löytyy tietoa youtuben peruskäytöstä sekä siitä, kuinka Twitchin VODeja lisätään Youtube-kanavalle.
 
