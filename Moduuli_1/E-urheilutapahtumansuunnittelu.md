@@ -78,6 +78,7 @@
    ![Oman turnauksen luominen FaceIt-palvelussa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Luoturnaus.png)
 
 
+
 ## Tehtäviä
 
 ### Suunnittelu 
@@ -89,7 +90,9 @@
    - Päättäkää turnauksen formaatti (esim. single-elimination, double-elimination, round robin).
 
      ![Formaatin valinta on ratkaisevassa roolissa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Valitseturnausformaatti.png)
-   
+	
+
+
    - Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Onko muita työkaluja esim.   https://www.toornament.com/en_US/ tai https://challonge.com/fi/tournament/bracket_generator turnauksen hahmotteluun?
 
 ### Rekisteröityminen ja joukkueiden muodostaminen
@@ -168,8 +171,8 @@
    Koulutus: Henkilöstön ja vapaaehtoisten koulutus ja perehdytys.
 
   ![Tekoälyn näkemys lanista](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png)
-Kuva futuristisesta lanialueesta. Milloin Gradialle saadaan tälläinen?
-
+	
+ 
 
 
 ## Esports lanin(local area network) perusteet
@@ -177,6 +180,9 @@ Kuva futuristisesta lanialueesta. Milloin Gradialle saadaan tälläinen?
    - https://en.wikipedia.org/wiki/Local_area_network
 
 ![Tekoälyn näkemys lanista ja eri laitteista](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-21%2010.36.12%20-%20Create%20an%20illustrative%20and%20educational%20image%20of%20a%20Local%20Area%20Network%20(LAN).%20Include%20a%20central%20switch%20connected%20to%20various%20devices%20via%20LAN%20cables.%20The%20.png)
+	
+
+ 
    Lanissa tapahtuva pelaaminen voi olla pieniä kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa vanhempien poissaollessa. Toisaalta taas Lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteututettu ammattitason tapahtuma. Periaattessa lanin koosta riippumatta käytössä on yleensä liittymäkohta internettiin, vaikka tämä ei vaatimus olekaan. Yhtyden internetin ja lanin välillä hoitaa Reitin (Router). Reititin on tärkeä verkkolaite, joka on keskeisessä roolissa siinä, miten data liikkuu tietokoneesi ja internetin välillä. 
 
    1. Mikä on Reititin (Router)?
@@ -231,7 +237,7 @@ Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Ky
 
 ![Kytkin](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png)
 
-Kuva perinteisestä kytkimestä, johon olette laineilla saattaneet törmätä.
+
 
 Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli VLAN-verkkoihin, jolloin verkon liikennettä saadaan jaettua entisestään. Tämä edistää mm. tietoturvaa, koska verkot eivät juttele keskenään. Käyttännön esimerkkinä voitasiin pitää putkea, jonka sisällä on useampi eri värinen putki (nämä ovat siis WLANEJA). Hyötynä laajemmissa organisaatioissa voisi olla, että esim. Sähkö/ICT:llä olisi oma verkko, koska opiskelijat tarvitevat todennäköisesti verkkoa enemmän kuin jonkun toisen alan opiskelijat. Tai työelämässä esimerkiksi eri osastot kuten laskutus ja myynti saisivat omat virtuaaliset verkkonsa. 
 
@@ -294,6 +300,8 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
    ![OSI-malli](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/OSImalli.png)
    
+
+   
    <b> Bonustehtävä</b> LanCache isommille laneille.
 
       Dockerin asennus: https://docs.docker.com/engine/install/ubuntu/#installation-methods
@@ -342,54 +350,40 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 ## Canva
 
+Suoratoisto-overlayn luominen Canvassa on helppo tapa luoda visuaalisesti näyttäviä grafiikoita Twitchiin ja Youtubeen. Alla on kuvattu Canvan käyttöönoton vaiheet.
 
-   Suoratoisto-overlayn luominen Canvassa on helppo tapa luoda visuaalisesti näyttäviä grafiikoita Twitchiin ja Youtubeen. Canvan käyttöönoton vaiheet:
+1. Kirjaudu sisään Canvaan. Jos sinulla ei ole vielä Canva-tiliä, luo tili osoitteessa [www.canva.com](https://www.canva.com) ja kirjaudu sisään.
 
-   1. Kirjaudu sisään Canvaan
+2. Luo uusi suunnitelma.
+   - Napsauta Canvan etusivulla "Laadi suunnittelumalli" -painiketta.
+   - Hakuvalikossa valitse "Mukautettu koko" ja syötä overlayn mitat. Overlayn mitat riippuvat siitä, mitä olemme tekemässä.
+   - Napsauta "Luo uusi suunnitelumalli" -painiketta.
 
-   Jos sinulla ei ole vielä Canva-tiliä, luo tili osoitteessa www.canva.com ja kirjaudu sisään.
-   
-   2. Luo uusi suunnitelma
+3. Suunnittele overlay.
+   - Käytä Canvan suunnittelutyökaluja overlayn luomiseen. Voit lisätä elementtejä, kuten web-kameran kehyksen, chat-ruudun, sosiaalisen median kuvakkeita jne.
+   - Mukauta värit, fontit ja tyylit vastaamaan brändiäsi tai omia mieltymyksiäsi. Ota myös huomioon läpinäkyvyys tarvittaessa.
+   - Kun overlayn suunnittelu on valmis, napsauta Canvan oikeassa yläkulmassa olevaa "Jakaminen" -painiketta ja sieltä löytyvää "Lataa" -painiketta.
+   - Valitse haluamasi muoto (esim. PNG tai JPG) ja napsauta uudelleen "Lataa" -painiketta.
 
-   Napsauta Canvan etusivulla "Laadi suunnittelumalli" -painiketta.
-  
-   Hakuvalikossa valitse "Mukautettu koko" ja syötä overlayn mitat. Overlayn mitat riippuvat siitä mitä olemme tekemässä. 
-   
-   Napsauta "Luo uusi suunnitelumalli" -painiketta.
-   
-   3. Suunnittele overlay
-   
-   Käytä Canvan suunnittelutyökaluja overlayn luomiseen. Voit lisätä elementtejä, kuten web-kameran kehyksen, chat-ruudun, sosiaalisen median kuvakkeita jne.
-   
-   Mukauta värit, fontit ja tyylit vastaamaan brändiäsi tai omia mieltymyksiäsi. Ota myös huomioon läpinäkyvyys tarvittaessa.
-   
-   Kun overlayn suunnittelu on valmis, napsauta Canvan oiekassa yläkulmassa olevaa "Jakiminen" -painiketta ja sieltä löytyvää "Lataa" -painiketta.
-   
-   Valitse haluamasi muoto (esim. PNG tai JPG) ja napsauta uudelleen "Lataa" -painiketta.
-   
-   4. Käytä overlayta suoratoistosoftassa
-   
-   Avaa suoratoistosoftasi (esim. OBS Studio tai Twitch Studio).
-   
-   Luo uusi näkymä tai overlay-lähde.
-   
-   Lisää ladattu overlaykuva lähteenä näkymääsi.
-   
-   Säädä overlayn sijainti ja koko sopimaan suoratoistolayoutiisi.
-   
-   5. Esikatsele suoratoimintaasi suoratoistosoftassa varmistaaksesi, että overlay näkyy oikein.
-  
-   Suoratoisto-overlayn eri tyyppejä ovat esimerkiksi:
-   
-   - Web-kamera-kehys
-   - Chat-overlay
-   - Ilmoitus-overlayt: Elementit tilaajan, lahjoituksen tai seuraajan ilmoitusten näyttämiseen
-   - Sosiaalisen median kuvakkeet
-   - Laskurit ja countdown-elementit: Laskurit erikoistapahtumille tai ilmoituksille
-   - Palaan pian (BRB)-overlay
-   - Suoratoiston alkuilmoitus
+4. Käytä overlayta suoratoistosoftassa.
+   - Avaa suoratoistosoftasi (esim. OBS Studio tai Twitch Studio).
+   - Luo uusi näkymä tai overlay-lähde.
+   - Lisää ladattu overlaykuva lähteenä näkymääsi.
+   - Säädä overlayn sijainti ja koko sopimaan suoratoistolayoutiisi.
 
-   Stream-overlayt ja paneelit ovat tärkeämpiä Twitchissä kuin YouTubessa. Niihin sisältyy tietoa  uusista tilaajista, lahjoituksista, sosiaalisen median linkeistä ja stream-säännöistä.
+5. Esikatsele suoratoimintaasi suoratoistosoftassa varmistaaksesi, että overlay näkyy oikein.
+
+Suoratoisto-overlayn eri tyyppejä ovat esimerkiksi:
+- Web-kamera-kehys
+- Chat-overlay
+- Ilmoitus-overlayt: Elementit tilaajan, lahjoituksen tai seuraajan ilmoitusten näyttämiseen
+- Sosiaalisen median kuvakkeet
+- Laskurit ja countdown-elementit: Laskurit erikoistapahtumille tai ilmoituksille
+- Palaan pian (BRB)-overlay
+- Suoratoiston alkuilmoitus
+
+Stream-overlayt ja paneelit ovat tärkeämpiä Twitchissä kuin YouTubessa, koska niihin sisältyy tietoa uusista tilaajista, lahjoituksista, sosiaalisen median linkeistä ja stream-säännöistä.
+
  
    
 ## Twitch
@@ -397,7 +391,8 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
    Twitch on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena, mutta nykyäänn se tarjoaa myös monipuolista muuta sisältöä kuten taidetta, musiikkia ja erilaisia IRL-streameja.Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia "Biteillä"" tai suorilla lahjoituksilla. Lisäksi streamaajat voivat hakea Affiliate(https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US)- tai Partner-ohjelmiin (https://help.twitch.tv/s/article/tips-for-applying-to-the-partner-program?language=en_US), jotka tarjoavat erilaisia lisäetuja, mutta vaativat streamilta myös enemmän.
 
 ![Twitchin yleisnakyma](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchnakyma.png)
-Streamaajien eri tasot/sopimukset Twitchin kanssa.
+
+Kuva. Streamaajien eri tasot/sopimukset Twitchin kanssa.
 
 
    <b>Mitä Streamaus Twitchissä vaatii?</b>
@@ -409,6 +404,7 @@ Streamaajien eri tasot/sopimukset Twitchin kanssa.
    - Luo aluksi Twitch-tili osoitteessa https://www.twitch.tv/, jos sinulla ei vielä sellaista ole. On myös syytä miettiä haluammeko käyttää omaa tiliämme vai luoda erillisen tunnuksen kurssia varten. Streamausta varten tarvitaan myös kaksivaiheinen tunnistautuminen (two-factor authentication).
    - Liitä streamausohjelmisto (OBS-studio) Twitchiin stream-avaimen avulla. Avaimen löydät Asetukset -> Lähetys -valikon takaa.
      ![Lähetys](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchlahetys1.png)
+     
      ![Stream avain](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchlahetys2.png)
    - Varmista, että OBS:n puolella kaikki on kunnossa. Voit testata streamia menemättä live-tilaan.
    - Mene liveen! Testaillaan rohkeasti streamia omalla porukalla.
