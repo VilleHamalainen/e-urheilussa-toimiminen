@@ -1,4 +1,4 @@
-# Moduuli 0: Johdatus E-urheiluun (1 osp)
+# Moduuli 0: Johdatus E-urheiluun
 
 ## E-urheilun määritelmä
 
