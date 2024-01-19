@@ -68,7 +68,7 @@
 
    Osallistumisen tulee olla selkeää ja sääntöjen tulee olla hyvissä ajoin selvillä. Miten rekisteröityminen toteutetaan? Ohjeet ja säännöt tulee olla kirjattuna.
 
-   Tutustutaan vuoden 2022-toteukuksen materiaaleihin [Opiskelijoiden muistiinpanot vuodelta 2022](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main/Aikaisempienvuosienmateriaaleja/Gradiacup2022.docx)
+   Ladataan ja tutustutaan vuoden 2022-toteukuksen materiaaleihin [Opiskelijoiden muistiinpanot vuodelta 2022](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main/Aikaisempienvuosienmateriaaleja/Gradiacup2022.docx)
 
 
 ## Faceit turnauspohjana
