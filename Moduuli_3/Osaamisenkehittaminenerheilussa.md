@@ -13,15 +13,11 @@ Ampumisessa voidaan puhua lisäksi liikkuvan kohteen seuraamisesta varsinkin bur
 
 Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaniinen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.
 
-<center>
-
 [![Aimin parantaminen](http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg)](https://www.youtube.com/watch?v=1vN2H0rzd5U "Aimin parantaminen")
 
-</center>
+<center>Video. Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.</center><br/><br/>
 
-Ampumisen lisäksi muita osa-alueita ovat esimerkiksi:
-
-Karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkuueelle. 
+Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkuueelle. 
 
 Tiimityöskentely ja kommunikaatio ovat usein (opettajan uskomus) ylikatsottuja asioita varsinkin nuorempien pelaajien osalta. Kommunikaatio ei ole tarkkaa tiedettä ja joukkeilla onkin erilaisia tapoja kommunikoida.
 
@@ -34,6 +30,7 @@ Näkyykö paine kommunikaatiosa missään vaiheessa? Onko kommuikaatio erilaista
 Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
 
 [![Esimerkki kommunkaatiosta Navi - Vitality](http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU "Team Comms: NaVi takes apart Vitality with English Subs")
+<center>Video. Esimerkki Navin kommunikaatiosta. </center><br/><br/>
 
 2. Analysoi parin kanssa Faze-G2 pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
 Huomaatteko joukkueiden kommunikaatiossa selkeitä eroja?
@@ -42,7 +39,7 @@ Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputuloksee
 
   
 [![Esimerkki kommunkaatiosta Faze - G2"](http://img.youtube.com/vi/8owi_WvrGuk/0.jpg)](https://www.youtube.com/watch?v=8owi_WvrGuk "Team Comms: JKS and ROPZ 2v5 IEM Katowice 2022")
-
+<center>Video. Esimerkki mahdottomalta tuntuvasta clutch-tilanteesta. </center><br/><br/>
 
 
 Nykyään on kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi:
