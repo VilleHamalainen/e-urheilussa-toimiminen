@@ -84,6 +84,9 @@ Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman ra
 
 Hieno tarina Suomalaisten menestyksestä on esimerkiksi Dota 2: The International kooste. [![The International 2018](http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg)](https://www.youtube.com/watch?v=Bv4CqIxqTMA "True Sight : The International 2018 Finals")
 
+<center>Video. Opettajan mielestä yksi parhaista TI-behind the scenes videoista, jossa on mukana myös suomalaisia.. </center><br></br>
+
+
 
 Esports on kasvattanut suosiotaan myös koulutussektorilla, ja useat oppilaitokset tarjoavat nyt esports-ohjelmia ja stipendejä lahjakkaille pelaajille. Tästä seuraksena myös tutkinnon osa, jota olette tulleet opiskelemaan. Tämä on osaltaan edistänyt esportsin hyväksymistä virallisena urheilumuotona monissa maissa.
 
