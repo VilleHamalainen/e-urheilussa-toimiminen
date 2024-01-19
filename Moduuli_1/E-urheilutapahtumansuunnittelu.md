@@ -68,6 +68,8 @@
 
    Osallistumisen tulee olla selkeää ja sääntöjen tulee olla hyvissä ajoin selvillä. Miten rekisteröityminen toteutetaan? Ohjeet ja säännöt tulee olla kirjattuna.
 
+   Tutustutaan vuoden 2022-toteukuksen materiaaleihin [Opiskelijoiden muistiinpanot vuodelta 2022](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/tree/main/Aikaisempienvuosienmateriaaleja/Gradiacup2022.docx)
+
 
 ## Faceit turnauspohjana
    
@@ -118,27 +120,23 @@
 
 ### Viestintä 
 
-   Pitäkää yhteyttä osallistujiin ennen ja turnauksen aikana (esim. Discord, faceitin chatti, sähköposti). Tämä kannattaa suunnitella ja testata hyvin etukäteen ja tässä vaiheessa voimmekin mietti erilaisia skenaariotia, joita turnauksen  aikana voi tapahtua.   
+Pitäkää yhteyttä osallistujiin ennen ja turnauksen aikana (esim. Discord, faceitin chatti, sähköposti). Tämä kannattaa suunnitella ja testata hyvin etukäteen ja tässä vaiheessa voimmekin mietti erilaisia skenaariotia, joita turnauksen  aikana voi tapahtua.   
    
-   Seuratkaa ja päivittäkää turnauksen tuloksia ja aikatauluja aktiivisesti.
+Seuratkaa ja päivittäkää turnauksen tuloksia ja aikatauluja aktiivisesti.
    
-   Tulosten Raportointi ja Arviointi
+Raportoikaa turnauksen lopputulokset ja tehkää analyysi turnauksen sujumisesta.
    
-   Raportoikaa turnauksen lopputulokset ja tehkää analyysi turnauksen sujumisesta.
+Jos turnauksessa on palkintoja, jakakaa ne voittajille turnauksen päätyttyä.
    
-   Palkintojen ja Huomionosoitusten Jakaminen
-   
-   Jos turnauksessa on palkintoja, jakakaa ne voittajille turnauksen päätyttyä.
-   
-   Muistakaa kiittää kaikkia osallistujia ja tarvittaessa tunnustaa erityisiä saavutuksia.
-   Raportointi ja Arviointi
-   Laatikaa raportti, jossa käydään läpi koko turnauksen suunnittelu, toteutus ja seuranta. Raportissa tulee olla yksityiskohtainen kuvaus jokaisesta vaiheesta, mukaan lukien mahdolliset haasteet ja miten ne ratkaistiin.
+Muistakaa kiittää kaikkia osallistujia ja tarvittaessa tunnustaa erityisiä saavutuksia.
+
+Laatikaa raportti, jossa käydään läpi koko turnauksen suunnittelu, toteutus ja seuranta. Raportissa tulee olla yksityiskohtainen kuvaus jokaisesta vaiheesta, mukaan lukien mahdolliset haasteet ja miten ne ratkaistiin.
 
 
 
 ## Lan-tapahtuma
    
-   Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä yllättääkin ihmiset, jotka ajattelevat, että "siellä pelataan vai tietokoneella". Tämäkin on totta, mutta tapahtumassa tulee otta huomioon kaikke tapahtuman vaatimukset ja lisäksi lan-tapahtumassa erityisen tärkeää on pitää huolta siitä, että virtaa ja internetkaistaa on riittävästi. 
+Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä yllättääkin ihmiset, jotka ajattelevat, että "siellä pelataan vai tietokoneella". Tämäkin on totta, mutta tapahtumassa tulee otta huomioon kaikke tapahtuman vaatimukset ja lisäksi lan-tapahtumassa erityisen tärkeää on pitää huolta siitä, että virtaa ja internetkaistaa on riittävästi. 
 
    1. Pelipaikat
    Riittävä määrä pelipaikkoja ja -pöytiä.
