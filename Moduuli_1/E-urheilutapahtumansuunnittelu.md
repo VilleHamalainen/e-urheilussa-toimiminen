@@ -68,7 +68,7 @@
 
    Osallistumisen tulee olla selkeää ja sääntöjen tulee olla hyvissä ajoin selvillä. Miten rekisteröityminen toteutetaan? Ohjeet ja säännöt tulee olla kirjattuna.
 
-   Ladataan ja tutustutaan vuoden 2022-toteukuksen materiaaleihin [Opiskelijoiden muistiinpanot vuodelta 2022](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main/Aikaisempienvuosienmateriaaleja/Gradiacup2022.docx)
+   Ladataan ja tutustutaan vuoden 2022-toteutuksen materiaaleihin [Opiskelijoiden muistiinpanot vuodelta 2022](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main/Aikaisempienvuosienmateriaaleja/Gradiacup2022.docx)
 
 
 ## Faceit turnauspohjana
@@ -118,21 +118,12 @@
    
    Huolehtikaa, että kaikki tarvittavat tekniset asetukset ovat kunnossa ennen jokaista ottelua.
 
-### Viestintä 
+### Viestintä (luokassa pohdittavaksi)
 
-Pitäkää yhteyttä osallistujiin ennen ja turnauksen aikana (esim. Discord, faceitin chatti, sähköposti). Tämä kannattaa suunnitella ja testata hyvin etukäteen ja tässä vaiheessa voimmekin mietti erilaisia skenaariotia, joita turnauksen  aikana voi tapahtua.   
-   
-Seuratkaa ja päivittäkää turnauksen tuloksia ja aikatauluja aktiivisesti.
-   
-Raportoikaa turnauksen lopputulokset ja tehkää analyysi turnauksen sujumisesta.
-   
-Jos turnauksessa on palkintoja, jakakaa ne voittajille turnauksen päätyttyä.
-   
-Muistakaa kiittää kaikkia osallistujia ja tarvittaessa tunnustaa erityisiä saavutuksia.
+Tehtävään saatte opettajalta 2022-vuoden Discord toteukuksen, johon voimme lähtetä tutustumaan ja miettimään mahdollisia parannuksia. Opettaja näyttää myös vuoden 2022 Discordissa tapahtunutta viestintää.
 
-Laatikaa raportti, jossa käydään läpi koko turnauksen suunnittelu, toteutus ja seuranta. Raportissa tulee olla yksityiskohtainen kuvaus jokaisesta vaiheesta, mukaan lukien mahdolliset haasteet ja miten ne ratkaistiin.
-
-
+Tehtän tarkoituksena on tutustua vanhaan materiaalin sekä miettiä ja suunnitella turnausten viestintää etukäteen. Millaisia uhkakuvita turnauksen viestinnässä voi olla? Mitkä ovat pahimmat tilanteet, joita turnauksen aikana voi tapahtua ja miten ne hoidetaan viestinnällisesti?
+   
 
 ## Lan-tapahtuma
    
