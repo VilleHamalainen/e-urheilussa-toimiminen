@@ -114,7 +114,7 @@ Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja
    
    Tässä vaiheessa voimme testailla turnauksen toimintaa admin tasolla ja voimme testata turnausta muutammalla joukkueella ja pelata esim. bo3 pelin ja tutustua FaceItin toimintaan.
 
-### Turnauksen Toteutus
+### Turnauksen toteutus
 
    Varmistakaa, että kaikki osallistujat ymmärtävät pelisäännöt ja -asetukset.
    
@@ -149,7 +149,7 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
    Äänentoisto ja valaistus: Laadukas äänentoisto ja tunnelmallinen valaistus.
    Visuaaliset elementit: Näyttötaulut, bannerit ja muu visuaalinen ilme.
    
-   Yhteiset tekijät
+   <b>Yhteiset tekijät online- ja lan-tapahtumassa</b>
    
    1. Markkinointi ja viestintä
    Ennakkomarkkinointi: Tapahtuman markkinointi ja tiedotus ennen tapahtumaa.
@@ -285,7 +285,7 @@ Tutustu oman suosikkipelisi ikärajoihin. https://pelikasvatus.fi/ohje-ikarajajo
 
 Tässä on linkki vuoden 2022 Gradia Cup toteutuksen dokumentaation [GradiaCup2022.docx](https://github.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua. 
 
-Tehtävä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen porukalle. Miten toteutusta lähdettäisiin tekemään? Millaisilla laitteilla tässä voitaisiin onnistua? Ladatkaa ja tutustukaa cs2-palvelimen pystyttämiseen. Ohjeita:
+Tehtävänä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen porukalle. Miten toteutusta lähdettäisiin tekemään? Millaisilla laitteilla tässä voitaisiin onnistua? Ladatkaa ja tutustukaa cs2-palvelimen pystyttämiseen. Ohjeita:
 
 - https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows
 - https://hub.tcno.co/games/cs2/dedicated_server/
@@ -445,8 +445,21 @@ Stream-overlayt ja paneelit ovat tärkeämpiä Twitchissä kuin YouTubessa, kosk
 
 ### Twitchin pimeä puoli
 
-https://areena.yle.fi/1-66964296
 
+Twitch kärsii samoista ongelmista kuin muutkin sosiaaliset mediat. Ongelma ei ole millään tavalla uusi, mutta pelien yhteydessä on jo pitkään puhuttu siitä, toteutuuko sukupuolten tasa-arvon ja inklusiivisuuden näkökukulma. Vaikka Twitch tarjoaa mahdollisuuksia monille sisällöntuottajille, joissain tapauksissa alustan kulttuuri ei ole aina ollut kovin vieraanvarainen tai tukeva kaikkia kohtaan, etenkin naiset ja vähemmistöt ovat saattaneet kohdata enemmän negatiivista tai vihamielistä viestintää. 
+
+Naispuoliset striimaajat ovat usein kohdanneet haasteita Twitchin yhteisössä. He voivat kohdata seksismiä, sukupuoleen kohdistuvaa häirintää ja epäasiallisia kommentteja. Naiset saattavat myös kohdata epäoikeudenmukaisia stereotypioita ja ennakkoluuloja, jotka vaikuttavat heidän kykyynsä kehittyä ja menestyä alustalla. Vaikka Twitch on pyrkinyt edistämään monimuotoisuutta ja inklusiivisuutta, alustalla on edelleen parannettavaa näissä asioissa. Vähemmistöryhmiin kuuluvat striimaajat saattavat kohdata syrjintää ja rasismia, mikä voi tehdä heidän kokemuksistaan Twitchissä vähemmän miellyttäviä.
+
+Twitch-yhteisön jäsenten, mukaan lukien katsojien ja muiden striimaajien, on tärkeää toimia vastuullisesti ja tukevasti kaikkia alustan käyttäjiä kohtaan. Rakentava ja kunnioittava keskustelu, sekä aktiivinen häirinnän vastustaminen ovat avainasemassa terveen ja inklusiivisen yhteisön rakentamisessa.
+
+Twitch on toteuttanut useita toimenpiteitä parantaakseen ympäristöään, kuten käyttäjien käyttäytymissääntöjen päivittäminen, moderaattorityökalujen parantaminen ja yhteisöjen tukeminen. Jatkuvat ponnistelut ovat välttämättömiä, jotta alusta voi olla turvallinen ja inklusiivinen paikka kaikille käyttäjille.
+
+Katsotaan Ylen Areenasta löytyvä video aiheesta.
+https://areena.yle.fi/1-66964296. Julkaistu su 7.1.2024 poistuu 5.4.2024.
+
+## Tehtäviä
+
+Keskustellaan luokassa, onko joku itse osallistunut toimintaa, joka nykyään hävettää. Onko joku kohdannut Twitchissä tai muissa sosiaalisisa medioissa/peleissä vihamielisiä tilanteita? Miten jokainen meistä voi itse vaikuttaa, että ei osallistu kyseiseen toimintaan?
 
 ## Youtube
 
