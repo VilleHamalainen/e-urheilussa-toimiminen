@@ -66,9 +66,13 @@ Moderaattorien ja teknisen tukitiimin valinta ja koulutus tulee suorittaa suunni
 Oppimateriaali:
 Tuomarointi ja järjestyksenvalvonta ovat keskeisiä tekijöitä e-urheilutapahtumien reilun ja turvallisen kulun takaamisessa. Tämä osio käsittelee näitä aspekteja tarkemmin:
 
-Kilpailusääntöjen Valvonta: Tuomarit vastaavat pelisääntöjen tarkasta soveltamisesta ja valvovat niiden noudattamista. Tämä voi sisältää sääntöjen tulkintaa, huijauksen estämistä ja pelin oikeudenmukaista kulunvalvontaa. Esimerkiksi ESL:n (Electronic Sports League) sivusto tarjoaa kattavan katsauksen e-urheilun sääntöihin: ESL Säännöt.
+Kilpailusääntöjen Valvonta: Tuomarit vastaavat pelisääntöjen tarkasta soveltamisesta ja valvovat niiden noudattamista. Tämä voi sisältää sääntöjen tulkintaa, huijauksen estämistä ja pelin oikeudenmukaista kulunvalvontaa. Esimerkiksi ESL:n (Electronic Sports League) sivusto tarjoaa kattavan katsauksen e-urheilun sääntöihin: [ESL Säännöt](https://pro.eslgaming.com/tour/2023/10/esl-pro-tour-fall-2023-rule-book-update/).
 
 Riitatilanteiden Ratkaisu: Tuomarit käsittelevät myös riitatilanteet nopeasti ja tehokkaasti. Heidän tulee olla valmistautuneita käsittelemään erimielisyyksiä pelaajien välillä ja tekemään oikeudenmukaisia päätöksiä. Esimerkki tehokkaasta riidanratkaisusta löytyy FACEIT:n tuomarioppaasta.
+
+Community moderaatio https://support.faceit.com/hc/en-us/categories/360003095600
+
+Turnausohje: https://www.remc.org/downloads/remc_files/foundational_guide__for_esports_tournaments.pdf
 
 Peliympäristön Turvallisuus: Järjestyksenvalvojat huolehtivat tapahtumapaikan turvallisuudesta, varmistaen, että kaikki osallistujat noudattavat paikan sääntöjä ja toimivat turvallisesti. Heidän tehtäviinsä kuuluu myös hätätilanteiden hallinta. Tästä aiheesta löytyy hyödyllistä tietoa Event Safety Alliance -sivustolta.
 
