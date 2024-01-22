@@ -457,9 +457,14 @@ Twitch on toteuttanut useita toimenpiteitä parantaakseen ympäristöään, kute
 Katsotaan Ylen Areenasta löytyvä video aiheesta.
 https://areena.yle.fi/1-66964296. Julkaistu su 7.1.2024 poistuu 5.4.2024.
 
+Käydään opettajan kanssa läpi hieman tutkimusta aiheesta: https://dl.acm.org/doi/fullHtml/10.1145/3452918.3458794
+
 ## Tehtäviä
 
-Keskustellaan luokassa, onko joku itse osallistunut toimintaa, joka nykyään hävettää. Onko joku kohdannut Twitchissä tai muissa sosiaalisisa medioissa/peleissä vihamielisiä tilanteita? Miten jokainen meistä voi itse vaikuttaa, että ei osallistu kyseiseen toimintaan?
+- Keskustellaan luokassa. Onko joku itse osallistunut toimintaa, joka nykyään hävettää?
+- Onko joku kohdannut Twitchissä tai muissa sosiaalisisa medioissa/peleissä vihamielisiä tilanteita?
+- Miten jokainen meistä voi itse vaikuttaa, että ei osallistu kyseiseen toimintaan?
+- Miten toimit tai olet toiminut, jos kohtaan kiusaamista verkossa?
 
 ## Youtube
 
