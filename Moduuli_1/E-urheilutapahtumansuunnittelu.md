@@ -15,11 +15,13 @@
 
    <b>Hybridi</b> e-urheilutapahtumissa haetaan tasapainoa kilpailun ja yhteisöllisyyden välille. Käytännössä kilpailullisissa turnauksissa voi olla myös oma BYOC-osio, jossa myös harrastemielessä pelaavat voivat tuoda omat koneensa ja pelata tapahtuman yhteydessä. Esimerkiksi joulukuun 15-17 2023 järjestettävä DreamHack Atlanta https://dreamhack.com/atlanta/lan/ tarjoaa turnauksia, joissa palkintopotit ovat tuhansia euroja.
 
-   e-urheilutapahtumiusta, joilla on kilapailullinen tavoite. Periaattessa e-urheilua voidaan myös liittää osaksi yritysten liiketoimintaa ilman sen suurempaa kilpailua, mutta koska tavoitteena tutkinnon osassa on Gradia Cup 2024 onnistunut järjestäminen, niin suunnittelu lähtee tästä näkökulmasta. Mahdollisten toimeksiantojen myötä voimme myös suunnitella ja toteuttaa muita turnauksia, joten yleinen tieto tapahtumien järjestämisestä on paikallaan.
+Periaattessa e-urheilua voidaan myös liittää osaksi yritysten liiketoimintaa ilman sen suurempaa kilpailua, mutta koska yhtenä tavoitteena tutkinnon osassa on Gradia Cup 2024 onnistunut järjestäminen, niin suunnittelu lähtee tästä näkökulmasta. Mahdollisten toimeksiantojen myötä voimme myös suunnitella ja toteuttaa muita turnauksia, joten yleinen tieto tapahtumien järjestämisestä on paikallaan.
 
-  <b>Tehtävä</b>: Mikä on Gradiancupin kohdeyleisö ja tapahtuman tyyppi? Mitä turnauksella haetaan a) Gradian puolelta b) Mitä pelaajat saavat turnaukselta?
+## Tehtäviä (luokassa mietittäväksi, opettaja kirjaa ylös)
 
-  <b>Tehtävä</b> Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja Gradia Cuppiin?
+Mikä on Gradiancupin kohdeyleisö ja tapahtuman tyyppi? Mitä turnauksella haetaan a) Gradian puolelta b) Mitä pelaajat saavat turnaukselta?
+
+Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja Gradia Cuppiin?
 
 ## Kohdeyleisö
 
@@ -277,28 +279,29 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 ## Tehtäviä
 
-   <b>Tehtävä</b> Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapahtumille? Suunnitelkaa pienissä ryhmissä kyselomake Office 365 Formsia (https://forms.office.com/). Ottakaa huomioon erilaiset pelaajat (kilpailu vs yhteisöllisyys), eri peligenret ja tapahtuman luonne. Palauta kysely Moodlen työtilaan.
+Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapahtumille? Suunnitelkaa pienissä ryhmissä kyselomake Office 365 Formsia (https://forms.office.com/). Ottakaa huomioon erilaiset pelaajat (kilpailu vs yhteisöllisyys), eri peligenret ja tapahtuman luonne. Palauta kysely Moodlen työtilaan.
 
-   <b>Tehtävä</b> Tutustu oman suosikkipelisi ikärajoihin. https://pelikasvatus.fi/ohje-ikarajajouston-soveltamisesta/. Kerro eri ikärajamerkinnöistä ja mitä ne tarkoittavat. Miten tämä tulee ottaa huomioon tapahtumien järjestämisessä.
+Tutustu oman suosikkipelisi ikärajoihin. https://pelikasvatus.fi/ohje-ikarajajouston-soveltamisesta/. Kerro eri ikärajamerkinnöistä ja mitä ne tarkoittavat. Miten tämä tulee ottaa huomioon tapahtumien järjestämisessä.
 
-   Tässä on linkki vuoden 2022 Gradia Cup toteutuksen dokumentaation [GradiaCup2022.docx](https://github.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua. 
+Tässä on linkki vuoden 2022 Gradia Cup toteutuksen dokumentaation [GradiaCup2022.docx](https://github.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua. 
 
-   <b>Tehtävä</b> Tehtävä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen porukalle. Miten toteutusta lähdettäisiin tekemään? Millaisilla laitteilla tässä voitaisiin onnistua? Ladatkaa ja tutustukaa cs2-palvelimen pystyttämiseen. Ohjeita:
+Tehtävä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen porukalle. Miten toteutusta lähdettäisiin tekemään? Millaisilla laitteilla tässä voitaisiin onnistua? Ladatkaa ja tutustukaa cs2-palvelimen pystyttämiseen. Ohjeita:
 
-   https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows
-   https://hub.tcno.co/games/cs2/dedicated_server/
+- https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows
+- https://hub.tcno.co/games/cs2/dedicated_server/
 
-   <b>Tehtävä</b> Selvitä mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat lanien kannalta? Mihin kerrokseen ne kuuluvat?
+Selvitä mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat lanien kannalta? Mihin kerrokseen ne kuuluvat?
 
    ![OSI-malli](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/OSImalli.png)
 
    <center>Kuva. OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.</center><br/><br/>
 
    
-   <b> Bonustehtävä</b> LanCache isommille laneille.
+### Bonustehtävä LanCache isommille laneille
 
-      Dockerin asennus: https://docs.docker.com/engine/install/ubuntu/#installation-methods
-      LanCachen asennus: https://lancache.net/docs/installation/docker-compose/
+Selvittäkää kuinka isommilla laneilla selvitään ilman, että koko verkko kaatuu. Vihje löytyy jo itse tehtäväannosta. Lancachen eli lanin välimuistilla tarkoitetaan käytännössä tapaa tallentaa pelejä ym. asioita, joita lanittajat haluavat ladata ja sen sijaan, että jokainen alkaa latamaan omaa versiotaan ja näin ollen kuormittaa verkkoa, voidaan lancachen avulla tiedostot ladata välimuistista. 
+- Dockerin asennus: https://docs.docker.com/engine/install/ubuntu/#installation-methods
+- LanCachen asennus: https://lancache.net/docs/installation/docker-compose/
 
 
 ## Streamaus- tekninen puoli
