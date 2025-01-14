@@ -8,7 +8,7 @@
 
 ## Tehtävä (luokassa miettäväksi)
 
-Mitä kaikkea muuta e-urheilun ekosysteemiin kuuluu? 
+Mitä kaikkea muuta e-urheilun ekosysteemiin kuuluu? Mikä on ekosysteemi? Yksi näkemys aiheeseen löytyy painamalla alapuolella olevaa nuolta.
 
 <details>
   <summary>Kuva ekosysteemistä</summary>
