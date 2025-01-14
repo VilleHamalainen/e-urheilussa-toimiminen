@@ -15,33 +15,44 @@ Mitä kaikkea muuta e-urheilun ekosysteemiin kuuluu?
   <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/esportsecosystem.png" alt="Esports Ecosystem">
 </details>
 
-
-
-
 <center>Kuva. Lee, Je Seok & Steinkuehler, Constance. (2019). Esports as a catalyst for connected learning: the North America Scholastics Esports Federation. XRDS: Crossroads, The ACM Magazine for Students. 25. 54-59. 10.1145/3331075. </center>
 
 ## E-urheilun lyhyt historia
 
 E-urheilun historia on varsin lyhyt, mutta mielenkiintoinen matka. Ennen kuin esports termiä alettiin käyttää oli kilpailullisia pelejä pelattu jo pitkään pelihalleissa, koulujen saleissa sekä yksityissä turnauksissa. Pelien historiaan ei tässä materiaalissa mennä sen syvällisemmin, mutta mainittakoot, että ensimmäisiä askeleita digitaalisiin peleihin saatiin Flipperin ansiosta ja tarkemmin siitä kun joku keksi laittaa peliin osat, joilla palloa voi lyödä eli flipperit. Aikaisemmin peli toimi niin, että pallo laitettiin liikkeelle ja ihmiset löivät vetoa siitä kuinka pallo käyttäytyisi. Flipperit mahdollistivat pelimuodot, jossa ihmiset kilpailisivat toisiaan vastaan.
 
-
 Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa vuonna 1972 pelille Space War. Pääpalkintona oli vuoden Rolling Stones lehden tilaus! Nykyään palkintosummat ovat hieman suurempia.
 
-[![Spacewar gameplay](http://img.youtube.com/vi/XEFLpbjfybc/0.jpg)](https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro)
-<center>Video. Pelikuvaa vuonna 1972 julkaistusta Space War pelistä</center><br></br>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro" title="Space War game play">
+    <img src="http://img.youtube.com/vi/XEFLpbjfybc/0.jpg" alt="Space War game play" style="width: 80%; max-width: 400px; height: auto;">
+  </a>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Pelikuvaa vuonna 1972 julkaistusta Space War pelistä.
+  </p>
+</div>
 
 On hyvin luonnollista, että myös pelit lähtivät yliopistoilta liikkeelle, koska vain heillä oli käytössään tarpeeksi tehokkaita tietokoneita. Tämä tapahtuma loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu The Space Invaders Championship in 1980 , jonka järjesti sihen aikaan suurin videopeliyritys Atari (ks. https://www.computerhistory.org/revolution/computer-games/16/185). 
 
-
-[![Space Invaders Atari Championship 1981](http://img.youtube.com/vi/pft_MCrLhZI/0.jpg)](https://www.youtube.com/watch?v=pft_MCrLhZI&ab_channel=neiarcade99Playagame "Space Invaders Atari Championship 1981")
-<center>Video. Tallenne Space Invaders-turnauksesta vuodelta 1981. </center><br></br>
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=pft_MCrLhZI&ab_channel=neiarcade99Playagame" title="Space Invaders Atari Championship 1981">
+    <img src="http://img.youtube.com/vi/pft_MCrLhZI/0.jpg" alt="Space Invaders Atari Championship 1981" style="width: 80%; max-width: 400px; height: auto;">
+  </a>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Atarin Space Invaders mestaruuskisat vuodelta 1981.
+  </p>
+</div>
 
 Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. Markkinoille alkoi tulla entistä nopeampia tietokoneita ja konsoleita, jotka mahdollistivat monipuolisempien pelien pelaamisen. Vuonna 1997 Electronic Entertainment Expo (E3)-pelimessuilla järjestetty Red Annihilation Quake-turnaus mainitaan usein yhtenä varhaisimmista suurista esports-tapahtumista. Turnauksessa kilpailtiin Quake-nimisessä ensimmäisen persoonan ammuntapelissä (1st person shooter tai fps), jonka oli kehittänyt id Software. Turnauksen suurpalkintona oli Ferrari 328 GTS-urheiluauto, joka oli ensimmäinen arvokas ja mielenkiintoa herättävä palkinto (vrt. vuoden Rolling Stones lehden tilaus). Palkinnon ja näkyvyyden ansioista esports osoitti, että se voi vetää paikan päälle isoja määriä katsojia. Hyvänä ehdokkaana ensimääiseksi "esports ammattilaiseksi" onkin Dennis "Thresh" Fong, joka voitti kyseisen Ferrarin.
 
-[![The 1st Pro Gamer Ever](http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg)](https://www.youtube.com/watch?v=4xUmZxnEMUI "The 1st Pro Gamer ever")
-<center>Video. Tallenne maailman enimmäisestä ammatikseen pelaavasta henkilöstä. </center><br></br>
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=4xUmZxnEMUI" title="The 1st Pro Gamer Ever">
+    <img src="http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg" alt="The 1st Pro Gamer Ever" style="width: 80%; max-width: 400px; height: auto;">
+  </a>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Tallenne maailman enimmäisestä ammatikseen pelaavasta henkilöstä.
+  </p>
+</div>
 
 Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät esportsia eteen päin isoin harppauksin. The Cyberathlete Professional League (CPL) perustettiin kyseisenä vuonna ja yksi 2000-luvun alun suosituimmista peleistä StarCraft julkaistiin saman vuonna. StarCraft nousi massiiviseksi hitiksi ympäri maailman, mutta erityisen suosituksi Etelä-Koreassa, jossa kyseinen peli tarjosi monelle mahdollisuuden ammattilaisuuteen. Pelejä näytettiin myös kansallisessa televisiossa. Pelit Quake ja StarCraft saivat omat kilpailulliset peliyhteisönsä. 
 
@@ -51,8 +62,16 @@ Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät esportsia eteen p
 
 Vuosina 2006 ja 2007 järjestettiin The Championship Gaming Series (CGS), joka järjestettiin Yhdysvalloissa. Ensimmäisessä versiossa vuonna 2006 pelattiin myös useampia eri pelejä, joista isoimmat IP:t Yhdysvalloissa tuohon aikaan olivat Counter Strike 1.6 ja Halo 2. Tarkoituksena projektilla oli tuoda eurheilu liiga, jota näytettäisiin televisiossa säännöllisesti. Valitettavasti projektin laajus muuttui Yhdysvalloista myös Eurooppaan ja Aasiaan, jolloin rahaa alkoi palaa paljon odotettua enemmän. Tarkemmin aiheesta voi käydä lukemassa esimerkiksi https://www.hotspawn.com/other/guides/championship-gaming-series-ahead-of-its-time.
 
-[![Championship Gaming Series 2006](http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg)](https://www.youtube.com/watch?v=q6EWc1Kz10o "Championship Gaming Series 2006")
-<center>Video. Tallenne vuoden 2006 turnauksesta. </center><br></br>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=q6EWc1Kz10o" title="Championship Gaming Series 2006">
+    <img src="http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg" alt="Championship Gaming Series 2006" style="width: 80%; max-width: 400px; height: auto;">
+  </a>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Tallenne yhdestä vuoden suurimista 2006 turnauksista.
+  </p>
+</div>
+
 
 Hypätkäämme ajassa hieman eteen päin ja vuoteen, jolloin Valve järjesti The International (TI) Dota 2 turnauksen. Turnauksesta teki poikkeuksellisen se, että palkintopotti oli jotain, mitä e-urheilussa ei oltu aikaisemmin nähty. Kokonaispotti oli 1.6 miljoonaa dollaria, jonka tarkoituksena oli tuoda julkisuutta uudelle Dota 2 pelille (betalle). Jälkikäteen voitanee todeta, että julkisuustempaus toimi varsin hyvin ja parhaimmillaan palkintopotti on ollut noin 40 miljoonaa dollaria, joka on ollut ns. Battle Passin ansiota, josta tietty prosentti on mennyt suoraan The Internationalin palkintopottiin. 
 
@@ -77,8 +96,14 @@ Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös C
 
 Lähde: https://escharts.com/top-games?order=peak
 
-![E-urheilun evoluutio](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png)
-<center>Kuva. Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?. </center><br></br>
+Kurssia tehtäessä Dall-e oli kovasti otsikoissa, joten tässäpä tekoälyn näkemys pelaamisen historiasta. 
+<div align="center">
+    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png" style="width: 80%; max-width: 400px; height: auto;">
+  </a>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
+  </p>
+</div>
 
 
 ## E-urheilu Suomessa
@@ -87,15 +112,21 @@ Suomessa E-urheilun nousu on ollut osa maailmanlaajuista kehitystä. Suomessa on
 
 Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman rankingeissa. Menestystä on tullut yksittäisille pelaajille PUBG:ssa, Valorantissa, Rainbow Six Siegessä, Owerwatchissa, Fortnitessa, Lolissa, Hearthstonessa ja myös elektronisissa ajopeleissä. Tarkempia tietoja tienesteistä voi katsoa osoitteesta https://www.esportsearnings.com/countries/fi.
 
-Hieno tarina Suomalaisten menestyksestä on esimerkiksi Dota 2: The International kooste. [![The International 2018](http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg)](https://www.youtube.com/watch?v=Bv4CqIxqTMA "True Sight : The International 2018 Finals")
-
-<center>Video. Opettajan mielestä yksi parhaista TI-behind the scenes videoista, jossa on mukana myös suomalaisia.. </center><br></br>
+Hieno tarina Suomalaisten menestyksestä on esimerkiksi Dota 2: The International kooste. 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Bv4CqIxqTMA" title="The International 2018">
+    <img src="http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg" alt="The International 2018" style="width: 80%; max-width: 400px; height: auto;">
+  </a>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Opettajan mielestä yksi parhaista TI-behind the scenes videoista, jossa on mukana myös suomalaisia Dota-tähtiä.
+  </p>
+</div>
 
 
 
 Esports on kasvattanut suosiotaan myös koulutussektorilla, ja useat oppilaitokset tarjoavat nyt esports-ohjelmia ja stipendejä lahjakkaille pelaajille. Tästä seuraksena myös tutkinnon osa, jota olette tulleet opiskelemaan. Tämä on osaltaan edistänyt E-urheilun hyväksymistä virallisena urheilumuotona monissa maissa.
 
-Tämäkin tutkinnon osa on tehty osaksi hanketta KSEOK-hanketta https://coesports.gg/
+[Tämäkin tutkinnon osa on tehty osaksi hanketta KSEOK-hanketta](https://coesports.gg/)
 
 Kaiken kaikkiaan E-urheilun matka marginaalista maailmanlaajuiseksi ilmiöksi on ollut nopea ja vaikuttava. Se on muuttunut perinteisestä harrastuksesta ammattimaiseksi toimialaksi, joka vaikuttaa monin tavoin kulttuuriin, talouteen ja urheilumaailmaan.
 
@@ -135,7 +166,7 @@ Ota mallia aikaisemmasta teorista ja kerro lyhyesti oman pelisi tai genren tärk
 
 ### E-urheilukaupungit Köln ja Katowice (pareittain tai pienissä ryhmissä)
 
-Selvitä ja analysoi kaupunkien merkitystä e-urheilun brändäämisessä. Valitse Köln, Katovice tai jokin muu historiallisesti merkittävä e-urheilu kaupunki. Pohdi, miten nämä kaupungit ovat vaikuttaneet e-urheilun kehitykseen, tunnettavuuten ja kasvuun. Miten kumpikin kaupunki on integroinut e-urheilun osaksi paikallista identiteettiä ja miten ne ovat hyödyntäneet e-urheilutapahtumiaan brändäämisen näkökulmasta? Pohdi mitä Jyväskylä voisi oppia kyseisiltä kaupungeilta? Onko kyseisillä kapungeilla jotain mitä Jyväskylällä ei ole?
+Selvitä ja analysoi kaupunkien merkitystä e-urheilun brändäämisessä. Valitse Köln, Katovice tai jokin muu historiallisesti merkittävä e-urheilu kaupunki. Pohdi, miten nämä kaupungit ovat vaikuttaneet e-urheilun kehitykseen, tunnettavuuten ja kasvuun. Miten kumpikin kaupunki on integroinut e-urheilun osaksi paikallista identiteettiä ja miten ne ovat hyödyntäneet e-urheilutapahtumiaan brändäämisen näkökulmasta? Pohdi mitä Jyväskylä voisi oppia kyseisiltä kaupungeilta? Onko kyseisillä kaupngeilla jotain mitä Jyväskylällä ei ole?
 
 
 ## E-urheilun tulevaisuuden näkymät
