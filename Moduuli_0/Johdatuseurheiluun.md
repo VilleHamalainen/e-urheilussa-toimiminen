@@ -25,7 +25,7 @@ Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa v
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro" title="Space War game play">
-    <img src="http://img.youtube.com/vi/XEFLpbjfybc/0.jpg" alt="Space War game play" style="width: 80%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/XEFLpbjfybc/0.jpg" alt="Space War game play" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   <p style="max-width: 400px; margin: 0 auto;">
     Pelikuvaa vuonna 1972 julkaistusta Space War pelistä.
@@ -36,7 +36,7 @@ On hyvin luonnollista, että myös pelit lähtivät yliopistoilta liikkeelle, ko
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=pft_MCrLhZI&ab_channel=neiarcade99Playagame" title="Space Invaders Atari Championship 1981">
-    <img src="http://img.youtube.com/vi/pft_MCrLhZI/0.jpg" alt="Space Invaders Atari Championship 1981" style="width: 80%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/pft_MCrLhZI/0.jpg" alt="Space Invaders Atari Championship 1981" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   <p style="max-width: 400px; margin: 0 auto;">
     Atarin Space Invaders mestaruuskisat vuodelta 1981.
@@ -47,7 +47,7 @@ Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. M
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=4xUmZxnEMUI" title="The 1st Pro Gamer Ever">
-    <img src="http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg" alt="The 1st Pro Gamer Ever" style="width: 80%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg" alt="The 1st Pro Gamer Ever" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   <p style="max-width: 400px; margin: 0 auto;">
     Tallenne maailman enimmäisestä ammatikseen pelaavasta henkilöstä.
@@ -65,7 +65,7 @@ Vuosina 2006 ja 2007 järjestettiin The Championship Gaming Series (CGS), joka j
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=q6EWc1Kz10o" title="Championship Gaming Series 2006">
-    <img src="http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg" alt="Championship Gaming Series 2006" style="width: 80%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg" alt="Championship Gaming Series 2006" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   <p style="max-width: 400px; margin: 0 auto;">
     Tallenne yhdestä vuoden suurimista 2006 turnauksista.
@@ -98,7 +98,7 @@ Lähde: https://escharts.com/top-games?order=peak
 
 Kurssia tehtäessä Dall-e oli kovasti otsikoissa, joten tässäpä tekoälyn näkemys pelaamisen historiasta. 
 <div align="center">
-    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png" style="width: 80%; max-width: 400px; height: auto;">
+    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   <p style="max-width: 400px; margin: 0 auto;">
     Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
@@ -115,7 +115,7 @@ Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman ra
 Hieno tarina Suomalaisten menestyksestä on esimerkiksi Dota 2: The International kooste. 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Bv4CqIxqTMA" title="The International 2018">
-    <img src="http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg" alt="The International 2018" style="width: 80%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg" alt="The International 2018" style="width: 100%; max-width: 400px; height: auto">
   </a>
   <p style="max-width: 400px; margin: 0 auto;">
     Opettajan mielestä yksi parhaista TI-behind the scenes videoista, jossa on mukana myös suomalaisia Dota-tähtiä.
