@@ -25,7 +25,12 @@ Mitä kaikkea muuta e-urheilun ekosysteemiin kuuluu?
 E-urheilun historia on varsin lyhyt, mutta mielenkiintoinen matka. Ennen kuin esports termiä alettiin käyttää oli kilpailullisia pelejä pelattu jo pitkään pelihalleissa, koulujen saleissa sekä yksityissä turnauksissa. Pelien historiaan ei tässä materiaalissa mennä sen syvällisemmin, mutta mainittakoot, että ensimmäisiä askeleita digitaalisiin peleihin saatiin Flipperin ansiosta ja tarkemmin siitä kun joku keksi laittaa peliin osat, joilla palloa voi lyödä eli flipperit. Aikaisemmin peli toimi niin, että pallo laitettiin liikkeelle ja ihmiset löivät vetoa siitä kuinka pallo käyttäytyisi. Flipperit mahdollistivat pelimuodot, jossa ihmiset kilpailisivat toisiaan vastaan.
 
 
-Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa vuonna 1972 pelille "Spacewar!" (katso video:https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro). Pääpalkintona oli vuoden Rolling Stones lehden tilaus! Nykyään palkintosummat ovat hieman suurempia. On hyvin luonnollista, että myös pelit lähtivät yliopistoilta liikkeelle, koska vain heillä oli käytössään tarpeeksi tehokkaita tietokoneita. Tämä tapahtuma loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu The Space Invaders Championship in 1980 , jonka järjesti sihen aikaan suurin videopeliyritys Atari (ks. https://www.computerhistory.org/revolution/computer-games/16/185). 
+Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa vuonna 1972 pelille Space War. Pääpalkintona oli vuoden Rolling Stones lehden tilaus! Nykyään palkintosummat ovat hieman suurempia.
+
+[![Spacewar gameplay](http://img.youtube.com/vi/XEFLpbjfybc/0.jpg)](https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro)
+<center>Video. Pelikuvaa vuonna 1972 julkaistusta Space War pelistä</center><br></br>
+
+On hyvin luonnollista, että myös pelit lähtivät yliopistoilta liikkeelle, koska vain heillä oli käytössään tarpeeksi tehokkaita tietokoneita. Tämä tapahtuma loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu The Space Invaders Championship in 1980 , jonka järjesti sihen aikaan suurin videopeliyritys Atari (ks. https://www.computerhistory.org/revolution/computer-games/16/185). 
 
 
 [![Space Invaders Atari Championship 1981](http://img.youtube.com/vi/pft_MCrLhZI/0.jpg)](https://www.youtube.com/watch?v=pft_MCrLhZI&ab_channel=neiarcade99Playagame "Space Invaders Atari Championship 1981")
