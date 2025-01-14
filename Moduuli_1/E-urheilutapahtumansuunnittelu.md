@@ -81,7 +81,7 @@ Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja
 
    ![Oman turnauksen luominen FaceIt-palvelussa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Luoturnaus.png)
 
-<center>Kuva. Oman turnauksen luominen FaceIt:ssa on helppoa</center><br/><br/>
+ Oman turnauksen luominen FaceIt:ssa on helppoa<br/><br/>
 
 
 ## Tehtäviä
@@ -96,7 +96,7 @@ Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja
 
      ![Formaatin valinta on ratkaisevassa roolissa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Valitseturnausformaatti.png)
 	
- <center>Kuva. FaceIt tukee erilaisia turnausformaatteja, joista voi valita itselleen sopivan.</center><br/><br/>
+ FaceIt tukee erilaisia turnausformaatteja, joista voi valita itselleen sopivan.<br/><br/>
 
 
    - Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Onko muita työkaluja esim.   https://www.toornament.com/en_US/ tai https://challonge.com/fi/tournament/bracket_generator turnauksen hahmotteluun?
@@ -165,7 +165,7 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
 
   ![Tekoälyn näkemys lanista](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png)
 	
- <center>Kuva. Tekoälyn näkemys lanitapahtumasta./center> 
+ Tekoälyn näkemys lanitapahtumasta.
 
 
 ## Esports lanin(local area network) perusteet
@@ -174,7 +174,7 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
 
 ![Tekoälyn näkemys lanista ja eri laitteista](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-21%2010.36.12%20-%20Create%20an%20illustrative%20and%20educational%20image%20of%20a%20Local%20Area%20Network%20(LAN).%20Include%20a%20central%20switch%20connected%20to%20various%20devices%20via%20LAN%20cables.%20The%20.png)
 	
-<center>Kuva. Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.</center><br/><br/>
+<center Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.</center><br/><br/>
  
    Lanissa tapahtuva pelaaminen voi olla pieniä kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa vanhempien poissaollessa. Toisaalta taas Lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteututettu ammattitason tapahtuma. Periaattessa lanin koosta riippumatta käytössä on yleensä liittymäkohta internettiin, vaikka tämä ei vaatimus olekaan. Yhtyden internetin ja lanin välillä hoitaa Reitin (Router). Reititin on tärkeä verkkolaite, joka on keskeisessä roolissa siinä, miten data liikkuu tietokoneesi ja internetin välillä. 
 
@@ -227,11 +227,12 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
 
 Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Kytkin on laite, jolla kytketään useampi laite samaan laniin. Reititin operoi käyttämällä IP-osoitteita kun taas kytkin toimii tutkimalla MAC-osoitteita, jotka ovat tiedon siirron välineitä. Kytkin rakentaa taulun laitteista, jotka on kytketty kytkimen portteihin ja ohjaa tällä perusteella liikennettä.
 
-
-![Kytkin](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png)
-
-<center>Kuva. Kytkin on laite joka liitää useamman laitteen samaan laniverkkoon.</center><br/><br/>
-
+<div align = center>
+	<img source = https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png/ alt = "Kytkin  style="width: 100%; max-width: 400px; height: auto;">
+<p style="max-width: 400px; margin: 0 auto;">
+	Kytkin on laite joka liitää useamman laitteen samaan laniverkkoon.
+p/>
+</div>
 
 Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli VLAN-verkkoihin, jolloin verkon liikennettä saadaan jaettua entisestään. Tämä edistää mm. tietoturvaa, koska verkot eivät juttele keskenään. Käyttännön esimerkkinä voitasiin pitää putkea, jonka sisällä on useampi eri värinen putki (nämä ovat siis WLANEJA). Hyötynä laajemmissa organisaatioissa voisi olla, että esim. Sähkö/ICT:llä olisi oma verkko, koska opiskelijat tarvitevat todennäköisesti verkkoa enemmän kuin jonkun toisen alan opiskelijat. Tai työelämässä esimerkiksi eri osastot kuten laskutus ja myynti saisivat omat virtuaaliset verkkonsa. 
 
@@ -294,7 +295,7 @@ Selvitä mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat l
 
    ![OSI-malli](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/OSImalli.png)
 
-   <center>Kuva. OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.</center><br/><br/>
+   <center> OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.</center><br/><br/>
 
    
 ### Bonustehtävä LanCache isommille laneille
@@ -388,7 +389,7 @@ Stream-overlayt ja paneelit ovat tärkeämpiä Twitchissä kuin YouTubessa, kosk
 
 ![Twitchin yleisnakyma](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchnakyma.png)
 
-<center>Kuva. Twitchin yleinäkymästä voit valita itseäsi kiinnostavan genren.</center><br/><br/>
+<center> Twitchin yleinäkymästä voit valita itseäsi kiinnostavan genren.</center><br/><br/>
 
 
    <b>Mitä Streamaus Twitchissä vaatii?</b>
@@ -511,7 +512,7 @@ Käydään opettajan kanssa läpi hieman tutkimusta aiheesta: https://dl.acm.org
 
    https://www.youtube.com/watch?v=0i9gkprYekI&ab_channel=Ludwig
 
-   GradiaCup ei tule kestämään useampaa päivää, mutta meidän on silti syytä tutustua steamauksen muihin osa-aluisiin.
+   GradiaCup ei tule kestämään useampaa päivää, mutta meidän on silti syytä tutustua steamauksen muihin osa-alueisiin.
 
    https://www.udemy.com/course/how-to-start-esports-club/
 
