@@ -38,11 +38,12 @@ Jos tapahtuman live-stream tai muu lähetys katkeaa teknisten ongelmien vuoksi, 
 Pelaajien poissaolot tai myöhästelyt:
 Esimerkiksi VISA-ongelmat ovat usein ongelma joukkueille. Hakemukset voivat kestää liian pitkään, jolloin jokkue joutuu etsimään korvaajan. Toisaalta taas ihmiset voivat olla turnauksessa myöhässä omasta huolimattomuudestaan johtuen tai ns. hyvästä syystä (bussi meni rikki).
 
-Sponsorointiongelmat:
-Jos tapahtuma ei saavuta odotettua sponsorointitavoitteitaan tai jos sponsorit peruvat tuen kesken tapahtuman, se voi vaikuttaa budjettiin ja tapahtuman rahoitukseen.
-
 Katsomo- ja yleisöongelmat:
 Jos tapahtuma on paikan päällä, voi syntyä ongelmia tilojen riittämättömyyden, turvallisuusmääräysten tai yleisön hallinnan kanssa. Väärin organisoidut tai ylikuormitetut tapahtumat voivat aiheuttaa kaaosta ja jopa vaaratilanteita.
+
+Sponsoriongelmat:
+Usein tapahtumilla on tavoitteena tuottaa rahaa tai saavuttaa esimerkiksi tietty määrä katsojia. Jos tavoitteista jäädään voivat sponsorit luopua tapahtumien järjestämisestä seuraavalle kerralle. 
+
 </details>
 
 
