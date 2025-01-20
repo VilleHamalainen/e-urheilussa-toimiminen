@@ -72,18 +72,18 @@ Alla oleva lista on tuttu jo edellisestä osiosta. Tässä listassa on mukana ke
 
 | Vaihe  | Määräaika | Valmis |
 |--------|-----------|--------|
-| 20. Valmistele tiimi | | | |
-| 21. Tarkista pelaajien viestintäkanavat | | | |
-| 22. Hallinnoi turnauksen aikataulua | | | |
-| 23. Tarkista tuomareiden tilit | | | |
-| 24. Määrittele tiimiroolit | | | |
-| 25. Ilmoita pisteet ja tulokset otteluiden välillä | | | |
-| 26. Valmistele päivittäiset turnaustilastot | | | |
-| 27. Moderoi keskustelua | | | |
-| 28. Tarjoa tukea turnauspelaajille | | | |
-| 29. Jaa päivän lopputiedotteet | | | |
-| 30. Valitse lähetettävät ottelut | | | |
-| 31. Ole valmiina otteluiden alkaessa | | | |
+| 1. Valmistele tiimi | | | |
+| 2. Tarkista pelaajien viestintäkanavat | | | |
+| 3. Hallinnoi turnauksen aikataulua | | | |
+| 4. Tarkista tuomareiden tilit | | | |
+| 5. Määrittele tiimiroolit | | | |
+| 6. Ilmoita pisteet ja tulokset otteluiden välillä | | | |
+| 7. Valmistele päivittäiset turnaustilastot | | | |
+| 8. Moderoi keskustelua | | | |
+| 9. Tarjoa tukea turnauspelaajille | | | |
+| 10. Jaa päivän lopputiedotteet | | | |
+| 11. Valitse lähetettävät ottelut | | | |
+| 12. Ole valmiina otteluiden alkaessa | | | |
 
 </details>
 
@@ -92,14 +92,14 @@ Alla oleva lista on tuttu jo edellisestä osiosta. Tässä listassa on mukana ke
 
 | Vaihe  | Määräaika | Valmis |
 |--------|-----------|--------|
-| 32. Juhli tiimin kanssa | | | |
-| 33. Kerää pelaajapalautetta | | | |
-| 34. Valmistele tapahtumaraportti | | | |
-| 35. Seuraa palkintojen jakoa | | | |
-| 36. Jaa turnauksen jälkeiset sosiaalisen median julkaisut | | | |
-| 37. Järjestä palkintojenjakotilaisuus | | | |
-| 38. Analysoi data | | | |
-| 39. Lähetä data asianomaisille toimijoille | | | |
+| 13. Juhli tiimin kanssa | | | |
+| 14. Kerää pelaajapalautetta | | | |
+| 15. Valmistele tapahtumaraportti | | | |
+| 16. Seuraa palkintojen jakoa | | | |
+| 17. Jaa turnauksen jälkeiset sosiaalisen median julkaisut | | | |
+| 18. Järjestä palkintojenjakotilaisuus | | | |
+| 19. Analysoi data | | | |
+| 20. Lähetä data asianomaisille toimijoille | | | |
 </details>
 
 
