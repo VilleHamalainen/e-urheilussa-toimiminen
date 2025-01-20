@@ -14,7 +14,7 @@ Internet-yhteyksien katkeaminen tai heikko yhteys voi estää pelaajia, tiimejä
 Laitteistoviat:
 Esimerkiksi pelitietokoneiden, näytönohjainten tai muiden pelilaitteiden rikkoutuminen voi aiheuttaa viivästyksiä tai jopa keskeyttää koko tapahtuman.
 
-Pelipalvelinongelmat: Jos pelin palvelimet kaatuvat tai alkavat viivästyttää peliä, se voi sekoittaa aikataulut ja johtaa teknisiin ongelmiin.
+Pelipalvelinongelmat: Jos pelin palvelimet kaatuvat tai alkavat viivästyttää peliä, se voi sekoittaa aikataulut, joka vaikuttaa kaikkiin turnauksessa oleviin sekä katsojiin.
 
 Pelin kaatuminen tai bugit:
 Jos peli kaatuu kesken ottelun tai peliin tulee isoja bugeja, se voi aiheuttaa viivästyksiä ja lisähaasteita tapahtuman hallinnoinnissa. Tällöin saattaa olla tarpeen keskeyttää peli ja pelata se uudelleen tai pelissä käytettävä sääntö voi muuttua.
