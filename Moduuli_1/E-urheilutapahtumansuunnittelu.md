@@ -175,7 +175,7 @@ Tehtän tarkoituksena on tutustua vanhaan materiaalin sekä miettiä ja suunnite
 </details>
 
 <details>
-<summary>Turnauksen jälkeen/summary>
+<summary>Turnauksen jälkeen</summary>
 
 | Vaihe  | Määräaika | Valmis |
 |--------|-----------|--------|
