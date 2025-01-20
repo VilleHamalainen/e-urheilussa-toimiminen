@@ -45,6 +45,10 @@ Katsomo- ja yleisöongelmat:
 Jos tapahtuma on paikan päällä, voi syntyä ongelmia tilojen riittämättömyyden, turvallisuusmääräysten tai yleisön hallinnan kanssa. Väärin organisoidut tai ylikuormitetut tapahtumat voivat aiheuttaa kaaosta ja jopa vaaratilanteita.
 </details>
 
+
+Koska moni asia voi mennä pieleen, on turnauksessa useita erilaisia rooleja, joista katsoja ei ole tietoinen.
+
+
 •	toimii projektisuunnitelman ja aikataulutuksen mukaisesti vastuuta ottaen määrätyissä tehtävissä, esim:
 o	juontaa ja selostaa tapahtumaa 
 o	valvoa ja moderoida lähetyskanavaa
