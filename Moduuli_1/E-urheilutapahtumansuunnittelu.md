@@ -99,7 +99,7 @@ Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja
  FaceIt tukee erilaisia turnausformaatteja, joista voi valita itselleen sopivan.<br/><br/>
 
 
-   - Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Onko muita työkaluja esim.   https://www.toornament.com/en_US/ tai https://challonge.com/fi/tournament/bracket_generator turnauksen hahmotteluun?
+   - Suunnitelkaa aikataulu, mukaan lukien pelipäivät ja -ajat. Lähdetään miettimään mitä kaikkea tulee ottaa huomioon turnauksen koon suhteen. Onko mahdollista järjestää ns. Mock-turnaus? Hyväksi havaittu turnauksensuunnittelu työkalu on [!Challonge](https://challonge.com/fi/tournament/bracket_generator)
 
 ### Rekisteröityminen ja joukkueiden muodostaminen
 
@@ -241,7 +241,7 @@ Yleisesti reititittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja i
 Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Kytkin on laite, jolla kytketään useampi laite samaan laniin. Reititin operoi käyttämällä IP-osoitteita kun taas kytkin toimii tutkimalla MAC-osoitteita, jotka ovat tiedon siirron välineitä. Kytkin rakentaa taulun laitteista, jotka on kytketty kytkimen portteihin ja ohjaa tällä perusteella liikennettä.
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Kytkin.png" 
+	<img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png" 
 	     alt="Kytkin" 
 	     style="width: 100%; max-width: 400px; height: auto;">
 	<p style="max-width: 400px; margin: 0 auto;">
