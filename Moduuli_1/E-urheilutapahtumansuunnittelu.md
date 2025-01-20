@@ -125,6 +125,57 @@ Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja
 Tehtävään saatte opettajalta 2022-vuoden Discord toteukuksen, johon voimme lähtetä tutustumaan ja miettimään mahdollisia parannuksia. Opettaja näyttää myös vuoden 2022 Discordissa tapahtunutta viestintää.
 
 Tehtän tarkoituksena on tutustua vanhaan materiaalin sekä miettiä ja suunnitella turnausten viestintää etukäteen. Millaisia uhkakuvita turnauksen viestinnässä voi olla? Mitkä ovat pahimmat tilanteet, joita turnauksen aikana voi tapahtua ja miten ne hoidetaan viestinnällisesti?
+
+### Turnauksen järjestämisen muistilista
+
+| Vaihe  | Määräaika | Valmis |
+|--------|-----------|--------|
+| **Ennen turnausta - Toiminta** | | | |
+| 1. Määrittele turnauksen tarkoitus | | | |
+| 2. Järjestä kalenteri | | | |
+| 3. Arvioi paikalliset olosuhteet | | | |
+| 4. Määrittele palkinnot | | | |
+| 5. Varmista henkilökohtaisten tietojen suoja | | | |
+| 6. Aloita pelaajien vuorovaikutus | | | |
+| 7. Tee julkinen ilmoitus | | | |
+| 8. Valmistele visuaaliset materiaalit | | | |
+| 9. Kehitä sosiaalisen median sisällön suunnitelma | | | |
+| **Turnauksen hallinta** | | | |
+| 10. Valmistele sääntökirja | | | |
+| 11. Määrittele turnauksen formaatti | | | |
+| 12. Luo ja perehdytä operatiivinen tiimi | | | |
+| 13. Valitse ja testaa turnausalusta | | | |
+| 14. Valmistele tuomarit | | | |
+| 15. Valitse ja säätele viestintäkanavat | | | |
+| 16. Luo ilmoittautumislomake | | | |
+| 17. Tee ennakkotarkistus teknisesti | | | |
+| **Lähetyshallinta** | | | |
+| 18. Valitse suoratoistoalusta ja tili | | | |
+| 19. Valitse ja ilmoita selostajat | | | |
+| **Turnauksen hallinta** | | | |
+| 20. Valmistele tiimi | | | |
+| 21. Tarkista pelaajien viestintäkanavat ja tee kontrollit | | | |
+| 22. Hallitse turnauksen aikataulua | | | |
+| 23. Tarkista tuomareiden tilit | | | |
+| 24. Määrittele tiimiroolit | | | |
+| 25. Ilmoita pisteet ja tulokset otteluiden välillä | | | |
+| 26. Valmistele päivittäiset turnaustilastot | | | |
+| 27. Moderoi keskustelua | | | |
+| 28. Tarjoa tukea turnauspelaajille | | | |
+| 29. Jaa päivän lopputiedotteet | | | |
+| **Lähetyshallinta** | | | |
+| 30. Valitse lähetettävät ottelut | | | |
+| 31. Ole valmiina otteluiden alkaessa | | | |
+| **Turnauksen jälkeinen toiminta** | | | |
+| 32. Juhli tiimin kanssa | | | |
+| 33. Kerää pelaajapalautetta | | | |
+| 34. Valmistele tapahtumaraportti | | | |
+| 35. Seuraa palkintojen jakoa | | | |
+| 36. Jaa turnauksen jälkeiset sosiaalisen median julkaisut | | | |
+| **Turnauksen jälkeinen hallinta** | | | |
+| 37. Järjestä palkintojenjakotilaisuus | | | |
+| 38. Analysoi data | | | |
+Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tournaments-dokumenttia, joka on julkaistu 4.0 Creative Commons -lisenssillä Dell Technologiesin ja Advanced Learning Partnersin toimesta. 
    
 
 ## Lan-tapahtuma
