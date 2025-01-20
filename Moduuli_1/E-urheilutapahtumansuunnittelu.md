@@ -162,28 +162,41 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
    3. Henkilöstö ja vapaaehtoiset
    Tiimit ja tehtävät: Selkeät roolit ja vastuualueet henkilöstölle ja vapaaehtoisille.
    Koulutus: Henkilöstön ja vapaaehtoisten koulutus ja perehdytys.
-
-  ![Tekoälyn näkemys lanista](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png)
 	
- Tekoälyn näkemys lanitapahtumasta.
-
+ 
+<div style="text-align: center; margin: 0 auto;">
+    <img 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png" 
+        alt="Tekoälyn näkemys lanista ja eri laitteista" 
+        style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+    <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
+        Tekoälyn näkemys lanitapahtumasta.
+    </p>
+</div>
 
 ## Esports lanin(local area network) perusteet
    
    - https://en.wikipedia.org/wiki/Local_area_network
 
-![Tekoälyn näkemys lanista ja eri laitteista](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-21%2010.36.12%20-%20Create%20an%20illustrative%20and%20educational%20image%20of%20a%20Local%20Area%20Network%20(LAN).%20Include%20a%20central%20switch%20connected%20to%20various%20devices%20via%20LAN%20cables.%20The%20.png)
-	
-<center Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.</center><br/><br/>
+<div style="text-align: center; margin: 0 auto;">
+    <img 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-21%2010.36.12%20-%20Create%20an%20illustrative%20and%20educational%20image%20of%20a%20Local%20Area%20Network%20(LAN).%20Include%20a%20central%20switch%20connected%20to%20various%20devices%20via%20LAN%20cables.%20The%20.png" 
+        alt="Tekoälyn näkemys lanista ja eri laitteista" 
+        style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+    <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
+        Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.
+    </p>
+</div>
+
  
    Lanissa tapahtuva pelaaminen voi olla pieniä kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa vanhempien poissaollessa. Toisaalta taas Lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteututettu ammattitason tapahtuma. Periaattessa lanin koosta riippumatta käytössä on yleensä liittymäkohta internettiin, vaikka tämä ei vaatimus olekaan. Yhtyden internetin ja lanin välillä hoitaa Reitin (Router). Reititin on tärkeä verkkolaite, joka on keskeisessä roolissa siinä, miten data liikkuu tietokoneesi ja internetin välillä. 
 
    1. Mikä on Reititin (Router)?
    
-      Reitittimiä on useita erilaisia, mutta tässä yhteydessä puhumme pienemmän mittakaavan reittimistä kuten kodin reititin. Reititin on laite, joka välittää datapaketteja verkkojen välillä. Reititintä voi ajatella vaikkapa liikenteen ohjaajana, joka pitää huolta, että datapaketit löytävät oikeaan julkiseen IP (Internet Protocol)-osoitteeseen. Samassa verkossa olevilla koneilla on omat privaatit IP-osoitteet, joiden avulla laitteet tunnistavat ja kommunikoivat keskenään. Pelatessasi Counter Strikea tai Valoranttia, muuttuvat ammukset ja pelaajan liikkeet datapaketeiksi, jotka lähtevät pelivalvelimelle. Jos pelipalvelin on hostattuna lanin sisällä (jonkun koneella), hoitaa reititin edelleen ohjausta privaattien IP-osoitteiden avulla (DHCP). Mainittakoot, että aikanaan kun internet on syntynyt on IPv4 protokollan mukaisia osoitteita ollut noin 4.3 miljardia (2^32) ja, koska jokaisella verkossa olevalla laitteella (nykyään mikro, puhelin, vessanpönttö jne.) on  julkinen oma IP-osoiteensa kehitettiin osoitteiden yhtenä kiertona osoitteiden loppumiselle NAT eli Network Address Translation, jonka avulla useat laitteet samassa verkossa voivat jakaa yhden julkisen IP-osoitteen. Nykyään käyttöön on tullut IPv6, joka käyttää 128-bittisiä osoitteta (2^128), jonka pitäisi ratkaista IP-osoitteiden ongelma ainakin toistaiseksi.
+Reitittimiä on useita erilaisia, mutta tässä yhteydessä puhumme pienemmän mittakaavan reittimistä kuten kodin reititin. Reititin on laite, joka välittää datapaketteja verkkojen välillä. Reititintä voi ajatella vaikkapa liikenteen ohjaajana, joka pitää huolta, että datapaketit löytävät oikeaan julkiseen IP (Internet Protocol)-osoitteeseen. Samassa verkossa olevilla koneilla on omat privaatit IP-osoitteet, joiden avulla laitteet tunnistavat ja kommunikoivat keskenään. Pelatessasi Counter Strikea tai Valoranttia, muuttuvat ammukset ja pelaajan liikkeet datapaketeiksi, jotka lähtevät pelivalvelimelle. Jos pelipalvelin on hostattuna lanin sisällä (jonkun koneella), hoitaa reititin edelleen ohjausta privaattien IP-osoitteiden avulla (DHCP). Mainittakoot, että aikanaan kun internet on syntynyt on IPv4 protokollan mukaisia osoitteita ollut noin 4.3 miljardia (2^32) ja, koska jokaisella verkossa olevalla laitteella (nykyään mikro, puhelin, vessanpönttö jne.) on  julkinen oma IP-osoiteensa kehitettiin osoitteiden yhtenä kiertona osoitteiden loppumiselle NAT eli Network Address Translation, jonka avulla useat laitteet samassa verkossa voivat jakaa yhden julkisen IP-osoitteen. Nykyään käyttöön on tullut IPv6, joka käyttää 128-bittisiä osoitteta (2^128), jonka pitäisi ratkaista IP-osoitteiden ongelma ainakin toistaiseksi.
 
 
-       Counterstikessa oman privaatin IP:n pääsee katsomaan status-komennolla. Tärkein asia löytyy heti ensimmäiseltä riviltä, joka näyttää privaatin lokaalin IP-osoiteen 172.18.176.1 ja portin 27015, joka tyypillinen portti peleille. Portti kuuntelee uusia yhteydenottoja eli periaateessa samasta verkosta pitäisi voida yhdistää tähän peliin, jos IP-osoite on tiedossa. Aikaisemmin pelin pävitysten yhteydessä on pitänyt sallia tiettyä portteja, jotta lataus onnistuu nopeammin.
+Counterstikessa oman privaatin IP:n pääsee katsomaan status-komennolla. Tärkein asia löytyy heti ensimmäiseltä riviltä, joka näyttää privaatin lokaalin IP-osoiteen 172.18.176.1 ja portin 27015, joka tyypillinen portti peleille. Portti kuuntelee uusia yhteydenottoja eli periaateessa samasta verkosta pitäisi voida yhdistää tähän peliin, jos IP-osoite on tiedossa. Aikaisemmin pelin pävitysten yhteydessä on pitänyt sallia tiettyä portteja, jotta lataus onnistuu nopeammin.
 
       ```console
       
@@ -221,49 +234,49 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
       ```
 
 
-   Yleisesti reititittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja internetin välillä tai internet-palveluntarjoajien verkkojen välillä. Niitä käytetään kaikenkokoisissa verkoissa, ja suurimmat ja tehokkaimmat reitittimet ovat yleensä  internet-palveluntarjoajien, akateemisten ja tutkimuslaitosten hallussa. 
+Yleisesti reititittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja internetin välillä tai internet-palveluntarjoajien verkkojen välillä. Niitä käytetään kaikenkokoisissa verkoissa, ja suurimmat ja tehokkaimmat reitittimet ovat yleensä  internet-palveluntarjoajien, akateemisten ja tutkimuslaitosten hallussa. 
 
   2. Mikä on kytkin (switch)?
 
 Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Kytkin on laite, jolla kytketään useampi laite samaan laniin. Reititin operoi käyttämällä IP-osoitteita kun taas kytkin toimii tutkimalla MAC-osoitteita, jotka ovat tiedon siirron välineitä. Kytkin rakentaa taulun laitteista, jotka on kytketty kytkimen portteihin ja ohjaa tällä perusteella liikennettä.
 
-<div align = center>
-	<img source = https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png/ alt = "Kytkin  style="width: 100%; max-width: 400px; height: auto;">
-<p style="max-width: 400px; margin: 0 auto;">
-	Kytkin on laite joka liitää useamman laitteen samaan laniverkkoon.
-p/>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Kytkin.png" 
+	     alt="Kytkin" 
+	     style="width: 100%; max-width: 400px; height: auto;">
+	<p style="max-width: 400px; margin: 0 auto;">
+		Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.
+	</p>
 </div>
+
 
 Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli VLAN-verkkoihin, jolloin verkon liikennettä saadaan jaettua entisestään. Tämä edistää mm. tietoturvaa, koska verkot eivät juttele keskenään. Käyttännön esimerkkinä voitasiin pitää putkea, jonka sisällä on useampi eri värinen putki (nämä ovat siis WLANEJA). Hyötynä laajemmissa organisaatioissa voisi olla, että esim. Sähkö/ICT:llä olisi oma verkko, koska opiskelijat tarvitevat todennäköisesti verkkoa enemmän kuin jonkun toisen alan opiskelijat. Tai työelämässä esimerkiksi eri osastot kuten laskutus ja myynti saisivat omat virtuaaliset verkkonsa. 
 
 Pelilanien näkökulmasta edut ovat myös selkeitä. Jokainen laite saa oman kanavansa kun se liitetään kytkimeen ethernet-kaapelilla. Tilanne voi muutta jos siinä vaiheessa kun paikalle tulee pieni määrä yleisöä. Onko syytä jakaa verkko vierailla ja pelaajille erikseen, koska on suotavaa, että pelaajat saavat parhaan mahollisen kaistan pelejään varten. Pienemmissä tapahtumissa tätä tuskin tarvitsee miettiä, mutta usein tekniikan parissa tulee yllätyksiä, jos niihin ei varaudu. On myös hyvä miettiä laneja, joss pelejä ladataan paljon. Tilanne voisi olla seuraava: pelaajat keksivät, että he halauvat pelata porukassa peliä mitään kenelläkään ei ole. Verkon kannalta on todella huono homma, jos 20 ihmistä alkaa latamaan 40 gB:n kokoista peliä. Fiksumpaa onkin miettiä voisiko laneilla asentaa oman niin sanotun Lan-Cachen, johon ladataan peli kerran ja tämän jälkeen verkon sisällä hoidetaan pelin levittäminen. Omassa kotiverkossakin voi olla syytä miettiä ja olla tietoinen reitittimen asetuksista. Oman verkon tietoja Windows-koneella pääsee katsomaan ipconfig-komennolla.
 
-   ```console
 
-   Windows IP Configuration
+	```console
 
-
-Ethernet adapter Ethernet:
-
-   Connection-specific DNS Suffix  . :
-   Link-local IPv6 Address . . . . . : fe80::4d53:5fa1:cdde:a2f7%4
-   IPv4 Address. . . . . . . . . . . : 82.112.110.245
-   Subnet Mask . . . . . . . . . . . : 255.255.252.0
-   Default Gateway . . . . . . . . . : 192.168.1.1
-
-Ethernet adapter vEthernet (Default Switch):
-
-   Connection-specific DNS Suffix  . :
-   Link-local IPv6 Address . . . . . : ************** 
-   IPv4 Address. . . . . . . . . . . : 172.18.176.1
-   Subnet Mask . . . . . . . . . . . : 255.255.240.0
-   Default Gateway . . . . . . . . . :
+ 	Windows IP Configuration
 
 
+	Ethernet adapter Ethernet:
 
+   	Connection-specific DNS Suffix  . :
+   	Link-local IPv6 Address . . . . . : fe80::4d53:5fa1:cdde:a2f7%4
+   	IPv4 Address. . . . . . . . . . . : 82.112.110.245
+   	Subnet Mask . . . . . . . . . . . : 255.255.252.0
+   	Default Gateway . . . . . . . . . : 192.168.1.1
 
+	Ethernet adapter vEthernet (Default Switch):
 
-   ```
+   	Connection-specific DNS Suffix  . :
+   	Link-local IPv6 Address . . . . . : ************** 
+   	IPv4 Address. . . . . . . . . . . : 172.18.176.1
+   	Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   	Default Gateway . . . . . . . . . :
+
+  	 ```
 
 Enempää emme tässä yhteydessä rupea verkkoteknologiaa läpi käymään. Alla on muutamia lähteitä aiheen tarkemmalle tarkastelulle.
 
@@ -276,7 +289,7 @@ https://www.cisco.com/c/en/us/products/switches/what-is-a-gigabit-switch.html
 
 ## Yhteenveto
    
-   Online- ja LAN-tapahtumien järjestäminen e-urheilussa vaatii monipuolista suunnittelua ja huolellista toteutusta. Online-tapahtumat korostavat teknisen infrastruktuurin ja   virtuaalisen viestinnän merkitystä, kun taas LAN-tapahtumat keskittyvät fyysisen tilan, laitteiden ja yleisön kokemuksen hallintaan. Molemmissa tapahtumatyypeissä on tärkeä ä   kiinnittää huomiota markkinointiin, budjetointiin, henkilöstöhallintaan ja osallistujakokemukseen. Onnistunut tapahtuma edellyttää joustavaa suunnittelua, tehokasta koordinointia ja kykyä reagoida muuttuviin olosuhteisiin.
+Online- ja LAN-tapahtumien järjestäminen e-urheilussa vaatii monipuolista suunnittelua ja huolellista toteutusta. Online-tapahtumat korostavat teknisen infrastruktuurin ja   virtuaalisen viestinnän merkitystä, kun taas LAN-tapahtumat keskittyvät fyysisen tilan, laitteiden ja yleisön kokemuksen hallintaan. Molemmissa tapahtumatyypeissä on tärkeä ä   kiinnittää huomiota markkinointiin, budjetointiin, henkilöstöhallintaan ja osallistujakokemukseen. Onnistunut tapahtuma edellyttää joustavaa suunnittelua, tehokasta koordinointia ja kykyä reagoida muuttuviin olosuhteisiin.
 
 ## Tehtäviä
 
