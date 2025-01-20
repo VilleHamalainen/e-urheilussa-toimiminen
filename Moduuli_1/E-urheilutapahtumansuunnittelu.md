@@ -306,9 +306,15 @@ Tehtävänä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen
 
 Selvitä mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat lanien kannalta? Mihin kerrokseen ne kuuluvat?
 
-   ![OSI-malli](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/OSImalli.png)
-
-   <center> OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.</center><br/><br/>
+<div style="text-align: center; margin: 0 auto;">
+    <img 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/OSImalli.png" 
+        alt="OSI-malli" 
+        style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+    <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
+        OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.
+    </p>
+</div>
 
    
 ### Bonustehtävä LanCache isommille laneille
