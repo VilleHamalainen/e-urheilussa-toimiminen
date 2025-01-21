@@ -5,7 +5,7 @@
 E-urheilutapahtumaa (oikeasti mikä tahansa tapahtuma) seuratessa ei tule useinkaan mietittyä mitä kaikkea onnistuneen tapahtuman toteuttaminen vaatii. Ja parhaassa tapauksessa tausta olevat toimenpiteet on suunniteltu niin hyvin, että katsojan ei niitä tarvitsekaan miettiä. Usein kuitenkin kaikesta valmistumisesta huolimatta jotain menee pieleen ja tämä on erityisen totta tapahtumissa, jossa on enemmän teknologiaa. Kerrataanpa mitä kaikka turnauksen suunnitteluvaiheessa piti ottaa huomioon. Miettikää pienissä ryhmissä ennen kuin avaatte alla olevan listan.
 
 <details>
-  <summary>Mikä kaikki voi mennä pieleen?</summary>
+  <summary>Mitä kaikkea tulee ottaa huomioon?</summary>
 
 
 Yhteysongelmat:
