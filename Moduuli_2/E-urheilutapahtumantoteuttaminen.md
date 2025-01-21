@@ -19,10 +19,12 @@ Pelipalvelinongelmat: Jos pelin palvelimet kaatuvat tai alkavat viivästyttää 
 Pelin kaatuminen tai bugit:
 Jos peli kaatuu kesken ottelun tai peliin tulee isoja bugeja, se voi aiheuttaa viivästyksiä ja lisähaasteita tapahtuman hallinnoinnissa. Tällöin saattaa olla tarpeen keskeyttää peli ja pelata se uudelleen tai pelissä käytettävä sääntö voi muuttua.
 
-Aikatauluongelmat:
+Viivästykset:
+Jos pelissä tai tapahtumassa ilmenee viivästyksiä, aikataulut voivat venyä, mikä vaikuttaa sekä pelaajiin että katsojiin.
 
-Viivästykset: Jos pelissä tai tapahtumassa ilmenee viivästyksiä, aikataulut voivat venyä, mikä vaikuttaa sekä pelaajiin että katsojiin.
-Aikavyöhykkeiden ero: Erityisesti kansainvälisissä turnauksissa aikavyöhykkeiden erosta johtuvat aikarajoitteet voivat aiheuttaa sekavuutta ja myöhästymisiä.
+Aikavyöhykkeiden ero:
+Erityisesti kansainvälisissä turnauksissa aikavyöhykkeiden erosta johtuvat aikarajoitteet voivat aiheuttaa sekavuutta ja myöhästymisiä.
+
 Säännöistä poikkeaminen:
 Jos kilpailijat rikkovat sääntöjä tai huijaavat, se voi johtaa kiistoihin ja epäselvyyksiin kilpailun reiluudesta. Tällöin voi olla tarpeen tarkistaa ja ratkaista ongelma nopealla aikataululla.
 
@@ -47,7 +49,25 @@ Usein tapahtumilla on tavoitteena tuottaa rahaa tai saavuttaa esimerkiksi tietty
 </details>
 
 
-Koska moni asia voi mennä pieleen, on turnauksessa useita erilaisia rooleja, joista katsoja ei ole tietoinen.
+Tapahtuman järjestämisessä on paljon mietittävää, on turnauksessa useita erilaisia rooleja, joista katsoja ei välttämättä ole tietoinen. Alla olevaa roolilistaa voi käyttää hyväksi kun mietitään, mitä rooleja kullekin opiskelijalle tulee ja mitkä kaikki kategoriat ovat tarpeellisia järjestettävissä tapahtumissa.
+
+
+<details>
+<summary>Roolit e-urheilutapahtumissa</summary>
+
+| **Kategoriat**                 | **Roolit**                                                                                                   |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Tapahtuman järjestäjät ja johto** | Tapahtumapäällikkö, Turnausjohtaja, Projektipäällikkö, Tila-/areenavastaava, Operatiivinen tiimi             |
+| **Tekninen tuki**              | Lähetyksen johtaja, Lähetyksen tuottaja, Kameramiehet/-naiset, Ääni-insinöörit, IT-tuki                      |
+| **Lavahenkilöstö**             | Selostajat, Analyytikot, Juontaja, Observerit, Pelaajat ja joukkueet, Tuomarit/virkailijat                   |
+| **Lähetys ja media**           | Sosiaalisen median vastaava, Sisällöntuottajat/editoijat, Graafiset suunnittelijat, Käsikirjoittajat, PR-tiimi |
+| **Pelaaja- ja joukkuehallinto**| Joukkueen johtajat, Valmentajat, Psykologit/suorituskykyvalmentajat, Analyytikot (joukkuekohtaiset)           |
+| **Sponsorointi ja markkinointi**| Sponsoreista vastaava, Markkinointitiimi, Yhteistyövastaava, Tuotetiimi                                     |
+| **Yleisökokemus ja sitouttaminen**| Yleisökoordinaattorit, VIP-isännät, Lavatiimi, Tapahtumaoppaat                                             |
+| **Logistiikka ja operatiivinen toiminta** | Logistiikkakoordinaattorit, Catering- ja palvelutiimi, Turvatiimi, Vapaaehtoisten koordinaattori       |
+| **Tapahtuman jälkityö**        | Data-analyytikot, Asiakaspalvelu, Palautetiimi                                                              |
+
+</details>
 
 
 •	toimii projektisuunnitelman ja aikataulutuksen mukaisesti vastuuta ottaen määrätyissä tehtävissä, esim:
