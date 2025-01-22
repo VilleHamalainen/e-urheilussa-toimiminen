@@ -83,9 +83,28 @@ Vuonna 2012 markkinoille tuli jälleen uusi versio Counter Strikesta. Vaikka 1.6
 
 Suurimpia turnauksia ennen 2020-lukua muissa peleissä ovat olleet esimerkiksi Fortnite World Cup 2019, jossa palkintopotti oli huomattavat 30 miljoonaa dollaria. Myös PUBG:ssä on ollut useita turnauksia, joissa palkintopotit ovat olleet useamman miljoonan euron suuruisia vuodesta 2018 lähtien. Valorantin ja Apex Legendsin turnausten palkintopotit ovat olleet hieman vaatimattomampia, mutta rahallisesti puhutaan silti sadoista tuhansista ja jopa miljoonista dollareista.
 
-Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös COVID-19, joka pysäytti koko oikean maailman ja isot lanitapahtumat. Seurauksena kaikki siirtyivät enemmän tai vähemmän verkkoon. Tällä on ollut sekä hyviä, että huonoja seurauksia. Hyvänä puolena voidaan pitää sitä, että e-urheilu on saanut varmasti lisää katsojia. Toistaalta taas LAN-tapahtumien puuttuminen on vaikuttanut negatiivisesti monien organisaatioiden tulon lähteisiin. Tätä materiaalia tehdessä elämme vuoden 2023 loppua ja pian vuosi vaihtuu. Maailman tilanne COVID-19:n osalta on hieman normalisoitunut ja LAN-tapahtumat ovatkin tehneet paluun.
+Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös COVID-19, joka pysäytti koko oikean maailman ja isot lanitapahtumat. Seurauksena kaikki siirtyivät enemmän tai vähemmän verkkoon. Tällä on ollut sekä hyviä, että huonoja seurauksia. Hyvänä puolena voidaan pitää sitä, että e-urheilu on saanut varmasti lisää katsojia. Toistaalta taas LAN-tapahtumien puuttuminen on vaikuttanut negatiivisesti monien organisaatioiden tulon lähteisiin. Tätä materiaalia tehdessä elämme vuoden 2023 loppua ja pian vuosi vaihtuu. Maailman tilanne COVID-19:n osalta on hieman normalisoitunut ja LAN-tapahtumat ovatkin tehneet paluun. Materiaaleja tehtäessä Dall-e oli kovasti otsikoissa, joten tässäpä tekoälyn näkemys pelaamisen historiasta. 
+
+<div align="center">
+    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png" style="width: 100%; max-width: 400px; height: auto;">
+  </a>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
+  </p>
+</div>
+
+Yleiskuvan eri lukujen isoista linjoita voi katsoa alla olevasta kuvasta. Olemme tulleet varsin pitkän matka 1970-luvulta ja ensimmäisestä tapahtumastakin on kulunut jo noin viisikymmentä vuotta. Tätä materiaalia lukevien opiskelijoiden vanhemmat ovat siis saattaneet osallistua jo erilaisiin lanitapahtumiin tai harrastavat pelaamista!
+
+<div align="center">
+    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/VisualOfEsportshistory.png" style="width: 100%; max-width: 400px; height: auto;">
+  </a>
+  <p style="max-width: 400px; margin: 0 auto;">
+    E-urheilun historian isoja linjoja 1970-luvulta tähän päivään.
+  </p>
+</div>
 
 
+Historian saatossa myös peleissä jaetut rahasummat ovat alkaneet muodostua varsin suuriksi. Erityisesto DOTA 2 on tuottanut pelaajilleen valtavia summia ja onkin aivan omassa luokassaan verrattuna muihin pelehin vielä historian tässä vaiheessa.
 | Rank | Game            | Total Prize Pool  |
 |------|-----------------|-------------------|
 | 1    | Dota 2          | $308,752,064      |
@@ -94,16 +113,9 @@ Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös C
 | 4    | League of Legends | $99,669,526     |
 | 5    | PUBG Mobile     | $78,897,361       |
 
-Lähde: https://escharts.com/top-games?order=peak
+Eri pelien palkintopotit koko historian ajalta vuoden 2023 lopulla. Lähde: https://escharts.com/top-games?order=peak
 
-Kurssia tehtäessä Dall-e oli kovasti otsikoissa, joten tässäpä tekoälyn näkemys pelaamisen historiasta. 
-<div align="center">
-    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png" style="width: 100%; max-width: 400px; height: auto;">
-  </a>
-  <p style="max-width: 400px; margin: 0 auto;">
-    Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
-  </p>
-</div>
+
 
 
 ## E-urheilu Suomessa
