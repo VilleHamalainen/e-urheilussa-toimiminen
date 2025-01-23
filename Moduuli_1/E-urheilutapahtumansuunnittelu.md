@@ -61,6 +61,17 @@ Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja
 
    Tapahtuman laajuus ja osallistujamäärä vaikuttavat luonnollisesti järjestelyihin ja tarvittaviin resursseihin. Eri kokoisten tapahtumien järjestelyissä on otettava huomioon useita eri tekijöitä. Käydään läpi näitä aspekteja tarkemmin sekä online- että LAN-tapahtumien näkökulmasta.
 
+
+   <div style="text-align: center; margin: 0 auto;">
+    <img 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Phases%20of%20Organizing%20an%20Esports%20Event%20-%20visual%20selection.png" 
+        alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
+        style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+    <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
+        E-uhreilutapahtuman suunnittelun vaiheet.
+    </p>
+</div>
+
 ## Online-tapahtuma
 
 
@@ -311,7 +322,7 @@ Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Ky
 	<img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png" 
 	     alt="Kytkin" 
 	     style="width: 100%; max-width: 400px; height: auto;">
-	<p style="max-width: 400px; margin: 0 auto;">
+	 <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
 		Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.
 	</p>
 </div>
