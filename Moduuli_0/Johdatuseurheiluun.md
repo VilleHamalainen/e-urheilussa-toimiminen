@@ -27,10 +27,11 @@ Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa v
   <a href="https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro" title="Space War game play">
     <img src="http://img.youtube.com/vi/XEFLpbjfybc/0.jpg" alt="Space War game play" style="width: 100%; max-width: 400px; height: auto;">
   </a>
+</div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
     Pelikuvaa vuonna 1972 julkaistusta Space War pelistä.
   </p>
-</div>
+
 
 On hyvin luonnollista, että myös pelit lähtivät yliopistoilta liikkeelle, koska vain heillä oli käytössään tarpeeksi tehokkaita tietokoneita. Tämä tapahtuma loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu The Space Invaders Championship in 1980 , jonka järjesti sihen aikaan suurin videopeliyritys Atari (ks. https://www.computerhistory.org/revolution/computer-games/16/185). 
 
@@ -38,10 +39,11 @@ On hyvin luonnollista, että myös pelit lähtivät yliopistoilta liikkeelle, ko
   <a href="https://www.youtube.com/watch?v=pft_MCrLhZI&ab_channel=neiarcade99Playagame" title="Space Invaders Atari Championship 1981">
     <img src="http://img.youtube.com/vi/pft_MCrLhZI/0.jpg" alt="Space Invaders Atari Championship 1981" style="width: 100%; max-width: 400px; height: auto;">
   </a>
+  </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
     Atarin Space Invaders mestaruuskisat vuodelta 1981.
   </p>
-</div>
+
 
 Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. Markkinoille alkoi tulla entistä nopeampia tietokoneita ja konsoleita, jotka mahdollistivat monipuolisempien pelien pelaamisen. Vuonna 1997 Electronic Entertainment Expo (E3)-pelimessuilla järjestetty Red Annihilation Quake-turnaus mainitaan usein yhtenä varhaisimmista suurista esports-tapahtumista. Turnauksessa kilpailtiin Quake-nimisessä ensimmäisen persoonan ammuntapelissä (1st person shooter tai fps), jonka oli kehittänyt id Software. Turnauksen suurpalkintona oli Ferrari 328 GTS-urheiluauto, joka oli ensimmäinen arvokas ja mielenkiintoa herättävä palkinto (vrt. vuoden Rolling Stones lehden tilaus). Palkinnon ja näkyvyyden ansioista esports osoitti, että se voi vetää paikan päälle isoja määriä katsojia. Hyvänä ehdokkaana ensimääiseksi "esports ammattilaiseksi" onkin Dennis "Thresh" Fong, joka voitti kyseisen Ferrarin.
 
@@ -49,10 +51,11 @@ Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. M
   <a href="https://www.youtube.com/watch?v=4xUmZxnEMUI" title="The 1st Pro Gamer Ever">
     <img src="http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg" alt="The 1st Pro Gamer Ever" style="width: 100%; max-width: 400px; height: auto;">
   </a>
+  </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left; ">
     Tallenne maailman enimmäisestä ammatikseen pelaavasta henkilöstä.
   </p>
-</div>
+
 
 Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät esportsia eteen päin isoin harppauksin. The Cyberathlete Professional League (CPL) perustettiin kyseisenä vuonna ja yksi 2000-luvun alun suosituimmista peleistä StarCraft julkaistiin saman vuonna. StarCraft nousi massiiviseksi hitiksi ympäri maailman, mutta erityisen suosituksi Etelä-Koreassa, jossa kyseinen peli tarjosi monelle mahdollisuuden ammattilaisuuteen. Pelejä näytettiin myös kansallisessa televisiossa. Pelit Quake ja StarCraft saivat omat kilpailulliset peliyhteisönsä. 
 
@@ -67,10 +70,11 @@ Vuosina 2006 ja 2007 järjestettiin The Championship Gaming Series (CGS), joka j
   <a href="https://www.youtube.com/watch?v=q6EWc1Kz10o" title="Championship Gaming Series 2006">
     <img src="http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg" alt="Championship Gaming Series 2006" style="width: 100%; max-width: 400px; height: auto;">
   </a>
+  </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
     Tallenne yhdestä vuoden suurimista 2006 turnauksista.
   </p>
-</div>
+
 
 
 Hypätkäämme ajassa hieman eteen päin ja vuoteen, jolloin Valve järjesti The International (TI) Dota 2 turnauksen. Turnauksesta teki poikkeuksellisen se, että palkintopotti oli jotain, mitä e-urheilussa ei oltu aikaisemmin nähty. Kokonaispotti oli 1.6 miljoonaa dollaria, jonka tarkoituksena oli tuoda julkisuutta uudelle Dota 2 pelille (betalle). Jälkikäteen voitanee todeta, että julkisuustempaus toimi varsin hyvin ja parhaimmillaan palkintopotti on ollut noin 40 miljoonaa dollaria, joka on ollut ns. Battle Passin ansiota, josta tietty prosentti on mennyt suoraan The Internationalin palkintopottiin. 
@@ -88,20 +92,22 @@ Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös C
 <div align="center">
     <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png" style="width: 100%; max-width: 400px; height: auto;">
   </a>
+  </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
     Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
   </p>
-</div>
+
 
 Yleiskuvan eri lukujen isoista linjoita voi katsoa alla olevasta kuvasta. Olemme tulleet varsin pitkän matka 1970-luvulta ja ensimmäisestä tapahtumastakin on kulunut jo noin viisikymmentä vuotta. Tätä materiaalia lukevien opiskelijoiden vanhemmat ovat siis saattaneet osallistua jo erilaisiin lanitapahtumiin tai harrastavat pelaamista!
 
 <div align="center">
     <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/VisualOfEsportshistory.png" style="width: 100%; max-width: 400px; height: auto;">
   </a>
+  </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
     E-urheilun historian isoja linjoja 1970-luvulta tähän päivään.
   </p>
-</div>
+
 
 
 Historian saatossa myös peleissä jaetut rahasummat ovat alkaneet muodostua varsin suuriksi. Erityisesto DOTA 2 on tuottanut pelaajilleen valtavia summia ja onkin aivan omassa luokassaan verrattuna muihin pelehin vielä historian tässä vaiheessa.
@@ -129,10 +135,11 @@ Hieno tarina Suomalaisten menestyksestä on esimerkiksi Dota 2: The Internationa
   <a href="https://www.youtube.com/watch?v=Bv4CqIxqTMA" title="The International 2018">
     <img src="http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg" alt="The International 2018" style="width: 100%; max-width: 400px; height: auto">
   </a>
+  </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
     Opettajan mielestä yksi parhaista TI-behind the scenes videoista, jossa on mukana myös suomalaisia Dota-tähtiä.
   </p>
-</div>
+
 
 
 
