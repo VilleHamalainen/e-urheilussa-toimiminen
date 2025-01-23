@@ -67,8 +67,8 @@ Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja
         src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Phases%20of%20Organizing%20an%20Esports%20Event%20-%20visual%20selection.png" 
         alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
-    <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
-        E-uhreilutapahtuman suunnittelun vaiheet.
+    <p style="max-width: 400px; margin: 0 auto; text-align: left;">
+        E-urheilutapahtuman suunnittelun vaiheet.
     </p>
 </div>
 
@@ -247,7 +247,7 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
         src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png" 
         alt="Tekoälyn näkemys lanista ja eri laitteista" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
-    <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
+    <p style="max-width: 400px; margin: 0 auto; text-align: left;">
         Tekoälyn näkemys lanitapahtumasta.
     </p>
 </div>
@@ -261,7 +261,7 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
         src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-21%2010.36.12%20-%20Create%20an%20illustrative%20and%20educational%20image%20of%20a%20Local%20Area%20Network%20(LAN).%20Include%20a%20central%20switch%20connected%20to%20various%20devices%20via%20LAN%20cables.%20The%20.png" 
         alt="Tekoälyn näkemys lanista ja eri laitteista" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
-    <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
+    <p style="max-width: 400px; margin: 0 auto; text-align: left;">
         Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.
     </p>
 </div>
@@ -322,7 +322,7 @@ Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Ky
 	<img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png" 
 	     alt="Kytkin" 
 	     style="width: 100%; max-width: 400px; height: auto;">
-	 <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
+	 <p style="max-width: 400px; margin: 0 auto; text-align: left;">
 		Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.
 	</p>
 </div>
@@ -389,7 +389,7 @@ Selvitä mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat l
         src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/OSImalli.png" 
         alt="OSI-malli" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
-    <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.5;">
+    <p style="max-width: 400px; margin: 0 auto; text-align: left;">
         OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.
     </p>
 </div>
