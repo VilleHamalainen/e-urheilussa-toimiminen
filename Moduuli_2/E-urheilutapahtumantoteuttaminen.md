@@ -46,14 +46,6 @@ Tapahtuman järjestämisessä on paljon mietittävää, on turnauksessa useita e
 </details>
 
 
-Alla vielä hieman tarkemmin avainrooleista esports-tapahtumien hallinnassa:
-- Tapahtuma-/pelimanagerit: nämä henkilöt toimivat ikään kuin tuomareina ja ratkaisevat sääntöjen kiistoja kilpailun aikana. He ovat välttämättömiä reilun pelin ylläpitämiseksi ja turnauksen sujuvan kulun varmistamiseksi.
-- Tekninen henkilöstö: he ovat vastuussa tapahtuman teknisistä näkökohdista, teknisten ongelmien vianmäärityksestä ja kaikkien laitteiden oikean toiminnan varmistamisesta. Tähän sisältyy tietokoneet, konsolit, verkot ja näyttölaitteet.
-- Tapahtuman juontajat: he toimivat tapahtuman pääpuhujina, esitellen joukkueet, jakaen palkintoja ja osallistaen yleisöä. He myös työskentelevät tapahtuma-/pelimanagerin kanssa pitääkseen tapahtuman sujuvana.
-- Selostajat/casterit: nämä henkilöt tarjoavat kommentaaria yleisölle, samalla tavalla kuin perinteisten urheilulajien selostajat. He ovat usein entisiä pelaajia, joilla on syvällistä tietoa pelistä, jota pelataan, ja he tulkitsevat tapahtumia yleisölle.
-- Viestintä (PR): heidän tehtävänään on levittää tietoa tapahtumasta suurelle yleisölle, houkutella osallistujia ja nostaa tapahtuman profiilia. He toimivat siltana yleisön, median ja sponsorien välillä.
-- Tapahtuman järjestäjät: he ovat vastuussa tapahtuman kokonaissuunnittelusta ja toteutuksesta alusta loppuun. Tähän sisältyy tutkimus, suunnttelu, aikataulutus logistiikka, markkinointi ja koordinointi.
-- Muu henkilöstö: Järjestyksenvalvojat, myyntihenkilöstö, siivoojat, turvallisuushenkilöstö ja lipunmyyjät: nämä roolit, jotka ovat samankaltaisia kuin perinteisissä urheilutapahtumissa, varmistavat tapahtumapaikan sujuvan toiminnan sekä osallistujien mukavuuden ja turvallisuuden.
 
 
 
@@ -131,6 +123,147 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
   </p>
 
 ---
+## E-urheilutapahtuman toimintasuunnitelma ja avainroolit  
+
+Tämä ohje tarjoaa kattavat tiedot e-urheilutapahtuman toteutuksesta, avainrooleista ja käytännön esimerkeistä. Lisäksi mukana on hyödyllisiä resursseja jatkotutkimusta varten.
+
+---
+
+## **1. Juontaminen ja selostaminen**  
+### **Roolin kuvaus:**  
+- **Juontajat:** Tapahtuman kasvoina ja viihdyttäjinä juontajat esittelevät joukkueet, tiedottavat aikatauluista, vetävät haastatteluja ja pitävät yleisön tunnelman korkealla.  
+- **Selostajat (casterit):** Tarjoavat syväanalyysia otteluista, selittävät pelistrategioita ja välittävät kilpailun jännityksen yleisölle.  
+
+### **Tapahtuman aikana:**  
+- **Juontajat:**  
+  - Esittelevät joukkueet ja pelaajat sekä kertovat heidän taustoistaan.  
+  - Suorittavat livehaastatteluja pelaajien ja voittajien kanssa.  
+  - Järjestävät yleisöaktiviteetteja, kuten kilpailuja taukojen aikana.  
+- **Selostajat:**  
+  - Analysoivat pelistrategioita reaaliajassa ja tulkitsevat tapahtumia yleisölle.  
+  - Selittävät pelimekaniikkoja uusille katsojille ja pitävät tunnelman korkealla.  
+
+### **Esimerkki:**  
+"Seuraavaksi lavalle astuu Team Apex, joka on hallitseva mestari! He ovat pelanneet 20 ottelua tappiotta, mutta pystyvätkö he pitämään ennätyksensä tänään? Katsotaan, mitä heidän kapteenillaan, Alexilla, on sanottavaa!"  
+
+### **Hyödyllisiä resursseja:**  
+- [Toastmasters International - Äänenkäytön ja esiintymistaidon kehittäminen](https://www.toastmasters.org/)  
+- [Esports Insider - Pelikohtaiset selostusoppaat](https://esportsinsider.com/)  
+
+---
+
+## **2. Lähetyskanavan valvonta ja moderointi**  
+### **Roolin kuvaus:**  
+- **Moderaattorit:** Valvovat online-chatin keskustelua ja puuttuvat häiritsevään käytökseen.  
+- **Lähetyksen valvojat:** Vastaavat lähetyksen sujuvuudesta ja ratkovat teknisiä ongelmia.  
+
+### **Tapahtuman aikana:**  
+- Moderaattorit seuraavat aktiivisesti chat-keskusteluja Twitchissä, YouTubessa tai muilla alustoilla.  
+- He käyttävät automatisoituja työkaluja, kuten chattibotteja, estämään häiriökäyttäytymistä.  
+- Vastaavat yleisön kysymyksiin, kuten aikatauluihin tai sääntöihin liittyen.  
+
+### **Esimerkki:**  
+"Katsoja: Milloin finaali alkaa?  
+Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintojenjako suoritetaan heti ottelun jälkeen!"  
+
+### **Hyödyllisiä resursseja:**  
+- [Twitch Moderator Academy](https://www.twitch.tv/creatorcamp/)  
+- [Streamlabs Academy - Teknisen valvonnan oppaat](https://streamlabs.com/)  
+- [OBS:n tukisivut](https://obsproject.com/help)  
+
+---
+
+## **3. Tuomarointi ja järjestyksenvalvonta**  
+### **Roolin kuvaus:**  
+- **Tuomarit:** Varmistavat pelisääntöjen noudattamisen, ratkaisevat riitatilanteet ja estävät huijaamisen.  
+- **Järjestyksenvalvojat:** Vastaavat tapahtumapaikan turvallisuudesta ja yleisestä järjestyksestä.  
+
+### **Tapahtuman aikana:**  
+- **Tuomarit:**  
+  - Valvovat pelien sääntöjen noudattamista ja tarkastavat mahdolliset sääntörikkomukset.  
+  - Ratkaisevat pelaajien välisiä riitoja neutraalisti ja nopeasti.  
+- **Järjestyksenvalvojat:**  
+  - Tarkastavat osallistujien kulkuluvat ja ohjaavat yleisöä.  
+  - Hallitsevat hätätilanteita ja puuttuvat häiriökäyttäytymiseen [Tapahtuman turvallisuuteen liittyviä ohjeita](https://eventsafetyalliance.org/).  
+
+### **Esimerkki:**  
+"Pelaajalla on teknisiä ongelmia tietokoneensa kanssa ja hän väittää menettäneensä pisteitä sen takia. Tuomari tarkistaa pelitallenteen ja tekee päätöksen: ongelma ei vaikuttanut ratkaisevasti pelin lopputulokseen."  
+
+### **Hyödyllisiä resursseja:**  
+- [ESL:n kilpailusäännöt](https://pro.eslgaming.com/)  
+- [FACEIT:n tuomariopas](https://support.faceit.com/hc/en-us/categories/360003095600)  
+- [Event Safety Alliance - Turvallisuusohjeet](https://eventsafetyalliance.org/)  
+
+---
+
+## **4. Myynti ja markkinointi**  
+### **Roolin kuvaus:**  
+- **Myyntitiimi:** Hoitaa sponsorointia, lipunmyyntiä ja varmistaa tapahtuman taloudellisen kannattavuuden.  
+- **Markkinointitiimi:** Vastaa tapahtuman näkyvyydestä, mainonnasta ja yleisön sitouttamisesta.  
+
+### **Tapahtuman aikana:**  
+- **Myyntitiimi:**  
+  - Koordinoi sponsorien kanssa logojen ja mainosvideoiden sijoittelua.  
+  - Valvoo VIP-alueita ja tarjoaa sponsorien edustajille erityiskohtelua.  
+- **Markkinointitiimi:**  
+  - Tekee reaaliaikaisia päivityksiä sosiaaliseen mediaan, kuten kuvia ja lyhyitä videoita otteluista.  
+  - Järjestää yleisöaktiviteetteja, kuten liveäänestyksiä ja kilpailuja.  
+
+### **Esimerkki:**  
+"Markkinointitiimi twiittaa: *'Jännitystä ilmassa! Team Apex vs. CyberStorm alkaa juuri nyt! Kuka voittaa? Kommentoi alle!'* Samalla myyntitiimi järjestää VIP-alueella sponsorien verkostoitumistapahtuman."  
+
+### **Hyödyllisiä resursseja:**  
+- [Canva - Visuaalisen sisällön suunnittelu](https://www.canva.com/)  
+- [Eventbrite - Myyntistrategiat ja tapahtumamarkkinointi](https://www.eventbrite.com/)  
+
+---
+
+## **5. Mediatuotanto ja striimaus**  
+### **Roolin kuvaus:**  
+Mediatiimi vastaa lähetyksen teknisestä toteutuksesta ja visuaalisista elementeistä, kuten grafiikoista ja videoista.  
+
+### **Tapahtuman aikana:**  
+- **Visuaaliset elementit:**  
+  - Lisäävät grafiikat, kuten overlayt, tulostaulut ja sponsorilogot, reaaliaikaisesti lähetykseen.  
+  - Käyttävät highlight-videoita yleisön sitouttamiseen.  
+- **Kuvaus ja ohjaus:**  
+  - Varmistavat oikeat kuvakulmat ja sujuvat siirtymät lähetyksen aikana.  
+
+### **Esimerkki:**  
+"CyberStorm nappaa ratkaisevan voiton – mediatiimi zoomaa yleisön riemuun ja lisää lähetykseen voittajagrafiikan. Pian tämän jälkeen haastattelu CyberStormin kapteenin kanssa näytetään suorana."  
+
+### **Hyödyllisiä resursseja:**  
+- [StreamScheme - Striimauksen oppaat](https://www.streamscheme.com/)  
+- [Canva - Overlayt ja grafiikat](https://www.canva.com/)  
+
+---
+
+## **6. Viestintä ja PR**  
+### **Roolin kuvaus:**  
+Viestintätiimi rakentaa tapahtuman mainetta ja välittää tietoa median sekä yleisön suuntaan.  
+
+### **Tapahtuman aikana:**  
+- Koordinoivat median haastatteluja pelaajien, järjestäjien ja sponsoreiden kanssa.  
+- Julkaisevat reaaliaikaisia tiedotteita ja päivittävät tapahtuman virallisia kanavia.  
+
+### **Esimerkki:**  
+"Median edustajat haastattelevat Team Apexin kapteenia. Viestintätiimi huolehtii, että haastattelu tapahtuu suunnitellusti erillisessä mediapisteessä."  
+
+### **Hyödyllisiä resursseja:**  
+- [Pressitt - PR-työkalut ja mediaviestintä](https://pressitt.com/)  
+- [Hootsuite - Sosiaalisen median hallinta](https://hootsuite.com/)  
+
+---
+
+## **Yhteenveto**  
+- **Juontajat ja selostajat:** Yleisön osallistaminen ja tapahtuman selostaminen, esim. haastattelut ja kilpailuanalyysit.  
+- **Moderaattorit:** Chatin hallinta ja yleisön kysymyksiin vastaaminen, esim. aikatauluja koskevat kysymykset.  
+- **Tuomarit ja järjestyksenvalvojat:** Pelisääntöjen valvonta ja tapahtuman turvallisuuden takaaminen, esim. huijausyritysten estäminen.  
+- **Myynti- ja markkinointitiimi:** Sponsoreiden koordinointi ja sosiaalisen median kampanjat, esim. livekilpailut katsojille.  
+- **Mediatiimi:** Ammattimaisen striimin tuottaminen ja visuaalisten elementtien hallinta, esim. grafiikat ja highlight-koosteet.  
+
+Näillä ohjeilla ja resursseilla e-urheilutapahtuman toteuttaminen on tehokasta ja osallistujille mieleenpainuva kokemus.
+
 
 
 ## Teknisten ongelmien hallinta e-urheilutapahtumissa
@@ -155,7 +288,7 @@ Tässä osiossa tutustutaan erilaisiin teknisiin haasteisiin e-urheilutapahtumis
 ### Ratkaisut:
 - Sijoita paikalle verkkoasiantuntijoita ratkaisemaan viive- tai pakettihäviöongelmia.
 - Käytä VPN:iä tai erikoistuneita peliverkkoja reitityksen optimoimiseksi.
-- Aktivoi DDoS-lieventämispalvelut välittömästi hyökkäyksen havaitsemisen jälkeen.
+- DDos hyökkäykset voivat pilata koko turnauksen. Jos pelipalvelimet ovat verkossa voi niihin kohdistua hyökkäyksiä. Yhtenä ratkaisuna on tarjota lookaalisti pelattava peliversio (ks. [Ddos hyökkäys isossa turnauksessa] (https://www.insurancebusinessmag.com/us/risk-management/news/how-ddos-attacks-are-shaping-esports-security-and-risk-management-516320.aspx).
 
 ---
 
@@ -250,81 +383,12 @@ Tässä osiossa tutustutaan erilaisiin teknisiin haasteisiin e-urheilutapahtumis
 ## Keskeiset opit
 
 1. Tekninen valmistautuminen on olennaista - investoi laadukkaisiin laitteisiin, ohjelmistotestaukseen ja vahvaan verkkoinfrastruktuuriin.  
-2. Redundanssi on kriittistä - varajärjestelmät laitteille, internetyhteyksille ja sähkölle varmistavat minimaalisen käyttökatkon vikatilanteissa.  
+2. Varaudu yllätyksiin - varajärjestelmät laitteille, internetyhteyksille ja sähkölle varmistavat minimaalisen käyttökatkon vikatilanteissa.  
 3. Yhteistyö asiantuntijoiden kanssa - kumppanuudet internetpalveluntarjoajien, pelikehittäjien ja AV-asiantuntijoiden kanssa parantavat tapahtuman luotettavuutta.  
 4. Reaaliaikainen valvonta - diagnostiikkatyökalujen käyttö auttaa havaitsemaan ongelmat ennen kuin ne eskaloituvat suuriksi häiriöiksi.  
 5. Henkilökunnan koulutus - nopeat toimintaprotokollat minimoivat teknisten vikojen aiheuttamat viivästykset.
 
 
+## Harjoitellaan "käytännössä"!
 
-
-1. Juontaminen ja Selostaminen
-Oppimateriaali:
-
-Roolin ja Tehtävien Määrittely: Juontajat ja selostajat luovat tapahtumalle tunnelmaa ja pitävät yleisön ajan tasalla. Heidän roolinsa sisältää otteluiden esittelyn, pelaajahaastattelut ja tapahtuman kulun selostamisen.
-Äänenkäytön ja Esiintymistaidon Kehittäminen: Juontajien ja selostajien tulee harjoitella äänenkäyttöä ja esiintymistaitoja. Hyviä vinkkejä löytyy esimerkiksi Toastmasters International-sivustolta.
-Pelien ja Strategioiden Tuntemus: Selostajien on tärkeää tuntea pelit, joita he selostavat, sekä ymmärtää pelien strategiat ja taktiikat. Esimerkkejä pelikohtaisista selostusoppaista löytyy Esports Insider-sivustolta.
-Sovitus suunniteluun:
-
-Juontajien ja selostajien valinta ja koulutus on suoritettava suunnitteluvaiheessa. Heidän tulee olla perillä tapahtuman aikataulusta ja formaatista. Tarvittaessa voidaan järjestää harjoitussessioita ennen tapahtumaa.
-2. Lähetyskanavan Valvonta ja Moderointi
-Oppimateriaali:
-
-Chatin Moderointi ja Vuorovaikutus: Moderaattorien tulee osata hallita yleisön vuorovaikutusta, käsitellä häirikköjä ja edistää positiivista keskustelukulttuuria. Twitchin moderaattorikoulutus tarjoaa hyvän pohjan: Twitch Moderator Academy.
-Teknisten Ongelmien Ratkaiseminen: Valvontatiimin tulee osata ratkaista yleisiä striimaukseen liittyviä teknisiä ongelmia. Hyviä resursseja ovat mm. Streamlabs Academy ja OBS:n tukisivut.
-Sovitus suunniteluun:
-
-Moderaattorien ja teknisen tukitiimin valinta ja koulutus tulee suorittaa suunnitteluvaiheessa. Heille annetaan selkeät ohjeet ja toimintatavat mahdollisten häiriötilanteiden varalta.
-
-
-3. Tuomarointi ja Järjestyksenvalvonta
-Oppimateriaali:
-Tuomarointi ja järjestyksenvalvonta ovat keskeisiä tekijöitä e-urheilutapahtumien reilun ja turvallisen kulun takaamisessa. Tämä osio käsittelee näitä aspekteja tarkemmin:
-
-Kilpailusääntöjen Valvonta: Tuomarit vastaavat pelisääntöjen tarkasta soveltamisesta ja valvovat niiden noudattamista. Tämä voi sisältää sääntöjen tulkintaa, huijauksen estämistä ja pelin oikeudenmukaista kulunvalvontaa. Esimerkiksi ESL:n (Electronic Sports League) sivusto tarjoaa kattavan katsauksen e-urheilun sääntöihin: [ESL Säännöt](https://pro.eslgaming.com/tour/2023/10/esl-pro-tour-fall-2023-rule-book-update/).
-
-Riitatilanteiden Ratkaisu: Tuomarit käsittelevät myös riitatilanteet nopeasti ja tehokkaasti. Heidän tulee olla valmistautuneita käsittelemään erimielisyyksiä pelaajien välillä ja tekemään oikeudenmukaisia päätöksiä. Esimerkki tehokkaasta riidanratkaisusta löytyy FACEIT:n tuomarioppaasta.
-
-Community moderaatio https://support.faceit.com/hc/en-us/categories/360003095600
-
-Turnausohje: https://www.remc.org/downloads/remc_files/foundational_guide__for_esports_tournaments.pdf
-
-Peliympäristön Turvallisuus: Järjestyksenvalvojat huolehtivat tapahtumapaikan turvallisuudesta, varmistaen, että kaikki osallistujat noudattavat paikan sääntöjä ja toimivat turvallisesti. Heidän tehtäviinsä kuuluu myös hätätilanteiden hallinta. Tästä aiheesta löytyy hyödyllistä tietoa Event Safety Alliance -sivustolta.
-
-Sovitus suunniteluun:
-Tuomareiden ja järjestyksenvalvojien rekrytointi ja koulutus ovat kriittisiä tehtäviä suunnitteluvaiheessa. On tärkeää varmistaa, että kaikilla on selkeä ymmärrys roolistaan ja vastuistaan. Tämän varmistamiseksi voidaan järjestää koulutussessioita, joissa käydään läpi tapahtuman sääntöjä, konfliktinratkaisumenetelmiä ja turvallisuusprotokollia. Tässä vaiheessa on myös hyödyllistä luoda kattavat ohjeistukset ja menettelytavat, jotka tuomarit ja järjestyksenvalvojat voivat hyödyntää tapahtuman aikana. Eräs hyvä resurssi tuomarikoulutuksen suunnitteluun on British Esports Associationin opas.
-
-Tässä oppimateriaalissa on pyritty tarjoamaan konkreettisia esimerkkejä ja hyödyllisiä linkkejä, jotka auttavat syventämään ymmärrystä tuomaroinnin ja järjestyksenvalvonnan merkityksestä e-urheilutapahtumissa.
-
-
-
-4. Myynti ja Markkinointitehtävät
-
-
-Myyntistrategiat ja Lipunmyynti: Oppimateriaali käsittelee myyntistrategioiden suunnittelua ja toteutusta. Aiheisiin kuuluvat lipunmyynti, sponsoreiden hankkiminen ja yhteistyökumppaneiden sitouttaminen. Hyödyllisiä vinkkejä tarjoaa Eventbrite.
-Markkinointimateriaalien Suunnittelu: Keskitytään markkinointimateriaalien, kuten mainosten, sosiaalisen median postausten ja sähköpostikampanjoiden suunnitteluun. Canva (https://www.canva.com/) tarjoaa helppokäyttöisiä työkaluja visuaalisen sisällön luomiseen.
-Sovitus suunniteluun:
-
-Markkinointi- ja myyntitiimin tehtävät ja strategiat on määriteltävä ja toteutettava suunnitteluvaiheessa. Tämä varmistaa tapahtuman laajan näkyvyyden ja taloudellisen menestyksen.
-5. Mediatuotanto ja Striimaus
-Oppimateriaali:
-
-Striimauksen Tekniikka ja Laitteisto: Käsitellään striimauslaitteiston valintaa ja käyttöä, mukaan lukien kamerat, mikrofonit ja striimausohjelmistot. Tähän tarjoaa apua esimerkiksi StreamScheme.
-Striimauksen Visuaalinen Suunnittelu: Opastetaan visuaalisten elementtien, kuten overlayn ja bannerin, suunnittelussa. Canva (https://www.canva.com/) on hyvä työkalu visuaalisen sisällön luomiseen.
-Sovitus suunniteluun:
-
-Mediatuotannon ja striimauksen suunnittelu ja toteutus kuuluu suunnitteluvaiheeseen. Tämä sisältää striimauksen teknisen infrastruktuurin suunnittelun ja testauksen ennen tapahtumaa.
-6. Tekninen Toteutus, Tuki ja Logistiikka
-Oppimateriaali:
-
-Teknisen Infrastruktuurin Ylläpito: Keskitytään laitteiden, verkkojen ja ohjelmistojen ylläpitoon tapahtuman aikana. Cisco tarjoaa kattavia opetusmateriaaleja verkonhallintaan: Cisco Networking Academy.
-Hätätilanteiden ja Ongelmien Ratkaisu: Tämä osio opastaa, miten reagoida teknisiin ongelmiin ja hätätilanteisiin. FEMA:n (Federal Emergency Management Agency) verkkokurssit tarjoavat hyviä ohjeita hätätilanteiden hallintaan: FEMA Training.
-Sovitus suunniteluun:
-
-Teknisen tiimin tehtävät ja valmiudet tulee varmistaa suunnitteluvaiheessa. Heidän tulee olla valmiita ratkaisemaan teknisiä ongelmia nopeasti ja tehokkaasti tapahtuman aikana.
-
-
-
-
-
-
+Ladatkaa koneellenne [Steam](https://store.steampowered.com/about/), jos sitä ei vielä ole ja asentakaa [ilmainen esports peli!](https://store.steampowered.com/app/3217120/Esports_History_Prologue/)
