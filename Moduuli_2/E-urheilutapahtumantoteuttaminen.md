@@ -148,7 +148,7 @@ Tämä ohje tarjoaa kattavat tiedot e-urheilutapahtuman toteutuksesta, avainrool
 
 ### **Hyödyllisiä resursseja:**  
 - [Toastmasters International - Äänenkäytön ja esiintymistaidon kehittäminen](https://www.toastmasters.org/)  
-- [Esports Insider - Pelikohtaiset selostusoppaat](https://esportsinsider.com/)  
+- [Esports Insider - Selostusopas](https://esportsinsider.com/2023/06/art-of-the-broadcast-esports-2022)  
 
 ---
 
