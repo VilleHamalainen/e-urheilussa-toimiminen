@@ -1,6 +1,6 @@
 # E-urheilutapahtuman toteuttaminen
 
-## Tapahtuman aikana olevat roolitukset 
+## Tapahtuman aikana olevat roolitukset ja tehtävät
 
 E-urheilutapahtumaa (oikeasti mikä tahansa tapahtuma) seuratessa ei tule useinkaan mietittyä mitä kaikkea onnistuneen tapahtuman toteuttaminen vaatii. Ja parhaassa tapauksessa tausta olevat toimenpiteet on suunniteltu niin hyvin, että katsojan ei niitä tarvitsekaan miettiä. Usein kuitenkin kaikesta valmistumisesta huolimatta jotain menee pieleen ja tämä on erityisen totta tapahtumissa, joissa on mukana tietoteknisiä laitteita. Kerrataanpa mitä kaikka turnauksen suunnitteluvaiheessa piti ottaa huomioon. Miettikää pienissä ryhmissä ennen kuin avaatte alla olevan listan.
 
@@ -57,7 +57,7 @@ Alla vielä hieman tarkemmin avainrooleista esports-tapahtumien hallinnassa:
 
 
 
-Alla oleva lista on tuttu jo edellisestä osiosta. Tässä listassa on mukana kertauksen vuoksi vain turnauksen aikana ja sen jälkeen tapahtuvat toimenpiteet.
+Alla oleva lista on tuttu jo  osiosta.e-urheilutapahtuman suunnittelumoduulista. Tässä listassa on mukana kertauksen vuoksi vain turnauksen aikana ja sen jälkeen tapahtuvat toimenpiteet.
 <details>
 <summary>Turnauksen aikana</summary>
 
@@ -101,10 +101,11 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
   <a href="https://www.youtube.com/watch?v=_d5C75pLDKs&ab_channel=UniversityofStaffordshire" title="Inside an esports event">
     <img src="http://img.youtube.com/vi/_d5C75pLDKs/0.jpg" alt="Inside an esports event"" style="width: 100%; max-width: 400px; height: auto;">
   </a>
+  </div>
   <p style="max-width: 400px; margin: 0 auto;">
     Video hieman isomman opiskelijoiden e-urheilutapahtuman järjestämisestä ja siihen liittyvistä haasteista ja onnistumisista. 
   </p>
-</div>
+
 
 ---
 
@@ -112,10 +113,11 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
   <a href="https://www.youtube.com/watch?v=8JR_YMksuOQ&ab_channel=22WestTelevision" title="Inside Smash Bros console gaming event">
     <img src="http://img.youtube.com/vi/8JR_YMksuOQ/0.jpg" alt="Inside Smash Bros console gaming event"" style="width: 100%; max-width: 400px; height: auto;">
   </a>
+  </div>
   <p style="max-width: 400px; margin: 0 auto;">
     Videokuvaa Smash Bros konsoliturnauksesta, jossa tuotanto ym. ovat hieman pienemmässä mittakaavassa kuin aikaisemmalla videolla.
   </p>
-</div>
+
 
 ---
 
@@ -123,10 +125,10 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
   <a href="https://www.youtube.com/watch?v=qe5jqnv1dlU&ab_channel=MyWhoosh" title="Biking esports event">
     <img src="http://img.youtube.com/vi/qe5jqnv1dlU/0.jpg" alt="Biking esports event"" style="width: 100%; max-width: 400px; height: auto;">
   </a>
+  </div>
   <p style="max-width: 400px; margin: 0 auto;">
     Video hieman erilaisesta e-urheilutapahtumasta. Videon tarkoituksena herätellä ajattelemaan myös perinteisiä lajeja ja e-urheilun yhdistämistä.
   </p>
-</div>
 
 ---
 
