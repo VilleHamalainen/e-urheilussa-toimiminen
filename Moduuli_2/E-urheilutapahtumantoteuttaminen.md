@@ -184,7 +184,7 @@ Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintoj
   - Ratkaisevat pelaajien välisiä riitoja neutraalisti ja nopeasti.  
 - **Järjestyksenvalvojat:**  
   - Tarkastavat osallistujien kulkuluvat ja ohjaavat yleisöä.  
-  - Hallitsevat hätätilanteita ja puuttuvat häiriökäyttäytymiseen [Tapahtuman turvallisuuteen liittyviä ohjeita](https://eventsafetyalliance.org/).  
+  - Hallitsevat hätätilanteita ja puuttuvat häiriökäyttäytymiseen.
 
 ### **Esimerkki:**  
 "Pelaajalla on teknisiä ongelmia tietokoneensa kanssa ja hän väittää menettäneensä pisteitä sen takia. Tuomari tarkistaa pelitallenteen ja tekee päätöksen: ongelma ei vaikuttanut ratkaisevasti pelin lopputulokseen."  
