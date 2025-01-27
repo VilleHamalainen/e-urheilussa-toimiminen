@@ -3,11 +3,14 @@
 
 ## Pelillinen kehittyminen
 
-E-urheilu ei periaatessa erio perinteisestä urheilusta niin paljon kuin voisi kuvitella. Pelien pelaaminen ja niissä kilpaileminen vaativat taitoa, strategiaa ja henkistä kanttia. Tässä tutkinnon osassa keskustelemme asioista usein Counter Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tottakai pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa HearthStonea ja Counterstrikea suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
+E-urheilu ei periaatessa eroa perinteisestä urheilusta niin paljon kuin voisi kuvitella. Pelien pelaaminen ja niissä kilpaileminen vaativat taitoa, strategiaa ja henkistä kanttia. Tässä tutkinnon osassa keskustelemme asioista usein Counter Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tottakai pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa HearthStonea ja Counterstrikea suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
+
+### Pelimekaniikat
 
 Pelitaitojen tai pelimekaanikan kehittäminen on yksi perusvaatimuksista pelissä pärjäämiselle. Ampumapeleissä luonnollisesti ensimmäinen asia on tähtääminen mahdollisimman nopeasti ja tarkasti vastustajaan. Tähän on kehitetty omia uusia työkaluja, joiden avulla ns. "1st bullet accuracya" voidaan kehittää. Nopea ja tarkka apuminen on kuitenkin vain yksi osa kilpapelaamista ja ampumistyylejä on esimerkiksi Counter Strikessa erilaisia ja parhaat pelaajat hyödyntävät niitä eri tilanteissa eri tavoilla.
 
 Esimerkiksi Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tapping, Bursting ja Spraying, jotka vapaasti suomennettuita tarkoittavat yhtä laukausta, alle kymmentä laukausta ja lippaallista ammuksia, joiden ohjaaminen onkin oma taitonsa, koska kaikilla aseilla luodit lentävät hieman eri tavalla. Eri pelaajilla on erilaisia tyylejä käyttää aseita, mutta usein aivan huippupelaajat tunnentaan poikkeuksellisen nopeasta ja tarkasta ensimmäisestä ammuksesta, jolla vihollinen usein voitetaan kerralla verrattuna useamman ammuksen ampumiseen, joka vie aikaa ja antaa muulle vastustajan joukkueelle aikaa reagointiin. Ampumisessa voidaan puhua lisäksi liikkuvan kohteen seuraamisesta varsinkin burst tai spray ampumatyyleissä ja nopeista reaktiotilanteista, joissa pelaaja "flickkaa" tähtäimen millisekunneissa eri kohtaan kuin missä se alunperin oli.
+
 
 Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaniinen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.
 
@@ -21,8 +24,11 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
     Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.
   </p>
 
-Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkuueelle. 
+Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
 
+### Liikkuminen
+
+### Kommunikaatio ja tiimityöskentely
 Tiimityöskentely ja kommunikaatio ovat usein (opettajan uskomus) ylikatsottuja asioita varsinkin nuorempien pelaajien osalta. Kommunikaatio ei ole tarkkaa tiedettä ja joukkeilla onkin erilaisia tapoja kommunikoida.
 
 ## Tehtäviä
@@ -69,9 +75,9 @@ Nykyään on ainakin kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi
 Tästä päästäänkin strategioihin ja taktiikoihin, joita yksilötasolla on vaikeampi suunnitella ja toteuttaa. Yksilönä voit joutua peleissä tekemään ns. omia pelejä, koska joukkukaverit eivät ole kiinnostuneita kommunikoimaan ja pelaamaan joukkueen eteen. Tämä ei välttämättä ole huono asia, mutta pelaajille, jotka haaveilevat ammattilaisuudesta tämä tuottaa varmasti haasteita ja vaatii myöhemmin paljon oppimista. 
 
 
-Roolit pelin sisällä ja niistä keskustelu
-
 Nopea tilanteiden hahmottaminen on elintärkeä osa e-urheilussa menestymiselle, ja varsinkin pelien huiput erottuvat nimenomaan tässä taidossa. Usein harrastajalle voikin näyttää, että huippupelaajat tietävät tarkalleen, missä viholliset ovat ja täysi noviisi voisi kuvitella, että pelaajat näkevät seinien läpi, mutta todellisuudessa tuhansien tuntien ja tarkan pelisuunnitelman takia huiput osaavat ennakoida suurella todennäköisyydellä vastustajan sijaninin tai vastustajan joukkueen ryhmittymän. Tässä palataan myös joukkuepelaamiseen ja tiedon jakamiseen pelaajien kesken. Usein nopeissa pelitilanteissa voikin olla hyödyllistä sanoa, että "pelaaja x on yleensä pelannut eri paikassa, joten varo yllättäviä tilanteita" tai "sinulla on enää 5 ammusta jäljellä", koska usein pelin tiimellyksessä nämä asiat saattavat unohtua. Tälle kursille onkin valikoitunut paljon materiaalia Stykolta, joka ei ole se tyypillisin huippupelaaja ja hän onkin joutunut vaihtamaan joukkuetta usein ja myös kokenut urallaan paljon kritiikkiä ja tästä syystä joutunut miettimään peliä usealta eri kantilta.
+
+### Pelitietämys
 
 Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. Usein ns. pelillinen johtaja pitää huolen siitä, että joukkue vaikkapa ostaa samaan aikaan, mutta myös huipputasolla tulee paljon virheitä sen suhteen miten paljon resursseja yksittäinen pelaaja käyttää. Pelien päivitysen myötä myös ekonomia kokee mahdollisesti suuriakin muutoksia, ja esimerkiksi CS2 siirtyi MR16-systeemistä MR12-systeemiin, joka onkin taas korostanut ensimmäisten kierrosten rooleja. Samoin eri aseiden muutokset ovat vaikuttaneet paljon ns "metagameen" eli tyyliin, jolla esimerkiksi joukkueet ostavat eri kierroksilla. Pelin historiassa on ollut mm. jaksoja, joissa tietyt pistoolit ovat olleet niin vahvoja, että niiden ostaminen usein osoittautui liian tehokkaaksi taktiikaksi. Yksittäisen asidenkin muutokset voivat vaikuttaa pelin sisällä ostettaviin asioihin suuresti, joten ekonomian ja metan tunteminen on yksi ehdottomista vaatimuksista huipputasolla.
 
@@ -86,6 +92,15 @@ Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. U
   </p>
 
 
+
+### Oman ja joukkuueen tekemisen analysointi
+
+Styko demokatselmus
+https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO
+
+Have players become too good
+https://www.youtube.com/watch?v=st-T6KpSJaw&t=187s&ab_channel=STYKO
+
 How to improve like Niko
 https://www.youtube.com/watch?v=g1pzQ0BN5ys&ab_channel=STYKO
 
@@ -95,16 +110,9 @@ https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO
 How pros do it
 https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO
 
-Have players become too good
-https://www.youtube.com/watch?v=st-T6KpSJaw&t=187s&ab_channel=STYKO
-
-Styko demokatselmus
-
-https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO
-
 
 ## Kommunikaatio ja tiimityöskentely
-- Tiimidynamiikka-
+- Tiimidynamiikka
 - Konfliktinratkaisu
 - Johtajuustaidot
 
