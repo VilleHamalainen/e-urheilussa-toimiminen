@@ -103,13 +103,39 @@ Styko demokatselmus
 https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO
 
 
+## Kommunikaatio ja tiimityöskentely
+- Tiimidynamiikka-
+- Konfliktinratkaisu
+- Johtajuustaidot
+
+## Fyysinen ja henkinen hyvinvointi
+- Ergonomia ja fyysinen kunto
+- Stressinhallinta ja palautuminen
+- Ravitsemus ja uni
+
+## Tekinen osaaminen
+- Laitteisto- ja ohjelmisto-osaaminen
+- Striimaus- ja sisällöntuotantotaidot
+
+## Liiketoimintaosamainen
+- Sopimusneuvottelut
+- Taloudenhallinta
+- Sponsorisuhteiden ylläpito
+
 ## Oman brandin rakentaminen
 
+- Sosiaalisen median hallinta
+- Henkilökohtaisen tarinan luominen
+- Fanien sitouttaminen
 
+## Kielitaito ja kulttuurinen osaaminen
+- Englannin kielen taito
+- Kansainvälinen verkostoituminen
 
-
-
-## Urat e-urheilussa
+## Mitä uran jälkeen?
+- Valmentaminen
+- Analytiikka
+- mitä muuta?
 
 
 
