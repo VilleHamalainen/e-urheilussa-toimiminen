@@ -7,15 +7,21 @@ E-urheilu ei periaatessa erio perinteisestä urheilusta niin paljon kuin voisi k
 
 Pelitaitojen tai pelimekaanikan kehittäminen on yksi perusvaatimuksista pelissä pärjäämiselle. Ampumapeleissä luonnollisesti ensimmäinen asia on tähtääminen mahdollisimman nopeasti ja tarkasti vastustajaan. Tähän on kehitetty omia uusia työkaluja, joiden avulla ns. "1st bullet accuracya" voidaan kehittää. Nopea ja tarkka apuminen on kuitenkin vain yksi osa kilpapelaamista ja ampumistyylejä on esimerkiksi Counter Strikessa erilaisia ja parhaat pelaajat hyödyntävät niitä eri tilanteissa eri tavoilla.
 
-Esimerkiksi Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tapping, Bursting ja Spraying, jotka vapaasti suomennettuinta tarkoittavat yhtä laukausta, alle kymmentä laukausta ja lippaallista ammuksia, joiden ohjaaminen onkin oma taitonsa, koska kaikilla aseilla luodit lentävät hieman eri tavalla. Eri pelaajilla on erilaisia tyylejä käyttää aseita, mutta usein aivan huippupelaajat tunnentaan poikkeuksellisen nopeasta ja tarkasta ensimmäisestä ammuksesta, jolla vihollinen usein voitetaan kerralla verrattuna useamman ammuksen ampumiseen, joka vie aikaa ja antaa muulle vastustajan joukkueelle aikaa reagointiin.
+Esimerkiksi Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tapping, Bursting ja Spraying, jotka vapaasti suomennettuita tarkoittavat yhtä laukausta, alle kymmentä laukausta ja lippaallista ammuksia, joiden ohjaaminen onkin oma taitonsa, koska kaikilla aseilla luodit lentävät hieman eri tavalla. Eri pelaajilla on erilaisia tyylejä käyttää aseita, mutta usein aivan huippupelaajat tunnentaan poikkeuksellisen nopeasta ja tarkasta ensimmäisestä ammuksesta, jolla vihollinen usein voitetaan kerralla verrattuna useamman ammuksen ampumiseen, joka vie aikaa ja antaa muulle vastustajan joukkueelle aikaa reagointiin.
 
 Ampumisessa voidaan puhua lisäksi liikkuvan kohteen seuraamisesta varsinkin burst tai spray ampumatyyleissä ja nopeista reaktiotilanteista, joissa pelaaja "flickkaa" tähtäimen millisekunneissa eri kohtaan kuin missä se alunperin oli.
 
 Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaniinen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.
 
-[![Aimin parantaminen](http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg)](https://www.youtube.com/watch?v=1vN2H0rzd5U "Aimin parantaminen")
 
-<center>Video. Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.</center><br/><br/>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1vN2H0rzd5U "Aimin parantaminen" title="How to use moderen tools to develop aim by Styko">
+    <img src="http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg" alt="How to use moderen tools to develop aim by Styko" style="width: 100%; max-width: 400px; height: auto;">
+  </a>
+  </div>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.
+  </p>
 
 Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkuueelle. 
 
@@ -29,17 +35,33 @@ Onko joukkueen strategia erän aikana selkeä? Toimiiko kommunikaatio selkeästi
 Näkyykö paine kommunikaatiosa missään vaiheessa? Onko kommuikaatio erilaista alussa kuin lopun clutch-tilanteessa?
 Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
 
-[![Esimerkki kommunkaatiosta Navi - Vitality](http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU "Team Comms: NaVi takes apart Vitality with English Subs")
-<center>Video. Esimerkki Navin kommunikaatiosta. </center><br/><br/>
+
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dbvz1cn1PpU "Team Comms: NaVi takes apart Vitality with English Subs" title="Example of esports communication by NAVI">
+    <img src="http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg" alt="title="Example of esports communication by NAVI"" style="width: 100%; max-width: 400px; height: auto;">
+  </a>
+  </div>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Esimerkki Navin kommunikaatiosta.
+  </p>
+
+
 
 2. Analysoi parin kanssa Faze-G2 pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
 Huomaatteko joukkueiden kommunikaatiossa selkeitä eroja?
 Tunnistatteko eroja joukkueiden välillä, jotka puhuvat natiivisti samaa kieltä vs kaikki puhuvat englantia?
 Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputulokseen?
 
-  
-[![Esimerkki kommunkaatiosta Faze - G2"](http://img.youtube.com/vi/8owi_WvrGuk/0.jpg)](https://www.youtube.com/watch?v=8owi_WvrGuk "Team Comms: JKS and ROPZ 2v5 IEM Katowice 2022")
-<center>Video. Esimerkki mahdottomalta tuntuvasta clutch-tilanteesta. </center><br/><br/>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=8owi_WvrGuk "Team Comms: JKS and ROPZ 2v5 IEM Katowice 2022" title= "Clutch communication by Faze">
+    <img src="http://img.youtube.com/vi/8owi_WvrGuk/0.jpg" alt="Clutch communication by Faze"" style="width: 100%; max-width: 400px; height: auto;">
+  </a>
+  </div>
+  <p style="max-width: 400px; margin: 0 auto;">
+    JKS ja Ropz 2v5 tilateen pelaaminen ja kommunikaatio.
+  </p>
 
 
 Nykyään on kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi:
@@ -56,7 +78,15 @@ Nopea tilanteiden hahmottaminen on elintärkeä osa ja varsinkin pelien huiput e
 
 Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. Usein ns. pelillinen johtaja pitää huolen siitä, että joukkue vaikkapa ostaa samaan aikaan, mutta myös huipputasolla tulee paljon virheitä sen suhteen miten paljon resursseja yksittäinen pelaaja käyttää. Pelien päivitysen myötä myös ekonomia kokee mahdollisesti suuriakin muutoksia, ja esimerkiksi CS2 siirtyi MR16-systeemistä MR12-systeemiin, joka onkin taas korostanut ensimmäisten kierrosten rooleja. Samoin eri aseiden muutokset ovat vaikuttaneet paljon ns "metagameen" eli tyyliin, jolla esimerkiksi joukkueet ostavat eri kierroksilla. Pelin historiassa on ollut mm. jaksoja, joissa tietyt pistoolit ovat olleet niin vahvoja, että niiden ostaminen usein osoittautui liian tehokkaaksi taktiikaksi. Yksittäisen asidenkin muutokset voivat vaikuttaa pelin sisällä ostettaviin asioihin suuresti, joten ekonomian ja metan tunteminen on yksi ehdottomista vaatimuksista huipputasolla.
 
-[![Tec9 master](http://img.youtube.com/vi/edigZqRlMeI/0.jpg)](https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault "Tec 9 master")
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault "Tec 9 master"" title= "Tec9 too good">
+    <img src="http://img.youtube.com/vi/edigZqRlMeI/0.jpg" alt="Tec9 too good"" style="width: 100%; max-width: 400px; height: auto;">
+  </a>
+  </div>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Tec9 oli pienen hetken ase, joka teki jokaisesta kierroksesta voitettavan. Olofmaister sai aseen takia lempinimen "Tec9master".
+  </p>
 
 
 How to improve like Niko
@@ -111,7 +141,7 @@ In summary, excelling in esports requires a blend of skill refinement, strategic
 
 
 
-ourse Overview:
+Course Overview:
 This 5-day course is designed to enhance the skills and overall approach of individuals aspiring to become professional esports athletes. Each day focuses on different aspects critical to esports success, combining theoretical knowledge with practical tasks.
 
 Day 1: Skill Development
