@@ -11,7 +11,6 @@ Pelitaitojen tai pelimekaanikan kehittäminen on yksi perusvaatimuksista peliss�
 
 Esimerkiksi Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tapping, Bursting ja Spraying, jotka vapaasti suomennettuita tarkoittavat yhtä laukausta, alle kymmentä laukausta ja lippaallista ammuksia, joiden ohjaaminen onkin oma taitonsa, koska kaikilla aseilla luodit lentävät hieman eri tavalla. Eri pelaajilla on erilaisia tyylejä käyttää aseita, mutta usein aivan huippupelaajat tunnentaan poikkeuksellisen nopeasta ja tarkasta ensimmäisestä ammuksesta, jolla vihollinen usein voitetaan kerralla verrattuna useamman ammuksen ampumiseen, joka vie aikaa ja antaa muulle vastustajan joukkueelle aikaa reagointiin. Ampumisessa voidaan puhua lisäksi liikkuvan kohteen seuraamisesta varsinkin burst tai spray ampumatyyleissä ja nopeista reaktiotilanteista, joissa pelaaja "flickkaa" tähtäimen millisekunneissa eri kohtaan kuin missä se alunperin oli.
 
-
 Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaniinen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.
 
 
@@ -205,48 +204,64 @@ https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO
 
 
 
-
-
 ## Fyysinen ja henkinen hyvinvointi
 
 ### Ergonomia ja fyysinen kunto
+
 **Teoria:**  
-Pitkät pelisessiot vaativat ergonomisen asetuksen (selkänoja, käsijatket) ja säännölliset liikkeet välttääkseen kipuja.  
+Pitkät pelisessiot vaativat **ergonomisen asetuksen** (selkänoja, käsijatket) ja säännölliset liikkeet **vähentääkseen kipuja**. Liikunta voi auttaa hallitsemaan lihasjännitystä ilman kipukynnysten saavuttamista, parantaen samalla ponnistelua ja lihaskuntoa. Lisäksi, säännöllinen fyysinen harjoittelu voi vähentää vammariskiä.
 
 **Käytännön vinkit:**  
-- Aseta näyttö silmien korkeudelle.  
-- Tee 5-minuuttisia venyttelytaukoja joka tunnin välein (esim. niska, ranteet).  
+- Tee **5-minuuttisia venyttelytaukoja** joka tunnin välein (esim. niska, ranteet). Liikkeisiin voi sisältyä olkapään ja ranteen liikeratojen parantaminen.  
+- **Vahvista** olkapäitä ja vatsalihaksia.  
+- Istuessa kannattaa pitää **90 asteen kulma** kyynärpäissä.  
+- Huomioi **lihaskireys** olka- ja rannealueilla, jotka ovat usein rasittuneita e-urheilussa.  
+- **Joustavat vastusnauhat** voivat auttaa olkapäiden ulkokierrossa ja vatsalihasten aktivoinnissa.  
+- **Pidä taukoja** säännöllisesti ja vältä pitkiä istumisjaksoja.  
 
 **Resurssit:**  
-- Ohje: [Ergonomic Gaming Setup Guide](https://www.healthline.com)  
-- Ohjelma: **Darebee’s 10-Minute Gamer Workout**  
-
+- 
 ---
 
 ### Stressinhallinta ja palautuminen
+
 **Lähestymistavat:**  
-- **Mindfulness:** Käytä **Headspace**-sovellusta 10 min päivässä.  
-- **Progressiivinen rentoutus:** Jännitä ja rentenna lihasryhmiä vuorotellen.  
+- **Mindfulnessin ja meditaation** on todettu voivan vähentää stressiä ja ahdistusta.  
+- **Fyysinen harjoittelu** on tehokas stressin ja ahdistuksen hallinnassa.  
+- **Aktiivinen palautuminen,** kuten kevyt liikunta, on suositeltavaa.  
+- **Riittävä uni** on tärkeä stressin hallinnassa ja palautumisessa.  
 
 **Resurssit:**  
-- Kirja: *"The Power of Now"* (Eckhart Tolle)  
-- App: **Calm** (meditaatio-ohjatut sessiot)  
+- App: **Calm** (meditaatio-ohjatut sessiot)
 
 ---
 
 ### Ravitsemus ja uni
+
 **Teoria:**  
-Aivot tarvitsevat ravintoa (esim. omega-3, proteiinit) ja 7-9 tuntia unta optimaaliseen suorituskykyyn.  
+Aivot tarvitsevat ravintoa (esim. omega-3, proteiinit) ja **7-9 tuntia unta** optimaaliseen suorituskykyyn. Oikeanlainen ravinto tukee myös stressin hallintaa ja hyvinvointia.
 
 **Käytännön tehtävät:**  
-- Luo **MealPrep**-suunnitelma terveellisillä välipaloilla (esim. pähkinät, hedelmät).  
-- Käytä **Sleep Cycle**-sovellusta unenlaadun seurantaan.  
+- Huomioi, että **liiallinen istuminen** voi heikentää terveyttä.  
+- **Syö säännöllisesti** ja vältä epäterveellisiä välipaloja.  
+- **Vältä kofeiinia** ja muita piristeitä lähellä nukkumaanmenoaikaa.  
 
 **Resurssit:**  
-- Blogi: [Gamer Nutrition Tips](https://www.myfitnesspal.com)  
-- Artikkeli: [The Science of Sleep for Gamers](https://www.healthline.com)  
+- Artikkeli: [The Science of Sleep for Gamers](https://www.healthline.com/health/gamers-and-sleep)
 
 ---
+
+**Lisähuomiot:**  
+- **Fyysinen aktiivisuus parantaa kognitiivisia toimintoja,** kuten huomiokykyä, tiedonkäsittelyä ja muistia.  
+- **Säännöllinen liikunta** voi parantaa e-urheilijoiden suorituskykyä ja hyvinvointia.  
+- **Lihasvoimaa** ja kestävyyttä voidaan parantaa voimaharjoittelulla.  
+- **Sykkeen** ja koetun rasituksen seuranta voi auttaa optimoimaan harjoittelua.  
+- On tärkeää erottaa **fyysinen aktiivisuus ja harjoittelu**, joista jälkimmäinen on tavoitteellista ja rakenteellista.  
+- **E-urheilijat voivat hyötyä samankaltaisista harjoitteluohjelmista** kuin toimistotyöntekijät, koska molemmat vaativat pitkäaikaista istumista ja tarkkuutta vaativia tehtäviä.  
+- **HIIT-harjoittelu** on osoittautunut tehokkaaksi kognitiivisten toimintojen parantamisessa.  
+- **Unen laadulla** on suuri vaikutus suorituskykyyn ja palautumiseen.  
+- **Stressin hallinta** on tärkeää e-urheilijoiden suorituskyvylle ja hyvinvoinnille.  
+
 
 ## Tekninen osaaminen
 
