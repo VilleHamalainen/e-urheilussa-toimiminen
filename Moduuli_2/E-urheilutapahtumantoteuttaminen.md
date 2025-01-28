@@ -91,7 +91,7 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=_d5C75pLDKs&ab_channel=UniversityofStaffordshire" title="Inside an esports event">
-    <img src="http://img.youtube.com/vi/_d5C75pLDKs/0.jpg" alt="Inside an esports event"" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/_d5C75pLDKs/0.jpg" alt="Inside an esports event" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -103,7 +103,7 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8JR_YMksuOQ&ab_channel=22WestTelevision" title="Inside Smash Bros console gaming event">
-    <img src="http://img.youtube.com/vi/8JR_YMksuOQ/0.jpg" alt="Inside Smash Bros console gaming event"" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/8JR_YMksuOQ/0.jpg" alt="Inside Smash Bros console gaming event" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -115,7 +115,7 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=qe5jqnv1dlU&ab_channel=MyWhoosh" title="Biking esports event">
-    <img src="http://img.youtube.com/vi/qe5jqnv1dlU/0.jpg" alt="Biking esports event"" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/qe5jqnv1dlU/0.jpg" alt="Biking esports event" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -146,7 +146,7 @@ Tämä ohje tarjoaa kattavat tiedot e-urheilutapahtuman toteutuksesta, avainrool
 ### **Esimerkki:**  
 "Seuraavaksi lavalle astuu Team Apex, joka on hallitseva mestari! He ovat pelanneet 20 ottelua tappiotta, mutta pystyvätkö he pitämään ennätyksensä tänään? Katsotaan, mitä heidän kapteenillaan, Alexilla, on sanottavaa!"  
 
-### **Hyödyllisiä resursseja:**  
+### **Resursseja:**  
 - [Toastmasters International - Äänenkäytön ja esiintymistaidon kehittäminen](https://www.toastmasters.org/)  
 - [Esports Insider - Selostusopas](https://esportsinsider.com/2023/06/art-of-the-broadcast-esports-2022)  
 
@@ -158,15 +158,15 @@ Tämä ohje tarjoaa kattavat tiedot e-urheilutapahtuman toteutuksesta, avainrool
 - **Lähetyksen valvojat:** Vastaavat lähetyksen sujuvuudesta ja ratkovat teknisiä ongelmia.  
 
 ### **Tapahtuman aikana:**  
-- Moderaattorit seuraavat aktiivisesti chat-keskusteluja Twitchissä, YouTubessa tai muilla alustoilla.  
+- Moderaattorit seuraavat aktiivisesti chat-keskusteluja Twitchissä, YouTubessa, Discordissa tai muilla alustoilla.  
 - He käyttävät automatisoituja työkaluja, kuten chattibotteja, estämään häiriökäyttäytymistä.  
 - Vastaavat yleisön kysymyksiin, kuten aikatauluihin tai sääntöihin liittyen.  
 
 ### **Esimerkki:**  
-"Katsoja: Milloin finaali alkaa?  
+"Katsoja: Milloin finaali alkaa ja milloin palkinnot jaetaan?  
 Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintojenjako suoritetaan heti ottelun jälkeen!"  
 
-### **Hyödyllisiä resursseja:**  
+### **Resursseja:**  
 - [Twitch Moderator Academy](https://www.twitch.tv/creatorcamp/)  
 - [Streamlabs Academy - Teknisen valvonnan oppaat](https://streamlabs.com/)  
 - [OBS:n tukisivut](https://obsproject.com/help)  
@@ -189,7 +189,7 @@ Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintoj
 ### **Esimerkki:**  
 "Pelaajalla on teknisiä ongelmia tietokoneensa kanssa ja hän väittää menettäneensä pisteitä sen takia. Tuomari tarkistaa pelitallenteen ja tekee päätöksen: ongelma ei vaikuttanut ratkaisevasti pelin lopputulokseen."  
 
-### **Hyödyllisiä resursseja:**  
+### **Resursseja:**  
 - [ESL:n kilpailusäännöt](https://pro.eslgaming.com/)  
 - [FACEIT:n tuomariopas](https://support.faceit.com/hc/en-us/categories/360003095600)  
 - [Event Safety Alliance - Turvallisuusohjeet](https://eventsafetyalliance.org/)  
@@ -212,9 +212,9 @@ Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintoj
 ### **Esimerkki:**  
 "Markkinointitiimi twiittaa: *'Jännitystä ilmassa! Team Apex vs. CyberStorm alkaa juuri nyt! Kuka voittaa? Kommentoi alle!'* Samalla myyntitiimi järjestää VIP-alueella sponsorien verkostoitumistapahtuman."  
 
-### **Hyödyllisiä resursseja:**  
+### **Resursseja:**  
 - [Canva - Visuaalisen sisällön suunnittelu](https://www.canva.com/)  
-- [Eventbrite - Myyntistrategiat ja tapahtumamarkkinointi](https://www.eventbrite.com/)  
+
 
 ---
 
@@ -223,16 +223,16 @@ Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintoj
 Mediatiimi vastaa lähetyksen teknisestä toteutuksesta ja visuaalisista elementeistä, kuten grafiikoista ja videoista.  
 
 ### **Tapahtuman aikana:**  
-- **Visuaaliset elementit:**  
+- **Visuaaliset elementit:** 
   - Lisäävät grafiikat, kuten overlayt, tulostaulut ja sponsorilogot, reaaliaikaisesti lähetykseen.  
   - Käyttävät highlight-videoita yleisön sitouttamiseen.  
 - **Kuvaus ja ohjaus:**  
   - Varmistavat oikeat kuvakulmat ja sujuvat siirtymät lähetyksen aikana.  
 
 ### **Esimerkki:**  
-"CyberStorm nappaa ratkaisevan voiton – mediatiimi zoomaa yleisön riemuun ja lisää lähetykseen voittajagrafiikan. Pian tämän jälkeen haastattelu CyberStormin kapteenin kanssa näytetään suorana."  
+"CyberStorm nappaa ratkaisevan voiton – mediatiimi zoomaa riehaantuneeseen yleisöön ja lisää lähetykseen voittajagrafiikan. Pian tämän jälkeen haastattelu CyberStormin kapteenin kanssa näytetään suorana."  
 
-### **Hyödyllisiä resursseja:**  
+### **Resursseja:**  
 - [StreamScheme - Striimauksen oppaat](https://www.streamscheme.com/)  
 - [Canva - Overlayt ja grafiikat](https://www.canva.com/)  
 
@@ -249,7 +249,7 @@ Viestintätiimi rakentaa tapahtuman mainetta ja välittää tietoa median sekä 
 ### **Esimerkki:**  
 "Median edustajat haastattelevat Team Apexin kapteenia. Viestintätiimi huolehtii, että haastattelu tapahtuu suunnitellusti erillisessä mediapisteessä."  
 
-### **Hyödyllisiä resursseja:**  
+### **Resursseja:**  
 - [Pressitt - PR-työkalut ja mediaviestintä](https://pressitt.com/)  
 - [Hootsuite - Sosiaalisen median hallinta](https://hootsuite.com/)  
 

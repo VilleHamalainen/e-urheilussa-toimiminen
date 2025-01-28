@@ -1,6 +1,5 @@
 # Oman osaamisen kehittäminen e-urheilussa
 
-
 ## Pelillinen kehittyminen
 
 E-urheilu ei periaatessa eroa perinteisestä urheilusta niin paljon kuin voisi kuvitella. Pelien pelaaminen ja niissä kilpaileminen vaativat taitoa, strategiaa ja henkistä kanttia. Tässä tutkinnon osassa keskustelemme asioista usein Counter Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tottakai pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa HearthStonea ja Counterstrikea suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
@@ -15,8 +14,8 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=1vN2H0rzd5U "Aimin parantaminen" title="How to use moderen tools to develop aim by Styko">
-    <img src="http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg" alt="How to use moderen tools to develop aim by Styko" style="width: 100%; max-width: 400px; height: auto;">
+  <a href="https://www.youtube.com/watch?v=1vN2H0rzd5U" title="How to use modern tools to develop aim by Styko">
+    <img src="http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg" alt="How to use modern tools to develop aim by Styko" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -53,13 +52,13 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 
 **Käytännön esimerkkejä ja harjoituksia:**  
 - Järjestä **viikoittainen retrospektiivi** käyttäen *"Start, Stop, Continue"* -metodia.  Metodin idea miettiä mitä asioita kannattaa aloittaa, joita ei tehdä. Mitä olevassa olevia toimintamalleja ei kannattaisi jatkaa ja mitkä toimivat hyvin. 
-- Usein joukkueet ja tiimit osallistuvat **tiimirakennusaktiviteetteihin** (esim. pelataan yhteistyöpohjaista peliä kuten *Overcooked*).  
+- Usein joukkueet ja tiimit osallistuvat **tiimirakennusaktiviteetteihin** (esim. pelataan yhteistyöpohjaista peliä kuten [*Overcooked*](https://en.wikipedia.org/wiki/Overcooked)).  
 
 **Resurssit:**  
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc." title= "The Competitive Advantage of Teamwork with Patrick Lencioni">
-    <img src="http://img.youtube.com/vi/cIGLI3eWfsc/0.jpg" alt="The Competitive Advantage of Teamwork with Patrick Lencioni"" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/cIGLI3eWfsc/0.jpg" alt="The Competitive Advantage of Teamwork with Patrick Lencioni" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -78,17 +77,17 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 - **De-eskalaatio:** "Tämä on vaikea tilanne, mutta pystymme siihen yhdessä." tai "Tiedän, että olemme tehneet virheitä, mutta ne pitää nyt jättää taakse ja keskittyä seuraavaan kierrokseen."
 
 **Käytännön esimerkkejä ja harjoituksia:**  
-- Harjoittele konfliktinratkaisua **simuloiduissa painetilanteissa** (esim. harjoituspeli, jossa tiimi on 0-5 tappiolla).  
+- Harjoittele konfliktinratkaisua **harjoituspeleissä tai soolopeleissa** (esim. solo FaceIt, jossa tiimi on 0-5 tappiolla). Voit esimerkiksi koittaa erilaisia oppimiasi tekniikoita omien pelaajien rauhoittamiseen. 
 
 ---
 
 ### Pelin ulkopuoliset konfliktit
 **Teoria:**  
-- **Strategiaerimielisyydet:** Erilaiset näkemykset pelin metasta tai rooleista.  
-- **Henkilökohtaiset jännitteet:** Esim. aikatauluongelmat tai kommunikaatiotyylien yhteensopimattomuus.  
+- **Strategiaerimielisyydet:** Erilaiset näkemykset pelin yleisistä tai karttakohtaisista taktiikoista, metasta (liittyy taktiikoihin) tai rooleista.  
+- **Henkilökohtaiset jännitteet:** Esim. aikatauluongelmat, kommunikaatiotyylien yhteensopimattomuus tai yleiset henkilökemiaongelmat.  
 
 **Lähestymistavat:**  
-- **Meditaatio:** Kolmannen osapuolen apu (esim. valmentaja) neutraalina välittäjänä.  
+- **Meditaatio:** Kolmannen osapuolen apu (esim. valmentaja) neutraalina välittäjänä, nykyään myös psykologit ja erilaiset mentaalivalmentajat.  
 - **Selkeys sopimuksissa:** Kirjataan ylös tiimisäännöt (esim. harjoitusaikataulut, viestintäkanavat).  
 
 ---
@@ -98,7 +97,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 ### Pelin aikainen johtajuus
 **Teoria:**  
 - **Shot calling:** Päätöksenteko reaaliajassa (esim. "Push now!" vs. "Save weapons"). Näissä tilanteissa myös joukkueen roolien tulee olla selkeät toisin sanoen kuka tekee päätökset tärkeinä hetkinä. 
-- **Motivoiva kommunikaatio:** Positiivinen palaute myös häviöiden jälkeen (esim. "Hyvä yritys, korjataan seuraava").  
+- **Motivoiva kommunikaatio:** Positiivinen palaute myös häviöiden jälkeen (esim. "Hyvä yritys, mennään seuraavaan ja ollaan hieman tarkempia").  
 
 **Käytännön esimerkkejä ja harjoituksia:**  
 - Joukkue voi harjoitella pelaamista niin, että eri pelaajat kokeilevat **IGL-roolia** harjoituksissa oppiakseen eri pelaajan näkemyksiä tai erilaisia tyylejä johtaa joukkuetta.  
@@ -114,7 +113,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 ### Pelin ulkopuolinen johtajuus
 **Teoria:**  
 - **Tiimin kehittäminen:** taroituksena yksilöllisiä harjoitusohjelmia pelaajille ja jäsenille riippuen heidän rooleistaan.  
-- **Esimiestaidot:** Hallitse ajanhallintaa ja priorisointia (esim. kilpailu- vs. harjoitusviikko).  
+- **Esimiestaidot:** Ajanhallinta ja priorisointi kiiren keskellä (esim. kilpailu- vs. harjoitusviikko).  
 
 **Käytännön esimerkkejä ja harjoituksia:**  
 - Järjestä **tiiminsisäinen mentorointiohjelma** (kokeneemmat jäsenet auttavat uusia).  
@@ -132,14 +131,15 @@ Näkyykö paine kommunikaatiosa missään vaiheessa? Onko kommuikaatio erilaista
 Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
 
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=dbvz1cn1PpU "Team Comms: NaVi takes apart Vitality with English Subs" title="Example of esports communication by NAVI">
-    <img src="http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg" alt="title="Example of esports communication by NAVI"" style="width: 100%; max-width: 400px; height: auto;">
+
+  <div align="center"> 
+  <a href="https://www.youtube.com/watch?v=dbvz1cn1PpU" title="Team Comms: NaVi takes apart Vitality with English Subs">
+    <img src="http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg" alt="Example of esports communication by NAVI" style="width: 100%; max-width: 400px; height: auto;">
   </a>
-  </div>
-  <p style="max-width: 400px; margin: 0 auto;">
-    Esimerkki Navin kommunikaatiosta.
-  </p>
+</div>
+<p style="max-width: 400px; margin: 0 auto;">
+  Esimerkki Navin kommunikaatiosta.
+</p>
 
 
 
@@ -150,8 +150,8 @@ Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputuloksee
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=8owi_WvrGuk "Team Comms: JKS and ROPZ 2v5 IEM Katowice 2022" title= "Clutch communication by Faze">
-    <img src="http://img.youtube.com/vi/8owi_WvrGuk/0.jpg" alt="Clutch communication by Faze"" style="width: 100%; max-width: 400px; height: auto;">
+  <a href="https://www.youtube.com/watch?v=8owi_WvrGuk" title="Team Comms: JKS and ROPZ 2v5 IEM Katowice 2022">
+    <img src="http://img.youtube.com/vi/8owi_WvrGuk/0.jpg" alt="Clutch communication by Faze" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -161,7 +161,8 @@ Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputuloksee
 
 Nykyään on ainakin kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi:
 1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
-2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukuueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit. 
+2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukuueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit.
+3. Streamaaminen. Voit myös pelata ammatiksesi olematta varsinaisesti osana kilpailullista joukkuetta stramauksen kautta. Usein pelaajilla on erilaisia taitoja (hyvä pelissä, karismaattinen, hauska tai hyvä opettaja), jonka avulla hän kerää itselleen katsojia ja pystyy tuomaan organisaatioille arvoa tätä kautta. Streamin kautta sinut voidaam myös bongata osaksi e-urheilujoukkuetta.
 
 Tästä päästäänkin strategioihin ja taktiikoihin, joita yksilötasolla on vaikeampi suunnitella ja toteuttaa. Yksilönä voit joutua peleissä tekemään ns. omia pelejä, koska joukkukaverit eivät ole kiinnostuneita kommunikoimaan ja pelaamaan joukkueen eteen. Tämä ei välttämättä ole huono asia, mutta pelaajille, jotka haaveilevat ammattilaisuudesta tämä tuottaa varmasti haasteita ja vaatii myöhemmin paljon oppimista. 
 
@@ -174,8 +175,8 @@ Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. U
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault "Tec 9 master"" title= "Tec9 too good">
-    <img src="http://img.youtube.com/vi/edigZqRlMeI/0.jpg" alt="Tec9 too good"" style="width: 100%; max-width: 400px; height: auto;">
+  <a href="https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault" title = "Tec 9 master">
+    <img src="http://img.youtube.com/vi/edigZqRlMeI/0.jpg" alt="Tec9 too good" style="width: 100%; max-width: 400px; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -337,7 +338,7 @@ Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi 
 - **Sisällöntuotanto:** Aloita oma YouTube-kanava strategiaoppaiden kanssa.  
 - **Tapahtumien järjestäminen:** Osallistu **DreamHack**in vapaaehtoistyöhön.  
 
-## Laaja tehtävä
+## Laaja tehtävä innokkaille opiskelijoille
 <details>
 <Summary>Suunnitelkaa ja toteuttakaa oma pienen mittakaavat esports-pelikurssi! </Summary>
 
@@ -354,48 +355,36 @@ Perustelkaa valintanne hyödyntäen esimerkiksi seuraavia kriteereitä: pelaajie
 
 <b>Suunnitelkaa kurssin rakenne</b> esimerkiksi viideksi eri päiväksi, joista jokainen keskittyy eri näkökohtaan:
 
-Päivä 1: Taitojen kehittäminen
-
-Päivä 2: Strateginen ymmärrys ja mentaalinen kestävyys
-
-Päivä 3: Fyysinen kunto ja tiimityöskentely
-
-Päivä 4: Analyysitaidot ja valmennus
-
-Päivä 5: Terveellinen elämäntapa, verkostoituminen ja tavoitteiden asettaminen
+<b>Päivä 1:</b> Taitojen kehittäminen
+<b>Päivä 2:</b> Strateginen ymmärrys ja mentaalinen kestävyys
+<b>Päivä 3:</b> Fyysinen kunto ja tiimityöskentely
+<b>Päivä 4:</b> Analyysitaidot ja valmennus
+<b>Päivä 5:</b> Terveellinen elämäntapa, verkostoituminen ja tavoitteiden asettaminen
 
 Määritelkää jokaiselle päivälle teoreettiset aiheet ja käytännön tehtävät.
 
 
-Kerää tietoa ja resursseja jokaisen päivän aiheisiin liittyen.
+Kerätkää tietoa ja resursseja jokaisen päivän aiheisiin liittyen.
 
 Esimerkkejä:
 
-Päivä 1: Pelimekaniikat, lihasmuisti ja tehokkaat harjoittelumenetelmät.
-
-Päivä 2: Pelin meta, strategiat ja stressinhallintatekniikat.
-
-Päivä 3: Fyysisen kunnon vaikutus pelaamiseen, tiimityöskentelyn periaatteet.
-
-Päivä 4: Pelianalyytiikkatyökalut ja valmennuksen rooli.
-
-Päivä 5: Ravinto, lepo, verkostoituminen ja tavoitteiden asettaminen.
+<b>Päivä 1:</b> Pelimekaniikat, lihasmuisti ja tehokkaat harjoittelumenetelmät.
+<b>Päivä 2:</b> Pelin meta, strategiat ja stressinhallintatekniikat.
+<b>Päivä 3:</b> Fyysisen kunnon vaikutus pelaamiseen, tiimityöskentelyn periaatteet.
+<b>Päivä 4:</b> Pelianalyytiikkatyökalut ja valmennuksen rooli.
+<b>Päivä 5:</b> Ravinto, lepo, verkostoituminen ja tavoitteiden asettaminen.
 
 Käytännön tehtävät:
 
-Suunnittele tehtävät, jotka opiskelijat voivat suorittaa jokaisen päivän aiheiden pohjalta.
+Suunnittelkaa tehtävät, jotka opiskelijat voivat suorittaa jokaisen päivän aiheiden pohjalta.
 
 Esimerkkejä:
 
-Päivä 1: Käytä aim-traineria 30 minuuttia ja analysoi viimeisin pelisi.
-
-Päivä 2: Kehitä pelistrategia ja harjoittele oman mielen rauhoittamista pelitilanteissa.
-
-Päivä 3: Suorita 20-minuuttinen  harjoitus ja tiimityöskentelyharjoitus.
-
-Päivä 4: Analysoi peliä analytiikkatyökaluilla ja anna palautetta toisille opiskelijoille.
-
-Päivä 5: Suunnittele päivän ruokavalio ja aseta lyhyen ja pitkän tähtäimen tavoitteet.
+<b>Päivä 1:</b> Käytä aim-traineria 30 minuuttia ja analysoi viimeisin pelisi.
+<b>Päivä 2:</b> Kehitä pelistrategia ja harjoittele oman mielen rauhoittamista pelitilanteissa.
+<b>Päivä 3:</b> Suorita 20-minuuttinen  harjoitus ja tiimityöskentelyharjoitus.
+<b>Päivä 4:</b> Analysoi peliä analytiikkatyökaluilla ja anna palautetta toisille opiskelijoille.
+<b>Päivä 5:</b> Suunnittele päivän ruokavalio ja aseta lyhyen ja pitkän tähtäimen tavoitteet.
 
 Resurssit:
 
@@ -463,12 +452,14 @@ Resurssit: Healthline, MyFitnessPal, paikalliset esports-yhteisöt.
 
 Arviointi:
 
-Kerää palautetta osallistujilta ja arvioi kurssin vaikuttavuus.
+Kerää palautetta osallistujilta ja arvioi kurssin toteutuksen mahdolliset kehityskohdat.
 
-Tämän tehtävän avulla opiskelijat saavat syvemmän ymmärryksen esports-urheilun monipuolisista näkökohdista ja kehittävät taitojaan sekä pelaajina että kurssien suunnittelijoina.
 
 </details>
 
-https://open.spotify.com/show/6nXZmspwDgIdPxBpjhreQV?si=b87a32ed64284ed8
 
-https://open.spotify.com/show/4v91zLNxqDFlFeFYcZpTZV?si=4c74a416e69349b1
+## Podcasteja liittyen e-urheiluun
+
+[Natun ja Robun podcast](https://open.spotify.com/show/6nXZmspwDgIdPxBpjhreQV?si=b87a32ed64284ed8)
+
+[Pelaamisen kehittämiseen keskittyviä podcasteja](https://open.spotify.com/show/4v91zLNxqDFlFeFYcZpTZV?si=4c74a416e69349b1)

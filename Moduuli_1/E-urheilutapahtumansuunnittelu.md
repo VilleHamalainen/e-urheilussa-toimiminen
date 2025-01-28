@@ -1,4 +1,4 @@
-# Moduuli 1: e-urheilutapahtuman suunnittelu (5 osp)
+# Moduuli 1: e-urheilutapahtuman suunnittelu
 
 
 ## Tapahtuman luonteen ja kohderyhmän valinta
@@ -279,7 +279,7 @@ Reitittimiä on useita erilaisia, mutta tässä yhteydessä puhumme pienemmän m
 
 Counterstikessa oman privaatin IP:n pääsee katsomaan status-komennolla. Tärkein asia löytyy heti ensimmäiseltä riviltä, joka näyttää privaatin lokaalin IP-osoiteen 172.18.176.1 ja portin 27015, joka tyypillinen portti peleille. Portti kuuntelee uusia yhteydenottoja eli periaateessa samasta verkosta pitäisi voida yhdistää tähän peliin, jos IP-osoite on tiedossa. Aikaisemmin pelin pävitysten yhteydessä on pitänyt sallia tiettyä portteja, jotta lataus onnistuu nopeammin.
 
-      ```console
+   ```console
       
       Server:  Running [172.18.176.1:27015]
       Client:  Connected [loopback:1] [last packet 0.008 sec ago]
@@ -312,7 +312,7 @@ Counterstikessa oman privaatin IP:n pääsee katsomaan status-komennolla. Tärke
       [Client]    9      BOT    0    0     active      0 'Hastings'
       [Client] #end
       
-      ```
+   ```
 
 
 Yleisesti reititittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja internetin välillä tai internet-palveluntarjoajien verkkojen välillä. Niitä käytetään kaikenkokoisissa verkoissa, ja suurimmat ja tehokkaimmat reitittimet ovat yleensä  internet-palveluntarjoajien, akateemisten ja tutkimuslaitosten hallussa. 
@@ -337,7 +337,7 @@ Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli VLAN-verkkoihin, jo
 Pelilanien näkökulmasta edut ovat myös selkeitä. Jokainen laite saa oman kanavansa kun se liitetään kytkimeen ethernet-kaapelilla. Tilanne voi muutta jos siinä vaiheessa kun paikalle tulee pieni määrä yleisöä. Onko syytä jakaa verkko vierailla ja pelaajille erikseen, koska on suotavaa, että pelaajat saavat parhaan mahollisen kaistan pelejään varten. Pienemmissä tapahtumissa tätä tuskin tarvitsee miettiä, mutta usein tekniikan parissa tulee yllätyksiä, jos niihin ei varaudu. On myös hyvä miettiä laneja, joss pelejä ladataan paljon. Tilanne voisi olla seuraava: pelaajat keksivät, että he halauvat pelata porukassa peliä mitään kenelläkään ei ole. Verkon kannalta on todella huono homma, jos 20 ihmistä alkaa latamaan 40 gB:n kokoista peliä. Fiksumpaa onkin miettiä voisiko laneilla asentaa oman niin sanotun Lan-Cachen, johon ladataan peli kerran ja tämän jälkeen verkon sisällä hoidetaan pelin levittäminen. Omassa kotiverkossakin voi olla syytä miettiä ja olla tietoinen reitittimen asetuksista. Oman verkon tietoja Windows-koneella pääsee katsomaan ipconfig-komennolla.
 
 
-	```console
+```console
 
  	Windows IP Configuration
 
@@ -357,8 +357,7 @@ Pelilanien näkökulmasta edut ovat myös selkeitä. Jokainen laite saa oman kan
    	IPv4 Address. . . . . . . . . . . : 172.18.176.1
    	Subnet Mask . . . . . . . . . . . : 255.255.240.0
    	Default Gateway . . . . . . . . . :
-
-  	 ```
+```   
 
 Enempää emme tässä yhteydessä rupea verkkoteknologiaa läpi käymään. Alla on muutamia lähteitä aiheen tarkemmalle tarkastelulle.
 
@@ -573,7 +572,7 @@ Käydään opettajan kanssa läpi hieman tutkimusta aiheesta: https://dl.acm.org
 
 YouTube on yksi maailman käytetyimmistä videonjakopalveluista, joka tavoittaa yleisöä hieman eri tavalla kuin Twitch. Nykyään onkin hyvin yleistä, että Twitch-streameista tehdään koosteita YouTubeen. YouTube tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja superchat-viestit. YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä toisin kun Twitchissä, jossa uusien streaamaajien voi olla todella vaikeaa löytää yleisöä.YouTube yhdistää streamauksen, videoiden jakamisen ja yhteisötoiminnot, tarjoten kattavan alustan sisällön levittämiseen ja yleisön sitouttamiseen.
 
-Todo: tutustu https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ youtubecreators ohjeita kaikenlaiseen tekemiseen.
+[Youtubecreators ohjeita kaikenlaiseen tekemiseen](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ) 
 
 
 Twitch VODien (Video on Demand) siirtäminen YouTubeen on hyvä käytänne useista syistä:
@@ -609,12 +608,12 @@ Twitch-streamien tallenteiden jakaminen YouTubessa auttaa tavoittamaan yleisöä
 
 
 
-## Streamauksen sisällöntuotanto ja yleisön kiinnittäminen (Jamk?)
+## Streamauksen sisällöntuotanto ja yleisön kiinnittäminen (Jamk)
 
-   https://www.youtube.com/watch?v=0i9gkprYekI&ab_channel=Ludwig
+   [Ludwigin ohjeet streamaukseen](https://www.youtube.com/watch?v=0i9gkprYekI&ab_channel=Ludwig)
 
    GradiaCup ei tule kestämään useampaa päivää, mutta meidän on silti syytä tutustua steamauksen muihin osa-alueisiin.
 
-   https://www.udemy.com/course/how-to-start-esports-club/
+   [Ilmainen kurssi esports seuran perustamiseen](https://www.udemy.com/course/how-to-start-esports-club/)
 
 
