@@ -67,10 +67,11 @@ Millaisia palkintoja turnauksissa voisi olla? Mitkä olisivat sopivia palkintoja
         src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Phases%20of%20Organizing%20an%20Esports%20Event%20-%20visual%20selection.png" 
         alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+	</div>
     <p style="max-width: 400px; margin: 0 auto; text-align: left;">
         E-urheilutapahtuman suunnittelun vaiheet.
     </p>
-</div>
+
 
 ## Online-tapahtuma
 
@@ -247,10 +248,11 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
         src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png" 
         alt="Tekoälyn näkemys lanista ja eri laitteista" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+	</div>
     <p style="max-width: 400px; margin: 0 auto; text-align: left;">
         Tekoälyn näkemys lanitapahtumasta.
     </p>
-</div>
+
 
 ## Esports lanin(local area network) perusteet
    
@@ -261,10 +263,11 @@ Lan-tapahtumassa on paljon tekijöitä, joita tulee ottaa huomioon. Usein tämä
         src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-21%2010.36.12%20-%20Create%20an%20illustrative%20and%20educational%20image%20of%20a%20Local%20Area%20Network%20(LAN).%20Include%20a%20central%20switch%20connected%20to%20various%20devices%20via%20LAN%20cables.%20The%20.png" 
         alt="Tekoälyn näkemys lanista ja eri laitteista" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+	</div>
     <p style="max-width: 400px; margin: 0 auto; text-align: left;">
         Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.
     </p>
-</div>
+
 
  
    Lanissa tapahtuva pelaaminen voi olla pieniä kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa vanhempien poissaollessa. Toisaalta taas Lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteututettu ammattitason tapahtuma. Periaattessa lanin koosta riippumatta käytössä on yleensä liittymäkohta internettiin, vaikka tämä ei vaatimus olekaan. Yhtyden internetin ja lanin välillä hoitaa Reitin (Router). Reititin on tärkeä verkkolaite, joka on keskeisessä roolissa siinä, miten data liikkuu tietokoneesi ja internetin välillä. 
@@ -321,8 +324,8 @@ Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (Data Link Layer 2). Ky
 <div align="center">
 	<img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png" 
 	     alt="Kytkin" 
-		</div>
 	     style="width: 100%; max-width: 400px; height: auto;">
+      </div>
 	 <p style="max-width: 400px; margin: 0 auto; text-align: left;">
 		Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.
 	</p>
@@ -390,10 +393,11 @@ Selvitä mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat l
         src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/OSImalli.png" 
         alt="OSI-malli" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+	</div>
     <p style="max-width: 400px; margin: 0 auto; text-align: left;">
         OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.
     </p>
-</div>
+
 
    
 ### Bonustehtävä LanCache isommille laneille
@@ -567,14 +571,14 @@ Käydään opettajan kanssa läpi hieman tutkimusta aiheesta: https://dl.acm.org
 
 ## Youtube
 
-   YouTube on yksi maailman käytetyimmistä videonjakopalveluista, joka tavoittaa yleisöä hieman eri tavalla kuin Twitch. Nykyään onkin hyvin yleistä, että Twitch-streameista tehdään koosteita YouTubeen. YouTube tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja superchat-viestit. YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä toisin kun Twitchissä, jossa uusien streaamaajien voi olla todella vaikeaa löytää yleisöä.YouTube yhdistää streamauksen, videoiden jakamisen ja yhteisötoiminnot, tarjoten kattavan alustan sisällön levittämiseen ja yleisön sitouttamiseen.
+YouTube on yksi maailman käytetyimmistä videonjakopalveluista, joka tavoittaa yleisöä hieman eri tavalla kuin Twitch. Nykyään onkin hyvin yleistä, että Twitch-streameista tehdään koosteita YouTubeen. YouTube tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja superchat-viestit. YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä toisin kun Twitchissä, jossa uusien streaamaajien voi olla todella vaikeaa löytää yleisöä.YouTube yhdistää streamauksen, videoiden jakamisen ja yhteisötoiminnot, tarjoten kattavan alustan sisällön levittämiseen ja yleisön sitouttamiseen.
 
-   Todo: tutustu https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ youtubecreators ohjeita kaikenlaiseen tekemiseen.
+Todo: tutustu https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ youtubecreators ohjeita kaikenlaiseen tekemiseen.
 
 
-   Twitch VODien (Video on Demand) siirtäminen YouTubeen on hyvä käytänne useista syistä:
+Twitch VODien (Video on Demand) siirtäminen YouTubeen on hyvä käytänne useista syistä:
 
-   Twitch-streamien tallenteiden jakaminen YouTubessa auttaa tavoittamaan yleisöä eri tavalla kuin Twitch  ja tarjoaa samalla mahdollisuuden lisätuloihin YouTube-mainosten kautta, jos katsojia on tarpeeksi. Toisin kuin Twitchissä, jossa VODit poistetaan tietyssä ajassa, säilyttää YouTube sisällön pysyvästi, jolloin videot voivat kerätä uusia katsojia vielä vuosienkin jälkeen. Lisäksi kun Twitch-streamit siirretään YouTubeen, ne hyötyvät YouTuben hakukoneoptimoinnista (ks. SEO alla), joka voi parantaa sisällön löydettävyyttä ja houkutella uusia seuraajia.
+Twitch-streamien tallenteiden jakaminen YouTubessa auttaa tavoittamaan yleisöä eri tavalla kuin Twitch  ja tarjoaa samalla mahdollisuuden lisätuloihin YouTube-mainosten kautta, jos katsojia on tarpeeksi. Toisin kuin Twitchissä, jossa VODit poistetaan tietyssä ajassa, säilyttää YouTube sisällön pysyvästi, jolloin videot voivat kerätä uusia katsojia vielä vuosienkin jälkeen. Lisäksi kun Twitch-streamit siirretään YouTubeen, ne hyötyvät YouTuben hakukoneoptimoinnista (ks. SEO alla), joka voi parantaa sisällön löydettävyyttä ja houkutella uusia seuraajia.
 
    
    Molemmissa kanavissa on tärkeää panostaa houkuttelevaan ulkoasuun, selkeään kanavakuvauksen ja varmistaa, että kanavalla on SEO-ystävälliset avainsanat. Emme kurssin puitteissa mene kovinkaan syvälle hakukoneoptimointiin, mutta meidän on hyvä tutustua alla olevaan materiaaliin, jotta ainakin tiedämme, mistä on kyse.
@@ -594,7 +598,6 @@ Käydään opettajan kanssa läpi hieman tutkimusta aiheesta: https://dl.acm.org
    Voit myös sisällyttää aikataulun, jos sinulla on säännöllisiä julkaisuaikoja, sekä kehotuksia toimintaan, kuten sosiaalisen median käyttäjätunnuksia.
    Mukautetut thumbnail-kuvat videoille ovat tärkeitä YouTubessa. Niiden tulisi olla huomiota herättäviä ja relevantteja videon sisällölle.
  
-
 
 ### Tehtäviä
 
