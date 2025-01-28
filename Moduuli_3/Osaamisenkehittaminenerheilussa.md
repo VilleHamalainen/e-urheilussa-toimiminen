@@ -125,7 +125,7 @@ https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO
 - Laitteisto- ja ohjelmisto-osaaminen
 - Striimaus- ja sisällöntuotantotaidot
 
-## Liiketoimintaosamainen
+## Liiketoimintaosaaminen
 - Sopimusneuvottelut
 - Taloudenhallinta
 - Sponsorisuhteiden ylläpito
