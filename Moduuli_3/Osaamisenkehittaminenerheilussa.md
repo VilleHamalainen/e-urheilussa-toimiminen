@@ -41,7 +41,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 - **Selkeä roolijako:** Jokaisella tiimiläisellä on selkeä tehtävä (esim. in-game leader (IGL), entry fragger, support).
 - **Reaaliaikainen kommunikaatio:** Lyhyet, selkeät komennot (esim. "Flash A", "Rotate B") ja tilannetiedon jakaminen (esim. vihollisen paikka ja resurssit).  
 
-**Käytännön esimerkkejä:**  
+**Käytännön esimerkkejä ja harjoituksia:**  
 - Joukkueilla voi olla erilaisia koodikieliä tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter Strikessa](https://totalcsgo.com/callouts).
 - Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä peruttaa.
 
@@ -52,7 +52,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 - **Tiimikokoukset:** Säännölliset tapaamiset strategioiden, heikkouksien ja vahvuuksien käsittelyyn.  
 - **Vertaispalaute:** Rakentavan palautteen antaminen ilman syyllistämistä (esim. "Viimeisessä roundissa olisi kannattanut…").  
 
-**Käytännön esimerkkejä:**  
+**Käytännön esimerkkejä ja harjoituksia:**  
 - Järjestä **viikoittainen retrospektiivi** käyttäen *"Start, Stop, Continue"* -metodia.  Metodin idea miettiä mitä asioita kannattaa aloittaa, joita ei tehdä. Mitä olevassa olevia toimintamalleja ei kannattaisi jatkaa ja mitkä toimivat hyvin. 
 - Usein joukkueet ja tiimit osallistuvat **tiimirakennusaktiviteetteihin** (esim. pelataan yhteistyöpohjaista peliä kuten *Overcooked*).  
 
@@ -72,29 +72,25 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 
 ### Pelin aikaiset konfliktit
 **Teoria:**  
-- **Paineen hallinta:** Konfliktit syntyvät usein stressaavissa tilanteissa (esim. häviöputo). Tärkeää on keskittyä ratkaisuun, ei syyllisten etsimiseen.  
+- **Paineen hallinta:** Konfliktit syntyvät usein stressaavissa tilanteissa (esim. häviöputki). Tärkeää on keskittyä ratkaisuun, ei syyllisten etsimiseen.  
 
 **Lähestymistavat:**  
-- Käytä **timeoutteja** (esim. 1 min tauko kierroksen välissä).  
-- **De-eskalaatio:** "Tämä on vaikea tilanne, mutta pystymme siihen yhdessä."  
+- Käytä **timeoutteja** (esim. 1 min tauko kierroksen välissä) toisinsanoen "älä tilttaa" eli mene omaan kuoreesi ja toivo, että asiat muuttuvat ilman tietoista toimintaa ja ongelmanratkaisua.  
+- **De-eskalaatio:** "Tämä on vaikea tilanne, mutta pystymme siihen yhdessä." tai "Tiedän, että olemme tehneet virheitä, mutta ne pitää nyt jättää taakse ja keskittyä seuraavaan kierrokseen."
 
-**Käytännön tehtävät:**  
+**Käytännön esimerkkejä ja harjoituksia:**  
 - Harjoittele konfliktinratkaisua **simuloiduissa painetilanteissa** (esim. harjoituspeli, jossa tiimi on 0-5 tappiolla).  
 
 ---
 
 ### Pelin ulkopuoliset konfliktit
 **Teoria:**  
-- **Strategiaerimielisyydet:** Erilaiset näkemykset pelin metaasta tai rooleista.  
+- **Strategiaerimielisyydet:** Erilaiset näkemykset pelin metasta tai rooleista.  
 - **Henkilökohtaiset jännitteet:** Esim. aikatauluongelmat tai kommunikaatiotyylien yhteensopimattomuus.  
 
 **Lähestymistavat:**  
 - **Meditaatio:** Kolmannen osapuolen apu (esim. valmentaja) neutraalina välittäjänä.  
 - **Selkeys sopimuksissa:** Kirjataan ylös tiimisäännöt (esim. harjoitusaikataulut, viestintäkanavat).  
-
-**Resurssit:**  
-- Kirja: *"Crucial Conversations"* (Kerry Patterson)  
-- Työkalu: **Doodle** (aikataulutus konfliktien välttämiseksi).  
 
 ---
 
@@ -102,40 +98,39 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 
 ### Pelin aikainen johtajuus
 **Teoria:**  
-- **Shot calling:** Päätöksenteko reaaliajassa (esim. "Push now!" vs. "Save weapons").  
+- **Shot calling:** Päätöksenteko reaaliajassa (esim. "Push now!" vs. "Save weapons"). Näissä tilanteissa myös joukkueen roolien tulee olla selkeät toisin sanoen kuka tekee päätökset tärkeinä hetkinä. 
 - **Motivoiva kommunikaatio:** Positiivinen palaute myös häviöiden jälkeen (esim. "Hyvä yritys, korjataan seuraava").  
 
-**Käytännön tehtävät:**  
-- Vuorottele **IGL-roolia** harjoituksissa oppiakseen eri tyylejä.  
-- Analysoi ammattilaisten **päätöksentekoa** kriisitilanteissa (esim. *VALORANT Champions* finaalit).  
+**Käytännön esimerkkejä ja harjoituksia:**  
+- Joukkue voi harjoitella pelaamista niin, että eri pelaajat kokeilevat **IGL-roolia** harjoituksissa oppiakseen eri pelaajan näkemyksiä tai erilaisia tyylejä johtaa joukkuetta.  
+- Analysoi ammattilaisten **päätöksentekoa** kriisitilanteissa (esim. *VALORANT Champions* finaalit jne.).  
 
 **Resurssit:**  
 - Video: *"In-Game Leadership in League of Legends"* (YouTube, LS Coaching)  
-
+[Aleksi B IGL Tutorial](https://www.youtube.com/watch?v=-DfqcmHVYt0&ab_channel=betwayesports)
+[Launders 3 things every IGL needs to know](https://www.youtube.com/watch?v=7WhcLTTArw4&ab_channel=launders)
+[How best ingame leaders think](https://www.youtube.com/watch?v=ERbN-_R4iBI&ab_channel=STYKO)
 ---
 
 ### Pelin ulkopuolinen johtajuus
 **Teoria:**  
-- **Tiimin kehittäminen:** Luoda yksilöllisiä harjoitusohjelmia jäsenille.  
+- **Tiimin kehittäminen:** taroituksena yksilöllisiä harjoitusohjelmia pelaajille ja jäsenille riippuen heidän rooleistaan.  
 - **Esimiestaidot:** Hallitse ajanhallintaa ja priorisointia (esim. kilpailu- vs. harjoitusviikko).  
 
-**Käytännön tehtävät:**  
+**Käytännön esimerkkejä ja harjoituksia:**  
 - Järjestä **tiiminsisäinen mentorointiohjelma** (kokeneemmat jäsenet auttavat uusia).  
 - Osallistu **johtajakoulutukseen** (esim. Suomen Urheiluliiton järjestämät kurssit).  
 
-**Resurssit:**  
-- Kurssi: [LinkedIn Learning: Leading Virtual Teams](https://www.linkedin.com/learning)  
-- Artikkeli: [How Esports Captains Train Leadership](https://www.esportsobserver.com)  
-
+**Resurssit:**
+- [OG.Ceb motivational teamleading](https://www.youtube.com/watch?v=mb9xmqhJnvM&ab_channel=KickasS_____)
 
 ## Tehtäviä
 
-1. Analysoi parin kanssa Navi-Vitality pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
+1. Analysoi parin tai pienen tiimin kanssa Navi-Vitality pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
 Millaisia erilaisia kommunikaatiotilanteita tunnistatte? Esimerkiksi onko kierroksen alussa, keskellä ja lopussa tapahtuvalla kommunikaatiolla eroja?
 Onko joukkueen strategia erän aikana selkeä? Toimiiko kommunikaatio selkeästi?
 Näkyykö paine kommunikaatiosa missään vaiheessa? Onko kommuikaatio erilaista alussa kuin lopun clutch-tilanteessa?
 Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
-
 
 
 <div align="center">
@@ -190,7 +185,7 @@ Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. U
 
 
 
-### Oman ja joukkuueen tekemisen analysointi
+### Oman ja joukkueen tekemisen analysointi
 
 Styko demokatselmus
 https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO
@@ -460,3 +455,5 @@ Tämän tehtävän avulla opiskelijat saavat syvemmän ymmärryksen esports-urhe
 </details>
 
 https://open.spotify.com/show/6nXZmspwDgIdPxBpjhreQV?si=b87a32ed64284ed8
+
+https://open.spotify.com/show/4v91zLNxqDFlFeFYcZpTZV?si=4c74a416e69349b1
