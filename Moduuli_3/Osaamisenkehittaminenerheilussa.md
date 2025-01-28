@@ -24,12 +24,109 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
     Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.
   </p>
 
-Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös luonnollisesti ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
+Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jotak kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
 
 ### Liikkuminen
 
 ### Kommunikaatio ja tiimityöskentely
-Tiimityöskentely ja kommunikaatio ovat usein (opettajan uskomus) ylikatsottuja asioita varsinkin nuorempien pelaajien osalta. Kommunikaatio ei ole tarkkaa tiedettä ja joukkeilla onkin erilaisia tapoja kommunikoida.
+
+Tiimityöskentely ja kommunikaatio ovat yksi tärkeimmistä tekijöistä, jotka erottavat huippujoukkuueet alempien tasojen joukkueista. Kommunikaatio ei ole tarkkaa tiedettä ja joukkeilla onkin erilaisia tapoja kommunikoida.
+
+## Tiimidynamiikka
+
+Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopuoliseen toimintaan.
+
+### Pelin aikainen toiminta
+**Teoria:**  
+- **Selkeä roolijako:** Jokaisella tiimiläisellä on selkeä tehtävä (esim. in-game leader (IGL), entry fragger, support).
+- **Reaaliaikainen kommunikaatio:** Lyhyet, selkeät komennot (esim. "Flash A", "Rotate B") ja tilannetiedon jakaminen (esim. vihollisen paikka ja resurssit).  
+
+**Käytännön esimerkkejä:**  
+- Joukkueilla voi olla erilaisia koodikieliä tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter Strikessa](https://totalcsgo.com/callouts).
+- Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä peruttaa.
+
+---
+
+### Pelin ulkopuolinen toiminta
+**Teoria:**  
+- **Tiimikokoukset:** Säännölliset tapaamiset strategioiden, heikkouksien ja vahvuuksien käsittelyyn.  
+- **Vertaispalaute:** Rakentavan palautteen antaminen ilman syyllistämistä (esim. "Viimeisessä roundissa olisi kannattanut…").  
+
+**Käytännön esimerkkejä:**  
+- Järjestä **viikoittainen retrospektiivi** käyttäen *"Start, Stop, Continue"* -metodia.  Metodin idea miettiä mitä asioita kannattaa aloittaa, joita ei tehdä. Mitä olevassa olevia toimintamalleja ei kannattaisi jatkaa ja mitkä toimivat hyvin. 
+- Usein joukkueet ja tiimit osallistuvat **tiimirakennusaktiviteetteihin** (esim. pelataan yhteistyöpohjaista peliä kuten *Overcooked*).  
+
+**Resurssit:**  
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc." title= "The Competitive Advantage of Teamwork with Patrick Lencioni">
+    <img src="http://img.youtube.com/vi/cIGLI3eWfsc/0.jpg" alt="The Competitive Advantage of Teamwork with Patrick Lencioni"" style="width: 100%; max-width: 400px; height: auto;">
+  </a>
+  </div>
+  <p style="max-width: 400px; margin: 0 auto;">
+    Kilpailuedun saavuttaminen yhteistyöllä.
+  </p>
+---
+
+## Konfliktinratkaisu
+
+### Pelin aikaiset konfliktit
+**Teoria:**  
+- **Paineen hallinta:** Konfliktit syntyvät usein stressaavissa tilanteissa (esim. häviöputo). Tärkeää on keskittyä ratkaisuun, ei syyllisten etsimiseen.  
+
+**Lähestymistavat:**  
+- Käytä **timeoutteja** (esim. 1 min tauko kierroksen välissä).  
+- **De-eskalaatio:** "Tämä on vaikea tilanne, mutta pystymme siihen yhdessä."  
+
+**Käytännön tehtävät:**  
+- Harjoittele konfliktinratkaisua **simuloiduissa painetilanteissa** (esim. harjoituspeli, jossa tiimi on 0-5 tappiolla).  
+
+---
+
+### Pelin ulkopuoliset konfliktit
+**Teoria:**  
+- **Strategiaerimielisyydet:** Erilaiset näkemykset pelin metaasta tai rooleista.  
+- **Henkilökohtaiset jännitteet:** Esim. aikatauluongelmat tai kommunikaatiotyylien yhteensopimattomuus.  
+
+**Lähestymistavat:**  
+- **Meditaatio:** Kolmannen osapuolen apu (esim. valmentaja) neutraalina välittäjänä.  
+- **Selkeys sopimuksissa:** Kirjataan ylös tiimisäännöt (esim. harjoitusaikataulut, viestintäkanavat).  
+
+**Resurssit:**  
+- Kirja: *"Crucial Conversations"* (Kerry Patterson)  
+- Työkalu: **Doodle** (aikataulutus konfliktien välttämiseksi).  
+
+---
+
+## Johtajuustaidot
+
+### Pelin aikainen johtajuus
+**Teoria:**  
+- **Shot calling:** Päätöksenteko reaaliajassa (esim. "Push now!" vs. "Save weapons").  
+- **Motivoiva kommunikaatio:** Positiivinen palaute myös häviöiden jälkeen (esim. "Hyvä yritys, korjataan seuraava").  
+
+**Käytännön tehtävät:**  
+- Vuorottele **IGL-roolia** harjoituksissa oppiakseen eri tyylejä.  
+- Analysoi ammattilaisten **päätöksentekoa** kriisitilanteissa (esim. *VALORANT Champions* finaalit).  
+
+**Resurssit:**  
+- Video: *"In-Game Leadership in League of Legends"* (YouTube, LS Coaching)  
+
+---
+
+### Pelin ulkopuolinen johtajuus
+**Teoria:**  
+- **Tiimin kehittäminen:** Luoda yksilöllisiä harjoitusohjelmia jäsenille.  
+- **Esimiestaidot:** Hallitse ajanhallintaa ja priorisointia (esim. kilpailu- vs. harjoitusviikko).  
+
+**Käytännön tehtävät:**  
+- Järjestä **tiiminsisäinen mentorointiohjelma** (kokeneemmat jäsenet auttavat uusia).  
+- Osallistu **johtajakoulutukseen** (esim. Suomen Urheiluliiton järjestämät kurssit).  
+
+**Resurssit:**  
+- Kurssi: [LinkedIn Learning: Leading Virtual Teams](https://www.linkedin.com/learning)  
+- Artikkeli: [How Esports Captains Train Leadership](https://www.esportsobserver.com)  
+
 
 ## Tehtäviä
 
@@ -111,158 +208,255 @@ How pros do it
 https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO
 
 
-## Kommunikaatio ja tiimityöskentely
-- Tiimidynamiikka
-- Konfliktinratkaisu
-- Johtajuustaidot
+
+
+
 
 ## Fyysinen ja henkinen hyvinvointi
-- Ergonomia ja fyysinen kunto
-- Stressinhallinta ja palautuminen
-- Ravitsemus ja uni
 
-## Tekinen osaaminen
-- Laitteisto- ja ohjelmisto-osaaminen
-- Striimaus- ja sisällöntuotantotaidot
+### Ergonomia ja fyysinen kunto
+**Teoria:**  
+Pitkät pelisessiot vaativat ergonomisen asetuksen (selkänoja, käsijatket) ja säännölliset liikkeet välttääkseen kipuja.  
+
+**Käytännön vinkit:**  
+- Aseta näyttö silmien korkeudelle.  
+- Tee 5-minuuttisia venyttelytaukoja joka tunnin välein (esim. niska, ranteet).  
+
+**Resurssit:**  
+- Ohje: [Ergonomic Gaming Setup Guide](https://www.healthline.com)  
+- Ohjelma: **Darebee’s 10-Minute Gamer Workout**  
+
+---
+
+### Stressinhallinta ja palautuminen
+**Lähestymistavat:**  
+- **Mindfulness:** Käytä **Headspace**-sovellusta 10 min päivässä.  
+- **Progressiivinen rentoutus:** Jännitä ja rentenna lihasryhmiä vuorotellen.  
+
+**Resurssit:**  
+- Kirja: *"The Power of Now"* (Eckhart Tolle)  
+- App: **Calm** (meditaatio-ohjatut sessiot)  
+
+---
+
+### Ravitsemus ja uni
+**Teoria:**  
+Aivot tarvitsevat ravintoa (esim. omega-3, proteiinit) ja 7-9 tuntia unta optimaaliseen suorituskykyyn.  
+
+**Käytännön tehtävät:**  
+- Luo **MealPrep**-suunnitelma terveellisillä välipaloilla (esim. pähkinät, hedelmät).  
+- Käytä **Sleep Cycle**-sovellusta unenlaadun seurantaan.  
+
+**Resurssit:**  
+- Blogi: [Gamer Nutrition Tips](https://www.myfitnesspal.com)  
+- Artikkeli: [The Science of Sleep for Gamers](https://www.healthline.com)  
+
+---
+
+## Tekninen osaaminen
+
+### Laitteisto- ja ohjelmisto-osaaminen
+**Teoria:**  
+Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi asetukset (esim. **NVIDIA Control Panel**).  
+
+**Resurssit:**  
+- Opas: [PC Gamer Hardware Guide](https://www.pcgamer.com)  
+- Video: *"How to Optimize Windows for Gaming"* (YouTube, Linus Tech Tips)  
+
+---
+
+### Striimaus- ja sisällöntuotantotaidot
+**Käytännön tehtävät:**  
+- Striimaa peliä **Twitchissä** käyttäen **OBS Studioa** (harjoittele overlaysien ja chatbotin käyttöä).  
+- Editoi highlight-video **Adobe Premiere Prolla**.  
+
+**Resurssit:**  
+- Kurssi: [Skillshare: Streaming 101](https://www.skillshare.com)  
+- Työkalu: **Streamlabs** (alustava striimauspaketti)  
+
+---
 
 ## Liiketoimintaosaaminen
-- Sopimusneuvottelut
-- Taloudenhallinta
-- Sponsorisuhteiden ylläpito
+
+### Sopimusneuvottelut
+**Vinkit:**  
+- Tutustu **standardi sopimusmalleihin** (esim. **Esports Agreement Template** LawDepotista).  
+- Käytä **agenttia**, jos et ymmärrä lakitekstejä.  
+
+**Resurssit:**  
+- Artikkeli: [How to Negotiate an Esports Contract](https://www.esportsinsider.com)  
+
+---
+
+### Taloudenhallinta
+**Käytännön työkalut:**  
+- Käytä **Exceliä** tai **Mint**-sovellusta tulojen ja menojen seurantaan.  
+- Sijoita ylimääräiset varat matalariskisijoituksiin (esim. indeksirahastot).  
+
+---
 
 ## Oman brandin rakentaminen
 
-- Sosiaalisen median hallinta
-- Henkilökohtaisen tarinan luominen
-- Fanien sitouttaminen
+### Sosiaalisen median hallinta
+**Strategiat:**  
+- **Twitter:** Jaa päivittäisiä päivityksiä pelikokemuksistasi.  
+- **TikTok:** Luo lyhyitä, humoristisia "clipejä" epäonnistumistasi ja voitoistasi.  
+
+**Resurssit:**  
+- Kurssi: [Hootsuite Social Media Marketing](https://www.hootsuite.com)  
+
+---
 
 ## Kielitaito ja kulttuurinen osaaminen
-- Englannin kielen taito
-- Kansainvälinen verkostoituminen
+
+### Englannin kielen taito
+**Tehtävät:**  
+- Osallistu **Redditin r/GlobalOffensive**-keskusteluihin.  
+- Kuuntele **The Esports Podcast** -jaksoja ja kirjoita tiivistelmä.  
+
+---
 
 ## Mitä uran jälkeen?
-- Valmentaminen
-- Analytiikka
-- mitä muuta?
+
+### Valmentaminen ja analytiikka
+**Resurssit:**  
+- Kurssi: [Gamer Sensei Coach Training](https://www.gamersensei.com)  
+- Työkalu: **Mobalytics** (pelianalyysi)  
+
+### Muut urat  
+- **Sisällöntuotanto:** Aloita oma YouTube-kanava strategiaoppaiden kanssa.  
+- **Tapahtumien järjestäminen:** Osallistu **DreamHack**in vapaaehtoistyöhön.  
+
+## Laaja tehtävä
+<details>
+<Summary>Suunnitelkaa ja toteuttakaa oma pienen mittakaavat esports-pelikurssi! </Summary>
+
+### Tehtävän kuvaus
+
+Opiskelijat suunnittelevat ja toteuttavat viiden päivän mittaisen esports-pelikurssin, joka keskittyy heidän valitsemaansa peliin. Kurssin tulee sisältää sekä teoreettista tietoa että käytännön tehtäviä, jotka edistävät pelaajien taitoja, strategista ajattelua, fyysistä kuntoa, tiimityöskentelyä ja terveellisiä elämäntapoja.
+
+### Vaiheet
+
+<b>Valitkaa peli</b>, johon kurssi keskittyy (esim. League of Legends, Counter-Strike: Global Offensive, Fortnite, jne.).
+
+Perustelkaa valintanne hyödyntäen esimerkiksi seuraavia kriteereitä: pelaajien kiinnostuksen, pelin strategisen syvyyden ja yhteisön aktiivisuuden perusteella.
 
 
+<b>Suunnitelkaa kurssin rakenne</b> esimerkiksi viideksi eri päiväksi, joista jokainen keskittyy eri näkökohtaan:
 
-Esports, much like traditional sports, demands a combination of skill, strategy, and mental fortitude. Here are several strategies to consider for improvement:
+Päivä 1: Taitojen kehittäminen
 
-Skill Development: The foundation of esports is built on honing gaming skills. Dedicate time to practice regularly, focusing on specific areas of improvement. Analyze gameplay to identify weaknesses, and adopt drills that target those areas.
+Päivä 2: Strateginen ymmärrys ja mentaalinen kestävyys
 
-Strategic Understanding: Every game has its strategic depth. Invest time in learning game mechanics, map layouts, and effective tactics. Watching professional gameplay can offer insights into advanced strategies.
+Päivä 3: Fyysinen kunto ja tiimityöskentely
 
-Physical Fitness: Physical well-being directly impacts gaming performance. Regular exercise improves reflexes, stamina, and overall health. Pay attention to posture and ergonomics to prevent injuries.
+Päivä 4: Analyysitaidot ja valmennus
 
-Mental Agility: Mental resilience is crucial. Develop focus and stress management skills. Meditation and mindfulness can aid in maintaining calm and making clear decisions under pressure.
+Päivä 5: Terveellinen elämäntapa, verkostoituminen ja tavoitteiden asettaminen
 
-Teamwork and Communication: In team-based games, effective communication is key. Practice clear, concise communication. Work on building team synergy and understanding team dynamics.
-
-Analytical Skills: Use analytics and data-driven insights to improve. Tools and software are available that analyze gameplay, providing valuable feedback on performance.
-
-Coaching and Feedback: Consider professional coaching or mentorship. Constructive feedback from experienced players can provide new perspectives and hasten improvement.
-
-Healthy Lifestyle: Adequate rest, a balanced diet, and hydration play a significant role in maintaining peak performance. Neglecting physical health can lead to burnout and decreased performance.
-
-Networking and Community Engagement: Engage with the esports community. Participating in forums, local tournaments, and online communities can provide exposure to diverse playing styles and strategies.
-
-Goal Setting: Set clear, achievable goals. Short-term goals keep you motivated, while long-term goals provide direction for your esports journey.
-
-In summary, excelling in esports requires a blend of skill refinement, strategic understanding, physical and mental health, teamwork, and continuous learning. Balancing these elements will lead to steady improvement and success in the competitive world of esports.
+Määritelkää jokaiselle päivälle teoreettiset aiheet ja käytännön tehtävät.
 
 
+Kerää tietoa ja resursseja jokaisen päivän aiheisiin liittyen.
 
-Course Overview:
-This 5-day course is designed to enhance the skills and overall approach of individuals aspiring to become professional esports athletes. Each day focuses on different aspects critical to esports success, combining theoretical knowledge with practical tasks.
+Esimerkkejä:
 
-Day 1: Skill Development
-Theory:
+Päivä 1: Pelimekaniikat, lihasmuisti ja tehokkaat harjoittelumenetelmät.
 
-Understanding game mechanics and the importance of muscle memory.
-Strategies for effective practice sessions.
-Practical Tasks:
+Päivä 2: Pelin meta, strategiat ja stressinhallintatekniikat.
 
-Use aim trainers for 30 minutes and note improvement areas.
-Analyze and write a summary of your last game, focusing on strengths and weaknesses.
-Resources:
+Päivä 3: Fyysisen kunnon vaikutus pelaamiseen, tiimityöskentelyn periaatteet.
 
-Aim Lab or KovaaK's FPS Aim Trainer.
-Game-specific forums for advanced strategies.
-Day 2: Strategic Understanding and Mental Agility
-Theory:
+Päivä 4: Pelianalyytiikkatyökalut ja valmennuksen rooli.
 
-Deep dive into game-specific strategies and meta.
-Techniques for stress management and mental conditioning.
-Practical Tasks:
+Päivä 5: Ravinto, lepo, verkostoituminen ja tavoitteiden asettaminen.
 
-Develop a game strategy and discuss it in groups.
-Practice 10 minutes of guided meditation using an app like Headspace.
-Resources:
+Käytännön tehtävät:
 
-TheScore Esports YouTube channel for game analysis.
-Meditation and mindfulness resources from Calm.
-Day 3: Physical Fitness and Teamwork
-Theory:
+Suunnittele tehtävät, jotka opiskelijat voivat suorittaa jokaisen päivän aiheiden pohjalta.
 
-Link between physical fitness and gaming performance.
-Importance of teamwork and effective communication.
-Practical Tasks:
+Esimerkkejä:
 
-Complete a 20-minute gamer-focused workout.
-Team-based activity focusing on communication and role-playing.
-Resources:
+Päivä 1: Käytä aim-traineria 30 minuuttia ja analysoi viimeisin pelisi.
 
-Darebee’s Gaming Fitness program.
-Coursera course on team dynamics and communication.
-Day 4: Analytical Skills and Coaching
-Theory:
+Päivä 2: Kehitä pelistrategia ja harjoittele oman mielen rauhoittamista pelitilanteissa.
 
-Utilizing analytical tools to improve gameplay.
-The role of coaching in personal development.
-Practical Tasks:
+Päivä 3: Suorita 20-minuuttinen  harjoitus ja tiimityöskentelyharjoitus.
 
-Analyze a recent game using Mobalytics or GGLeap.
-Peer coaching session where students provide feedback to each other.
-Resources:
+Päivä 4: Analysoi peliä analytiikkatyökaluilla ja anna palautetta toisille opiskelijoille.
 
-GameLeap Esports for video tutorials.
-Gamer Sensei for understanding the role of an esports coach.
-Day 5: Healthy Lifestyle, Networking, and Goal Setting
-Theory:
+Päivä 5: Suunnittele päivän ruokavalio ja aseta lyhyen ja pitkän tähtäimen tavoitteet.
 
-Nutrition, rest, and their impact on performance.
-Networking in esports and setting achievable goals.
-Practical Tasks:
+Resurssit:
 
-Develop a balanced meal plan for a day.
-Set short-term and long-term goals and create a plan to achieve them.
-Resources:
+Listaa resurssit, joita opiskelijat voivat käyttää kurssin aikana (esim. aim-trainerit, meditaatioapplikaatiot, fitness-ohjelmat, analytiikkatyökalut, ravinto-oppaat).
 
-Healthline for nutrition guides.
-MyFitnessPal for diet tracking.
-Local esports communities and events for networking.
-Course Timeline:
-Day 1: Skill Development
+Kurssin aikataulu:
 
-Morning: Theoretical session.
-Afternoon: Practical tasks and discussion.
-Day 2: Strategic Understanding and Mental Agility
+Luo yksityiskohtainen aikataulu jokaiselle päivälle, mukaan lukien aamupäivän teoreettiset istunnot ja iltapäivän käytännön tehtävät.
 
-Morning: Workshop on game strategies.
-Afternoon: Stress management exercises.
-Day 3: Physical Fitness and Teamwork
+Toteutus:
 
-Morning: Fitness session.
-Afternoon: Teamwork exercises and role-plays.
-Day 4: Analytical Skills and Coaching
+Toteuta kurssi ryhmässä tai yksilönä. Jos mahdollista, järjestä kurssi toisille opiskelijoille tai ystäville.
 
-Morning: Analytics tools training.
-Afternoon: Peer coaching and feedback.
-Day 5: Healthy Lifestyle, Networking, and Goal Setting
+Dokumentoi kurssin eteneminen ja kerää palautetta osallistujilta.
 
-Morning: Lecture on healthy lifestyle.
-Afternoon: Networking strategies and goal-setting workshop.
-This course aims to provide a holistic approach to improving as an esports athlete, combining skill development with mental, physical, and strategic training. The practical tasks encourage active participation and real-world application of the learned concepts.
+Arviointi:
 
+Arvioi kurssin tehokkuus ja opiskelijoiden kehitys.
 
+Kerää palautetta osallistujilta ja tee tarvittavia parannuksia kurssiin.
+
+Esimerkkikurssi:
+
+Peli: League of Legends
+
+Päivä 1: Taitojen kehittäminen
+
+Teoria: Pelimekaniikat, lihasmuisti, tehokas harjoittelu.
+
+Käytännön tehtävät: Käytä aim-traineria 30 minuuttia, analysoi viimeisin pelisi.
+
+Resurssit: Aim Lab, League of Legends -foorumit.
+
+Päivä 2: Strateginen ymmärtäminen ja henkinen ketteryys
+
+Teoria: Pelin meta, strategiat, stressinhallinta.
+
+Käytännön tehtävät: Kehitä strategia, harjoittele meditaatiota.
+
+Resurssit: TheScore Esports, Headspace.
+
+Päivä 3: Fyysinen kunto ja tiimityöskentely
+
+Teoria: Fyysisen kunnon vaikutus, tiimityöskentely.
+
+Käytännön tehtävät: 20-minuuttinen fitness-harjoitus, tiimityöskentelyharjoitus.
+
+Resurssit: Darebee’s Gaming Fitness, Coursera.
+
+Päivä 4: Analyysitaidot ja valmennus
+
+Teoria: Analytiikkatyökalut, valmennuksen rooli.
+
+Käytännön tehtävät: Analysoi peliä Mobalyticsilla, peer coaching.
+
+Resurssit: GameLeap Esports, Gamer Sensei.
+
+Päivä 5: Terveellinen elämäntapa, verkostoituminen ja tavoitteiden asettaminen
+
+Teoria: Ravinto, lepo, verkostoituminen, tavoitteiden asettaminen.
+
+Käytännön tehtävät: Suunnittele ruokavalio, aseta tavoitteet.
+
+Resurssit: Healthline, MyFitnessPal, paikalliset esports-yhteisöt.
+
+Arviointi:
+
+Kerää palautetta osallistujilta ja arvioi kurssin vaikuttavuus.
+
+Tämän tehtävän avulla opiskelijat saavat syvemmän ymmärryksen esports-urheilun monipuolisista näkökohdista ja kehittävät taitojaan sekä pelaajina että kurssien suunnittelijoina.
+
+</details>
+
+https://open.spotify.com/show/6nXZmspwDgIdPxBpjhreQV?si=b87a32ed64284ed8
