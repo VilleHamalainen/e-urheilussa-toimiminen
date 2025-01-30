@@ -187,22 +187,16 @@ Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. U
 
 ### Oman ja joukkueen tekemisen analysointi
 
-Styko demokatselmus
-https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO
 
-Have players become too good
-https://www.youtube.com/watch?v=st-T6KpSJaw&t=187s&ab_channel=STYKO
+[Styko demokatselmus](https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO)
 
-How to improve like Niko
-https://www.youtube.com/watch?v=g1pzQ0BN5ys&ab_channel=STYKO
+[Have players become too good](https://www.youtube.com/watch?v=st-T6KpSJaw&t=187s&ab_channel=STYKO)
 
-How to improve faster
-https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO
+[How to improve like Niko](https://www.youtube.com/watch?v=g1pzQ0BN5ys&ab_channel=STYKO)
 
-How pros do it
-https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO
+[How to improve faster](https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO)
 
-
+[How pros do it](https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO)
 
 
 ## Fyysinen ja henkinen hyvinvointi
