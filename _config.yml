@@ -4,4 +4,4 @@ include:
 theme: jekyll-theme-hacker
 # _config.yml
 css:
-  - "/assets/css/style.css"  
+  - "/assets/css/styles.css"  
