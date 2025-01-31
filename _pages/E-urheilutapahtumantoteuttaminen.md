@@ -1,7 +1,7 @@
 ---
 layout: default
 title: E-urheilutapahtuman toteuttaminen
-permalink: /E-urheilutapahtuman-toteuttaminen/
+permalink: /e-urheilutapahtuman-toteuttaminen/
 ---
 
 # E-urheilutapahtuman toteuttaminen

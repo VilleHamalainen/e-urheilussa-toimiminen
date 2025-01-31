@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Johdatus e-urheiluun
-permalink: /Johdatus-e-urheiluun/
+permalink: /johdatus-e-urheiluun/
 ---
 
 
