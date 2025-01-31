@@ -386,3 +386,15 @@ Tässä osiossa tutustutaan erilaisiin teknisiin haasteisiin e-urheilutapahtumis
 ## Harjoitellaan "käytännössä"!
 
 Ladatkaa koneellenne [Steam](https://store.steampowered.com/about/), jos sitä ei vielä ole ja asentakaa [ilmainen esports peli!](https://store.steampowered.com/app/3217120/Esports_History_Prologue/)
+
+---
+
+## Seraava aihe
+
+- [Oman osaamisen kehittäminen e-urheilussa](oman-osaamisen-kehittäminen-e-urheilussa/)
+
+## Edellinen aihe
+
+- [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
+
+---
