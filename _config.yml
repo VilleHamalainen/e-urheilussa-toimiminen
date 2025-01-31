@@ -1,7 +1,7 @@
 #theme: jekyll-theme-cayman
 include:
   - _pages
-theme: jekyll-theme-hacker
+theme: jekyll-theme-just-the-docs
 # _config.yml
-css:
-  - "/assets/css/styles.css"  
+just_the_docs:
+  custom_css: "assets/css/styles.css"  
