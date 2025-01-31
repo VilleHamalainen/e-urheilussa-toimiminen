@@ -253,7 +253,7 @@ Keskity seuraaviin asioihin:
 ---
 ### Seuraava aihe
 
-- [E-urheilutapahtuman suunnittelu](e-urheilutapahtuman-suunnittelu/)
+- [E-urheilutapahtuman suunnittelu](https://villehamalainen.github.io/e-urheilussa-toimiminen/e-urheilutapahtuman-suunnittelu/)
 
 
 ---
