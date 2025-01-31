@@ -1,0 +1,14 @@
+/* Override Hacker theme text color */
+body, .content {
+    color: #DC6525 !important; /* Orange color */
+}
+
+/* Optional: Change links to orange as well */
+a {
+    color: #DC6525;
+}
+
+/* Optional: Change other elements like headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #DC6525;
+}

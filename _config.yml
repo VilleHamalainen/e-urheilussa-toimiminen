@@ -1,4 +1,7 @@
 #theme: jekyll-theme-cayman
 include:
   - _pages
-theme: jekyll-theme-minimal-mistakes
+theme: jekyll-theme-hacker
+# _config.yml
+css:
+  - "/assets/css/style.css"  
