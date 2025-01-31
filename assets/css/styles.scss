@@ -1,16 +1,15 @@
 @import "{{ site.theme }}";
 
+
+/* Custom styles below */
+body {
+    background-color: #5b21b6;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: ##DC6525;
+    font-size: 2rem;
+}
 /* Override Hacker theme text color */
-body, .content {
-    color: #DC6525 !important; /* Orange color */
-}
 
-/* Optional: Change links to orange as well */
-a {
-    color: #DC6525;
-}
-
-/* Optional: Change other elements like headers */
-h1, h2, h3, h4, h5, h6 {
-    color: #DC6525;
-}
