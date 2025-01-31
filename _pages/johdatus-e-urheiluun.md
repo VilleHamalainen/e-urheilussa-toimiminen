@@ -112,7 +112,7 @@ Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös C
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
     Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
   </p>
-https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png
+
 ---
 
 Yleiskuvan eri lukujen isoista linjoita voi katsoa alla olevasta kuvasta. Olemme tulleet varsin pitkän matka 1970-luvulta ja ensimmäisestä tapahtumastakin on kulunut jo noin viisikymmentä vuotta. Tätä materiaalia lukevien opiskelijoiden vanhemmat ovat siis saattaneet osallistua jo erilaisiin lanitapahtumiin tai harrastavat pelaamista!
@@ -250,8 +250,7 @@ Keskity seuraaviin asioihin:
 - [History of e-sports 1 by ESL](https://www.youtube.com/watch?v=D-S65ZUHig8&ab_channel=ESL)
 - [History of e-sports 2 by ESL](https://www.youtube.com/watch?v=cKOTolQQ3Lw&ab_channel=ESL)
 - [OECD Internet Connectivity Statistics](https://www.oecd.org/digital/ieconomy/48255770.pdf)
-- [Wasd- Quake, John Carmack](https://www.youtube.com/watch?v=iIhmeRfmQns&ab_channel=theScoreesports
- https://www.oecd.org/digital/ieconomy/48255770.pdf)
+- [Wasd-Quake, John Carmack](https://www.youtube.com/watch?v=iIhmeRfmQns&ab_channel=theScoreesports)
 
 ---
 
