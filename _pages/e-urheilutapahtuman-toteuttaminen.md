@@ -391,10 +391,10 @@ Ladatkaa koneellenne [Steam](https://store.steampowered.com/about/), jos sitä e
 
 ## Seraava aihe
 
-- [Oman osaamisen kehittäminen e-urheilussa](oman-osaamisen-kehittäminen-e-urheilussa/)
+- [Oman osaamisen kehittäminen e-urheilussa](https://villehamalainen.github.io/e-urheilussa-toimiminen/oman-osaamisen-kehittäminen-e-urheilussa/)
 
 ## Edellinen aihe
 
-- [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
+- [E-urheilutapahtuman toteuttaminen](https://villehamalainen.github.io/e-urheilussa-toimiminen/e-urheilutapahtuman-toteuttaminen/)
 
 ---
