@@ -34,5 +34,11 @@ Lisätietoja: Lisätietoja hankkeesta ja sen edistymisestä löytyy osaamiskeski
 
 [![Kseok-hanke](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main/Kuvat/Kseokkuva.png)](https://coesports.gg/)
 
+## E-urheilussatoimiminen opiskelumateriaali
+
+- [Johdatus e-urheiluun](/Johdatus e-urheiluun/)
+- [Study Material 2](/E-urheilutapahtuman suunnittelu/)
+- [E-urheilutapahtuman toteuttaminen](/E-urheilutapahtuman toteuttaminen/)
+- [Oman osaamisen kehittäminen e-urheilussa](/Oman osaamisen kehittäminen e-urheilussa/)
 
 
