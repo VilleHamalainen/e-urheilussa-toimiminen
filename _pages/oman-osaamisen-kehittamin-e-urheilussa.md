@@ -468,10 +468,10 @@ Kerää palautetta osallistujilta ja arvioi kurssin toteutuksen mahdolliset kehi
 
 ##Seuraava aihe
 
-Onneksi olkoon! Olet käyny läpi kaikki materiaalit!
+Onneksi olkoon! Olet käyny läpi kaikki materiaalit! [Takaisin materiaalin etusivulle](https://villehamalainen.github.io/e-urheilussa-toimiminen/)
 
 #Edellinen aihe
 
-- [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
+- [E-urheilutapahtuman toteuttaminen](https://villehamalainen.github.io/e-urheilussa-toimiminen/e-urheilutapahtuman-toteuttaminen/)
 
 ---
