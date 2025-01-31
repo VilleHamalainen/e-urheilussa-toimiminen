@@ -24,7 +24,7 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
     <img src="http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg" alt="How to use modern tools to develop aim by Styko" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto;">
     Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.
   </p>
 
@@ -67,7 +67,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
     <img src="http://img.youtube.com/vi/cIGLI3eWfsc/0.jpg" alt="The Competitive Advantage of Teamwork with Patrick Lencioni" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto;">
     Kilpailuedun saavuttaminen yhteistyöllä.
   </p>
 ---
@@ -143,7 +143,7 @@ Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit komm
     <img src="http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg" alt="Example of esports communication by NAVI" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
 </div>
-<p style="max-width: 400px; margin: 0 auto;">
+<p style="max-width: 100%; margin: 0 auto;">
   Esimerkki Navin kommunikaatiosta.
 </p>
 
@@ -160,7 +160,7 @@ Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputuloksee
     <img src="http://img.youtube.com/vi/8owi_WvrGuk/0.jpg" alt="Clutch communication by Faze" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto;">
     JKS ja Ropz 2v5 tilateen pelaaminen ja kommunikaatio.
   </p>
 
@@ -185,7 +185,7 @@ Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. U
     <img src="http://img.youtube.com/vi/edigZqRlMeI/0.jpg" alt="Tec9 too good" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto;">
     Tec9 oli pienen hetken ase, joka teki jokaisesta kierroksesta voitettavan. Olofmaister sai aseen takia lempinimen "Tec9master".
   </p>
 
