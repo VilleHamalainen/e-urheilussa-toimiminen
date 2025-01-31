@@ -36,9 +36,9 @@ Lisätietoja: Lisätietoja hankkeesta ja sen edistymisestä löytyy osaamiskeski
 
 ## E-urheilussatoimiminen opiskelumateriaali
 
-- [Johdatus e-urheiluun](/Johdatus e-urheiluun/)
-- [Study Material 2](/E-urheilutapahtuman suunnittelu/)
-- [E-urheilutapahtuman toteuttaminen](/E-urheilutapahtuman toteuttaminen/)
-- [Oman osaamisen kehittäminen e-urheilussa](/Oman osaamisen kehittäminen e-urheilussa/)
+- [Johdatus e-urheiluun](/Johdatus-e-urheiluun/)
+- [E-urheilutapahtuman suunnittelu](/E-urheilutapahtuman-suunnittelu/)
+- [E-urheilutapahtuman toteuttaminen](/E-urheilutapahtuman-toteuttaminen/)
+- [Oman osaamisen kehittäminen e-urheilussa](/Oman-osaamisen-kehittäminen-e-urheilussa/)
 
 

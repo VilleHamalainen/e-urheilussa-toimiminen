@@ -1,7 +1,7 @@
 ---
 layout: default
 title: E-urheilutapahtuman suunnittelu
-permalink: /E-urheilutapahtuman suunnittelu/
+permalink: /E-urheilutapahtuman-suunnittelu/
 ---
 
 
