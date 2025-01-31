@@ -49,7 +49,7 @@ Yliopistot olivat luonnollinen lähtökohta pelien kehitykselle, sillä niillä 
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=pft_MCrLhZI&ab_channel=neiarcade99Playagame" title="Space Invaders Atari Championship 1981">
-    <img src="http://img.youtube.com/vi/pft_MCrLhZI/0.jpg" alt="Space Invaders Atari Championship 1981" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/pft_MCrLhZI/0.jpg" alt="Space Invaders Atari Championship 1981" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
@@ -62,7 +62,7 @@ Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. M
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=4xUmZxnEMUI" title="The 1st Pro Gamer Ever">
-    <img src="http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg" alt="The 1st Pro Gamer Ever" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg" alt="The 1st Pro Gamer Ever" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left; ">
@@ -82,7 +82,7 @@ Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Serie
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=q6EWc1Kz10o" title="Championship Gaming Series 2006">
-    <img src="http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg" alt="Championship Gaming Series 2006" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg" alt="Championship Gaming Series 2006" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
@@ -106,7 +106,7 @@ Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös C
 
 
 <div align="center">
-    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
@@ -119,7 +119,7 @@ Yleiskuvan eri lukujen isoista linjoita voi katsoa alla olevasta kuvasta. Olemme
 
 
 <div align="center">
-    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/VisualOfEsportshistory.png" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/VisualOfEsportshistory.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">
@@ -156,7 +156,7 @@ Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman ra
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Bv4CqIxqTMA" title="The International 2018">
-    <img src="http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg" alt="The International 2018" style="width: 100%; max-width: 400px; height: auto">
+    <img src="http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg" alt="The International 2018" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto; text-align: left;">

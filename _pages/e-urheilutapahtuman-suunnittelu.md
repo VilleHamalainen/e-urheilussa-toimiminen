@@ -89,7 +89,7 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
    <div style="text-align: center; margin: 0 auto;">
     <img 
-        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Phases%20of%20Organizing%20an%20Esports%20Event%20-%20visual%20selection.png" 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/Phases%20of%20Organizing%20an%20Esports%20Event%20-%20visual%20selection.png" 
         alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
 	</div>
@@ -117,7 +117,7 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
    GradiaCupin kannaltta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
 
-   ![Oman turnauksen luominen FaceIt-palvelussa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Luoturnaus.png)
+   ![Oman turnauksen luominen FaceIt-palvelussa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/Luoturnaus.png)
 
  Oman turnauksen luominen FaceIt:ssa on helppoa<br/><br/>
 
@@ -137,7 +137,7 @@ permalink: /e-urheilutapahtuman-suunnittelu/
    - **Double-elimination** (kaksi mahdollisuutta ennen putoamista)  
    - **Round robin** (kaikki pelaavat kaikkia vastaan)  
 
-   ![Formaatin valinta on ratkaisevassa roolissa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Valitseturnausformaatti.png)
+   ![Formaatin valinta on ratkaisevassa roolissa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/Valitseturnausformaatti.png)
 
 4. **Suunnitelkaa turnauksen aikataulu.**  
    Miettikää:  
@@ -291,7 +291,7 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
 
 <div style="text-align: center; margin: 0 auto;">
     <img 
-        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png" 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/DALL%C2%B7E%202023-12-15%2016.37.37%20-%20Illustrate%20a%20detailed%20LAN%20gaming%20room%20focusing%20on%20its%20technical%20aspects.%20The%20room%20should%20have%20multiple%20gaming%20stations%20with%20high-end%20computers%20and%20mon.png" 
         alt="Tekoälyn näkemys lanista ja eri laitteista" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
 </div>
@@ -307,7 +307,7 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
 
 <div style="text-align: center; margin: 0 auto;">
     <img 
-        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-21%2010.36.12%20-%20Create%20an%20illustrative%20and%20educational%20image%20of%20a%20Local%20Area%20Network%20(LAN).%20Include%20a%20central%20switch%20connected%20to%20various%20devices%20via%20LAN%20cables.%20The%20.png" 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/DALL%C2%B7E%202023-12-21%2010.36.12%20-%20Create%20an%20illustrative%20and%20educational%20image%20of%20a%20Local%20Area%20Network%20(LAN).%20Include%20a%20central%20switch%20connected%20to%20various%20devices%20via%20LAN%20cables.%20The%20.png" 
         alt="Tekoälyn näkemys lanista ja eri laitteista" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
 </div>
@@ -376,9 +376,9 @@ Yleisesti reititittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja i
 Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (**Data Link Layer 2**). **Kytkin** on laite, jolla kytketään useampi laite samaan lähiverkkoon (LAN). Toisin kuin reititin, joka operoi IP-osoitteiden avulla, kytkin toimii tutkimalla **MAC-osoitteita**, jotka ovat tiedon siirron välineitä. Kytkin rakentaa taulun laitteista, jotka on kytketty sen portteihin, ja ohjaa liikennettä tämän perusteella.
 
 <div align="center">
-	<img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/Kytkin.png" 
+	<img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/Kytkin.png" 
 	     alt="Kytkin" 
-	     style="width: 100%; max-width: 400px; height: auto;">
+	     style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
       </div>
 	 <p style="max-width: 400px; margin: 0 auto; text-align: left;">
 		Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.
@@ -481,7 +481,7 @@ Selvitä, mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat 
 
 <div style="text-align: center; margin: 0 auto;">
     <img 
-        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/OSImalli.png" 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/OSImalli.png" 
         alt="OSI-malli" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
 	</div>
@@ -622,7 +622,7 @@ Streamaus vaatii sekä teknisen osaamisen että luovuuden. OBS Studio ja Twitch 
 
 Striimaajat voivat hakea **Affiliate**- tai **Partner**-ohjelmiin, jotka tarjoavat erilaisia lisäetuja, mutta vaativat myös enemmän panostusta streamaukseen.
 
-![Twitchin yleisnäkymä](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchnakyma.png)
+![Twitchin yleisnäkymä](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/twitchnakyma.png)
 
 <center>Twitchin yleisnäkymästä voit valita itseäsi kiinnostavan genren.</center>
 
@@ -643,8 +643,8 @@ Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit perso
 
 2. **Liitä streamausohjelmisto Twitchiin:**
    - Käytä **stream-avainta** liittääksesi OBS Studion Twitchiin. Avaimen löydät **Asetukset -> Lähetys** -valikon takaa.
-     ![Lähetys](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchlahetys1.png)
-     ![Stream-avain](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/twitchlahetys2.png)
+     ![Lähetys](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/twitchlahetys1.png)
+     ![Stream-avain](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/twitchlahetys2.png)
    - Varmista, että OBS:n asetukset ovat kunnossa. Testaa streamia menemättä live-tilaan.
    - Mene liveen ja testaa streamausta rohkeasti omalla porukalla.
 

@@ -21,7 +21,7 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=1vN2H0rzd5U" title="How to use modern tools to develop aim by Styko">
-    <img src="http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg" alt="How to use modern tools to develop aim by Styko" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg" alt="How to use modern tools to develop aim by Styko" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -64,7 +64,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc." title= "The Competitive Advantage of Teamwork with Patrick Lencioni">
-    <img src="http://img.youtube.com/vi/cIGLI3eWfsc/0.jpg" alt="The Competitive Advantage of Teamwork with Patrick Lencioni" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/cIGLI3eWfsc/0.jpg" alt="The Competitive Advantage of Teamwork with Patrick Lencioni" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -140,7 +140,7 @@ Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit komm
 
   <div align="center"> 
   <a href="https://www.youtube.com/watch?v=dbvz1cn1PpU" title="Team Comms: NaVi takes apart Vitality with English Subs">
-    <img src="http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg" alt="Example of esports communication by NAVI" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg" alt="Example of esports communication by NAVI" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
 </div>
 <p style="max-width: 400px; margin: 0 auto;">
@@ -157,7 +157,7 @@ Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputuloksee
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8owi_WvrGuk" title="Team Comms: JKS and ROPZ 2v5 IEM Katowice 2022">
-    <img src="http://img.youtube.com/vi/8owi_WvrGuk/0.jpg" alt="Clutch communication by Faze" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/8owi_WvrGuk/0.jpg" alt="Clutch communication by Faze" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -182,7 +182,7 @@ Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. U
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault" title = "Tec 9 master">
-    <img src="http://img.youtube.com/vi/edigZqRlMeI/0.jpg" alt="Tec9 too good" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/edigZqRlMeI/0.jpg" alt="Tec9 too good" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">

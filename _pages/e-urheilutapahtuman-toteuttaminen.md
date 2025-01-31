@@ -97,7 +97,7 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=_d5C75pLDKs&ab_channel=UniversityofStaffordshire" title="Inside an esports event">
-    <img src="http://img.youtube.com/vi/_d5C75pLDKs/0.jpg" alt="Inside an esports event" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/_d5C75pLDKs/0.jpg" alt="Inside an esports event" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -109,7 +109,7 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8JR_YMksuOQ&ab_channel=22WestTelevision" title="Inside Smash Bros console gaming event">
-    <img src="http://img.youtube.com/vi/8JR_YMksuOQ/0.jpg" alt="Inside Smash Bros console gaming event" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/8JR_YMksuOQ/0.jpg" alt="Inside Smash Bros console gaming event" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
@@ -121,7 +121,7 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=qe5jqnv1dlU&ab_channel=MyWhoosh" title="Biking esports event">
-    <img src="http://img.youtube.com/vi/qe5jqnv1dlU/0.jpg" alt="Biking esports event" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/qe5jqnv1dlU/0.jpg" alt="Biking esports event" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
   <p style="max-width: 400px; margin: 0 auto;">
