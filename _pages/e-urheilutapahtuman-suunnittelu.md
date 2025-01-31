@@ -774,4 +774,8 @@ Tarkemmat tiedot YouTube-elementtien kokoista löydät: [Canva YouTube-suosituks
 
 - [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
 
+## Edellinen aihe
+
+- [Johdatus e-urheiluun](johdatus-e-urheiluun/)
+
 ---
