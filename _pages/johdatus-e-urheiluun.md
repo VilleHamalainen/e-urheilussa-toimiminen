@@ -38,7 +38,7 @@ Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa v
     <img src="http://img.youtube.com/vi/XEFLpbjfybc/0.jpg" alt="Space War game play" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;">
   </a>
 </div>
-<p style="max-width: 400px; margin: 0 auto; text-align: left;">
+<p style="max-width: 100%; margin: 0 auto; text-align: left;">
   Pelikuvaa vuonna 1972 julkaistusta Space War pelistä.
 </p>
 
@@ -52,7 +52,7 @@ Yliopistot olivat luonnollinen lähtökohta pelien kehitykselle, sillä niillä 
     <img src="http://img.youtube.com/vi/pft_MCrLhZI/0.jpg" alt="Space Invaders Atari Championship 1981" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto; text-align: left;">
+  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Atarin Space Invaders mestaruuskisat vuodelta 1981.
   </p>
 
@@ -65,7 +65,7 @@ Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. M
     <img src="http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg" alt="The 1st Pro Gamer Ever" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto; text-align: left; ">
+  <p style="max-width: 100%; margin: 0 auto; text-align: left; ">
     Tallenne maailman enimmäisestä ammatikseen pelaavasta henkilöstä.
   </p>
 
@@ -85,7 +85,7 @@ Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Serie
     <img src="http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg" alt="Championship Gaming Series 2006" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto; text-align: left;">
+  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Tallenne yhdestä vuoden suurimista 2006 turnauksista.
   </p>
 
@@ -106,23 +106,21 @@ Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös C
 
 
 <div align="center">
-    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </a>
+    <img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleEvolutionofesports.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </div>
-  <p style="max-width: 400px; margin: 0 auto; text-align: left;">
+  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
   </p>
-https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/DALL%C2%B7E%202023-12-15%2016.35.12%20-%20A%20collage%20depicting%20the%20evolution%20of%20esports%20from%20its%20early%20days%20to%20modern%20times.%20The%20left%20side%20shows%20a%201970s%20arcade%20with%20people%20playing%20games%2C%20indica.png
+
 ---
 
 Yleiskuvan eri lukujen isoista linjoita voi katsoa alla olevasta kuvasta. Olemme tulleet varsin pitkän matka 1970-luvulta ja ensimmäisestä tapahtumastakin on kulunut jo noin viisikymmentä vuotta. Tätä materiaalia lukevien opiskelijoiden vanhemmat ovat siis saattaneet osallistua jo erilaisiin lanitapahtumiin tai harrastavat pelaamista!
 
 
 <div align="center">
-    <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/VisualOfEsportshistory.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </a>
+    <img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/VisualOfEsportshistoryMap.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </div>
-  <p style="max-width: 400px; margin: 0 auto; text-align: left;">
+  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     E-urheilun historian isoja linjoja 1970-luvulta tähän päivään.
   </p>
 
@@ -159,7 +157,7 @@ Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman ra
     <img src="http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg" alt="The International 2018" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto; text-align: left;">
+  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Opettajan mielestä yksi parhaista TI-behind the scenes videoista, jossa on mukana myös suomalaisia Dota-tähtiä.
   </p>
 
