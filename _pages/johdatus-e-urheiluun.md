@@ -252,6 +252,12 @@ Keskity seuraaviin asioihin:
  https://www.oecd.org/digital/ieconomy/48255770.pdf)
 
 ---
+### Seuraava aihe
+
+- [E-urheilutapahtuman suunnittelu](e-urheilutapahtuman-suunnittelu/)
+
+
+---
 
 
 
