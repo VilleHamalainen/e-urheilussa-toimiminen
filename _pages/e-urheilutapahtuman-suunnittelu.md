@@ -772,10 +772,10 @@ Tarkemmat tiedot YouTube-elementtien kokoista löydät: [Canva YouTube-suosituks
 
 ## Seuraava aihe
 
-- [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
+- [E-urheilutapahtuman toteuttaminen](https://villehamalainen.github.io/e-urheilussa-toimiminen/e-urheilutapahtuman-toteuttaminen/)
 
 ## Edellinen aihe
 
-- [Johdatus e-urheiluun](johdatus-e-urheiluun/)
+- [Johdatus e-urheiluun](https://villehamalainen.github.io/e-urheilussa-toimiminen/johdatus-e-urheiluun/)
 
 ---
