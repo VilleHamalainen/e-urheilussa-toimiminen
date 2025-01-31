@@ -1,3 +1,5 @@
+@import "{{ site.theme }}";
+
 /* Override Hacker theme text color */
 body, .content {
     color: #DC6525 !important; /* Orange color */
