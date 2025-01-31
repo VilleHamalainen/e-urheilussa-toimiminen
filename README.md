@@ -30,7 +30,7 @@ Gradia vastaa myös hankkeen tiedottamisesta ja tulosten levittämisestä, varmi
 Tämän hankkeen päätavoitteena on luoda vahva perusta tulevaisuuden e-urheilun osaajille ja ammattilaisille. Keskitymme kehittämään ja parantamaan e-urheilun koulutus- ja kehityspolkuja, jotta voimme vastata jatkuvasti muuttuvan alamme haasteisiin ja mahdollisuuksiin.
 
 
-Lisätietoja: Lisätietoja hankkeesta ja sen edistymisestä löytyy osaamiskeskittymän verkkosivuilta https://coesports.gg/.
+Lisätietoja: Lisätietoja hankkeesta ja sen edistymisestä löytyy osaamiskeskittymän verkkosivuilta [Kseok-hanke](https://coesports.gg/).
 
 [![Kseok-hanke](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main/Kuvat/Kseokkuva.png)](https://coesports.gg/)
 
