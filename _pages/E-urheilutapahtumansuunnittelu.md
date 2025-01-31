@@ -1,4 +1,11 @@
-# Moduuli 1: e-urheilutapahtuman suunnittelu
+---
+layout: default
+title: E-urheilutapahtuman suunnittelu
+permalink: /E-urheilutapahtuman suunnittelu/
+---
+
+
+# Moduuli 1: E-urheilutapahtuman suunnittelu
 
 
 ## Tapahtuman luonteen ja kohderyhmän valinta

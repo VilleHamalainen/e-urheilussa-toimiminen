@@ -1,3 +1,9 @@
+---
+layout: default
+title: E-urheilutapahtuman toteuttaminen
+permalink: /E-urheilutapahtuman toteuttaminen/
+---
+
 # E-urheilutapahtuman toteuttaminen
 
 ## Tapahtuman aikana olevat roolitukset ja tehtävät

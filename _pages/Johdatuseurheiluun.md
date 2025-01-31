@@ -1,4 +1,11 @@
-# Moduuli 0: Johdatus E-urheiluun
+---
+layout: default
+title: Johdatus e-urheiluun
+permalink: /Johdatus e-urheiluun/
+---
+
+
+# Moduuli 0: Johdatus e-urheiluun
 
 ## E-urheilun määritelmä
 

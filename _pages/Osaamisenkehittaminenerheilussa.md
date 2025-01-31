@@ -1,3 +1,9 @@
+---
+layout: default
+title: Oman osaamisen kehittäminen e-urheilussa
+permalink: /Oman osaamisen kehittäminen e-urheilussa/
+---
+
 # Oman osaamisen kehittäminen e-urheilussa
 
 ## Pelillinen kehittyminen
