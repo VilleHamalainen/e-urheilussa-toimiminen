@@ -89,16 +89,16 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
    <div style="text-align: center; margin: 0 auto;">
     <img 
-        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/Phases%20of%20Organizing%20an%20Esports%20Event%20-%20visual%20selection.png" 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/EsportsEventPlanningStairs.png" 
         alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
 	</div>
-    <p style="max-width: 400px; margin: 0 auto; text-align: left;">
+    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
         E-urheilutapahtuman suunnittelun vaiheet.
     </p>
 
    ---
-
+   
 ## Online-tapahtuma
 
 
