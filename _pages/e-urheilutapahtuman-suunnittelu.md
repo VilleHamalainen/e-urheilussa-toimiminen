@@ -89,7 +89,7 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
    <div style="text-align: center; margin: 0 auto;">
     <img 
-        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/EsportsEventPlanningStairs.png" 
+        src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/Kuvat/EsportsEventPlanningStairs.png" 
         alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
 	</div>
