@@ -19,8 +19,7 @@ Mitä kaikkea muuta <b>e-urheilun ekosysteemiin</b> kuuluu? Mikä on ekosysteemi
 
 <details>
   <summary>Kuva ekosysteemistä</summary>
-  <img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/esportsecosystem.png" alt="Esports Ecosystem">
-
+  <img src="https://villehamalainen.github.io/e-urheilussa-toimiminen/Kuvat/esportsecosystem.png" alt="Esports Ecosystem">
 </details>
 
 
