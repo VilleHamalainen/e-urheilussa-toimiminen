@@ -19,8 +19,10 @@ Mitä kaikkea muuta <b>e-urheilun ekosysteemiin</b> kuuluu? Mikä on ekosysteemi
 
 <details>
   <summary>Kuva ekosysteemistä</summary>
-  <img src="https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/Kuvat/esportsecosystem.png" alt="Esports Ecosystem">
+  <img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/esportsecosystem.png" alt="Esports Ecosystem">
+
 </details>
+
 
 <center>Kuva. Lee, Je Seok & Steinkuehler, Constance. (2019). Esports as a catalyst for connected learning: the North America Scholastics Esports Federation. XRDS: Crossroads, The ACM Magazine for Students. 25. 54-59. 10.1145/3331075. </center>
 
