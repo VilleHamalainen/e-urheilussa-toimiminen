@@ -33,14 +33,15 @@ Mitä kaikkea muuta <b>e-urheilun ekosysteemiin</b> kuuluu? Mikä on ekosysteemi
 
 Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa vuonna 1972 pelille **Space War**. Pääpalkintona oli vuoden Rolling Stones lehden tilaus! Nykyään palkintosummat ovat hieman suurempia.
 
-<div align="center">
+  <div align="center">
   <a href="https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro" title="Space War game play">
-    <img src="http://img.youtube.com/vi/XEFLpbjfybc/0.jpg" alt="Space War game play" style="width: 100%; max-width: 400px; height: auto;">
+    <img src="http://img.youtube.com/vi/XEFLpbjfybc/0.jpg" alt="Space War game play" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;">
   </a>
 </div>
-  <p style="max-width: 400px; margin: 0 auto; text-align: left;">
-    Pelikuvaa vuonna 1972 julkaistusta Space War pelistä.
-  </p>
+<p style="max-width: 400px; margin: 0 auto; text-align: left;">
+  Pelikuvaa vuonna 1972 julkaistusta Space War pelistä.
+</p>
+
 
 ---
 
