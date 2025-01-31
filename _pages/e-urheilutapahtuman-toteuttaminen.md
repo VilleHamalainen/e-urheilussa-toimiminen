@@ -100,7 +100,7 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
     <img src="http://img.youtube.com/vi/_d5C75pLDKs/0.jpg" alt="Inside an esports event" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto;">
     Video hieman isomman opiskelijoiden e-urheilutapahtuman järjestämisestä ja siihen liittyvistä haasteista ja onnistumisista. 
   </p>
 
@@ -112,7 +112,7 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
     <img src="http://img.youtube.com/vi/8JR_YMksuOQ/0.jpg" alt="Inside Smash Bros console gaming event" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto;">
     Videokuvaa Smash Bros konsoliturnauksesta, jossa tuotanto ym. ovat hieman pienemmässä mittakaavassa kuin aikaisemmalla videolla.
   </p>
 
@@ -124,7 +124,7 @@ Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tourname
     <img src="http://img.youtube.com/vi/qe5jqnv1dlU/0.jpg" alt="Biking esports event" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </a>
   </div>
-  <p style="max-width: 400px; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto;">
     Video hieman erilaisesta e-urheilutapahtumasta. Videon tarkoituksena herätellä ajattelemaan myös perinteisiä lajeja ja e-urheilun yhdistämistä.
   </p>
 
@@ -373,18 +373,6 @@ Tässä osiossa tutustutaan erilaisiin teknisiin haasteisiin e-urheilutapahtumis
 
 ---
 
-## Käytännön sovellukset
-
-1. **Tapaustutkimus - Hangzhoun Aasian kisat (2023)**  
-   Hangzhoun Aasian kisojen e-urheiluturnausten aikana järjestäjät kohtasivat haasteita liittyen yleiseen käsitykseen, mutta onnistuivat hallitsemaan teknisiä näkökohtia kuten verkon luotettavuutta ja lähetyksen laatua. Opittuja asioita olivat reaaliaikaisten valvontatyökalujen tärkeys ja yhteistyö internetpalveluntarjoajien kanssa.
-
-2. **Oivalluksia "This Is Esports" -kirja-arvostelusta (2021)**  
-   Kirja korostaa, kuinka varhaiset e-urheilutapahtumat usein kamppailivat teknisen johdonmukaisuuden kanssa, mutta kehittyivät paremman suunnittelun ja kehittäjien, sponsoreiden ja järjestäjien välisen yhteistyön kautta.
-
-3. **Vertailu muihin aloihin (esim. terveydenhuolto)**  
-   Samankaltaisia teknisiä haasteita nähdään terveydenhuollon sovelluksissa, kuten ultraääniohjatut toimenpiteet, joissa redundanssi ja reaaliaikainen valvonta parantavat tuloksia. Näitä periaatteita voidaan soveltaa suoraan e-urheilutapahtumiin.
-
----
 
 ## Keskeiset opit
 
