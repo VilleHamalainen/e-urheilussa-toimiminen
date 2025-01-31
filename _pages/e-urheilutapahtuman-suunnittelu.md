@@ -768,3 +768,10 @@ Tarkemmat tiedot YouTube-elementtien kokoista löydät: [Canva YouTube-suosituks
 - [Ludwigin ohjeet streamaukseen](https://www.youtube.com/watch?v=0i9gkprYekI&ab_channel=Ludwig)
 - [Ilmainen kurssi e-urheiluseuran perustamiseen](https://www.udemy.com/course/how-to-start-esports-club/)
 
+---
+
+## Seuraava aihe
+
+- [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
+
+---
