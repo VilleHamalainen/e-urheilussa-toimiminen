@@ -1,7 +1,6 @@
 #theme: jekyll-theme-cayman
 include:
   - _pages
-theme: jekyll-theme-just-the-docs
+theme: jekyll-theme-dinky
 # _config.yml
-just_the_docs:
-  custom_css: "assets/css/styles.css"  
+
