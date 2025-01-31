@@ -463,3 +463,15 @@ Kerää palautetta osallistujilta ja arvioi kurssin toteutuksen mahdolliset kehi
 [Natun ja Robun podcast](https://open.spotify.com/show/6nXZmspwDgIdPxBpjhreQV?si=b87a32ed64284ed8)
 
 [Pelaamisen kehittämiseen keskittyviä podcasteja](https://open.spotify.com/show/4v91zLNxqDFlFeFYcZpTZV?si=4c74a416e69349b1)
+
+---
+
+##Seuraava aihe
+
+Onneksi olkoon! Olet käyny läpi kaikki materiaalit!
+
+#Edellinen aihe
+
+- [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
+
+---
