@@ -12,7 +12,7 @@ permalink: /johdatus-e-urheiluun/
 
 - <a href="#moduuli-0-johdatus-e-urheiluun">Moduuli 0: Johdatus e-urheiluun</a>
   - <a href="#e-urheilun-maaritelma">E-urheilun määritelmä</a>
-  - <a href="#tehtava-luokassa-mietittavaksi">Tehtävä: Luokassa mietittäväksi</a>
+  - <a href="#mita-kaikkea-e-urheiluun-liittyy?">Tehtävä: Mitä kaikkea e-urheiluun liittyy?</a>
   - <a href="#e-urheilun-historia">E-urheilun historia</a>
   - <a href="#e-urheilu-suomessa">E-urheilu Suomessa</a>
   - <a href="#e-urheilun-koulutus-suomessa">E-urheilun koulutus Suomessa</a>
@@ -33,7 +33,7 @@ permalink: /johdatus-e-urheiluun/
 
 ---
 
-## **Tehtävä:** Luokassa mietittäväksi
+## **Tehtävä:** Mitä kaikkea e-urheiluun liittyy?
 
 Mitä kaikkea muuta <b>e-urheilun ekosysteemiin</b> kuuluu? Mikä on ekosysteemi? Yksi näkemys aiheeseen löytyy painamalla alapuolella olevaa nuolta.
 

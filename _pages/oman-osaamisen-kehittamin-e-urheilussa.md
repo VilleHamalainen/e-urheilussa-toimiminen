@@ -18,6 +18,8 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
 - [Liiketoiminta ja henkilöbrändin rakentaminen](#liiketoiminta-ja-henkilobrandin-rakentaminen)
 - [Kieli ja kulttuurinen tietoisuus](#kieli-ja-kulttuurinen-tietoisuus)
 - [Uramahdollisuudet](#uramahdollisuudet)
+- [Seuraava aihe](#seuraava-aihe)
+- [Edellinen aihe](#edellinen-aihe)
 
 ---
 
@@ -43,9 +45,45 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
     Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.
   </p>
 
-Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
+Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
 
 ### Liikkuminen
+
+Liikkuminen on keskeinen taito, joka erottaa huippupelaajat muista e-urheilussa. Liikkumistekniikoiden hallitseminen voi luoda etuja, vaikeuttaa vastustajan tähtäämistä ja mahdollistaa tehokkaammat hyökkäykset. Tämä osio käsittelee liikkumisen avainkonsepteja, käyttäen ensisijaisesti Counter-Strike 2:ta (CS2) esimerkkinä, vaikka monet periaatteet pätevät muihinkin peleihin.
+
+Strateginen Liikkuminen: Kyse ei ole vain nopeasta liikkumisesta, vaan myös älykkäästä liikkumisesta edun saavuttamiseksi. Tähän kuuluu ymmärtää, miten liikkumisesi vaikuttaa näkyvyyteesi vastustajalle ja miten liikkumista voidaan käyttää pelin tahdin kontrolloimiseen.
+
+Peek tyylit (kurkkaus tyylit vapaasti suomennettuna):
+
+- Wide Peek (Laajakurkistus): Itsensä paljastaminen laajempaan kulmaan nopeasti tiedon saamiseksi ja vastustajien haastamiseksi. Pelaajalla on erilaisia keinoja saada hahmoonsa vauhtia ja tässä tyylissä tieto siitä, että hahmolla kannattaa liikkua ensin toiseen suuntaa lisää hahmon maksiminopeutta hetkellisesti. Tästä on myös käytössä termejä kuten "Ferrari Peek" jne..
+
+- Shoulder Peek (Olkapääkurkistus): Vain pienen osan olkapäästä paljastaminen, jotta vastustajan tulituksen saa houkuteltua esiin. Tämä mahdollistaa tiedon keräämisen ilman, että täysin sitoudutaan tilanteeseen.
+
+Ketteryys ja Ennakoimattomuus:
+
+- Hyppiminen: Hyppyjen käyttäminen vaikeuttaaksesi osumista. Hyppiminen voi häiritä vihollisen tähtäämistä ja tehdä osumisesta haastavampaa, mutta liiallinen käyttö voi tehdä siitä ennakoitavaa.
+
+- Liukuminen: Liukujen käyttäminen nopeasti sijainnin vaihtamiseksi tai vihollisen tulituksen väistämiseksi. Tätä voidaan yhdistää muihin liikkeisiin monimutkaisten ja ennakoimattomien toimintojen luomiseksi.
+
+- Crouch-Peeking (Kyykkykurkistus) : Nopea kyykistyminen, jotta vain pieni osa vartalosta paljastuu. Tämä on hyödyllistä kulmien takaa kurkistamiseen ja oman profiilin minimoimiseen.
+
+Miten liikkuminen vaikuttaa peliin
+
+- **Tarkkuus**: Tehokas liikkuminen ei ole vain siirtymistä pisteestä A pisteeseen B. Kyse on liikkumisen käyttämisestä oman tarkkuuden parantamiseksi samalla kun se häiritsee vihollisen tähtäämistä. Liikkeen vaihtelu on myös osa arvaamattomuutta, jota huippupelaajat käyttävät hyväkseen.
+
+- **Ajoitus**: Liikkuminen on myös ajoittamista. Tämä ei ole pelkkää mekaniikkaa, vaan pelaajan tulee tuntea syyt ja seuraukset, joita kartan tapahtumat aiheuttavat.  Oikein ajoitettu liike (lurkkaus) voi esimerkiksi voittaa koko erän sellaisenaan tai varmistaa hyvän hyökkäyksen.
+
+- **Tilan luominen**: Hyvin ajoitettu ja toteutettu liikkuminen voi luoda tilaa sinulle ja joukkueellesi avaten mahdollisuuksia hyökkäyksiin. Esimerkiksi ensiksi menevien pelaajien tulee pystyä liikkumaan sulavasti, jotta muut pelaajat pääsevät etenemään avuksi.
+
+
+- **Harjoittelu**: Kuten mikä tahansa taito, liikkuminen vaatii jatkuvaa harjoittelua. Voit harjoitella tiettyjä tekniikoita kuten hyppyjä ja kurkkaamista (peek) harjoituskartoissa tai harjoituspeleissä.
+
+- **Analysointi**: Tutki, miten ammattipelaajat käyttävät liikkumista etulyöntiaseman saavuttamiseksi, ja kiinnitä huomiota heidän käyttämiinsä ajoituksiin ja tekniikoihin. Eri pelaajilla on erilaisia tapoja liikkua. Toiset saattavat olla systemaattisempia ja käyttää enemmän pieniä liikkeitä kun taas toiset käyttävät enemmän leveitä ja hahmon nopeuteen perustuvaa tekniikkaa.
+
+- Mukautuminen: On tärkeää tunnistaa, että parhaat liikkumistekniikat voivat riippua pelistä, kartasta ja tilanteesta.
+
+**Karttatietoisuus**: Liikkuminen on tiiviisti sidoksissa karttatietoisuuteen. Kartan asettelun ja yleisten hyökkäyskulmien tunteminen on ratkaisevaa liikkumisen suunnittelussa. Karttatietoisuuden ja liikkumistaitojen yhdistelmä on se, mikä mahdollistaa ennakkoon tähtäämisen ja nopean reagoinnin.
+
 
 ### Kommunikaatio ja tiimityöskentely
 
@@ -56,7 +94,7 @@ Tiimityöskentely ja kommunikaatio ovat yksi tärkeimmistä tekijöistä, jotka 
 Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopuoliseen toimintaan.
 
 ### Pelin aikainen toiminta
-**Teoria:**  
+
 - **Selkeä roolijako:** Jokaisella tiimiläisellä on selkeä tehtävä (esim. in-game leader (IGL), entry fragger, support).
 - **Reaaliaikainen kommunikaatio:** Lyhyet, selkeät komennot (esim. "Flash A", "Rotate B") ja tilannetiedon jakaminen (esim. vihollisen paikka ja resurssit).  
 
@@ -67,7 +105,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 ---
 
 ### Pelin ulkopuolinen toiminta
-**Teoria:**  
+
 - **Tiimikokoukset:** Säännölliset tapaamiset strategioiden, heikkouksien ja vahvuuksien käsittelyyn.  
 - **Vertaispalaute:** Rakentavan palautteen antaminen ilman syyllistämistä (esim. "Viimeisessä roundissa olisi kannattanut…").  
 
@@ -90,7 +128,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 ## Konfliktinratkaisu
 
 ### Pelin aikaiset konfliktit
-**Teoria:**  
+
 - **Paineen hallinta:** Konfliktit syntyvät usein stressaavissa tilanteissa (esim. häviöputki). Tärkeää on keskittyä ratkaisuun, ei syyllisten etsimiseen.  
 
 **Lähestymistavat:**  
@@ -103,7 +141,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 ---
 
 ### Pelin ulkopuoliset konfliktit
-**Teoria:**  
+
 - **Strategiaerimielisyydet:** Erilaiset näkemykset pelin yleisistä tai karttakohtaisista taktiikoista, metasta (liittyy taktiikoihin) tai rooleista.  
 - **Henkilökohtaiset jännitteet:** Esim. aikatauluongelmat, kommunikaatiotyylien yhteensopimattomuus tai yleiset henkilökemiaongelmat.  
 
@@ -116,7 +154,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 ## Johtajuustaidot
 
 ### Pelin aikainen johtajuus
-**Teoria:**  
+
 - **Shot calling:** Päätöksenteko reaaliajassa (esim. "Push now!" vs. "Save weapons"). Näissä tilanteissa myös joukkueen roolien tulee olla selkeät toisin sanoen kuka tekee päätökset tärkeinä hetkinä. 
 - **Motivoiva kommunikaatio:** Positiivinen palaute myös häviöiden jälkeen (esim. "Hyvä yritys, mennään seuraavaan ja ollaan hieman tarkempia").  
 
@@ -132,7 +170,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 ---
 
 ### Pelin ulkopuolinen johtajuus
-**Teoria:**  
+
 - **Tiimin kehittäminen:** taroituksena yksilöllisiä harjoitusohjelmia pelaajille ja jäsenille riippuen heidän rooleistaan.  
 - **Esimiestaidot:** Ajanhallinta ja priorisointi kiiren keskellä (esim. kilpailu- vs. harjoitusviikko).  
 
@@ -224,7 +262,6 @@ Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. U
 
 ### Ergonomia ja fyysinen kunto
 
-**Teoria:**  
 Pitkät pelisessiot vaativat **ergonomisen asetuksen** (selkänoja, käsijatket) ja säännölliset liikkeet **vähentääkseen kipuja**. Liikunta voi auttaa hallitsemaan lihasjännitystä ilman kipukynnysten saavuttamista, parantaen samalla ponnistelua ja lihaskuntoa. Lisäksi, säännöllinen fyysinen harjoittelu voi vähentää vammariskiä.
 
 **Käytännön vinkit:**  
@@ -254,7 +291,6 @@ Pitkät pelisessiot vaativat **ergonomisen asetuksen** (selkänoja, käsijatket)
 
 ### Ravitsemus ja uni
 
-**Teoria:**  
 Aivot tarvitsevat ravintoa (esim. omega-3, proteiinit) ja **7-9 tuntia unta** optimaaliseen suorituskykyyn. Oikeanlainen ravinto tukee myös stressin hallintaa ja hyvinvointia.
 
 **Käytännön tehtävät:**  
@@ -282,7 +318,7 @@ Aivot tarvitsevat ravintoa (esim. omega-3, proteiinit) ja **7-9 tuntia unta** op
 ## Tekninen osaaminen
 
 ### Laitteisto- ja ohjelmisto-osaaminen
-**Teoria:**  
+
 Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi asetukset (esim. **NVIDIA Control Panel**).  
 
 **Resurssit:**  
@@ -481,11 +517,11 @@ Kerää palautetta osallistujilta ja arvioi kurssin toteutuksen mahdolliset kehi
 
 ---
 
-##Seuraava aihe
+## Seuraava aihe
 
 Onneksi olkoon! Olet käyny läpi kaikki materiaalit! [Takaisin materiaalin etusivulle](https://villehamalainen.github.io/e-urheilussa-toimiminen/)
 
-#Edellinen aihe
+## Edellinen aihe
 
 - [E-urheilutapahtuman toteuttaminen](https://villehamalainen.github.io/e-urheilussa-toimiminen/e-urheilutapahtuman-toteuttaminen/)
 
