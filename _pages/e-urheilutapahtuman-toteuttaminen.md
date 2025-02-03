@@ -28,21 +28,21 @@ E-urheilutapahtumaa (oikeasti mikä tahansa tapahtuma) seuratessa ei tule useink
 <details>
   <summary>**Paina**:Mitä kaikkea tulee ottaa huomioon?</summary>
 
-| **Ongelmakategoria**                    | **Kuvaus**                                                                                                                                           |
-|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Yhteysongelmat**                      | Internet-yhteyksien katkeaminen tai heikko yhteys voi estää pelaajia, tiimejä tai katsojia osallistumasta tapahtumaan.                                 |
-| **Laitteistoviat**                      | Pelitietokoneiden, näytönohjainten tai muiden pelilaitteiden rikkoutuminen voi aiheuttaa viivästyksiä tai keskeyttää tapahtuman.                       |
-| **Pelipalvelinongelmat**                | Pelin palvelinten kaatuminen tai viiveet voivat sekoittaa aikataulut ja vaikuttaa kaikkiin turnauksessa oleviin sekä katsojiin.                        |
-| **Pelin kaatuminen tai bugit**          | Peli voi kaatua tai sisältää isoja bugeja, jotka aiheuttavat viivästyksiä ja lisähaasteita tapahtuman hallinnoinnissa.                                 |
-| **Viivästykset**                        | Viivästykset pelissä tai tapahtumassa voivat venyttää aikatauluja ja vaikuttaa sekä pelaajiin että katsojiin.                                          |
-| **Aikavyöhykkeiden ero**                | Kansainvälisissä turnauksissa aikavyöhykkeiden erot voivat aiheuttaa sekavuutta ja myöhästymisiä.                                                     |
-| **Säännöistä poikkeaminen**             | Kilpailijoiden sääntörikkomukset tai huijaaminen voivat johtaa kiistoihin, joita on ratkaistava nopealla aikataululla.                                 |
-| **Pelaajien fyysinen ja henkinen väsymys** | Pitkät turnaukset voivat johtaa pelaajien uupumukseen, vaikuttaen suoritukseen ja mahdollisesti aiheuttaen loukkaantumisia (esim. rasitusvammoja).     |
-| **Peliin liittyvät sääntömuutokset**    | Peliin tulleet päivitykset juuri ennen tapahtumaa voivat aiheuttaa sekaannusta, jos pelaajat eivät ole ehtineet tutustua niihin.                      |
-| **Lähetyksen katkeaminen**              | Live-streamin tai muun lähetyksen tekniset ongelmat heikentävät katselukokemusta.                                                                     |
-| **Pelaajien poissaolot tai myöhästelyt**| VISA-ongelmat, huolimattomuus tai muut syyt voivat johtaa siihen, että pelaajat myöhästyvät tai eivät pääse paikalle.                                  |
-| **Katsomo- ja yleisöongelmat**          | Paikan päällä järjestettävissä tapahtumissa voi ilmetä ongelmia tilojen, turvallisuuden tai yleisön hallinnan kanssa.                                  |
-| **Sponsoriongelmat**                    | Jos tapahtuma ei saavuta tavoitteitaan, sponsorit voivat menettää kiinnostuksensa tuleviin tapahtumiin.                                               |
+| **Ongelmakategoria**                       | **Kuvaus**                                                                                                                                         |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Yhteysongelmat**                         | Internet-yhteyksien katkeaminen tai heikko yhteys voi estää pelaajia, tiimejä tai katsojia osallistumasta tapahtumaan.                             |
+| **Laitteistoviat**                         | Pelitietokoneiden, näytönohjainten tai muiden pelilaitteiden rikkoutuminen voi aiheuttaa viivästyksiä tai keskeyttää tapahtuman.                   |
+| **Pelipalvelinongelmat**                   | Pelin palvelinten kaatuminen tai viiveet voivat sekoittaa aikataulut ja vaikuttaa kaikkiin turnauksessa oleviin sekä katsojiin.                    |
+| **Pelin kaatuminen tai bugit**             | Peli voi kaatua tai sisältää isoja bugeja, jotka aiheuttavat viivästyksiä ja lisähaasteita tapahtuman hallinnoinnissa.                             |
+| **Viivästykset**                           | Viivästykset pelissä tai tapahtumassa voivat venyttää aikatauluja ja vaikuttaa sekä pelaajiin että katsojiin.                                      |
+| **Aikavyöhykkeiden ero**                   | Kansainvälisissä turnauksissa aikavyöhykkeiden erot voivat aiheuttaa sekavuutta ja myöhästymisiä.                                                  |
+| **Säännöistä poikkeaminen**                | Kilpailijoiden sääntörikkomukset tai huijaaminen voivat johtaa kiistoihin, joita on ratkaistava nopealla aikataululla.                             |
+| **Pelaajien fyysinen ja henkinen väsymys** | Pitkät turnaukset voivat johtaa pelaajien uupumukseen, vaikuttaen suoritukseen ja mahdollisesti aiheuttaen loukkaantumisia (esim. rasitusvammoja). |
+| **Peliin liittyvät sääntömuutokset**       | Peliin tulleet päivitykset juuri ennen tapahtumaa voivat aiheuttaa sekaannusta, jos pelaajat eivät ole ehtineet tutustua niihin.                   |
+| **Lähetyksen katkeaminen**                 | Live-streamin tai muun lähetyksen tekniset ongelmat heikentävät katselukokemusta.                                                                  |
+| **Pelaajien poissaolot tai myöhästelyt**   | VISA-ongelmat, huolimattomuus tai muut syyt voivat johtaa siihen, että pelaajat myöhästyvät tai eivät pääse paikalle.                              |
+| **Katsomo- ja yleisöongelmat**             | Paikan päällä järjestettävissä tapahtumissa voi ilmetä ongelmia tilojen, turvallisuuden tai yleisön hallinnan kanssa.                              |
+| **Sponsoriongelmat**                       | Jos tapahtuma ei saavuta tavoitteitaan, sponsorit voivat menettää kiinnostuksensa tuleviin tapahtumiin.                                            |
 
 
 </details>
@@ -53,16 +53,16 @@ Tapahtuman järjestämisessä on paljon mietittävää, on turnauksessa useita e
 <details>
 <summary>**Paina:** Avainroolit e-urheilutapahtumien hallinnassa</summary>
 
-| **Kategoriat**                 | **Roolit**                                                                                                   |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Tapahtuma-/pelimanagerit**   | Tuomarit, sääntöjen kiistojen ratkaisut, reilun pelin ylläpito, turnauksen sujuvuuden varmistaminen           |
-| **Tekninen henkilöstö**        | Tietokoneet, konsolit, verkot, näyttölaitteet, teknisten ongelmien vianmääritys, streamaus, kamerat, ääni jne.|
-| **Tapahtuman juontajat**       | Pääpuhujat, joukkueiden esittely, palkintojen jako, yleisön osallistaminen                                   |
-| **Selostajat/casterit**        | Kommentaattorit, pelin tapahtumien tulkitseminen, entiset pelaajat, syvällinen pelitieto                     |
-| **Viestintä (PR)**             | Tapahtumatiedon levitys, osallistujien houkuttelu, tapahtuman profiilin nosto, median ja sponsorien yhteistyö |
-| **Tapahtuman järjestäjät/komitea**     | Tutkimus, Kokonaissuunnittelu, logistiikka, aikataulutus,  markkinointi, koordinointi                         |
-| **Tapahtuman muu henkilöstö**  | Järjestyksenvalvojat, myyntihenkilöstö, siivoojat, turvallisuushenkilöstö, lipunmyyjät                        |
-| **Tapahtuman jälkityö**        | Data-analyytikot, asiakaspalvelu, palautetiimi                                                              |
+| **Kategoriat**                     | **Roolit**                                                                                                     |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Tapahtuma-/pelimanagerit**       | Tuomarit, sääntöjen kiistojen ratkaisut, reilun pelin ylläpito, turnauksen sujuvuuden varmistaminen            |
+| **Tekninen henkilöstö**            | Tietokoneet, konsolit, verkot, näyttölaitteet, teknisten ongelmien vianmääritys, streamaus, kamerat, ääni jne. |
+| **Tapahtuman juontajat**           | Pääpuhujat, joukkueiden esittely, palkintojen jako, yleisön osallistaminen                                     |
+| **Selostajat/casterit**            | Kommentaattorit, pelin tapahtumien tulkitseminen, entiset pelaajat, syvällinen pelitieto                       |
+| **Viestintä (PR)**                 | Tapahtumatiedon levitys, osallistujien houkuttelu, tapahtuman profiilin nosto, median ja sponsorien yhteistyö  |
+| **Tapahtuman järjestäjät/komitea** | Tutkimus, Kokonaissuunnittelu, logistiikka, aikataulutus,  markkinointi, koordinointi                          |
+| **Tapahtuman muu henkilöstö**      | Järjestyksenvalvojat, myyntihenkilöstö, siivoojat, turvallisuushenkilöstö, lipunmyyjät                         |
+| **Tapahtuman jälkityö**            | Data-analyytikot, asiakaspalvelu, palautetiimi                                                                 |
 
 </details>
 
@@ -74,36 +74,36 @@ Alla oleva lista on tuttu jo  osiosta.e-urheilutapahtuman suunnittelumoduulista.
 <details>
 <summary>**Paina:** Turnauksen aikana</summary>
 
-| Vaihe  | Määräaika | Valmis |
-|--------|-----------|--------|
-| 1. Valmistele tiimi | | | |
-| 2. Tarkista pelaajien viestintäkanavat | | | |
-| 3. Hallinnoi turnauksen aikataulua | | | |
-| 4. Tarkista tuomareiden tilit | | | |
-| 5. Määrittele tiimiroolit | | | |
-| 6. Ilmoita pisteet ja tulokset otteluiden välillä | | | |
-| 7. Valmistele päivittäiset turnaustilastot | | | |
-| 8. Moderoi keskustelua | | | |
-| 9. Tarjoa tukea turnauspelaajille | | | |
-| 10. Jaa päivän lopputiedotteet | | | |
-| 11. Valitse lähetettävät ottelut | | | |
-| 12. Ole valmiina otteluiden alkaessa | | | |
+| Vaihe                                             | Määräaika | Valmis |
+| ------------------------------------------------- | --------- | ------ |
+| 1. Valmistele tiimi                               |           |        |  |
+| 2. Tarkista pelaajien viestintäkanavat            |           |        |  |
+| 3. Hallinnoi turnauksen aikataulua                |           |        |  |
+| 4. Tarkista tuomareiden tilit                     |           |        |  |
+| 5. Määrittele tiimiroolit                         |           |        |  |
+| 6. Ilmoita pisteet ja tulokset otteluiden välillä |           |        |  |
+| 7. Valmistele päivittäiset turnaustilastot        |           |        |  |
+| 8. Moderoi keskustelua                            |           |        |  |
+| 9. Tarjoa tukea turnauspelaajille                 |           |        |  |
+| 10. Jaa päivän lopputiedotteet                    |           |        |  |
+| 11. Valitse lähetettävät ottelut                  |           |        |  |
+| 12. Ole valmiina otteluiden alkaessa              |           |        |  |
 
 </details>
 
 <details>
 <summary>**Paina:** Turnauksen jälkeen</summary>
 
-| Vaihe  | Määräaika | Valmis |
-|--------|-----------|--------|
-| 13. Juhli tiimin ja ehkä myös pelaajien kanssa | | | |
-| 14. Kerää pelaajapalautetta | | | |
-| 15. Valmistele tapahtumaraportti | | | |
-| 16. Seuraa palkintojen jakoa | | | |
-| 17. Jaa turnauksen jälkeiset sosiaalisen median julkaisut | | | |
-| 18. Järjestä palkintojenjakotilaisuus | | | |
-| 19. Analysoi data | | | |
-| 20. Lähetä data asianomaisille toimijoille | | | |
+| Vaihe                                                     | Määräaika | Valmis |
+| --------------------------------------------------------- | --------- | ------ |
+| 13. Juhli tiimin ja ehkä myös pelaajien kanssa            |           |        |  |
+| 14. Kerää pelaajapalautetta                               |           |        |  |
+| 15. Valmistele tapahtumaraportti                          |           |        |  |
+| 16. Seuraa palkintojen jakoa                              |           |        |  |
+| 17. Jaa turnauksen jälkeiset sosiaalisen median julkaisut |           |        |  |
+| 18. Järjestä palkintojenjakotilaisuus                     |           |        |  |
+| 19. Analysoi data                                         |           |        |  |
+| 20. Lähetä data asianomaisille toimijoille                |           |        |  |
 </details>
 
 Muistilistan laatimisessa on hyödynnetty Foundational Guide for Esports Tournaments -dokumenttia, joka on julkaistu 4.0 Creative Commons -lisenssillä Dell Technologiesin ja Advanced Learning Partnersin toimesta.

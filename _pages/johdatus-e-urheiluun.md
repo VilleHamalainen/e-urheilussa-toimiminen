@@ -143,13 +143,13 @@ Yleiskuvan eri lukujen isoista linjoista voi katsoa alla olevasta kuvasta. Olemm
 ---
 
 Historian saatossa myös peleissä jaetut rahasummat ovat alkaneet muodostua varsin suuriksi. Erityisesto DOTA 2 on tuottanut pelaajilleen valtavia summia ja onkin aivan omassa luokassaan verrattuna muihin peleihin vielä historian tässä vaiheessa.
-| Rank | Game            | Total Prize Pool  |
-|------|-----------------|-------------------|
-| 1    | Dota 2          | $308,752,064      |
-| 2    | Counter-Strike  | $130,042,570      |
-| 3    | Fortnite        | $107,279,463      |
-| 4    | League of Legends | $99,669,526     |
-| 5    | PUBG Mobile     | $78,897,361       |
+| Rank | Game              | Total Prize Pool |
+| ---- | ----------------- | ---------------- |
+| 1    | Dota 2            | $308,752,064     |
+| 2    | Counter-Strike    | $130,042,570     |
+| 3    | Fortnite          | $107,279,463     |
+| 4    | League of Legends | $99,669,526      |
+| 5    | PUBG Mobile       | $78,897,361      |
 
 Eri pelien palkintopotit koko historian ajalta vuoden 2023 lopulla. Lähde: https://escharts.com/top-games?order=peak
 

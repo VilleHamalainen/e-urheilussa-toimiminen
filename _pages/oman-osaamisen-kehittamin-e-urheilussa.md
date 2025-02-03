@@ -9,6 +9,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
 ---
 
 ## Sisällysluettelo
+
 - [Pelilliset taidot](#pelilliset-taidot)
 - [Tiimityö ja kommunikaatio](#tiimityo-ja-kommunikaatio)
 - [Konfliktinratkaisu](#konfliktinratkaisu)
@@ -31,9 +32,9 @@ E-urheilu ei periaatteessa eroa perinteisestä urheilusta niin paljon kuin voisi
 
 Pelitaitojen tai pelimekaanikan kehittäminen on yksi perusvaatimuksista pelissä pärjäämiselle. Ampumapeleissä luonnollisesti ensimmäinen asia on tähtääminen mahdollisimman nopeasti ja tarkasti vastustajaan. Tähän on kehitetty omia uusia työkaluja, joiden avulla ns. "1st bullet accuracya" voidaan kehittää. Nopea ja tarkka ampuminen on kuitenkin vain yksi osa kilpapelaamista ja ampumistyylejä on esimerkiksi Counter Strikessa erilaisia ja parhaat pelaajat hyödyntävät niitä eri tilanteissa eri tavoilla.
 
-Esimerkiksi Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tapping, Bursting ja Spraying, jotka vapaasti suomennettuina tarkoittavat yhtä laukausta, alle kymmentä laukausta ja lippaallista ammuksia, joiden ohjaaminen onkin oma taitonsa, koska kaikilla aseilla luodit lentävät hieman eri tavalla. Eri pelaajilla on erilaisia tyylejä käyttää aseita, mutta usein aivan huippupelaajat tunnentaan poikkeuksellisen nopeasta ja tarkasta ensimmäisestä ammuksesta, jolla vihollinen usein voitetaan kerralla verrattuna useamman ammuksen ampumiseen, joka vie aikaa ja antaa muulle vastustajan joukkueelle aikaa reagointiin. Ampumisessa voidaan puhua lisäksi liikkuvan kohteen seuraamisesta varsinkin burst tai spray ampumatyyleissä ja nopeista reaktiotilanteista, joissa pelaaja heilauttaa tähtäimen millisekunneissa eri kohtaan kuin missä se alunperin oli.
+Esimerkiksi Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tapping, Bursting ja Spraying, jotka vapaasti suomennettuina tarkoittavat yhtä laukausta, alle kymmentä laukausta ja lippaallista ammuksia, joiden ohjaaminen onkin oma taitonsa, koska kaikilla aseilla luodit lentävät hieman eri tavalla. Eri pelaajilla on erilaisia tyylejä käyttää aseita, mutta usein aivan huippupelaajat tunnetaan poikkeuksellisen nopeasta ja tarkasta ensimmäisestä ammuksesta, jolla vihollinen usein voitetaan kerralla verrattuna useamman ammuksen ampumiseen, joka vie aikaa ja antaa muulle vastustajan joukkueelle aikaa reagointiin. Ampumisessa voidaan puhua lisäksi liikkuvan kohteen seuraamisesta varsinkin burst tai spray ampumatyyleissä ja nopeista reaktiotilanteista, joissa pelaaja heilauttaa tähtäimen millisekunneissa eri kohtaan kuin missä se alunperin oli.
 
-Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaniinen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.
+Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaaninen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.
 
 
 <div align="center">
@@ -43,8 +44,11 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
   <p style="max-width: 100%; margin: 0 auto;text-align: left;">
     Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.
   </p>
- </div>
-Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
+</div>
+
+ ---
+
+Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin konseptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
 
 ### Liikkuminen
 

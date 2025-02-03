@@ -225,62 +225,62 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 <details>
 <summary>Ennen turnausta</summary>
 
-| Vaihe  | Määräaika | Valmis |
-|--------|-----------|--------|
-| 1. Määrittele turnauksen tarkoitus | | | |
-| 2. Järjestä kalenteri | | | |
-| 3. Arvioi paikalliset olosuhteet | | | |
-| 4. Määrittele palkinnot | | | |
-| 5. Varmista tietosuoja/GDPR | | | |
-| 6. Hanki pelaajat | | | |
-| 7. Tee julkinen ilmoitus tapahtumasta | | | |
-| 8. Valmistele visuaaliset materiaalit | | | |
-| 9. Kehitä sosiaalisen median sisällön suunnitelma | | | |
-| 10. Valmistele sääntökirja | | | |
-| 11. Määrittele turnauksen formaatti | | | |
-| 12. Luo ja perehdytä operatiivinen tiimi | | | |
-| 13. Valitse ja testaa turnausalusta | | | |
-| 14. Perehdytä mahdolliset tuomarit | | | |
-| 15. Valitse ja pystytä viestintäkanavat | | | |
-| 16. Luo ilmoittautumislomake | | | |
-| 17. Testaa turnauksen läpivienti tiimin kanssa | | | |
-| 18. Valitse suoratoistoalusta ja luo tili | | | |
-| 19. Valitse ja ilmoita selostajat | | | |
+| Vaihe                                             | Määräaika | Valmis |
+| ------------------------------------------------- | --------- | ------ |
+| 1. Määrittele turnauksen tarkoitus                |           |        |  |
+| 2. Järjestä kalenteri                             |           |        |  |
+| 3. Arvioi paikalliset olosuhteet                  |           |        |  |
+| 4. Määrittele palkinnot                           |           |        |  |
+| 5. Varmista tietosuoja/GDPR                       |           |        |  |
+| 6. Hanki pelaajat                                 |           |        |  |
+| 7. Tee julkinen ilmoitus tapahtumasta             |           |        |  |
+| 8. Valmistele visuaaliset materiaalit             |           |        |  |
+| 9. Kehitä sosiaalisen median sisällön suunnitelma |           |        |  |
+| 10. Valmistele sääntökirja                        |           |        |  |
+| 11. Määrittele turnauksen formaatti               |           |        |  |
+| 12. Luo ja perehdytä operatiivinen tiimi          |           |        |  |
+| 13. Valitse ja testaa turnausalusta               |           |        |  |
+| 14. Perehdytä mahdolliset tuomarit                |           |        |  |
+| 15. Valitse ja pystytä viestintäkanavat           |           |        |  |
+| 16. Luo ilmoittautumislomake                      |           |        |  |
+| 17. Testaa turnauksen läpivienti tiimin kanssa    |           |        |  |
+| 18. Valitse suoratoistoalusta ja luo tili         |           |        |  |
+| 19. Valitse ja ilmoita selostajat                 |           |        |  |
 </details>
 
 <details>
 <summary>Turnauksen aikana</summary>
 
-| Vaihe  | Määräaika | Valmis |
-|--------|-----------|--------|
-| 20. Valmistele tiimi | | | |
-| 21. Tarkista pelaajien viestintäkanavat | | | |
-| 22. Hallinnoi turnauksen aikataulua | | | |
-| 23. Tarkista tuomareiden tilit | | | |
-| 24. Määrittele tiimiroolit | | | |
-| 25. Ilmoita pisteet ja tulokset otteluiden välillä | | | |
-| 26. Valmistele päivittäiset turnaustilastot | | | |
-| 27. Moderoi keskustelua | | | |
-| 28. Tarjoa tukea turnauspelaajille | | | |
-| 29. Jaa päivän lopputiedotteet | | | |
-| 30. Valitse lähetettävät ottelut | | | |
-| 31. Ole valmiina otteluiden alkaessa | | | |
+| Vaihe                                              | Määräaika | Valmis |
+| -------------------------------------------------- | --------- | ------ |
+| 20. Valmistele tiimi                               |           |        |  |
+| 21. Tarkista pelaajien viestintäkanavat            |           |        |  |
+| 22. Hallinnoi turnauksen aikataulua                |           |        |  |
+| 23. Tarkista tuomareiden tilit                     |           |        |  |
+| 24. Määrittele tiimiroolit                         |           |        |  |
+| 25. Ilmoita pisteet ja tulokset otteluiden välillä |           |        |  |
+| 26. Valmistele päivittäiset turnaustilastot        |           |        |  |
+| 27. Moderoi keskustelua                            |           |        |  |
+| 28. Tarjoa tukea turnauspelaajille                 |           |        |  |
+| 29. Jaa päivän lopputiedotteet                     |           |        |  |
+| 30. Valitse lähetettävät ottelut                   |           |        |  |
+| 31. Ole valmiina otteluiden alkaessa               |           |        |  |
 
 </details>
 
 <details>
 <summary>Turnauksen jälkeen</summary>
 
-| Vaihe  | Määräaika | Valmis |
-|--------|-----------|--------|
-| 32. Juhli tiimin kanssa | | | |
-| 33. Kerää pelaajapalautetta | | | |
-| 34. Valmistele tapahtumaraportti | | | |
-| 35. Seuraa palkintojen jakoa | | | |
-| 36. Jaa turnauksen jälkeiset sosiaalisen median julkaisut | | | |
-| 37. Järjestä palkintojenjakotilaisuus | | | |
-| 38. Analysoi data | | | |
-| 39. Lähetä data asianomaisille toimijoille | | | |
+| Vaihe                                                     | Määräaika | Valmis |
+| --------------------------------------------------------- | --------- | ------ |
+| 32. Juhli tiimin kanssa                                   |           |        |  |
+| 33. Kerää pelaajapalautetta                               |           |        |  |
+| 34. Valmistele tapahtumaraportti                          |           |        |  |
+| 35. Seuraa palkintojen jakoa                              |           |        |  |
+| 36. Jaa turnauksen jälkeiset sosiaalisen median julkaisut |           |        |  |
+| 37. Järjestä palkintojenjakotilaisuus                     |           |        |  |
+| 38. Analysoi data                                         |           |        |  |
+| 39. Lähetä data asianomaisille toimijoille                |           |        |  |
 </details>
 
 
@@ -695,6 +695,8 @@ Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit perso
     </p>
    </div>
      
+   ---
+
     <div style="text-align: center; margin: 0 auto;">
     <img 
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys2.png" 
@@ -703,9 +705,9 @@ Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit perso
     <p style="max-width: 100%; margin: 0 auto; text-align: left;">
         Varmista, että OBS:n asetukset ovat kunnossa. Testaa streamia menemättä live-tilaan.
     </p>
-</div>
+   </div>
      
----
+   ---
 
 ### Menestyminen Twitchissä
 
