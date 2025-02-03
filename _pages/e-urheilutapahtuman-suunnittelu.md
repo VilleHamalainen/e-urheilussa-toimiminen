@@ -521,6 +521,7 @@ Selvitä, mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat 
         OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.
     </p>
 </div>
+
 ---
 
 ### **Bonustehtävä**: LanCache isommille laneille
@@ -563,7 +564,7 @@ Twitch Studio on Twitchin oma työkalu, joka on suunniteltu aloittelijoille. Sen
 
 ## Tehtäviä
 
-### **Tehtävä:** Vertaile OBS Studioa ja Twitch Studioa
+### **Tehtävä:** Vertaile OBS studiota ja Twitch studiota
 
 Tutustu molempien työkalujen perusominaisuuksiin ja kirjoita lyhyt dokumentti studioiden hyvistä ja huonoista puolista. Vertaile sovellusten ominaisuuksia, kuten käytön helppous, tarvittavat konfiguroinnit ja muut ominaisuudet (esim. chatti). Jos olet käyttänyt jompaa kumpaa sovellusta, kerro myös omista kokemuksistasi.
 
@@ -644,19 +645,26 @@ Striimaus vaatii sekä teknisen osaamisen että luovuuden. OBS Studio ja Twitch 
 
 ## Tehtäviä
 
-**Tehtävä**: Vertaile OBS Studioa ja Twitch Studioa: Kirjoita lyhyt raportti molempien työkalujen hyvistä ja huonoista puolista.
+**Tehtävä**: Vertaile OBS studiota ja Twitch studiota: Kirjoita lyhyt raportti molempien työkalujen hyvistä ja huonoista puolista.
 **Tehtävä**: Luo overlay Canvassa:** Suunnittele ja lataa oma overlay käyttäen Canvaa.
 **Tehtävä**: Testaa striimin toiminta:** Käytä luomaasi overlayta OBS Studioon tai Twitch Studioon ja testaa striimausta.
 
- ## Twitch
+## Twitch
 
 **Twitch** on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena. Nykyään se tarjoaa myös monipuolista muuta sisältöä, kuten taidetta, musiikkia ja erilaisia IRL-striimeja. Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia "Bitsillä" tai suorilla lahjoituksilla.
 
 Striimaajat voivat hakea **Affiliate**- tai **Partner**-ohjelmiin, jotka tarjoavat erilaisia lisäetuja, mutta vaativat myös enemmän panostusta streamaukseen.
 
-![Twitchin yleisnäkymä](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchnakyma.png)
 
-<center>Twitchin yleisnäkymästä voit valita itseäsi kiinnostavan genren.</center>
+<div style="text-align: center; margin: 0 auto;">
+    <img 
+        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchnakyma.png" 
+        alt="Twitch yleisnakyma" 
+        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
+    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
+        Twitchin yleisnäkymästä voit valita itseäsi kiinnostavan genren.
+    </p>
+</div>
 
 ---
 
@@ -674,12 +682,29 @@ Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit perso
    - Ota käyttöön kaksivaiheinen tunnistautuminen (two-factor authentication) turvallisuuden parantamiseksi.
 
 2. **Liitä striimausohjelmisto Twitchiin:**
-   - Käytä **stream-avainta** liittääksesi OBS Studion Twitchiin. Avaimen löydät **Asetukset -> Lähetys** -valikon takaa.
-     ![Lähetys](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys1.png)
-     ![Stream-avain](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys2.png)
-   - Varmista, että OBS:n asetukset ovat kunnossa. Testaa streamia menemättä live-tilaan.
-   - Mene liveen ja testaa striimausta rohkeasti omalla porukalla.
 
+   Tässä vaiheessa meidän pitää yhdistää OBS tai joku muu streamasohjelmisto Twitchiin. [Tarkemmat ohjeet löytyvät täältä](https://gam3s.gg/news/streamlabs-obs-streaming-setup-guide/).
+
+   <div style="text-align: center; margin: 0 auto;">
+    <img 
+        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys1.png" 
+        alt="Twitch lahetysikkuna" 
+        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
+    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
+        Käytä **stream-avainta** liittääksesi OBS Studion Twitchiin. Avaimen löydät **Asetukset -> Lähetys** -valikon takaa.
+    </p>
+   </div>
+     
+    <div style="text-align: center; margin: 0 auto;">
+    <img 
+        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys2.png" 
+        alt="Twitch lahetysikkuna" 
+        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
+    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
+        Varmista, että OBS:n asetukset ovat kunnossa. Testaa streamia menemättä live-tilaan.
+    </p>
+</div>
+     
 ---
 
 ### Menestyminen Twitchissä
@@ -697,8 +722,6 @@ Twitch suosittelee kanavan bannerin kokoa **1200 x 480 pikseliä**. Tämä banne
 Tarkemmat tiedot Twitch-elementtien kokoista löydät: [Canva Twitch-suositukset](https://www.canva.com/sizes/twitch/).
 
 ---
-
-
 
 
 ### Twitchin pimeä puoli
