@@ -697,14 +697,14 @@ Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit perso
      
    ---
 
-    <div style="text-align: center; margin: 0 auto;">
-    <img 
+   <div style="text-align: center; margin: 0 auto;">
+   <img 
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys2.png" 
         alt="Twitch lahetysikkuna" 
         style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
+   <p style="max-width: 100%; margin: 0 auto; text-align: left;">
         Varmista, että OBS:n asetukset ovat kunnossa. Testaa streamia menemättä live-tilaan.
-    </p>
+   </p>
    </div>
      
    ---
