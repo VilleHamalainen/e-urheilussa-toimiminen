@@ -1,7 +1,7 @@
 # E-urheilussa toimimisen tutkinnon osa ja KSEOK-hankkeen kuvaus
 
 ## Johdanto
-Gradia keskittyy hankeessa elinkeinoelämän tarpeiden ja toiveiden tunnistamiseen ja pyrkii luomaan pohjan e-urheilussa toimimisen tutkinnon osan avulla.
+Gradia keskittyy hankkeessa elinkeinoelämän tarpeiden ja toiveiden tunnistamiseen ja pyrkii luomaan pohjan e-urheilussa toimimisen tutkinnon osan avulla.
 
 ## Toimenpiteet ja tavoitteet
 
@@ -24,7 +24,7 @@ Gradia on mukana osaamiskeskittymän verkostotilaisuuksien suunnittelussa ja tot
 
 
 ### Hankeen viestintä ja tulosten levittäminen
-Gradia vastaa myös hankkeen tiedottamisesta ja tulosten levittämisestä, varmistaen, että hankkeen hyödyt ja opit jaetaan asianaomaisten käyttöön.
+Gradia vastaa myös hankkeen tiedottamisesta ja tulosten levittämisestä, varmistaen, että hankkeen hyödyt ja opit jaetaan asianomaisten käyttöön.
 
 ## Lopputavoitteet
 Tämän hankkeen päätavoitteena on luoda vahva perusta tulevaisuuden e-urheilun osaajille ja ammattilaisille. Keskitymme kehittämään ja parantamaan e-urheilun koulutus- ja kehityspolkuja, jotta voimme vastata jatkuvasti muuttuvan alamme haasteisiin ja mahdollisuuksiin.
