@@ -163,7 +163,7 @@ permalink: /e-urheilutapahtuman-suunnittelu/
     <img 
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/EsportsEventPlanningStairs.png" 
         alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
-        style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
 	
     <p style="max-width: 100%; margin: 0 auto; text-align: left;">
         E-urheilutapahtuman suunnittelun vaiheet.
@@ -364,7 +364,7 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
     <img 
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanParty.png" 
         alt="Tekoälyn näkemys lanista." 
-        style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Tekoälyn näkemys lanitapahtumasta.
@@ -379,11 +379,12 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
     <img 
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanDevices2.png" 
         alt="Tekoälyn näkemys lanista ja eri laitteista" 
-        style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
-</div>
-<p style="max-width: 100%; margin: 0 auto; text-align: left;">
+        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
+   <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.
 </p>
+</div>
+
 
 [Lanissa](https://en.wikipedia.org/wiki/Local_area_network) tapahtuva pelaaminen voi olla pienimuotoisia kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa poissaollessa. Toisaalta lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteutettu ammattitason tapahtuma. 
 
@@ -553,7 +554,7 @@ Selvitä, mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat 
     <img 
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/OSImalli.png" 
         alt="OSI-malli" 
-        style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
+        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
 	</div>
     <p style="max-width: 100%; margin: 0 auto; text-align: left;">
         OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.
