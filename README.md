@@ -1,6 +1,9 @@
 # E-urheilussa toimimisen tutkinnon osa ja KSEOK-hankkeen kuvaus
 
+---
+
 ## Johdanto
+
 Gradia keskittyy hankkeessa elinkeinoelämän tarpeiden ja toiveiden tunnistamiseen ja pyrkii luomaan pohjan e-urheilussa toimimisen tutkinnon osan avulla.
 
 ## Toimenpiteet ja tavoitteet
@@ -34,7 +37,7 @@ Lisätietoja: Lisätietoja hankkeesta ja sen edistymisestä löytyy osaamiskeski
 
 [![Kseok-hanke](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main/Kuvat/Kseokkuva.png)](https://coesports.gg/)
 
-## E-urheilussatoimiminen opiskelumateriaali
+## E-urheilussatoimiminen polun materiaalit
 
 - [Johdatus e-urheiluun](johdatus-e-urheiluun/)
 - [E-urheilutapahtuman suunnittelu](e-urheilutapahtuman-suunnittelu/)
