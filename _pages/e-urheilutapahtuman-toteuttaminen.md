@@ -36,7 +36,7 @@ E-urheilutapahtumaa (oikeasti mikä tahansa tapahtuma) seuratessa ei tule useink
 Tapahtuman järjestämisessä on paljon mietittävää, on turnauksessa useita erilaisia rooleja, joista katsoja ei välttämättä ole tietoinen. Alla olevaa roolilistaa voi käyttää hyväksi kun mietitään, mitä rooleja kullekin opiskelijalle tulee ja mitkä kaikki kategoriat ovat tarpeellisia järjestettävissä tapahtumissa.
 
 <details>
-<summary>Avainroolit esports-tapahtumien hallinnassa</summary>
+<summary>Avainroolit e-urheilutapahtumien hallinnassa</summary>
 
 | **Kategoriat**                 | **Roolit**                                                                                                   |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -91,7 +91,7 @@ Alla oleva lista on tuttu jo  osiosta.e-urheilutapahtuman suunnittelumoduulista.
 | 20. Lähetä data asianomaisille toimijoille | | | |
 </details>
 
-Muistilistan laatimisessa on hyödynetty Foundational Guide for Esports Tournaments -dokumenttia, joka on julkaistu 4.0 Creative Commons -lisenssillä Dell Technologiesin ja Advanced Learning Partnersin toimesta.
+Muistilistan laatimisessa on hyödynnetty Foundational Guide for Esports Tournaments -dokumenttia, joka on julkaistu 4.0 Creative Commons -lisenssillä Dell Technologiesin ja Advanced Learning Partnersin toimesta.
 
 
 

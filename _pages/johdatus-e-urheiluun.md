@@ -29,7 +29,7 @@ Mitä kaikkea muuta <b>e-urheilun ekosysteemiin</b> kuuluu? Mikä on ekosysteemi
 
 ## E-urheilun historia
 
-**E-urheilun historia** on varsin lyhyt, mutta mielenkiintoinen matka. Ennen esports-termin käyttöönottoa kilpailullisia pelejä pelattiin pitkään pelihalleissa, kouluissa ja yksityisturnauksissa. Vaikka pelihistoriaa ei käsitellä syvällisesti, on syytä mainita, että digitaalisten pelien kehitys alkoi flipperistä, kun peliin lisättiin osat, joilla palloa voitiin lyödä. Aikaisemmin peli toimi niin, että pallo laitettiin liikkeelle ja ihmiset löivät vetoa siitä kuinka pallo käyttäytyisi. Flipperit mahdollistivat pelimuodot, jossa ihmiset kilpailisivat toisiaan vastaan.
+**E-urheilun historia** on varsin lyhyt, mutta mielenkiintoinen matka. Ennen esports-termin käyttöönottoa kilpailullisia pelejä pelattiin pitkään pelihalleissa, kouluissa ja yksityisturnauksissa. Erilaisia pelejä ja leikkejä on pelattu ihmisten olemassaolon alusta saakka ja videopelit ovat luonnollinen jatkumo pelien historiassa. Digitaalisten pelien kehitys saikin alkunsa flipperistä, kun peliin lisättiin osat, joilla palloa voitiin lyödä. Aikaisemmin peli toimi niin, että pallo laitettiin liikkeelle ja ihmiset löivät vetoa siitä kuinka pallo käyttäytyisi. Tämä oli iso muutos, koska nyt peli osallisti pelaajat mukaan itse peliin! Flipperit mahdollistivat pelimuodot, jossa ihmiset kilpailisivat toisiaan vastaan ja tämä ajoi eteenpäin ominaisuuksia kuten korkein pistemäärä (engl. High Score), erilaiset valot ja äänet. Nämä asiat tuntuvat nyt itsestään selviltä, mutta ennen ennen tietokoneita tämä oli iso juttu, joka myöhemmin inspiroi digitaalisten pelien kehittäjiä!
 
 Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa vuonna 1972 pelille **Space War**. Pääpalkintona oli vuoden Rolling Stones lehden tilaus! Nykyään palkintosummat ovat hieman suurempia.
 
@@ -58,7 +58,7 @@ Yliopistot olivat luonnollinen lähtökohta pelien kehitykselle, sillä niillä 
 
 ---
 
-Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. Markkinoille alkoi tulla entistä nopeampia tietokoneita ja konsoleita, jotka mahdollistivat monipuolisempien pelien pelaamisen. Vuonna 1997 Electronic Entertainment Expo (E3)-pelimessuilla järjestetty Red Annihilation **Quake**-turnaus mainitaan usein yhtenä varhaisimmista suurista esports-tapahtumista. Turnauksessa kilpailtiin Quake-nimisessä ensimmäisen persoonan ammuntapelissä (1st person shooter tai fps), jonka oli kehittänyt id Software. Turnauksen suurpalkintona oli **Ferrari 328 GTS-urheiluauto**, joka oli ensimmäinen arvokas ja mielenkiintoa herättävä palkinto (vrt. vuoden Rolling Stones lehden tilaus). Palkinnon ja näkyvyyden ansioista esports osoitti, että se voi vetää paikan päälle isoja määriä katsojia. Hyvänä ehdokkaana ensimääiseksi "esports ammattilaiseksi" onkin Dennis "Thresh" Fong, joka voitti kyseisen Ferrarin.
+Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. Markkinoille alkoi tulla entistä nopeampia tietokoneita ja konsoleita, jotka mahdollistivat monipuolisempien pelien pelaamisen. Vuonna 1997 Electronic Entertainment Expo (E3)-pelimessuilla järjestetty Red Annihilation **Quake**-turnaus mainitaan usein yhtenä varhaisimmista suurista e-urheilu-tapahtumista. Turnauksessa kilpailtiin Quake-nimisessä ensimmäisen persoonan ammuntapelissä (1st person shooter tai fps), jonka oli kehittänyt id Software. Turnauksen pääpalkintona oli **Ferrari 328 GTS-urheiluauto**, joka oli ensimmäinen arvokas ja mielenkiintoa herättävä palkinto (vrt. vuoden Rolling Stones lehden tilaus). Palkinnon ja näkyvyyden ansioista e-urheilu osoitti, että se voi vetää paikan päälle isoja määriä katsojia. Hyvänä ehdokkaana ensimmäiseksi "e-urheilun ammattilaiseksi" onkin Dennis "Thresh" Fong, joka voitti kyseisen Ferrarin.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=4xUmZxnEMUI" title="The 1st Pro Gamer Ever">
@@ -66,14 +66,14 @@ Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. M
   </a>
   </div>
   <p style="max-width: 100%; margin: 0 auto; text-align: left; ">
-    Tallenne maailman enimmäisestä ammatikseen pelaavasta henkilöstä.
+    Tallenne maailman ensimmäisestä ammatikseen pelaavasta henkilöstä.
   </p>
 
 ---
 
-Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät esportsia eteen päin isoin harppauksin. The Cyberathlete Professional League (CPL) perustettiin kyseisenä vuonna ja yksi 2000-luvun alun suosituimmista peleistä StarCraft julkaistiin saman vuonna. StarCraft nousi massiiviseksi hitiksi ympäri maailman, mutta erityisen suosituksi Etelä-Koreassa, jossa kyseinen peli tarjosi monelle mahdollisuuden ammattilaisuuteen. Pelejä näytettiin myös kansallisessa televisiossa. Pelit Quake ja StarCraft saivat omat kilpailulliset peliyhteisönsä. 
+Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät e-urheilua eteen päin isoin harppauksin. The Cyberathlete Professional League (CPL) perustettiin kyseisenä vuonna ja yksi 2000-luvun alun suosituimmista peleistä StarCraft julkaistiin saman vuonna. StarCraft nousi massiiviseksi hitiksi ympäri maailman, mutta erityisen suosituksi Etelä-Koreassa, jossa kyseinen peli tarjosi monelle mahdollisuuden ammattilaisuuteen. Pelejä näytettiin myös kansallisessa televisiossa. Pelit Quake ja StarCraft saivat omat kilpailulliset peliyhteisönsä. 
 
-2000-luvulla e-urheilun suosio kasvoi, mikä herätti suurten peliorganisaatioiden, sponsoreiden ja mediayhtiöiden kiinnostuksen uusien nopeampien yhteyksien myötä.. Vielä 90-luvulla suurin osa länsimaista sai internetin puhelinverkon kautta. Tämä tarkoitti, että puhelimella ei voinut soittaa kun netti oli käyttössä. 2000-luvulla kuvaan tulivat ns. broadband-yhteydet (laajakaista), jotka tarkoittivat sitä, että internetti oli "aina" päällä. Lisäksi nopeudet datan siirrossa paranivat huomattavasti. Kuitenkin kuvaavaa on, että vuonna 2000 OECD-maissa oli noin 150 miljoonaa modeemiyhteyttä ja alle 20 miljoonaa laajakaistaa. 2005 vuonna luvut olivat n. 130 miljoona molempia yhteystyyppejä ja vuonna 2010 laajakaistoja oli yli 300 miljoonaa. (ks. materiaalit). Lan-verkoista ja internetistä puhumme lisää kun vertailemme lan- ja onlinetapahtumien järjestämistä.
+2000-luvulla e-urheilun suosio kasvoi, mikä herätti suurten peliorganisaatioiden, sponsoreiden ja mediayhtiöiden kiinnostuksen uusien nopeampien yhteyksien myötä.. Vielä 90-luvulla suurin osa länsimaista sai internetin puhelinverkon kautta. Tämä tarkoitti, että puhelimella ei voinut soittaa kun netti oli käyttössä. 2000-luvulla kuvaan tulivat ns. broadband-yhteydet (laajakaista), jotka tarkoittivat sitä, että Internet oli "aina" päällä. Lisäksi nopeudet datan siirrossa paranivat huomattavasti. Kuitenkin kuvaavaa on, että vuonna 2000 OECD-maissa oli noin 150 miljoonaa modeemiyhteyttä ja alle 20 miljoonaa laajakaistaa. 2005 vuonna luvut olivat n. 130 miljoona molempia yhteystyyppejä ja vuonna 2010 laajakaistoja oli yli 300 miljoonaa. (ks. materiaalit). Lan-verkoista ja internetistä puhumme lisää kun vertailemme lan- ja onlinetapahtumien järjestämistä.
 
 2000-luvun isoja tapahtumia olivat ainakin MLG:n perustaminen vuonna 2002 New Yorkissa, joka lisäsi esporsin suosiota Yhdysvalloissa. Pelattuja pelejä oli mm. Halo, Tekken, Gears of War jne. Vuonna 2003 järjestettiin The Electronic Sports World Cup (ESWC), joka oli ensimmäinen iso kansainvälinen turnaus. Täällä pelattiin mm. Counter Strikea. Tarkemmin ESWC:n historiaan voi käydä tutustumassa [ESWC:n kotisivuilla](https://www.eswc.com/). Saman vuonna järjestettiin The World Cyber Games (WCG) koreassam joka oli suuri kansainvälinen turnaus. Pelatut pelit: Age of Mythology, FIFA 2003, Counter Strike, StarCraft, Unreal, Warcraft 3.
 
@@ -86,16 +86,16 @@ Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Serie
   </a>
   </div>
   <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-    Tallenne yhdestä vuoden suurimista 2006 turnauksista.
+    Tallenne yhdestä vuoden suurimmista 2006 turnauksista.
   </p>
 
 ---
 
-Hypätkäämme ajassa hieman eteen päin ja vuoteen, jolloin Valve järjesti The International (TI) **Dota 2** turnauksen. Turnauksesta teki poikkeuksellisen se, että palkintopotti oli jotain, mitä e-urheilussa ei oltu aikaisemmin nähty. Kokonaispotti oli 1.6 miljoonaa dollaria, jonka tarkoituksena oli tuoda julkisuutta uudelle Dota 2 pelille (betalle). Jälkikäteen voitanee todeta, että julkisuustempaus toimi varsin hyvin ja parhaimmillaan palkintopotti on ollut noin 40 miljoonaa dollaria, joka on ollut ns. Battle Passin ansiota, josta tietty prosentti on mennyt suoraan The Internationalin palkintopottiin. 
+Hyppäämme ajassa hieman eteen päin ja vuoteen, jolloin Valve järjesti The International (TI) **Dota 2** turnauksen. Turnauksesta teki poikkeuksellisen se, että palkintopotti oli jotain, mitä e-urheilussa ei oltu aikaisemmin nähty. Kokonaispotti oli 1.6 miljoonaa dollaria, jonka tarkoituksena oli tuoda julkisuutta uudelle Dota 2 pelille (betalle). Jälkikäteen voitanee todeta, että julkisuustempaus toimi varsin hyvin ja parhaimmillaan palkintopotti on ollut noin 40 miljoonaa dollaria, joka on ollut ns. Battle Passin ansiota, josta tietty prosentti on mennyt suoraan The Internationalin palkintopottiin. 
 
 Ennen Dota 2:n julkaisua markkinoille ilmestyi myös **League of Legends (LoL)**, joka otti vaikutteita alkuperäisestä DotA-versiosta. DotA oli Blizzardin kehittämän Warcraft III -pelin modifikaatio tai modi, joka tunnettiin nimellä Defense of the Ancients tai DotA Allstars. Tätä modia jatkokehitti nimimerkki IceFrog, ja hän siirtyikin myöhemmin Valve-yhtiöön kehittämään Dota 2 -peliä. League Of Legends sai myös hyvän vastaanoton ja se panosti selkeään käyttöliittymään, täysin erilainen taiteellinen tyyli ja uusiin pelimekaniikkoihin. Linjoilla tapahtuva taistelu keskittyi enemmän vastustajiin ja mm. linjalalla liikkuvien omien "creeppien" tuhoaminen ei ollut mahdollista. 
 
-Vuonna 2012 markkinoille tuli jälleen uusi versio **Counter Strikesta**. Vaikka 1.6 version jälkeen markkinoilla oli myös Counter Strike:Source, niin kyseinen peli ei koskaan saavuttanut samanlaista suosiota kuin alkuperäinen peli. Myös uusi versio herätti pelaajissa erilaisia tuntemuksia (vertaa CS:GO ja CS 2 tällä hetkellä). Ensimmäiset versiot pelistä olivat huonoja ja todella erilaisia kuin mihin 1.6 pelaajat olivat tottuneet. CS:GO yhdisti huippujoukkuueet 1.6:sta sekä Sourcesta ja seurauksena syntyikin joukkeita, jotka yhdistivät molempien pelien pelaajia. Pelaajat, jotka vaihtoivat heti uuteen peliin saivat ison edun, joka mahdollisty myös historiallisen Ninjas in Pyjamas- joukkueen 87-0 karttaputken. Jotain, mitä tuskin tullaan koskaan rikkomaan johtuen pelaajien tason noususta. Samat lainalaisuuden löytyvät myös muista urheilulajeista, kuten jääkiekosta, jossa entisaikojen supertähdet ovat tehneet kauden aikana maalimääriä, joita monesta syystä tuskin tullaan koskaan rikkomaan.
+Vuonna 2012 markkinoille tuli jälleen uusi versio **Counter Strikesta**. Vaikka 1.6 version jälkeen markkinoilla oli myös Counter Strike:Source, niin kyseinen peli ei koskaan saavuttanut samanlaista suosiota kuin alkuperäinen peli. Myös uusi versio herätti pelaajissa erilaisia tuntemuksia (vertaa CS:GO ja CS 2 tällä hetkellä). Ensimmäiset versiot pelistä olivat huonoja ja todella erilaisia kuin mihin 1.6 pelaajat olivat tottuneet. CS:GO yhdisti huippujoukkueet 1.6:sta sekä Sourcesta ja seurauksena syntyikin joukkueita, jotka yhdistivät molempien pelien pelaajia. Pelaajat, jotka vaihtoivat heti uuteen peliin saivat ison edun, joka mahdollisti myös historiallisen Ninjas in Pyjamas- joukkueen 87-0 karttaputken. Jotain, mitä tuskin tullaan koskaan rikkomaan johtuen pelaajien tason noususta. Samat lainalaisuuden löytyvät myös muista urheilulajeista, kuten jääkiekosta, jossa entisaikojen supertähdet ovat tehneet kauden aikana maalimääriä, joita monesta syystä tuskin tullaan koskaan rikkomaan.
 
 2010-luvulla Dota 2, LOL ja Counterstrike ovat olleet isoimpia titteleitä, mutta muita mainitsemisen arvoisia pelejä ovat Blizzardin OverWatch, **PlayerUnknown's Battlegrounds (2017)**, **Fortnite Battle Royal (2017)**, Apex Legends (2019) ja Valorant (2020). Tässä vaiheessa on hyvä huomata, että Starcraft 2 -peliä ei enää listoilla näy. RTS eli Real Time Strategy pelit kokivat kovan kolauksen MOBA (Dota 2, LOL) pelien tulon myötä, joka korosti enemmän joukkuepelin merkitystä ja peligenre onkin osoittaunut myös kasuaaleille pelaajille lähestyttävämmäksi kuin 300 napin painnallusta minuutissa vaativat SC2 ja Warcraft 3. 
 
@@ -114,7 +114,7 @@ Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös C
 
 ---
 
-Yleiskuvan eri lukujen isoista linjoita voi katsoa alla olevasta kuvasta. Olemme tulleet varsin pitkän matka 1970-luvulta ja ensimmäisestä tapahtumastakin on kulunut jo noin viisikymmentä vuotta. Tätä materiaalia lukevien opiskelijoiden vanhemmat ovat siis saattaneet osallistua jo erilaisiin lanitapahtumiin tai harrastavat pelaamista!
+Yleiskuvan eri lukujen isoista linjoista voi katsoa alla olevasta kuvasta. Olemme tulleet varsin pitkän matka 1970-luvulta ja ensimmäisestä tapahtumastakin on kulunut jo noin viisikymmentä vuotta. Tätä materiaalia lukevien opiskelijoiden vanhemmat ovat siis saattaneet osallistua jo erilaisiin lanitapahtumiin tai harrastavat pelaamista!
 
 
 <div align="center">
@@ -126,7 +126,7 @@ Yleiskuvan eri lukujen isoista linjoita voi katsoa alla olevasta kuvasta. Olemme
 
 ---
 
-Historian saatossa myös peleissä jaetut rahasummat ovat alkaneet muodostua varsin suuriksi. Erityisesto DOTA 2 on tuottanut pelaajilleen valtavia summia ja onkin aivan omassa luokassaan verrattuna muihin pelehin vielä historian tässä vaiheessa.
+Historian saatossa myös peleissä jaetut rahasummat ovat alkaneet muodostua varsin suuriksi. Erityisesto DOTA 2 on tuottanut pelaajilleen valtavia summia ja onkin aivan omassa luokassaan verrattuna muihin peleihin vielä historian tässä vaiheessa.
 | Rank | Game            | Total Prize Pool  |
 |------|-----------------|-------------------|
 | 1    | Dota 2          | $308,752,064      |
@@ -190,7 +190,7 @@ Vastaa seuraaviin kysymyksiin mahdollisimman laajasti.
 
 2. Miten e-sports ja pelaaminen ovat vaikuttaneet henkilökohtaiseen kasvuusi? Onko se auttanut kehittämään tiimityötaitoja, ongelmanratkaisukykyä tai muita taitoja, jotka näet hyödyllisinä?
 
-3. Mikä on sytyttänyt intohimosi e-sportsiin ja pelaamiseen? Onko tietty peli, joukkue tai pelaaja, joka on toiminut inspiraationa?
+3. Mikä on sytyttänyt intohimosi e-urheiluun ja pelaamiseen? Onko tietty peli, joukkue tai pelaaja, joka on toiminut inspiraationa?
 
 4. Kuinka olet kokenut E-urheilun yhteisöllisyyden vaikutuksen? Onko sinulla vahvoja yhteyksiä muihin pelaajiin tai yhteisöihin, ja miten tämä on muovannut sinua?
 
@@ -199,7 +199,7 @@ Vastaa seuraaviin kysymyksiin mahdollisimman laajasti.
 
 ### **Tehtävä**: E-urheilun kehittyminen oman genren tai pelin osalta (yksin, pareittain tai pienissä ryhmissä)
 
-Ota mallia aikaisemmasta teorista ja kerro lyhyesti oman pelisi tai genren tärkeimmät saavutukset. Mistä kaikki on saanut alkunsa ja miksi peli/genre on nyt siinä pisteessä kun se on? Mieti tässä yhteydessä kaupunkeja, tapahtua ja organisaatioita.  Jos peli ei mielestäsi ole niin suosittu kuin se antaisisi, niin mieti myös tähän mahdollisia syitä. 
+Ota mallia aikaisemmasta teoriasta ja kerro lyhyesti oman pelisi tai genren tärkeimmät saavutukset. Mistä kaikki on saanut alkunsa ja miksi peli/genre on nyt siinä pisteessä kun se on? Mieti tässä yhteydessä kaupunkeja, tapahtua ja organisaatioita.  Jos peli ei mielestäsi ole niin suosittu kuin se antaisisi, niin mieti myös tähän mahdollisia syitä. 
 
 ### **Tehtävä**: E-urheilukaupungit Köln ja Katowice (pareittain tai pienissä ryhmissä)
 
