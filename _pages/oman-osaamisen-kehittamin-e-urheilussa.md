@@ -38,13 +38,12 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=1vN2H0rzd5U" title="How to use modern tools to develop aim by Styko">
-    <img src="http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg" alt="How to use modern tools to develop aim by Styko" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
+    <img src="http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg" alt="How to use modern tools to develop aim by Styko" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto; height: auto;">
   </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto;text-align: left;">
     Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.
   </p>
-
+ </div>
 Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin koneptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
 
 ### Liikkuminen
@@ -117,12 +116,12 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc." title= "The Competitive Advantage of Teamwork with Patrick Lencioni">
-    <img src="http://img.youtube.com/vi/cIGLI3eWfsc/0.jpg" alt="The Competitive Advantage of Teamwork with Patrick Lencioni" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
+    <img src="http://img.youtube.com/vi/cIGLI3eWfsc/0.jpg" alt="The Competitive Advantage of Teamwork with Patrick Lencioni" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto; height: auto;">
   </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Kilpailuedun saavuttaminen yhteistyöllä.
   </p>
+  </div>
 ---
 
 ## Konfliktinratkaisu
@@ -193,13 +192,12 @@ Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit komm
 
   <div align="center"> 
   <a href="https://www.youtube.com/watch?v=dbvz1cn1PpU" title="Team Comms: NaVi takes apart Vitality with English Subs">
-    <img src="http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg" alt="Example of esports communication by NAVI" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
+    <img src="http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg" alt="Example of esports communication by NAVI" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto; height: auto;">
   </a>
-</div>
-<p style="max-width: 100%; margin: 0 auto;">
+<p style="max-width: 100%; margin: 0 auto; text-align: left;">
   Esimerkki Navin kommunikaatiosta.
 </p>
-
+  </div>
 
 
 2. Analysoi parin kanssa Faze-G2 pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
@@ -210,13 +208,12 @@ Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputuloksee
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8owi_WvrGuk" title="Team Comms: JKS and ROPZ 2v5 IEM Katowice 2022">
-    <img src="http://img.youtube.com/vi/8owi_WvrGuk/0.jpg" alt="Clutch communication by Faze" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
+    <img src="http://img.youtube.com/vi/8owi_WvrGuk/0.jpg" alt="Clutch communication by Faze" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto; height: auto;">
   </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto: text">
     JKS ja Ropz 2v5 tilanteen pelaaminen ja kommunikaatio.
   </p>
-
+</div>
 
 Nykyään on ainakin kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi:
 1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
@@ -235,13 +232,12 @@ Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. U
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault" title = "Tec 9 master">
-    <img src="http://img.youtube.com/vi/edigZqRlMeI/0.jpg" alt="Tec9 too good" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
+    <img src="http://img.youtube.com/vi/edigZqRlMeI/0.jpg" alt="Tec9 too good" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto; height: auto;">
   </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto;">
+  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Tec9 oli pienen hetken ase, joka teki jokaisesta kierroksesta voitettavan. Olofmaister sai aseen takia lempinimen "Tec9master".
   </p>
-
+ </div>
 
 
 ### Oman ja joukkueen tekemisen analysointi
@@ -391,7 +387,7 @@ Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi 
 
 ## Laaja tehtävä innokkaille opiskelijoille
 <details>
-<Summary>Suunnitelkaa ja toteuttakaa oma pienen mittakaavat esports-pelikurssi! </Summary>
+<Summary>**Paina:** Suunnitelkaa ja toteuttakaa oma pienen mittakaavat esports-pelikurssi! </Summary>
 
 ### Tehtävän kuvaus
 

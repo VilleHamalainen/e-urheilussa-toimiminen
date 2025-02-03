@@ -16,12 +16,7 @@ permalink: /johdatus-e-urheiluun/
   - <a href="#e-urheilun-historia">E-urheilun historia</a>
   - <a href="#e-urheilu-suomessa">E-urheilu Suomessa</a>
   - <a href="#e-urheilun-koulutus-suomessa">E-urheilun koulutus Suomessa</a>
-  - <a href="#tehtavia">Tehtäviä</a>
-    - <a href="#tehtava-mina-e-urheilijana-ja-pelaajana">Tehtävä: Minä e-urheilijana ja pelaajana</a>
-    - <a href="#tehtava-e-urheilun-kehitys-oman-genren-tai-pelin-osalta">Tehtävä: E-urheilun kehitys oman genren tai pelin osalta</a>
-    - <a href="#tehtava-e-urheilukaupungit-koln-ja-katowice">Tehtävä: E-urheilukaupungit Köln ja Katowice</a>
   - <a href="#e-urheilun-tulevaisuuden-nakymat">E-urheilun tulevaisuuden näkymät</a>
-    - <a href="#tehtava-tulevaisuuden-visio">Tehtävä: Tulevaisuuden visio</a>
   - <a href="#materiaaleja">Materiaaleja</a>
   - <a href="#seuraava-aihe">Seuraava aihe</a>
 
@@ -35,10 +30,11 @@ permalink: /johdatus-e-urheiluun/
 
 ## **Tehtävä:** Mitä kaikkea e-urheiluun liittyy?
 
-Mitä kaikkea muuta <b>e-urheilun ekosysteemiin</b> kuuluu? Mikä on ekosysteemi? Yksi näkemys aiheeseen löytyy painamalla alapuolella olevaa nuolta.
+Mitä kaikkea muuta <b>e-urheilun ekosysteemiin</b> kuuluu? Mikä on ekosysteemi? Yksi näkemys aiheeseen löytyy painamalla alapuolella olevaa tekstiä.
 
 <details>
-  <summary>Kuva ekosysteemistä</summary>
+  <summary>**Paina:**Kuva ekosysteemistä**</summary>
+
   <img src="https://villehamalainen.github.io/e-urheilussa-toimiminen/Kuvat/esportsecosystem.png" alt="Esports Ecosystem">
 </details>
 
@@ -195,7 +191,7 @@ E-urheilun koulutus on tärkeä osa nuorten urapolkuja. Oppilaitokset tarjoavat 
 
 Esimerkiksi [Jamk, Gradia ja JYU](https://coesports.gg/) pyrkivät nostamaan Jyväskylän e-urheiluosaamisen ja näkyvyyden seuraavalle tasolle.
 
-Myös [AhlmanEdu Tampereella](https://www.mtvuutiset.fi/artikkeli/suomessa-on-yksi-koulu-jossa-voi-opiskella-e-urheilun-ammattilaiseksi-mtv-selvitti-mihin-silla-tahdataan/8716096#gs.2hmh4p)tarjoaa koulutusta e-urheilun saralla, ja Helsingin Aalto-yliopistolla järjestetään vuosittain [peleihin ja e-urheiluun liittyviä tapahtumia](https://gamesnow.aalto.fi/gn-lectures-2023-24/). Tässä on vain muutamia nostoja ja erilaisia avauksia e-urheiluun liittyen tehdään ympäri Suomea.
+Myös [AhlmanEdu Tampereella](https://www.mtvuutiset.fi/artikkeli/suomessa-on-yksi-koulu-jossa-voi-opiskella-e-urheilun-ammattilaiseksi-mtv-selvitti-mihin-silla-tahdataan/8716096#gs.2hmh4p) tarjoaa koulutusta e-urheilun saralla, ja Helsingin Aalto-yliopistolla järjestetään vuosittain [peleihin ja e-urheiluun liittyviä tapahtumia](https://gamesnow.aalto.fi/gn-lectures-2023-24/). Tässä on vain muutamia nostoja ja erilaisia avauksia e-urheiluun liittyen tehdään ympäri säännöölisesti ympäri Suomea.
 
 
 ---
@@ -252,7 +248,7 @@ E-urheilun kasvava suosio voi johtaa uusien koulutus- ja harjoitusympäristöjen
 
 ---
 
-## **Tehtävä**: Tulevaisuuden visio (pareittain tai pienissä ryhmissä)
+### **Tehtävä**: Tulevaisuuden visio (pareittain tai pienissä ryhmissä)
 
 1. Pohdi, miten uudet teknologiat voivat muuttaa e-urheilua.
 2. Luo oma visio siitä, miltä e-urheilu näyttää 5–10 vuoden päästä.

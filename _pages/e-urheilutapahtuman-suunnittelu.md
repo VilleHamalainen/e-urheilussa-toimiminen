@@ -13,9 +13,6 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 - <a href="#moduuli-1-e-urheilutapahtuman-suunnittelu">Moduuli 1: E-urheilutapahtuman suunnittelu</a>
   - <a href="#tapahtuman-luonteen-ja-kohderyhman-valinta">Tapahtuman luonteen ja kohderyhmän valinta</a>
   - <a href="#tapahtuman-luonne">Tapahtuman luonne</a>
-    - <a href="#kilpailulliset-e-urheilutapahtumat">Kilpailulliset e-urheilutapahtumat</a>
-    - <a href="#yhteisolliset-e-urheilutapahtumat">Yhteisölliset e-urheilutapahtumat</a>
-    - <a href="#hybridi-e-urheilutapahtumat">Hybridi e-urheilutapahtumat</a>
   - <a href="#tehtava-tapahtuman-luonne-ja-kohderyhma">Tehtävä: Tapahtuman luonne ja kohderyhmä</a>
   - <a href="#kohdeyleiso">Kohdeyleisö</a>
   - <a href="#tehtava-kohdeyleison-analysointi">Tehtävä: Kohdeyleisön analysointi</a>
@@ -29,20 +26,8 @@ permalink: /e-urheilutapahtuman-suunnittelu/
   - <a href="#tehtava-kerro-turnauksesta">Tehtävä: Kerro turnauksesta</a>
   - <a href="#turnauksen-jarjestamisen-muistilista">Turnauksen järjestämisen muistilista</a>
   - <a href="#lan-tapahtuma">Lan-tapahtuma</a>
-    - <a href="#pelipaikat">Pelipaikat</a>
-    - <a href="#logistiikka-ja-turvallisuus">Logistiikka ja turvallisuus</a>
-    - <a href="#yleiso">Yleisö</a>
-    - <a href="#tapahtuman-tunnelma">Tapahtuman tunnelma</a>
   - <a href="#yhteiset-tekijat-online-ja-lan-tapahtumassa">Yhteiset tekijät online- ja lan-tapahtumassa</a>
-    - <a href="#markkinointi-ja-viestinta">Markkinointi ja viestintä</a>
-    - <a href="#budjetointi-ja-rahoitus">Budjetointi ja rahoitus</a>
-    - <a href="#henkilosto-ja-vapaaehtoiset">Henkilöstö ja vapaaehtoiset</a>
   - <a href="#esports-lanin-local-area-network-perusteet">Esports LANin (Local Area Network) perusteet</a>
-    - <a href="#mika-on-reititin-router">Mikä on reititin (router)?</a>
-    - <a href="#mika-on-kytkin-switch">Mikä on kytkin (switch)?</a>
-    - <a href="#vlan-verkot">VLAN-verkot</a>
-    - <a href="#pelilaneissa-kaytetyt-kytkimet">Pelilaneissa käytetyt kytkimet</a>
-    - <a href="#oman-verkon-tarkkailu">Oman verkon tarkkailu</a>
   - <a href="#yhteenveto">Yhteenveto</a>
   - <a href="#tehtava-kyselylomakkeen-suunnittelu">Tehtävä: Kyselylomakkeen suunnittelu</a>
   - <a href="#tehtava-ikarajat-ja-pelien-soveltuvuus">Tehtävä: Ikärajat ja pelien soveltuvuus</a>
@@ -50,28 +35,12 @@ permalink: /e-urheilutapahtuman-suunnittelu/
   - <a href="#tehtava-osi-malli">Tehtävä: OSI-malli</a>
   - <a href="#bonustehtava-lancache-isommille-laneille">Bonustehtävä: LanCache isommille laneille</a>
   - <a href="#striimaus">Striimaus</a>
-    - <a href="#obs-studio">OBS Studio</a>
-    - <a href="#twitch-studio">Twitch Studio</a>
-  - <a href="#tehtavia">Tehtäviä</a>
-    - <a href="#tehtava-vertaile-obs-studioa-ja-twitch-studioa">Tehtävä: Vertaile OBS Studioa ja Twitch Studioa</a>
-    - <a href="#canva">Canva</a>
-    - <a href="#suoratoisto-overlayn-tyypit">Suoratoisto-overlayn tyypit</a>
   - <a href="#yhteenveto">Yhteenveto</a>
-  - <a href="#tehtavia">Tehtäviä</a>
     - <a href="#tehtava-obs-tai-twitch-studion-kaytto-ja-striimauksen-suunnittelu">Tehtävä: OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu</a>
   - <a href="#twitch">Twitch</a>
-    - <a href="#mitä-striimaus-twitchissa-vaatii">Mitä Striimaus Twitchissä vaatii?</a>
-    - <a href="#twitch-tilin-luominen">Twitch-tilin luominen</a>
-    - <a href="#menestyminen-twitchissa">Menestyminen Twitchissä</a>
-    - <a href="#twitch-bannerit">Twitch-bannerit</a>
-  - <a href="#twitchin-pimea-puoli">Twitchin pimeä puoli</a>
-  - <a href="#tehtavia">Tehtäviä</a>
    - <a href="#tehtava-obs-tai-twitch-studion-kaytto-ja-striimauksen-suunnittelu">Tehtävä: OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu</a>
     - <a href="#keskustelu-luokassa">Tehtävä: Oman internetkäyttäytymisen reflektointi</a>
   - <a href="#youtube">YouTube</a>
-    - <a href="#twitch-vodien-siirtaminen-youtubeen">Twitch VODien siirtäminen YouTubeen</a>
-    - <a href="#youtube-bannerit">YouTube-bannerit</a>
-  - <a href="#tehtavia">Tehtäviä</a>
     - <a href="#tehtava-youtube-kanavan-perustaminen-ja-sisallon-jakaminen">Tehtävä: YouTube-kanavan perustaminen ja sisällön jakaminen</a>
   - <a href="#striimauksen-sisallontuotanto-ja-yleison-kiinnittaminen">Striimauksen sisällöntuotanto ja yleisön kiinnittäminen</a>
   - <a href="#seuraava-aihe">Seuraava aihe</a>
@@ -164,7 +133,6 @@ permalink: /e-urheilutapahtuman-suunnittelu/
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/EsportsEventPlanningStairs.png" 
         alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
         style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-	
     <p style="max-width: 100%; margin: 0 auto; text-align: left;">
         E-urheilutapahtuman suunnittelun vaiheet.
     </p>
@@ -365,11 +333,10 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanParty.png" 
         alt="Tekoälyn näkemys lanista." 
         style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-</div>
 <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Tekoälyn näkemys lanitapahtumasta.
 </p>
-
+</div>
 ---
 
 ## E-urheilu LANin (Local Area Network) perusteet
@@ -450,10 +417,10 @@ Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (**Data Link Layer 2**)
 	<img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Kytkin.png" 
 	     alt="Kytkin" 
 	     style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-      </div>
 	 <p style="max-width: 100%; margin: 0 auto; text-align: left;">
 		Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.
 	</p>
+    </div>
 
 ### VLAN-verkot
 
@@ -466,7 +433,6 @@ Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli **VLAN-verkkoihin**
 
 ---
 
-
 ### Pelilaneissa käytetyt kytkimet
 
 Pelilaneissa kytkimen käyttö on erityisen tärkeää. Jokainen laite saa oman kanavansa, kun se liitetään kytkimeen ethernet-kaapelilla. Tämä mahdollistaa sujuvan tiedonsiirron ja vähentää verkon kuormitusta.
@@ -474,12 +440,6 @@ Pelilaneissa kytkimen käyttö on erityisen tärkeää. Jokainen laite saa oman 
 **Huomioitavaa:**
 - **Yleisön lisääminen:** Jos tapahtumaan osallistuu yleisöä, on syytä harkita verkon jakamista pelaajille ja yleisölle erikseen. Tämä varmistaa, että pelaajat saavat parhaan mahdollisen kaistan pelejään varten.
 - **Pelien lataaminen:** Jos pelaajat alkavat ladata pelejä samanaikaisesti, verkko voi kuormittua nopeasti. Ratkaisuna voi olla **LanCache**, jossa peli ladataan kerran ja levitetään sitten verkon sisällä.
-
----
-
-### Oman verkon tarkkailu
-
-Omassa kotiverkossa on syytä olla tietoinen reitittimen asetuksista ja verkon tilasta. Windows-koneella verkon tiedot voidaan tarkistaa `ipconfig`-komennolla.
 
 
 ```console
@@ -503,12 +463,14 @@ Omassa kotiverkossa on syytä olla tietoinen reitittimen asetuksista ja verkon t
    	Subnet Mask . . . . . . . . . . . : 255.255.240.0
    	Default Gateway . . . . . . . . . :
 ```   
+Omassa kotiverkossa on syytä olla tietoinen reitittimen asetuksista ja verkon tilasta. Windows-koneella verkon tiedot voidaan tarkistaa `ipconfig`-komennolla.
 
-Enempää ei tässä yhteydessä verkkoteknologiaa käydä läpi. Alla linkkejä asiasta kiinnostuneille.
 
 ---
 
 ### Resursseja
+
+Enempää ei tässä yhteydessä verkkoteknologiaa käydä läpi. Alla linkkejä asiasta kiinnostuneille.
 
 - [What-is-network-infrastructure](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-network-infrastructure.html)
 - [What is a lan](https://www.cloudflare.com/learning/network-layer/what-is-a-lan/)
@@ -555,11 +517,10 @@ Selvitä, mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat 
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/OSImalli.png" 
         alt="OSI-malli" 
         style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-	</div>
     <p style="max-width: 100%; margin: 0 auto; text-align: left;">
         OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.
     </p>
-
+</div>
 ---
 
 ### **Bonustehtävä**: LanCache isommille laneille
