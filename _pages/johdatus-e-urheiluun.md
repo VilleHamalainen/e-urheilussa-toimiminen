@@ -6,6 +6,8 @@ permalink: /johdatus-e-urheiluun/
 
 # Moduuli 0: Johdatus e-urheiluun
 
+---
+
 ## Sisällysluettelo
 
 - <a href="#moduuli-0-johdatus-e-urheiluun">Moduuli 0: Johdatus e-urheiluun</a>
@@ -22,6 +24,8 @@ permalink: /johdatus-e-urheiluun/
     - <a href="#tehtava-tulevaisuuden-visio">Tehtävä: Tulevaisuuden visio</a>
   - <a href="#materiaaleja">Materiaaleja</a>
   - <a href="#seuraava-aihe">Seuraava aihe</a>
+
+---
 
 ## E-urheilun määritelmä
 
@@ -197,6 +201,8 @@ Myös [AhlmanEdu Tampereella](https://www.mtvuutiset.fi/artikkeli/suomessa-on-yk
 ---
 
 ## Tehtäviä
+
+---
 
 ### **Tehtävä**: Minä e-urheilijana ja pelaajana
 

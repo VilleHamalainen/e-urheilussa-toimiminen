@@ -2,9 +2,77 @@
 layout: default
 title: E-urheilutapahtuman toteuttaminen
 permalink: /e-urheilutapahtuman-toteuttaminen/
+
 ---
 
 # E-urheilutapahtuman toteuttaminen
+
+---
+
+## Sisällysluettelo
+
+- [Roolit ja tehtävät tapahtuman aikana](#roolit-ja-tehtavat-tapahtuman-aikana)  
+  - Tapahtumien onnistunut toteuttaminen vaatii huolellista suunnittelua ja monia rooleja, jotka ovat usein yleisöltä piilossa.  
+  - Vaikka valmistelut olisivatkin perusteellisia, tekniset ongelmat ovat yleisiä.  
+  - Suunnitteluvaiheen kertaaminen auttaa hahmottamaan toteutuksen laajuuden.  
+
+- [Mahdolliset ongelmat](#mahdolliset-ongelmat)  
+  - [Yhteysongelmat](#yhteysongelmat): Internet-katkokset voivat estää osallistumisen.  
+  - [Laitteistoviat](#laitteistoviat): Rikkoutuneet laitteet voivat aiheuttaa viivästyksiä.  
+  - [Pelipalvelinongelmat](#pelipalvelinongelmat): Palvelimen kaatumiset voivat häiritä aikatauluja.  
+  - [Pelin kaatuminen tai bugit](#pelin-kaatuminen-tai-bugit): Pelin sisäiset ongelmat voivat aiheuttaa viivästyksiä.  
+  - [Aikavyöhykkeiden erot](#aikavyohykkeiden-erot): Kansainvälisissä turnauksissa voivat aiheuttaa sekaannusta.  
+  - [Säännöistä poikkeaminen](#saannoista-poikkeaminen): Huijaaminen ja muut sääntörikkomukset vaativat nopeita ratkaisuja.  
+  - [Pelaajien väsymys](#pelaajien-vasymys): Pitkät turnaukset voivat uuvuttaa pelaajia.  
+  - [Sääntömuutokset](#saantomuutokset): Viime hetken päivitykset voivat sekoittaa pelaajia.  
+  - [Lähetyksen katkeaminen](#lahetyksen-katkeaminen): Tekniset ongelmat heikentävät katselukokemusta.  
+  - [Pelaajien poissaolot](#pelaajien-poissaolot): Viisumiongelmat ja muut syyt voivat aiheuttaa pelaajien poissaoloja.  
+  - [Yleisöongelmat](#yleisoongelmat): Ongelmat tilojen, turvallisuuden tai hallinnan kanssa.  
+  - [Sponsoriongelmat](#sponsoriongelmat): Jos tavoitteita ei saavuteta, sponsorit voivat menettää kiinnostuksensa.  
+
+- [Avainroolit e-urheilutapahtumien hallinnassa](#avainroolit-e-urheilutapahtumien-hallinnassa)  
+  - [Tapahtuma- ja pelimanagerit](#tapahtuma-ja-pelimanagerit): Toimivat tuomareina ja varmistavat reilun pelin.  
+  - [Tekninen henkilöstö](#tekninen-henkilosto): Hallinnoi laitteistoja, verkkoja ja suoratoistoa.  
+  - [Tapahtuman juontajat](#tapahtuman-juontajat): Toimivat pääpuhujina ja viihdyttäjinä.  
+  - [Selostajat](#selostajat): Tarjoavat analyysiä ja tulkitsevat pelitapahtumia.  
+  - [Viestintä](#viestinta): Keskittyy tapahtuman mainostamiseen ja suhteisiin.  
+  - [Tapahtuman järjestäjät](#tapahtuman-jarjestajat): Hoitavat suunnittelun ja logistiikan.  
+  - [Muu henkilöstö](#muu-henkilosto): Vastaavat turvallisuudesta, myynnistä ja siivouksesta.  
+  - [Tapahtuman jälkityö](#tapahtuman-jalkityo): Data-analyytikot ja palautetiimi.  
+
+- [Turnauksen aikainen ja jälkeinen muistilista](#turnauksen-aikainen-ja-jalkeinen-muistilista)  
+  - **[Turnauksen aikana](#turnauksen-aikana):** Tiimin valmistelu, viestinnän tarkistaminen, aikataulun hallinta, tuomareiden varmistaminen, tiimiroolien määrittely, pisteiden ilmoittaminen, tilastojen valmistelu, keskustelujen moderoiminen, pelaajien tukeminen, tiedotusten jakaminen ja lähetettävien otteluiden valinta.  
+  - **[Turnauksen jälkeen](#turnauksen-jalkeen):** Juhliminen, palautteen kerääminen, raportin laatiminen, palkintojen jaon valvonta, sosiaalisen median julkaisut, palkintojenjakotilaisuus, datan analysointi ja tulosten jakaminen.  
+
+- [E-urheilutapahtuman toimintasuunnitelma ja avainroolit](#e-urheilutapahtuman-toimintasuunnitelma-ja-avainroolit)  
+  - **[Juontaminen ja selostaminen](#juontaminen-ja-selostaminen)**  
+    - [Juontajat](#juontajat): Esittelevät joukkueet, ilmoittavat aikataulut, haastattelevat pelaajia.  
+    - [Selostajat](#selostajat): Tarjoavat pelianalyysiä ja välittävät jännitystä.  
+  - **[Lähetyskanavan valvonta ja moderointi](#lahetyskanavan-valvonta-ja-moderointi)**  
+    - [Moderaattorit](#moderaattorit): Valvovat chatia ja puuttuvat häiriökäyttäytymiseen.  
+    - [Lähetyksen valvojat](#lahetyksen-valvojat): Varmistavat lähetyksen sujuvuuden ja ratkaisevat teknisiä ongelmia.  
+
+- [Teknisten ongelmien hallinta](#teknisten-ongelmien-hallinta)  
+  - **[Verkko-ongelmat](#verkko-ongelmat)**  
+    - Yleisimmät ongelmat ovat viivepiikit, pakettihäviö ja DDoS-hyökkäykset.  
+    - Valmistautumiseen kuuluu nopeiden yhteyksien käyttö ja verkon valvontatyökalut.  
+  - **[Laitteistoviat](#laitteistoviat)**  
+    - Yleisiä ongelmia ovat tietokoneiden kaatumiset ja oheislaitteiden toimintahäiriöt.  
+    - Valmistautumiseen kuuluu laadukkaat testatut laitteet, varaosat ja jäähdytys.  
+
+- [Oman osaamisen kehittäminen e-urheilussa](#oman-osaamisen-kehittaminen-e-urheilussa)  
+  - **[Pelillinen kehittyminen](#pelillinen-kehittyminen)**  
+    - E-urheilu vaatii taitoa, strategiaa ja henkistä kanttia.  
+    - Pelityylit vaihtelevat eri pelien välillä, mutta monet periaatteet ovat samat.  
+    - Esimerkiksi Counter-Strike vaatii ampumistaitojen lisäksi karttatuntemusta ja pelimekaniikan ymmärrystä.  
+    - [Kommunikaatio](#kommunikaatio) on tärkeää joukkuepeleissä, ja joukkueilla voi olla omat "koodikielet".  
+  - **[Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)**  
+    - [Tiimikokoukset](#tiimikokoukset): Säännölliset tapaamiset ovat tarpeen strategioiden ja heikkouksien käsittelyyn.  
+    - [Vertaispalaute](#vertaispalaute): Rakentava palaute on tärkeää ilman syyllistämistä.  
+    - [Retrospektiivit](#retrospektiivit): Viikoittaiset arvioinnit voivat auttaa kehittymään.  
+    - [Tiimitekeminen](#tiimitekeminen): Tiimipelit ja aktiviteetit voivat parantaa yhteistyötä.
+
+---
 
 ## Tapahtuman aikana olevat roolitukset ja tehtävät
 

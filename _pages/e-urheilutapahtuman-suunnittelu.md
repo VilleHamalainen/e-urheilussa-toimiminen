@@ -7,6 +7,78 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
 # Moduuli 1: E-urheilutapahtuman suunnittelu
 
+---
+# Sisällysluettelo
+
+- <a href="#moduuli-1-e-urheilutapahtuman-suunnittelu">Moduuli 1: E-urheilutapahtuman suunnittelu</a>
+  - <a href="#tapahtuman-luonteen-ja-kohderyhman-valinta">Tapahtuman luonteen ja kohderyhmän valinta</a>
+  - <a href="#tapahtuman-luonne">Tapahtuman luonne</a>
+    - <a href="#kilpailulliset-e-urheilutapahtumat">Kilpailulliset e-urheilutapahtumat</a>
+    - <a href="#yhteisolliset-e-urheilutapahtumat">Yhteisölliset e-urheilutapahtumat</a>
+    - <a href="#hybridi-e-urheilutapahtumat">Hybridi e-urheilutapahtumat</a>
+  - <a href="#tehtava-tapahtuman-luonne-ja-kohderyhma">Tehtävä: Tapahtuman luonne ja kohderyhmä</a>
+  - <a href="#kohdeyleiso">Kohdeyleisö</a>
+  - <a href="#tehtava-kohdeyleison-analysointi">Tehtävä: Kohdeyleisön analysointi</a>
+  - <a href="#peligenren-valinta-ja-ymmartaminen">Peligenren valinta ja ymmärtäminen</a>
+  - <a href="#tapahtuman-koko-ja-sen-vaikutus-jarjestelyihin-ja-resursseihin">Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin</a>
+  - <a href="#online-tapahtuma">Online-tapahtuma</a>
+  - <a href="#faceit-turnauspohjana">Faceit turnauspohjana</a>
+  - <a href="#tehtava-suunnittele-turnaus">Tehtävä: Suunnittele turnaus</a>
+  - <a href="#tehtava-rekisteroityminen-ja-joukkueiden-muodostaminen">Tehtävä: Rekisteröityminen ja joukkueiden muodostaminen</a>
+  - <a href="#tehtava-toteuta-turnaus">Tehtävä: Toteuta turnaus</a>
+  - <a href="#tehtava-kerro-turnauksesta">Tehtävä: Kerro turnauksesta</a>
+  - <a href="#turnauksen-jarjestamisen-muistilista">Turnauksen järjestämisen muistilista</a>
+  - <a href="#lan-tapahtuma">Lan-tapahtuma</a>
+    - <a href="#pelipaikat">Pelipaikat</a>
+    - <a href="#logistiikka-ja-turvallisuus">Logistiikka ja turvallisuus</a>
+    - <a href="#yleiso">Yleisö</a>
+    - <a href="#tapahtuman-tunnelma">Tapahtuman tunnelma</a>
+  - <a href="#yhteiset-tekijat-online-ja-lan-tapahtumassa">Yhteiset tekijät online- ja lan-tapahtumassa</a>
+    - <a href="#markkinointi-ja-viestinta">Markkinointi ja viestintä</a>
+    - <a href="#budjetointi-ja-rahoitus">Budjetointi ja rahoitus</a>
+    - <a href="#henkilosto-ja-vapaaehtoiset">Henkilöstö ja vapaaehtoiset</a>
+  - <a href="#esports-lanin-local-area-network-perusteet">Esports LANin (Local Area Network) perusteet</a>
+    - <a href="#mika-on-reititin-router">Mikä on reititin (router)?</a>
+    - <a href="#mika-on-kytkin-switch">Mikä on kytkin (switch)?</a>
+    - <a href="#vlan-verkot">VLAN-verkot</a>
+    - <a href="#pelilaneissa-kaytetyt-kytkimet">Pelilaneissa käytetyt kytkimet</a>
+    - <a href="#oman-verkon-tarkkailu">Oman verkon tarkkailu</a>
+  - <a href="#yhteenveto">Yhteenveto</a>
+  - <a href="#tehtava-kyselylomakkeen-suunnittelu">Tehtävä: Kyselylomakkeen suunnittelu</a>
+  - <a href="#tehtava-ikarajat-ja-pelien-soveltuvuus">Tehtävä: Ikärajat ja pelien soveltuvuus</a>
+  - <a href="#tehtava-lanin-suunnittelu">Tehtävä: Lanin suunnittelu</a>
+  - <a href="#tehtava-osi-malli">Tehtävä: OSI-malli</a>
+  - <a href="#bonustehtava-lancache-isommille-laneille">Bonustehtävä: LanCache isommille laneille</a>
+  - <a href="#striimaus">Striimaus</a>
+    - <a href="#obs-studio">OBS Studio</a>
+    - <a href="#twitch-studio">Twitch Studio</a>
+  - <a href="#tehtavia">Tehtäviä</a>
+    - <a href="#tehtava-vertaile-obs-studioa-ja-twitch-studioa">Tehtävä: Vertaile OBS Studioa ja Twitch Studioa</a>
+    - <a href="#canva">Canva</a>
+    - <a href="#suoratoisto-overlayn-tyypit">Suoratoisto-overlayn tyypit</a>
+  - <a href="#yhteenveto">Yhteenveto</a>
+  - <a href="#tehtavia">Tehtäviä</a>
+    - <a href="#tehtava-obs-tai-twitch-studion-kaytto-ja-striimauksen-suunnittelu">Tehtävä: OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu</a>
+  - <a href="#twitch">Twitch</a>
+    - <a href="#mitä-striimaus-twitchissa-vaatii">Mitä Striimaus Twitchissä vaatii?</a>
+    - <a href="#twitch-tilin-luominen">Twitch-tilin luominen</a>
+    - <a href="#menestyminen-twitchissa">Menestyminen Twitchissä</a>
+    - <a href="#twitch-bannerit">Twitch-bannerit</a>
+  - <a href="#twitchin-pimea-puoli">Twitchin pimeä puoli</a>
+  - <a href="#tehtavia">Tehtäviä</a>
+   - <a href="#tehtava-obs-tai-twitch-studion-kaytto-ja-striimauksen-suunnittelu">Tehtävä: OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu</a>
+    - <a href="#keskustelu-luokassa">Tehtävä: Oman internetkäyttäytymisen reflektointi</a>
+  - <a href="#youtube">YouTube</a>
+    - <a href="#twitch-vodien-siirtaminen-youtubeen">Twitch VODien siirtäminen YouTubeen</a>
+    - <a href="#youtube-bannerit">YouTube-bannerit</a>
+  - <a href="#tehtavia">Tehtäviä</a>
+    - <a href="#tehtava-youtube-kanavan-perustaminen-ja-sisallon-jakaminen">Tehtävä: YouTube-kanavan perustaminen ja sisällön jakaminen</a>
+  - <a href="#striimauksen-sisallontuotanto-ja-yleison-kiinnittaminen">Striimauksen sisällöntuotanto ja yleisön kiinnittäminen</a>
+  - <a href="#seuraava-aihe">Seuraava aihe</a>
+  - <a href="#edellinen-aihe">Edellinen aihe</a>
+
+---
+
 
 ## Tapahtuman luonteen ja kohderyhmän valinta
 	
@@ -92,11 +164,11 @@ permalink: /e-urheilutapahtuman-suunnittelu/
         src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/EsportsEventPlanningStairs.png" 
         alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
-	</div>
+	
     <p style="max-width: 100%; margin: 0 auto; text-align: left;">
         E-urheilutapahtuman suunnittelun vaiheet.
     </p>
-
+   </div>
    ---
    
 ## Online-tapahtuma
@@ -300,13 +372,12 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
 
 ---
 
-## Esports LANin (Local Area Network) perusteet
+## E-urheilu LANin (Local Area Network) perusteet
 
-- [Lue lisää Wikipedia-artikkelista](https://en.wikipedia.org/wiki/Local_area_network)
 
 <div style="text-align: center; margin: 0 auto;">
     <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/main/Kuvat/DalleLanDevices2.png" 
+        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanDevices2.png" 
         alt="Tekoälyn näkemys lanista ja eri laitteista" 
         style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;">
 </div>
@@ -314,7 +385,7 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
     Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.
 </p>
 
-Lanissa tapahtuva pelaaminen voi olla pienimuotoisia kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa poissaollessa. Toisaalta lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteutettu ammattitason tapahtuma. 
+[Lanissa](https://en.wikipedia.org/wiki/Local_area_network) tapahtuva pelaaminen voi olla pienimuotoisia kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa poissaollessa. Toisaalta lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteutettu ammattitason tapahtuma. 
 
 Vaikka lanin koko vaihtelee, käytössä on yleensä liittymä internetiin, vaikka tämä ei ole pakollista. Internetin ja lanin välinen yhteys hoidetaan reitittimen (router) avulla. Reititin on tärkeä laite, joka ohjaa datapaketteja verkkojen välillä ja varmistaa, että yhteydet toimivat.
 
@@ -498,9 +569,9 @@ Selvittäkää kuinka isommilla laneilla selvitään ilman, että koko verkko ka
 
 ---
 
-## Streamaus
+## Striimaus
 
-  Streamaus eli **suoratoisto** on prosessi, jossa sisältöä lähetetään reaaliajassa internetin välityksellä. Tämä voi sisältää videopelien pelaamista, musiikkiesityksiä, opetusta tai keskustelua. Tutustutaan seuraavaksi tarvittaviin työkaluihin. Lataa aluksi molemmat ohjelmistot:
+  Striimaus eli **suoratoisto** on prosessi, jossa sisältöä lähetetään reaaliajassa internetin välityksellä. Tämä voi sisältää videopelien pelaamista, musiikkiesityksiä, opetusta tai keskustelua. Tutustutaan seuraavaksi tarvittaviin työkaluihin. Lataa aluksi molemmat ohjelmistot:
 
 - **Twitch Studio:** [Lataus Twitch Studio](https://www.twitch.tv/broadcast/studio)
 - **OBS Studio:** [Lataus OBS](https://obsproject.com/)
@@ -542,7 +613,7 @@ Tutustu molempien työkalujen perusominaisuuksiin ja kirjoita lyhyt dokumentti s
 
 2. **Streamin asetukset**
    - Miten streamin eri asetukset (resoluutio, bitrate, framerate) säädetään?
-   - Miten helppoa livestreamaus on eri työkaluilla? Onko eroja?
+   - Miten helppoa liveStriimaus on eri työkaluilla? Onko eroja?
 
 3. **Ominaisuudet**
    - Mitä uniikkeja ominaisuuksia kummallakin ohjelmistolla on? Löytyykö molemmista eri näkymiä (Scene), äänen miksaus, lähteiden filtterit jne.
@@ -605,7 +676,7 @@ Stream-overlayt ja paneelit ovat erityisen tärkeitä Twitchissä, koska niihin 
 
 ## Yhteenveto
 
-Streamaus vaatii sekä teknisen osaamisen että luovuuden. OBS Studio ja Twitch Studio tarjoavat erilaisia ominaisuuksia, jotka sopivat erilaisille käyttäjille. Canva on erinomainen työkalu visuaalisesti näyttävien overlayjen luomiseen. Onnistunut streamaus edellyttää huolellista suunnittelua ja testaamista.
+Striimaus vaatii sekä teknisen osaamisen että luovuuden. OBS Studio ja Twitch Studio tarjoavat erilaisia ominaisuuksia, jotka sopivat erilaisille käyttäjille. Canva on erinomainen työkalu visuaalisesti näyttävien overlayjen luomiseen. Onnistunut striimaus edellyttää huolellista suunnittelua ja testaamista.
 
 ---
 
@@ -613,11 +684,11 @@ Streamaus vaatii sekä teknisen osaamisen että luovuuden. OBS Studio ja Twitch 
 
 **Tehtävä**: Vertaile OBS Studioa ja Twitch Studioa: Kirjoita lyhyt raportti molempien työkalujen hyvistä ja huonoista puolista.
 **Tehtävä**: Luo overlay Canvassa:** Suunnittele ja lataa oma overlay käyttäen Canvaa.
-**Tehtävä**: Testaa streamaus:** Käytä luomaasi overlayta OBS Studioon tai Twitch Studioon ja testaa streamausta.
+**Tehtävä**: Testaa striimin toiminta:** Käytä luomaasi overlayta OBS Studioon tai Twitch Studioon ja testaa striimausta.
 
  ## Twitch
 
-**Twitch** on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena. Nykyään se tarjoaa myös monipuolista muuta sisältöä, kuten taidetta, musiikkia ja erilaisia IRL-streameja. Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia "Bitsillä" tai suorilla lahjoituksilla.
+**Twitch** on suoratoistoalusta, joka on tullut tunnetuksi online-pelaamisen ja e-urheilun keskuksena. Nykyään se tarjoaa myös monipuolista muuta sisältöä, kuten taidetta, musiikkia ja erilaisia IRL-striimeja. Twitch on suunniteltu erityisesti live-lähetyksiin, mahdollistaen suoraa vuorovaikutusta yleisön kanssa reaaliajassa. Alusta korostaa yhteisöllisyyttä ja vuorovaikutusta live-chatin muodossa, jossa katsojat voivat olla suoraan yhteydessä striimaajiin ja toisiinsa. Katsojat voivat seurata kanavia ilmaiseksi tai tilata ne kuukausimaksua vastaan tukeakseen lempistriimaajiaan. Tilaajille on usein tarjolla etuja, kuten omat emotet ja mainosvapaat katselut. Lisäksi Twitchillä on sisäänrakennettu järjestelmä, jossa katsojat voivat tukea striimaajia "Bitsillä" tai suorilla lahjoituksilla.
 
 Striimaajat voivat hakea **Affiliate**- tai **Partner**-ohjelmiin, jotka tarjoavat erilaisia lisäetuja, mutta vaativat myös enemmän panostusta streamaukseen.
 
@@ -627,7 +698,7 @@ Striimaajat voivat hakea **Affiliate**- tai **Partner**-ohjelmiin, jotka tarjoav
 
 ---
 
-### **Mitä streamaus Twitchissä vaatii?**
+### **Mitä striimaus Twitchissä vaatii?**
 
 Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit personoida kanavasi bannereilla, kuvauksilla ja sosiaalisen median linkeillä. Twitchiin streamaamiseen tarvitset ohjelmiston, kuten **OBS Studion**, **Streamlabs OBS:n** tai **Twitch Studion**, joiden avulla voidaan jakaa pelikuvaa, web-kameran ja muita elementtejä.
 
@@ -640,18 +711,18 @@ Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit perso
    - Harkitse, käytätkö omaa tiliäsi vai luotko erillisen tunnuksen kurssia varten.
    - Ota käyttöön kaksivaiheinen tunnistautuminen (two-factor authentication) turvallisuuden parantamiseksi.
 
-2. **Liitä streamausohjelmisto Twitchiin:**
+2. **Liitä striimausohjelmisto Twitchiin:**
    - Käytä **stream-avainta** liittääksesi OBS Studion Twitchiin. Avaimen löydät **Asetukset -> Lähetys** -valikon takaa.
      ![Lähetys](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys1.png)
      ![Stream-avain](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys2.png)
    - Varmista, että OBS:n asetukset ovat kunnossa. Testaa streamia menemättä live-tilaan.
-   - Mene liveen ja testaa streamausta rohkeasti omalla porukalla.
+   - Mene liveen ja testaa striimausta rohkeasti omalla porukalla.
 
 ---
 
 ### Menestyminen Twitchissä
 
-Menestyminen Twitchissä vaatii kiinnostavan ja johdonmukaisen sisällön tuottamista sekä säännöllisiä streamausaikatauluja. Lisäksi on tärkeää olla vuorovaikutuksessa katsojien kanssa streameissä, chatissa ja muilla alustoilla, kuten Discordissa ja YouTubessa. Yhteistyö muiden striimaajien kanssa ja osallistuminen Twitch-yhteisöihin auttaa oman yhteisön rakentamisessa.
+Menestyminen Twitchissä vaatii kiinnostavan ja johdonmukaisen sisällön tuottamista sekä säännöllisiä striimausaikatauluja. Lisäksi on tärkeää olla vuorovaikutuksessa katsojien kanssa streameissä, chatissa ja muilla alustoilla, kuten Discordissa ja YouTubessa. Yhteistyö muiden striimaajien kanssa ja osallistuminen Twitch-yhteisöihin auttaa oman yhteisön rakentamisessa.
 
 Twitch-chatilla on oma kulttuurinsa ja norminsa, joiden ymmärtäminen ja moderointi ovat tärkeitä. Twitch tarjoaa ohjeita striimauksen aloittamiseen: [Twitch Creator Camp](https://www.twitch.tv/creatorcamp/en/paths/going-live/setting-up-your-stream/).
 
@@ -665,7 +736,30 @@ Tarkemmat tiedot Twitch-elementtien kokoista löydät: [Canva Twitch-suositukset
 
 ---
 
+
+
+
+### Twitchin pimeä puoli
+
+Twitch kärsii samoista ongelmista kuin muutkin sosiaaliset mediat. Alustalla on havaittavissa ongelmia sukupuolten tasa-arvon ja inklusiivisuuden osalta. Naispuoliset striimaajat ja vähemmistöt saattavat kohdata seksismiä, rasismia ja epäasiallisia kommentteja, mikä voi vaikeuttaa heidän menestymistään.
+
+Twitch on toteuttanut useita toimenpiteitä parantaakseen ympäristöään, kuten käyttäjien käyttäytymissääntöjen päivittämisen ja moderaattorityökalujen parantamisen. Jatkuvat ponnistelut ovat kuitenkin välttämättömiä, jotta Twitch voi olla turvallinen ja inklusiivinen alusta kaikille käyttäjille.
+
+**Lisätietoja:**
+- [Ylen Areena: Twitchin pimeä puoli](https://areena.yle.fi/1-66964296) (Julkaistu 7.1.2024, poistuu 28.2.2025)
+- [Tutkimus Twitchin yhteisöstä](https://dl.acm.org/doi/fullHtml/10.1145/3452918.3458794)
+
+---
+
 ## Tehtäviä
+
+---
+
+### **Tehtävä:** Oman internekäyttäytymisen relfektointi**
+   - Onko joku itse osallistunut toimintaan, joka nykyään hävettää jossain vastaavanlaisessa palvelussa?
+   - Onko joku kohdannut Twitchissä tai muissa sosiaalisissa medioissa/peleissä vihamielisiä tilanteita?
+   - Miten jokainen meistä voi itse vaikuttaa siihen, ettei osallistu kiusaamiseen?
+   - Miten toimit tai olet toiminut, jos olet kohdannut kiusaamista verkossa?
 
 ### **Tehtävä:** OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu
 
@@ -705,28 +799,6 @@ Tehtävänä on suunnitella, valmistella ja toteuttaa suoratoistolähetys käytt
 
 ---
 
-### Twitchin pimeä puoli
-
-Twitch kärsii samoista ongelmista kuin muutkin sosiaaliset mediat. Alustalla on havaittavissa ongelmia sukupuolten tasa-arvon ja inklusiivisuuden osalta. Naispuoliset striimaajat ja vähemmistöt saattavat kohdata seksismiä, rasismia ja epäasiallisia kommentteja, mikä voi vaikeuttaa heidän menestymistään.
-
-Twitch on toteuttanut useita toimenpiteitä parantaakseen ympäristöään, kuten käyttäjien käyttäytymissääntöjen päivittämisen ja moderaattorityökalujen parantamisen. Jatkuvat ponnistelut ovat kuitenkin välttämättömiä, jotta Twitch voi olla turvallinen ja inklusiivinen alusta kaikille käyttäjille.
-
-**Lisätietoja:**
-- [Ylen Areena: Twitchin pimeä puoli](https://areena.yle.fi/1-66964296) (Julkaistu 7.1.2024, poistuu 5.4.2024)
-- [Tutkimus Twitchin yhteisöstä](https://dl.acm.org/doi/fullHtml/10.1145/3452918.3458794)
-
----
-
-## Tehtäviä
-
-1. **Keskustelu luokassa:**
-   - Onko joku itse osallistunut toimintaan, joka nykyään hävettää?
-   - Onko joku kohdannut Twitchissä tai muissa sosiaalisissa medioissa/peleissä vihamielisiä tilanteita?
-   - Miten jokainen meistä voi itse vaikuttaa siihen, ettei osallistu kiusaamiseen?
-   - Miten toimit tai olet toiminut, jos olet kohdannut kiusaamista verkossa?
-
----
-
 ## YouTube
 
 **YouTube** on yksi maailman käytetyimmistä videonjakopalveluista, joka tarjoaa erilaisia tapoja ansaita, kuten mainostulot, kanavan jäsenyydet ja superchat-viestit. YouTube-videot ja -streamit hyötyvät Googlen hakukoneoptimoinnista, mikä auttaa sisällön löytymistä ja laajempaa näkyvyyttä. Toisin kuin Twitchissä, YouTube säilyttää sisällön pysyvästi, joten videot voivat kerätä katsojia vielä vuosienkin jälkeen.
@@ -753,6 +825,8 @@ Tarkemmat tiedot YouTube-elementtien kokoista löydät: [Canva YouTube-suosituks
 
 ## Tehtäviä
 
+---
+
 ### **Tehtävä:** YouTube-kanavan perustaminen ja sisällön jakaminen
 
 1. Tutustu YouTube Creator -ohjeisiin: [YouTube Creator Academy](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ).
@@ -762,7 +836,7 @@ Tarkemmat tiedot YouTube-elementtien kokoista löydät: [Canva YouTube-suosituks
 
 ---
 
-## striimauksen sisällöntuotanto ja yleisön kiinnittäminen
+## Striimauksen sisällöntuotanto ja yleisön kiinnittäminen
 
 - [Ludwigin ohjeet streamaukseen](https://www.youtube.com/watch?v=0i9gkprYekI&ab_channel=Ludwig)
 - [Ilmainen kurssi e-urheiluseuran perustamiseen](https://www.udemy.com/course/how-to-start-esports-club/)

@@ -6,6 +6,21 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
 
 # Oman osaamisen kehittäminen e-urheilussa
 
+---
+
+## Sisällysluettelo
+- [Pelilliset taidot](#pelilliset-taidot)
+- [Tiimityö ja kommunikaatio](#tiimityo-ja-kommunikaatio)
+- [Konfliktinratkaisu](#konfliktinratkaisu)
+- [Johtajuustaidot](#johtajuustaidot)
+- [Harjoittelu ja analyysi](#harjoittelu-ja-analyysi)
+- [Fyysinen ja henkinen hyvinvointi](#fyysinen-ja-henkinen-hyvinvointi)
+- [Liiketoiminta ja henkilöbrändin rakentaminen](#liiketoiminta-ja-henkilobrandin-rakentaminen)
+- [Kieli ja kulttuurinen tietoisuus](#kieli-ja-kulttuurinen-tietoisuus)
+- [Uramahdollisuudet](#uramahdollisuudet)
+
+---
+
 ## Pelillinen kehittyminen
 
 E-urheilu ei periaatteessa eroa perinteisestä urheilusta niin paljon kuin voisi kuvitella. Pelien pelaaminen ja niissä kilpaileminen vaativat taitoa, strategiaa ja henkistä kanttia. Tässä tutkinnon osassa keskustelemme asioista usein Counter Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tietenkin pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa HearthStonea ja Counterstrikea suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
