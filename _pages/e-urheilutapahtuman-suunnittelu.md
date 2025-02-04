@@ -189,7 +189,6 @@ GradiaCupin kannalta meille tärkeä alusta on FaceIt ja siihen perehtyminen, ko
 
 ---
 
-
 ### **Tehtävä:** Suunnittele turnaus (ryhmätehtävä)
 
 1. **Perustakaa testiturnaus FACEIT-palveluun.**  
@@ -209,7 +208,6 @@ GradiaCupin kannalta meille tärkeä alusta on FaceIt ja siihen perehtyminen, ko
 *Formaatin valinta on ratkaisevassa roolissa turnauksen onnistumisen kannalta.*
 
 ---
-
 
 1. **Suunnitelkaa turnauksen aikataulu.**  
    Miettikää:  
@@ -385,9 +383,7 @@ Reititin hoitaa myös IP-osoitteiden hallinnan ja mahdollistaa laitteiden välis
 
 IPv4-protokollassa oli noin 4,3 miljardia IP-osoitetta, mutta NAT (Network Address Translation) kehitettiin, jotta useat laitteet voivat jakaa yhden julkisen IP-osoitteen. Nykyään IPv6-protokolla, joka käyttää 128-bittisiä osoitteita, ratkaisee IP-osoitteiden puutteen.
 
-
 Reitittimiä on useita erilaisia, mutta tässä yhteydessä puhumme pienemmän mittakaavan reittimistä kuten kodin reititin. Reititin on laite, joka välittää datapaketteja verkkojen välillä. Reititintä voi ajatella vaikkapa liikenteen ohjaajana, joka pitää huolta, että datapaketit löytävät oikeaan julkiseen IP (Internet Protocol)-osoitteeseen. Samassa verkossa olevilla koneilla on omat privaatit IP-osoitteet, joiden avulla laitteet tunnistavat ja kommunikoivat keskenään. Pelatessasi Counter Strikea tai Valoranttia, muuttuvat ammukset ja pelaajan liikkeet datapaketeiksi, jotka lähtevät pelivalvelimelle. Jos pelipalvelin on hostattuna lanin sisällä (jonkun koneella), hoitaa reititin edelleen ohjausta privaattien IP-osoitteiden avulla (DHCP). Mainittakoot, että aikanaan kun internet on syntynyt on IPv4 protokollan mukaisia osoitteita ollut noin 4.3 miljardia (2^32) ja, koska jokaisella verkossa olevalla laitteella (nykyään mikro, puhelin, vessanpönttö jne.) on  julkinen oma IP-osoitteensa kehitettiin osoitteiden yhtenä kiertona osoitteiden loppumiselle NAT eli Network Address Translation, jonka avulla useat laitteet samassa verkossa voivat jakaa yhden julkisen IP-osoitteen. Nykyään käyttöön on tullut IPv6, joka käyttää 128-bittistä osoitetta (2^128), jonka pitäisi ratkaista IP-osoitteiden ongelma ainakin toistaiseksi.
-
 
 Counterstikessa oman privaatin IP:n pääsee katsomaan status-komennolla. Tärkein asia löytyy heti ensimmäiseltä riviltä, joka näyttää privaatin lokaalin IP-osoitteen 172.18.176.1 ja portin 27015, joka tyypillinen portti peleille. Portti kuuntelee uusia yhteydenottoja eli periaatteessa samasta verkosta pitäisi voida yhdistää tähän peliin, jos IP-osoite on tiedossa. Aikaisemmin pelin päivitysten yhteydessä on pitänyt sallia tiettyä portteja, jotta lataus onnistuu nopeammin.
 
@@ -433,18 +429,15 @@ Yleisesti reitittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja int
 
 Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (**Data Link Layer 2**). **Kytkin** on laite, jolla kytketään useampi laite samaan lähiverkkoon (LAN). Toisin kuin reititin, joka operoi IP-osoitteiden avulla, kytkin toimii tutkimalla **MAC-osoitteita**, jotka ovat tiedon siirron välineitä. Kytkin rakentaa taulun laitteista, jotka on kytketty sen portteihin, ja ohjaa liikennettä tämän perusteella.
 
-
 ![Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Kytkin.png)
 
 *Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.*
 
 ---
 
-
 ### VLAN-verkot
 
 Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli **VLAN-verkkoihin** (Virtual LAN). Tämä mahdollistaa verkon liikenteen jakamisen entisestään, mikä edistää mm. tietoturvaa, koska eri verkot eivät kommunikoi keskenään. Käytännön esimerkkinä voitaisiin kuvitella putki, jonka sisällä on useampi erivärinen putki (nämä ovat siis VLAN-verkkoja).
-
 
 **Hyötyjä VLAN-verkoista:**
 - **Organisaatioissa:** Esimerkiksi Sähkö/ICT-opiskelijat voivat saada oman verkkonsa, koska he tarvitsevat verkkoa enemmän kuin muut alojen opiskelijat.
@@ -459,7 +452,6 @@ Pelilaneissa kytkimen käyttö on erityisen tärkeää. Jokainen laite saa oman 
 **Huomioitavaa:**
 - **Yleisön lisääminen:** Jos tapahtumaan osallistuu yleisöä, on syytä harkita verkon jakamista pelaajille ja yleisölle erikseen. Tämä varmistaa, että pelaajat saavat parhaan mahdollisen kaistan pelejään varten.
 - **Pelien lataaminen:** Jos pelaajat alkavat ladata pelejä samanaikaisesti, verkko voi kuormittua nopeasti. Ratkaisuna voi olla **LanCache**, jossa peli ladataan kerran ja levitetään sitten verkon sisällä.
-
 
 ```console
 
@@ -669,7 +661,6 @@ Striimaus vaatii sekä teknisen osaamisen että luovuuden. OBS Studio ja Twitch 
 
 Striimaajat voivat hakea **Affiliate**- tai **Partner**-ohjelmiin, jotka tarjoavat erilaisia lisäetuja, mutta vaativat myös enemmän panostusta streamaukseen.
 
-
 ![Twitch yleisnakyma](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchnakyma.png)
 
 *Twitchin yleisnäkymästä voit valita itseäsi kiinnostavan genren.*
@@ -693,13 +684,11 @@ Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit perso
 
    Tässä vaiheessa meidän pitää yhdistää OBS tai joku muu streamasohjelmisto Twitchiin. [Tarkemmat ohjeet löytyvät täältä](https://gam3s.gg/news/streamlabs-obs-streaming-setup-guide/).
 
-
 ![Twitch lahetysikkuna](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys1.png)
 
 *Käytä **stream-avainta** liittääksesi OBS Studion Twitchiin. Avaimen löydät **Asetukset -> Lähetys** -valikon takaa.*
 
 ---
-
 
 ![Twitch stream avain OBS](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys2.png)
 
@@ -722,7 +711,6 @@ Twitch suosittelee kanavan bannerin kokoa **1200 x 480 pikseliä**. Tämä banne
 Tarkemmat tiedot Twitch-elementtien kokoista löydät: [Canva Twitch-suositukset](https://www.canva.com/sizes/twitch/).
 
 ---
-
 
 ### Twitchin pimeä puoli
 

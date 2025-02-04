@@ -54,40 +54,25 @@ Mitä kaikkea muuta **e-urheilun ekosysteemiin** kuuluu? Mikä on ekosysteemi? Y
 
 Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa vuonna 1972 pelille **Space War**. Pääpalkintona oli vuoden Rolling Stones lehden tilaus! Nykyään palkintosummat ovat hieman suurempia.
 
-  <div align="center">
-  <a href="https://www.youtube.com/watch?v=XEFLpbjfybc&ab_channel=MagnumCypro" title="Space War game play">
-    <img src="http://img.youtube.com/vi/XEFLpbjfybc/0.jpg" alt="Space War game play" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;">
-  </a>
-</div>
-<p style="max-width: 100%; margin: 0 auto; text-align: left;">
-  Pelikuvaa vuonna 1972 julkaistusta Space War pelistä.
-</p>
+[![Space War game play](http://img.youtube.com/vi/XEFLpbjfybc/0.jpg)](https://www.youtube.com/watch?v=XEFLpbjfybc)
+
+*Pelikuvaa vuonna 1972 julkaistusta *Space War* -pelistä.*
 
 ---
 
 Yliopistot olivat luonnollinen lähtökohta pelien kehitykselle, sillä niillä oli käytössään tehokkaat tietokoneet, mikä loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu [The Space Invaders Championship in 1980](https://www.computerhistory.org/revolution/computer-games/16/185), jonka järjesti sihen aikaan suurin videopeliyritys Atari.
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=pft_MCrLhZI&ab_channel=neiarcade99Playagame" title="Space Invaders Atari Championship 1981">
-    <img src="http://img.youtube.com/vi/pft_MCrLhZI/0.jpg" alt="Space Invaders Atari Championship 1981" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-    Atarin Space Invaders mestaruuskisat vuodelta 1981.
-  </p>
+[![Space Invaders Atari Championship 1981](http://img.youtube.com/vi/pft_MCrLhZI/0.jpg)](https://www.youtube.com/watch?v=pft_MCrLhZI)
+
+*Atarin *Space Invaders* -mestaruuskisat vuodelta 1981.*
 
 ---
 
 Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. Markkinoille alkoi tulla entistä nopeampia tietokoneita ja konsoleita, jotka mahdollistivat monipuolisempien pelien pelaamisen. Vuonna 1997 Electronic Entertainment Expo (E3)-pelimessuilla järjestetty Red Annihilation **Quake**-turnaus mainitaan usein yhtenä varhaisimmista suurista e-urheilu-tapahtumista. Turnauksessa kilpailtiin Quake-nimisessä ensimmäisen persoonan ammuntapelissä (1st person shooter tai fps), jonka oli kehittänyt id Software. Turnauksen pääpalkintona oli **Ferrari 328 GTS-urheiluauto**, joka oli ensimmäinen arvokas ja mielenkiintoa herättävä palkinto (vrt. vuoden Rolling Stones lehden tilaus). Palkinnon ja näkyvyyden ansioista e-urheilu osoitti, että se voi vetää paikan päälle isoja määriä katsojia. Hyvänä ehdokkaana ensimmäiseksi "e-urheilun ammattilaiseksi" onkin Dennis "Thresh" Fong, joka voitti kyseisen Ferrarin.
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=4xUmZxnEMUI" title="The 1st Pro Gamer Ever">
-    <img src="http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg" alt="The 1st Pro Gamer Ever" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto; text-align: left; ">
-    Tallenne maailman ensimmäisestä ammatikseen pelaavasta henkilöstä.
-  </p>
+[![The 1st Pro Gamer Ever](http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg)](https://www.youtube.com/watch?v=4xUmZxnEMUI)
+
+*Tallenne maailman ensimmäisestä ammatikseen pelaavasta henkilöstä.*
 
 ---
 
@@ -99,14 +84,9 @@ Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät e-urheilua eteen 
 
 Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Series (CGS). Ensimmäisessä versiossa vuonna 2006 pelattiin myös useampia eri pelejä, joista isoimmat IP:t Yhdysvalloissa tuohon aikaan olivat Counter Strike 1.6 ja Halo 2. Tarkoituksena projektilla oli tuoda eurheilu liiga, jota näytettäisiin televisiossa säännöllisesti. Valitettavasti projektin laajus muuttui Yhdysvalloista myös Eurooppaan ja Aasiaan, jolloin rahaa alkoi palaa paljon odotettua enemmän. Tarkemmin 2000-luvun lopun pelitapahtumiin pääse käsiksi [tässä artikkelissa](https://www.hotspawn.com/other/guides/championship-gaming-series-ahead-of-its-time.)
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=q6EWc1Kz10o" title="Championship Gaming Series 2006">
-    <img src="http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg" alt="Championship Gaming Series 2006" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-    Tallenne yhdestä vuoden suurimmista 2006 turnauksista.
-  </p>
+[![Championship Gaming Series 2006](http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg)](https://www.youtube.com/watch?v=q6EWc1Kz10o)
+
+*Tallenne yhdestä vuoden suurimmista 2006 turnauksista.*
 
 ---
 
@@ -122,23 +102,17 @@ Suurimpia turnauksia ennen 2020-lukua muissa peleissä ovat olleet esimerkiksi F
 
 Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös COVID-19, joka pysäytti koko oikean maailman ja isot lanitapahtumat. Seurauksena kaikki siirtyivät enemmän tai vähemmän verkkoon. Tällä on ollut sekä hyviä, että huonoja seurauksia. Hyvänä puolena voidaan pitää sitä, että e-urheilu on saanut varmasti lisää katsojia. Toistaalta taas LAN-tapahtumien puuttuminen on vaikuttanut negatiivisesti monien organisaatioiden tulon lähteisiin. Tätä materiaalia tehdessä elämme vuoden 2023 loppua ja pian vuosi vaihtuu. Maailman tilanne COVID-19:n osalta on hieman normalisoitunut ja LAN-tapahtumat ovatkin tehneet paluun. Materiaaleja tehtäessä Dall-e oli kovasti otsikoissa, joten tässäpä tekoälyn näkemys pelaamisen historiasta.
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleEvolutionofesports.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </div>
-  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-    Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?
-  </p>
+![Tekoälyn näkemys e-urheilun historiasta](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleEvolutionofesports.png)
+
+*Tekoälyn näkemys e-urheilun historiasta. Millaisia ajatuksia kuva herättää?*
 
 ---
 
 Yleiskuvan eri lukujen isoista linjoista voi katsoa alla olevasta kuvasta. Olemme tulleet varsin pitkän matka 1970-luvulta ja ensimmäisestä tapahtumastakin on kulunut jo noin viisikymmentä vuotta. Tätä materiaalia lukevien opiskelijoiden vanhemmat ovat siis saattaneet osallistua jo erilaisiin lanitapahtumiin tai harrastavat pelaamista!
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/VisualOfEsportshistoryMap.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </div>
-  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-    E-urheilun historian isoja linjoja 1970-luvulta tähän päivään.
-  </p>
+![E-urheilun historian isoja linjoja 1970-luvulta tähän päivään](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/VisualOfEsportshistoryMap.png)
+
+*E-urheilun historian isoja linjoja 1970-luvulta tähän päivään.*
 
 ---
 
@@ -167,14 +141,9 @@ Suomessa E-urheilun nousu on ollut osa maailmanlaajuista kehitystä. Suomessa on
 
 Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman rankingeissa. Menestystä on tullut yksittäisille pelaajille PUBG:ssa, Valorantissa, Rainbow Six Siegessä, Owerwatchissa, Fortnitessa, Lolissa, Hearthstonessa ja myös elektronisissa ajopeleissä. Tarkempia tietoja tienesteistä voit katsoa [Esports Earning sivulta](https://www.esportsearnings.com/countries/fi).
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=Bv4CqIxqTMA" title="The International 2018">
-    <img src="http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg" alt="The International 2018" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto">
-  </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-    Opettajan mielestä yksi parhaista TI-behind the scenes videoista, jossa on mukana myös suomalaisia Dota-tähtiä.
-  </p>
+[![The International 2018](http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg)](https://www.youtube.com/watch?v=Bv4CqIxqTMA)
+
+*Huikea TI-behind the scenes, jossa on mukana myös suomalaisia Dota-tähtiä!*
 
 ---
 
@@ -188,7 +157,7 @@ E-urheilun koulutus on tärkeä osa nuorten urapolkuja. Oppilaitokset tarjoavat 
 
 Esimerkiksi [Jamk, Gradia ja JYU](https://coesports.gg/) pyrkivät nostamaan Jyväskylän e-urheiluosaamisen ja näkyvyyden seuraavalle tasolle.
 
-Myös [AhlmanEdu Tampereella](https://www.mtvuutiset.fi/artikkeli/suomessa-on-yksi-koulu-jossa-voi-opiskella-e-urheilun-ammattilaiseksi-mtv-selvitti-mihin-silla-tahdataan/8716096#gs.2hmh4p) tarjoaa koulutusta e-urheilun saralla, ja Helsingin Aalto-yliopistolla järjestetään vuosittain [peleihin ja e-urheiluun liittyviä tapahtumia](https://gamesnow.aalto.fi/gn-lectures-2023-24/). Tässä on vain muutamia nostoja ja erilaisia avauksia e-urheiluun liittyen tehdään ympäri säännöölisesti ympäri Suomea.
+Myös [AhlmanEdu Tampereella](https://www.mtvuutiset.fi/artikkeli/suomessa-on-yksi-koulu-jossa-voi-opiskella-e-urheilun-ammattilaiseksi-mtv-selvitti-mihin-silla-tahdataan/8716096#gs.2hmh4p) tarjoaa koulutusta e-urheilun saralla, ja Helsingin Aalto-yliopistolla järjestetään vuosittain [peleihin ja e-urheiluun liittyviä tapahtumia](https://gamesnow.aalto.fi/gn-lectures-2023-24/). Tässä on vain muutamia nostoja ja erilaisia avauksia e-urheiluun liittyen tehdään ympäri säännöllisesti ympäri Suomea.
 
 ---
 
