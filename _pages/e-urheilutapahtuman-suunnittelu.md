@@ -190,9 +190,16 @@ Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerk
 
    GradiaCupin kannalta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
 
-   ![Oman turnauksen luominen FaceIt-palvelussa](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Luoturnaus.png)
+  <div style="text-align: center; margin: 0 auto;">
+    <img 
+        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Luoturnaus.png" 
+        alt="Oman turnauksen luominen FaceIt-palvelussa" 
+        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
+      <p style="max-width: 100%; margin: 0 auto; text-align: left;">
+     Oman turnauksen luominen FaceIt:ssa on helppoa ja onnistuu muutamalla napin painalluksessa!
+</p>
+</div>
 
- Oman turnauksen luominen FaceIt:ssa on helppoa<br/><br/>
 
 ---
 
@@ -210,9 +217,21 @@ Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerk
    - **Double-elimination** (kaksi mahdollisuutta ennen putoamista)  
    - **Round robin** (kaikki pelaavat kaikkia vastaan)  
 
-   ![Formaatin valinta on ratkaisevassa roolissa](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Valitseturnausformaatti.png)
 
-4. **Suunnitelkaa turnauksen aikataulu.**  
+
+<div style="text-align: center; margin: 0 auto;">
+    <img 
+        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Valitseturnausformaatti.png" 
+        alt="Formaatin valinta on ratkaisevassa roolissa" 
+        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
+      <p style="max-width: 100%; margin: 0 auto; text-align: left;">
+    Formaatin valinta on ratkaisevassa roolissa.
+</p>
+</div>
+
+---
+
+1. **Suunnitelkaa turnauksen aikataulu.**  
    Miettikää:  
    - Pelipäivät ja -ajat  
    - Turnauksen koko ja sen vaikutus aikatauluun  
@@ -376,6 +395,10 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
 
 ---
 
+![Tekoälyn näkemys lanista.](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanParty.png)
+
+*Tekoälyn näkemys lanitapahtumasta.*
+
 ## E-urheilu LANin (Local Area Network) perusteet
 
 
@@ -386,9 +409,10 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
         style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
     Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.
-</p>
+   </p>
 </div>
 
+---
 
 [Lanissa](https://en.wikipedia.org/wiki/Local_area_network) tapahtuva pelaaminen voi olla pienimuotoisia kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa poissaollessa. Toisaalta lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteutettu ammattitason tapahtuma. 
 
