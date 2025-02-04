@@ -396,7 +396,6 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
 ---
 
 ![Tekoälyn näkemys lanista.](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanParty.png)
-
 *Tekoälyn näkemys lanitapahtumasta.*
 
 ## E-urheilu LANin (Local Area Network) perusteet
