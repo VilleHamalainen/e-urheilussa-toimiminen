@@ -60,7 +60,7 @@ Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa v
 
 ---
 
-Yliopistot olivat luonnollinen lähtökohta pelien kehitykselle, sillä niillä oli käytössään tehokkaat tietokoneet, mikä loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu [The Space Invaders Championship in 1980](https://www.computerhistory.org/revolution/computer-games/16/185), jonka järjesti sihen aikaan suurin videopeliyritys Atari.
+Yliopistot olivat luonnollinen lähtökohta pelien kehitykselle, sillä niillä oli käytössään tehokkaat tietokoneet, mikä loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu [The Space Invaders Championship in 1980](https://www.computerhistory.org/revolution/computer-games/16/185), jonka järjesti siihen aikaan suurin videopeliyritys Atari.
 
 [![Space Invaders Atari Championship 1981](http://img.youtube.com/vi/pft_MCrLhZI/0.jpg)](https://www.youtube.com/watch?v=pft_MCrLhZI)
 
@@ -82,7 +82,7 @@ Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät e-urheilua eteen 
 
 2000-luvun isoja tapahtumia olivat ainakin MLG:n perustaminen vuonna 2002 New Yorkissa, joka lisäsi esporsin suosiota Yhdysvalloissa. Pelattuja pelejä oli mm. Halo, Tekken, Gears of War jne. Vuonna 2003 järjestettiin The Electronic Sports World Cup (ESWC), joka oli ensimmäinen iso kansainvälinen turnaus. Täällä pelattiin mm. Counter Strikea. Tarkemmin ESWC:n historiaan voi käydä tutustumassa [ESWC:n kotisivuilla](https://www.eswc.com/). Saman vuonna järjestettiin The World Cyber Games (WCG) koreassam joka oli suuri kansainvälinen turnaus. Pelatut pelit: Age of Mythology, FIFA 2003, Counter Strike, StarCraft, Unreal, Warcraft 3.
 
-Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Series (CGS). Ensimmäisessä versiossa vuonna 2006 pelattiin myös useampia eri pelejä, joista isoimmat IP:t Yhdysvalloissa tuohon aikaan olivat Counter Strike 1.6 ja Halo 2. Tarkoituksena projektilla oli tuoda eurheilu liiga, jota näytettäisiin televisiossa säännöllisesti. Valitettavasti projektin laajus muuttui Yhdysvalloista myös Eurooppaan ja Aasiaan, jolloin rahaa alkoi palaa paljon odotettua enemmän. Tarkemmin 2000-luvun lopun pelitapahtumiin pääse käsiksi [tässä artikkelissa](https://www.hotspawn.com/other/guides/championship-gaming-series-ahead-of-its-time.)
+Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Series (CGS). Ensimmäisessä versiossa vuonna 2006 pelattiin myös useampia eri pelejä, joista isoimmat IP:t Yhdysvalloissa tuohon aikaan olivat Counter Strike 1.6 ja Halo 2. Tarkoituksena projektilla oli tuoda e-urheilu liiga, jota näytettäisiin televisiossa säännöllisesti. Valitettavasti projektin laajus muuttui Yhdysvalloista myös Eurooppaan ja Aasiaan, jolloin rahaa alkoi palaa paljon odotettua enemmän. Tarkemmin 2000-luvun lopun pelitapahtumiin pääse käsiksi [tässä artikkelissa](https://www.hotspawn.com/other/guides/championship-gaming-series-ahead-of-its-time.)
 
 [![Championship Gaming Series 2006](http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg)](https://www.youtube.com/watch?v=q6EWc1Kz10o)
 
