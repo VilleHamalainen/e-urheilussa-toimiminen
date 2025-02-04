@@ -495,6 +495,8 @@ Miten voisimme kartoittaa Gradian tasolla kiinnostusta erilaisille e-urheilutapa
 
 Tutustu oman suosikkipelisi ikärajoihin. [Ohje-ikarajajouston-soveltamisesta](https://pelikasvatus.fi/ohje-ikarajajouston-soveltamisesta/)
 
+Voiko valitsemaasi peliä käyttää tapahtumassa? Mitä tarkoittaa IPR?
+
 ---
 
 ### **Tehtävä**: Lanin suunnittelu 
