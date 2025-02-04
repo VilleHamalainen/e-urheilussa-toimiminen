@@ -257,7 +257,7 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 <details>
 <summary>Ennen turnausta</summary>
 
-{: .markdown}
+<div markdown="1">
 | Vaihe                                             | Määräaika | Valmis |
 | ------------------------------------------------- | --------- | ------ |
 | 1. Määrittele turnauksen tarkoitus                |           |        |  |
@@ -279,7 +279,7 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 | 17. Testaa turnauksen läpivienti tiimin kanssa    |           |        |  |
 | 18. Valitse suoratoistoalusta ja luo tili         |           |        |  |
 | 19. Valitse ja ilmoita selostajat                 |           |        |  |
-
+</div>
 </details>
 
 <details>
