@@ -258,42 +258,42 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 
 | Vaihe                                             | Määräaika | Valmis |
 | ------------------------------------------------- | --------- | ------ |
-| 1. Määrittele turnauksen tarkoitus                |           |        |  |
-| 2. Järjestä kalenteri                             |           |        |  |
-| 3. Arvioi paikalliset olosuhteet                  |           |        |  |
-| 4. Määrittele palkinnot                           |           |        |  |
-| 5. Varmista tietosuoja/GDPR                       |           |        |  |
-| 6. Hanki pelaajat                                 |           |        |  |
-| 7. Tee julkinen ilmoitus tapahtumasta             |           |        |  |
-| 8. Valmistele visuaaliset materiaalit             |           |        |  |
-| 9. Kehitä sosiaalisen median sisällön suunnitelma |           |        |  |
-| 10. Valmistele sääntökirja                        |           |        |  |
-| 11. Määrittele turnauksen formaatti               |           |        |  |
-| 12. Luo ja perehdytä operatiivinen tiimi          |           |        |  |
-| 13. Valitse ja testaa turnausalusta               |           |        |  |
-| 14. Perehdytä mahdolliset tuomarit                |           |        |  |
-| 15. Valitse ja pystytä viestintäkanavat           |           |        |  |
-| 16. Luo ilmoittautumislomake                      |           |        |  |
-| 17. Testaa turnauksen läpivienti tiimin kanssa    |           |        |  |
-| 18. Valitse suoratoistoalusta ja luo tili         |           |        |  |
-| 19. Valitse ja ilmoita selostajat                 |           |        |  |
+| 1. Määrittele turnauksen tarkoitus                |           |        |  
+| 2. Järjestä kalenteri                             |           |        |  
+| 3. Arvioi paikalliset olosuhteet                  |           |        |  
+| 4. Määrittele palkinnot                           |           |        |
+| 5. Varmista tietosuoja/GDPR                       |           |        |
+| 6. Hanki pelaajat                                 |           |        |
+| 7. Tee julkinen ilmoitus tapahtumasta             |           |        |
+| 8. Valmistele visuaaliset materiaalit             |           |        |
+| 9. Kehitä sosiaalisen median sisällön suunnitelma |           |        |
+| 10. Valmistele sääntökirja                        |           |        |
+| 11. Määrittele turnauksen formaatti               |           |        |
+| 12. Luo ja perehdytä operatiivinen tiimi          |           |        |
+| 13. Valitse ja testaa turnausalusta               |           |        |
+| 14. Perehdytä mahdolliset tuomarit                |           |        |
+| 15. Valitse ja pystytä viestintäkanavat           |           |        |
+| 16. Luo ilmoittautumislomake                      |           |        |  
+| 17. Testaa turnauksen läpivienti tiimin kanssa    |           |        |  
+| 18. Valitse suoratoistoalusta ja luo tili         |           |        |  
+| 19. Valitse ja ilmoita selostajat                 |           |        |  
 
 ### Turnauksen aikana
 
 | Vaihe                                              | Määräaika | Valmis |
 | -------------------------------------------------- | --------- | ------ |
-| 20. Valmistele tiimi                               |           |        |  |
-| 21. Tarkista pelaajien viestintäkanavat            |           |        |  |
-| 22. Hallinnoi turnauksen aikataulua                |           |        |  |
-| 23. Tarkista tuomareiden tilit                     |           |        |  |
-| 24. Määrittele tiimiroolit                         |           |        |  |
-| 25. Ilmoita pisteet ja tulokset otteluiden välillä |           |        |  |
-| 26. Valmistele päivittäiset turnaustilastot        |           |        |  |
-| 27. Moderoi keskustelua                            |           |        |  |
-| 28. Tarjoa tukea turnauspelaajille                 |           |        |  |
-| 29. Jaa päivän lopputiedotteet                     |           |        |  |
-| 30. Valitse lähetettävät ottelut                   |           |        |  |
-| 31. Ole valmiina otteluiden alkaessa               |           |        |  |
+| 20. Valmistele tiimi                               |           |        |  
+| 21. Tarkista pelaajien viestintäkanavat            |           |        |  
+| 22. Hallinnoi turnauksen aikataulua                |           |        |  
+| 23. Tarkista tuomareiden tilit                     |           |        |  
+| 24. Määrittele tiimiroolit                         |           |        |  
+| 25. Ilmoita pisteet ja tulokset otteluiden välillä |           |        |
+| 26. Valmistele päivittäiset turnaustilastot        |           |        |  
+| 27. Moderoi keskustelua                            |           |        |  
+| 28. Tarjoa tukea turnauspelaajille                 |           |        |  
+| 29. Jaa päivän lopputiedotteet                     |           |        |  
+| 30. Valitse lähetettävät ottelut                   |           |        |  
+| 31. Ole valmiina otteluiden alkaessa               |           |        |  
 
 ---
 
@@ -301,14 +301,14 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 
 | Vaihe                                                     | Määräaika | Valmis |
 | --------------------------------------------------------- | --------- | ------ |  
-| 32. Juhli tiimin kanssa                                   |           |        |  |
-| 33. Kerää pelaajapalautetta                               |           |        |  |
-| 34. Valmistele tapahtumaraportti                          |           |        |  |
-| 35. Seuraa palkintojen jakoa                              |           |        |  |
-| 36. Jaa turnauksen jälkeiset sosiaalisen median julkaisut |           |        |  |
-| 37. Järjestä palkintojenjakotilaisuus                     |           |        |  |
-| 38. Analysoi data                                         |           |        |  |
-| 39. Lähetä data asianomaisille toimijoille                |           |        |  |
+| 32. Juhli tiimin kanssa                                   |           |        |
+| 33. Kerää pelaajapalautetta                               |           |        |
+| 34. Valmistele tapahtumaraportti                          |           |        |
+| 35. Seuraa palkintojen jakoa                              |           |        |
+| 36. Jaa turnauksen jälkeiset sosiaalisen median julkaisut |           |        |
+| 37. Järjestä palkintojenjakotilaisuus                     |           |        |
+| 38. Analysoi data                                         |           |        |
+| 39. Lähetä data asianomaisille toimijoille                |           |        |
 
 Muistilistan laatimisessa on hyödynnetty Foundational Guide for Esports Tournaments -dokumenttia, joka on julkaistu 4.0 Creative Commons -lisenssillä Dell Technologiesin ja Advanced Learning Partnersin toimesta.
 
@@ -440,6 +440,7 @@ Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (**Data Link Layer 2**)
 Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli **VLAN-verkkoihin** (Virtual LAN). Tämä mahdollistaa verkon liikenteen jakamisen entisestään, mikä edistää mm. tietoturvaa, koska eri verkot eivät kommunikoi keskenään. Käytännön esimerkkinä voitaisiin kuvitella putki, jonka sisällä on useampi erivärinen putki (nämä ovat siis VLAN-verkkoja).
 
 **Hyötyjä VLAN-verkoista:**
+
 - **Organisaatioissa:** Esimerkiksi Sähkö/ICT-opiskelijat voivat saada oman verkkonsa, koska he tarvitsevat verkkoa enemmän kuin muut alojen opiskelijat.
 - **Työelämässä:** Eri osastot, kuten laskutus ja myynti, voivat saada omat virtuaaliset verkkonsa, mikä parantaa tietoturvaa ja hallintaa.
 
@@ -450,6 +451,7 @@ Fyysinen verkko voidaan jakaa myös loogisiin verkkoihin eli **VLAN-verkkoihin**
 Pelilaneissa kytkimen käyttö on erityisen tärkeää. Jokainen laite saa oman kanavansa, kun se liitetään kytkimeen ethernet-kaapelilla. Tämä mahdollistaa sujuvan tiedonsiirron ja vähentää verkon kuormitusta.
 
 **Huomioitavaa:**
+
 - **Yleisön lisääminen:** Jos tapahtumaan osallistuu yleisöä, on syytä harkita verkon jakamista pelaajille ja yleisölle erikseen. Tämä varmistaa, että pelaajat saavat parhaan mahdollisen kaistan pelejään varten.
 - **Pelien lataaminen:** Jos pelaajat alkavat ladata pelejä samanaikaisesti, verkko voi kuormittua nopeasti. Ratkaisuna voi olla **LanCache**, jossa peli ladataan kerran ja levitetään sitten verkon sisällä.
 
@@ -534,6 +536,7 @@ Selvitä, mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat 
 ### **Bonustehtävä**: LanCache isommille laneille
 
 Selvittäkää kuinka isommilla laneilla selvitään ilman, että koko verkko kaatuu. Vihje löytyy jo itse tehtäväannosta. Lancachen eli lanin välimuistilla tarkoitetaan käytännössä tapaa tallentaa pelejä ym. asioita, joita lanittajat haluavat ladata ja sen sijaan, että jokainen alkaa latamaan omaa versiotaan ja näin ollen kuormittaa verkkoa, voidaan lancachen avulla tiedostot ladata välimuistista.
+
 - [Dockerin asennus](https://docs.docker.com/engine/install/ubuntu/#installation-methods)
 - [LanCachen asennus](https://lancache.net/docs/installation/docker-compose/)
 
@@ -553,6 +556,7 @@ Selvittäkää kuinka isommilla laneilla selvitään ilman, että koko verkko ka
 OBS Studio on ollut käytössä pidempään, joten siihen löytyy paljon olemassa olevia ohjeita. Se on monipuolinen ja tehokas työkalu, joka sopii sekä aloittelijoille että edistyneille käyttäjille.
 
 **OBS Studio -ohjeita:**
+
 - [OBS Studio perusteet (Kevin Stratvert)](https://www.youtube.com/watch?v=ySENWFIkL7c&ab_channel=KevinStratvert)
 - [OBS Studio aloittelijan opas (Joe Milne)](https://www.youtube.com/watch?v=wO2gswOEVAQ&ab_channel=JoeMilne)
 - [OBS Studio asetukset ja vinkit (Primal Video)](https://www.youtube.com/watch?v=yCMdj7B8WiA&t=100s&ab_channel=PrimalVideo)
@@ -564,6 +568,7 @@ OBS Studio on ollut käytössä pidempään, joten siihen löytyy paljon olemass
 Twitch Studio on Twitchin oma työkalu, joka on suunniteltu aloittelijoille. Sen vahvuuksia ovat käytön helppous ja integroidut Twitch-toiminnallisuudet, kuten Twitch-tili, stream-avaimet, chat-integraatio ja ilmoitukset.
 
 **Twitch Studio -ohjeita:**
+
 - [Twitch Studio käyttöopas (Cpaws Music)](https://www.youtube.com/watch?v=WnP4m0AWCRQ&ab_channel=CpawsMusic)
 
 ---
@@ -575,6 +580,7 @@ Twitch Studio on Twitchin oma työkalu, joka on suunniteltu aloittelijoille. Sen
 Tutustu molempien työkalujen perusominaisuuksiin ja kirjoita lyhyt dokumentti studioiden hyvistä ja huonoista puolista. Vertaile sovellusten ominaisuuksia, kuten käytön helppous, tarvittavat konfiguroinnit ja muut ominaisuudet (esim. chatti). Jos olet käyttänyt jompaa kumpaa sovellusta, kerro myös omista kokemuksistasi.
 
 **Vertailun aiheet:**
+
 1. **Yleinen käytettävyys ja asennuksen helppous**
    - Miten intuitiivinen asennusprosessi oli?
    - Vertaile ohjelmien käyttöliittymiä ja niiden intuitiivisuutta.
@@ -631,6 +637,7 @@ Suoratoisto-overlayn luominen **Canvassa** on helppo tapa luoda visuaalisesti n�
 ### Suoratoisto-overlayn tyypit
 
 Suoratoisto-overlayt voivat sisältää erilaisia elementtejä, kuten:
+
 - **Web-kamera-kehys**
 - **Chat-overlay**
 - **Ilmoitus-overlayt:** Tilaajien, lahjoitusten tai seuraajien ilmoitukset.
@@ -719,6 +726,7 @@ Twitch kärsii samoista ongelmista kuin muutkin sosiaaliset mediat. Alustalla on
 Twitch on toteuttanut useita toimenpiteitä parantaakseen ympäristöään, kuten käyttäjien käyttäytymissääntöjen päivittämisen ja moderaattorityökalujen parantamisen. Jatkuvat ponnistelut ovat kuitenkin välttämättömiä, jotta Twitch voi olla turvallinen ja inklusiivinen alusta kaikille käyttäjille.
 
 **Lisätietoja:**
+
 - [Ylen Areena: Twitchin pimeä puoli](https://areena.yle.fi/1-66964296) (Julkaistu 7.1.2024, poistuu 28.2.2025)
 - [Tutkimus Twitchin yhteisöstä](https://dl.acm.org/doi/fullHtml/10.1145/3452918.3458794)
 
@@ -784,6 +792,7 @@ Tehtävänä on suunnitella, valmistella ja toteuttaa suoratoistolähetys käytt
 Twitch-streamien tallenteiden jakaminen YouTubessa on hyvä käytäntö, koska se auttaa tavoittamaan uusia katsojia ja tarjoaa mahdollisuuden lisätuloihin. Twitchin VODit poistetaan tietyn ajan kuluttua, mutta YouTube säilyttää sisällön pysyvästi.
 
 **Ohjeita Twitch VODien siirtämiseen YouTubeen:**
+
 - [Google Docs: Twitch VODien siirtäminen](https://kstatic.googleusercontent.com/files/6a52d1116197cb18ec9e18691e2b31b25676f7f4d8b37ad74fb56526034674aad137626f3331e9fc925a08dd9f3e1085a4b1a4e532f4e1fabec98ffd5e50f56d)
 - [Tuberanker: Twitch VODien lataaminen YouTubeen](https://tuberanker.com/blog/how-to-upload-twitch-stream-to-youtube)
 

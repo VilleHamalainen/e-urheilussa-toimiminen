@@ -13,37 +13,40 @@ permalink: /e-urheilutapahtuman-toteuttaminen/
 - [E-urheilutapahtuman toteuttaminen](#e-urheilutapahtuman-toteuttaminen)
   - [Sisällysluettelo](#sisällysluettelo)
   - [Tapahtuman aikana olevat roolitukset ja tehtävät](#tapahtuman-aikana-olevat-roolitukset-ja-tehtävät)
+    - [Avainroolit e-urheilutapahtumien hallinnassa](#avainroolit-e-urheilutapahtumien-hallinnassa)
+    - [Turnauksen aikana](#turnauksen-aikana)
+    - [Turnauksen jälkeen](#turnauksen-jälkeen)
   - [E-urheilutapahtuman toimintasuunnitelma ja avainroolit](#e-urheilutapahtuman-toimintasuunnitelma-ja-avainroolit)
   - [**1. Juontaminen ja selostaminen**](#1-juontaminen-ja-selostaminen)
-    - [**Roolin kuvaus:**](#roolin-kuvaus)
-    - [**Tapahtuman aikana:**](#tapahtuman-aikana)
-    - [**Esimerkki:**](#esimerkki)
-    - [**Resursseja:**](#resursseja)
+    - [Roolin kuvaus](#roolin-kuvaus)
+    - [Tapahtuman aikana](#tapahtuman-aikana)
+    - [Esimerkki](#esimerkki)
+    - [Resursseja](#resursseja)
   - [**2. Lähetyskanavan valvonta ja moderointi**](#2-lähetyskanavan-valvonta-ja-moderointi)
-    - [**Roolin kuvaus:**](#roolin-kuvaus-1)
-    - [**Tapahtuman aikana:**](#tapahtuman-aikana-1)
-    - [**Esimerkki:**](#esimerkki-1)
-    - [**Resursseja:**](#resursseja-1)
+    - [Roolin kuvaus](#roolin-kuvaus-1)
+    - [Tapahtuman aikana](#tapahtuman-aikana-1)
+    - [Esimerkki](#esimerkki-1)
+    - [Resursseja](#resursseja-1)
   - [**3. Tuomarointi ja järjestyksenvalvonta**](#3-tuomarointi-ja-järjestyksenvalvonta)
-    - [**Roolin kuvaus:**](#roolin-kuvaus-2)
-    - [**Tapahtuman aikana:**](#tapahtuman-aikana-2)
-    - [**Esimerkki:**](#esimerkki-2)
-    - [**Resursseja:**](#resursseja-2)
+    - [Roolin kuvaus](#roolin-kuvaus-2)
+    - [Tapahtuman aikana](#tapahtuman-aikana-2)
+    - [Esimerkki](#esimerkki-2)
+    - [Resursseja](#resursseja-2)
   - [**4. Myynti ja markkinointi**](#4-myynti-ja-markkinointi)
-    - [**Roolin kuvaus:**](#roolin-kuvaus-3)
-    - [**Tapahtuman aikana:**](#tapahtuman-aikana-3)
-    - [**Esimerkki:**](#esimerkki-3)
-    - [**Resursseja:**](#resursseja-3)
+    - [Roolin kuvaus](#roolin-kuvaus-3)
+    - [Tapahtuman aikana](#tapahtuman-aikana-3)
+    - [Esimerkki](#esimerkki-3)
+    - [Resursseja](#resursseja-3)
   - [**5. Mediatuotanto ja striimaus**](#5-mediatuotanto-ja-striimaus)
-    - [**Roolin kuvaus:**](#roolin-kuvaus-4)
-    - [**Tapahtuman aikana:**](#tapahtuman-aikana-4)
-    - [**Esimerkki:**](#esimerkki-4)
-    - [**Resursseja:**](#resursseja-4)
+    - [Roolin kuvaus](#roolin-kuvaus-4)
+    - [Tapahtuman aikana](#tapahtuman-aikana-4)
+    - [Esimerkki](#esimerkki-4)
+    - [Resursseja](#resursseja-4)
   - [**6. Viestintä ja PR**](#6-viestintä-ja-pr)
-    - [**Roolin kuvaus:**](#roolin-kuvaus-5)
-    - [**Tapahtuman aikana:**](#tapahtuman-aikana-5)
-    - [**Esimerkki:**](#esimerkki-5)
-    - [**Resursseja:**](#resursseja-5)
+    - [Roolin kuvaus](#roolin-kuvaus-5)
+    - [Tapahtuman aikana](#tapahtuman-aikana-5)
+    - [Esimerkki](#esimerkki-5)
+    - [Resursseja](#resursseja-5)
   - [**Yhteenveto**](#yhteenveto)
   - [Teknisten ongelmien hallinta e-urheilutapahtumissa](#teknisten-ongelmien-hallinta-e-urheilutapahtumissa)
   - [1. Verkko-ongelmat](#1-verkko-ongelmat)
@@ -97,7 +100,7 @@ E-urheilutapahtumaa (oikeasti mikä tahansa tapahtuma) seuratessa ei tule useink
 
 Tapahtuman järjestämisessä on paljon mietittävää, on turnauksessa useita erilaisia rooleja, joista katsoja ei välttämättä ole tietoinen. Alla olevaa roolilistaa voi käyttää hyväksi kun mietitään, mitä rooleja kullekin opiskelijalle tulee ja mitkä kaikki kategoriat ovat tarpeellisia järjestettävissä tapahtumissa.
 
-**Avainroolit e-urheilutapahtumien hallinnassa**
+### Avainroolit e-urheilutapahtumien hallinnassa
 
 | **Kategoriat**                     | **Roolit**                                                                                                     |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -110,84 +113,61 @@ Tapahtuman järjestämisessä on paljon mietittävää, on turnauksessa useita e
 | **Tapahtuman muu henkilöstö**      | Järjestyksenvalvojat, myyntihenkilöstö, siivoojat, turvallisuushenkilöstö, lipunmyyjät                         |
 | **Tapahtuman jälkityö**            | Data-analyytikot, asiakaspalvelu, palautetiimi                                                                 |
 
-
-
-
-
-
+---
 Alla oleva lista on tuttu jo  osiosta.e-urheilutapahtuman suunnittelumoduulista. Tässä listassa on mukana kertauksen vuoksi vain turnauksen aikana ja sen jälkeen tapahtuvat toimenpiteet.
 
-**Turnauksen aikana**
+### Turnauksen aikana
 
 | Vaihe                                             | Määräaika | Valmis |
 | ------------------------------------------------- | --------- | ------ |
-| 1. Valmistele tiimi                               |           |        |  |
-| 2. Tarkista pelaajien viestintäkanavat            |           |        |  |
-| 3. Hallinnoi turnauksen aikataulua                |           |        |  |
-| 4. Tarkista tuomareiden tilit                     |           |        |  |
-| 5. Määrittele tiimiroolit                         |           |        |  |
-| 6. Ilmoita pisteet ja tulokset otteluiden välillä |           |        |  |
-| 7. Valmistele päivittäiset turnaustilastot        |           |        |  |
-| 8. Moderoi keskustelua                            |           |        |  |
-| 9. Tarjoa tukea turnauspelaajille                 |           |        |  |
-| 10. Jaa päivän lopputiedotteet                    |           |        |  |
-| 11. Valitse lähetettävät ottelut                  |           |        |  |
-| 12. Ole valmiina otteluiden alkaessa              |           |        |  |
+| 1. Valmistele tiimi                               |           |        |  
+| 2. Tarkista pelaajien viestintäkanavat            |           |        |  
+| 3. Hallinnoi turnauksen aikataulua                |           |        |  
+| 4. Tarkista tuomareiden tilit                     |           |        |  
+| 5. Määrittele tiimiroolit                         |           |        |  
+| 6. Ilmoita pisteet ja tulokset otteluiden välillä |           |        |  
+| 7. Valmistele päivittäiset turnaustilastot        |           |        |  
+| 8. Moderoi keskustelua                            |           |        |  
+| 9. Tarjoa tukea turnauspelaajille                 |           |        |  
+| 10. Jaa päivän lopputiedotteet                    |           |        |  
+| 11. Valitse lähetettävät ottelut                  |           |        |  
+| 12. Ole valmiina otteluiden alkaessa              |           |        |  
 
 ---
 
-**Turnauksen jälkeen**
+### Turnauksen jälkeen
 
 | Vaihe                                                     | Määräaika | Valmis |
 | --------------------------------------------------------- | --------- | ------ |
-| 13. Juhli tiimin ja ehkä myös pelaajien kanssa            |           |        |  |
-| 14. Kerää pelaajapalautetta                               |           |        |  |
-| 15. Valmistele tapahtumaraportti                          |           |        |  |
-| 16. Seuraa palkintojen jakoa                              |           |        |  |
-| 17. Jaa turnauksen jälkeiset sosiaalisen median julkaisut |           |        |  |
-| 18. Järjestä palkintojenjakotilaisuus                     |           |        |  |
-| 19. Analysoi data                                         |           |        |  |
-| 20. Lähetä data asianomaisille toimijoille                |           |        |  |
-
+| 13. Juhli tiimin ja ehkä myös pelaajien kanssa            |           |        |  
+| 14. Kerää pelaajapalautetta                               |           |        |  
+| 15. Valmistele tapahtumaraportti                          |           |        |  
+| 16. Seuraa palkintojen jakoa                              |           |        |  
+| 17. Jaa turnauksen jälkeiset sosiaalisen median julkaisut |           |        |  
+| 18. Järjestä palkintojenjakotilaisuus                     |           |        |  
+| 19. Analysoi data                                         |           |        |  
+| 20. Lähetä data asianomaisille toimijoille                |           |        |  
 
 **Muistilistan laatimisessa on hyödynnetty Foundational Guide for Esports Tournaments -dokumenttia, joka on julkaistu 4.0 Creative Commons -lisenssillä Dell Technologiesin ja Advanced Learning Partnersin toimesta.**
 
+[![Inside an esports event](http://img.youtube.com/vi/_d5C75pLDKs/0.jpg)](https://www.youtube.com/watch?v=_d5C75pLDKs&ab_channel=UniversityofStaffordshire)  
 
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=_d5C75pLDKs&ab_channel=UniversityofStaffordshire" title="Inside an esports event">
-    <img src="http://img.youtube.com/vi/_d5C75pLDKs/0.jpg" alt="Inside an esports event" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto;">
-    Video hieman isomman opiskelijoiden e-urheilutapahtuman järjestämisestä ja siihen liittyvistä haasteista ja onnistumisista. 
-  </p>
-
+*Video hieman isomman opiskelijoiden e-urheilutapahtuman järjestämisestä ja siihen liittyvistä haasteista ja onnistumisista.*
 
 ---
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=8JR_YMksuOQ&ab_channel=22WestTelevision" title="Inside Smash Bros console gaming event">
-    <img src="http://img.youtube.com/vi/8JR_YMksuOQ/0.jpg" alt="Inside Smash Bros console gaming event" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto;">
-    Videokuvaa Smash Bros konsoliturnauksesta, jossa tuotanto ym. ovat hieman pienemmässä mittakaavassa kuin aikaisemmalla videolla.
-  </p>
+[![**Inside Smash Bros console gaming event**](http://img.youtube.com/vi/8JR_YMksuOQ/0.jpg)](https://www.youtube.com/watch?v=8JR_YMksuOQ&ab_channel=22WestTelevision)  
 
+*Videokuvaa Smash Bros konsoliturnauksesta, jossa tuotanto ym. ovat hieman pienemmässä mittakaavassa kuin aikaisemmalla videolla.*
 
 ---
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=qe5jqnv1dlU&ab_channel=MyWhoosh" title="Biking esports event">
-    <img src="http://img.youtube.com/vi/qe5jqnv1dlU/0.jpg" alt="Biking esports event" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-  </a>
-  </div>
-  <p style="max-width: 100%; margin: 0 auto;">
-    Video hieman erilaisesta e-urheilutapahtumasta. Videon tarkoituksena herätellä ajattelemaan myös perinteisiä lajeja ja e-urheilun yhdistämistä.
-  </p>
+[![Biking esports event](http://img.youtube.com/vi/qe5jqnv1dlU/0.jpg)](https://www.youtube.com/watch?v=qe5jqnv1dlU&ab_channel=MyWhoosh)  
+
+*Video hieman erilaisesta e-urheilutapahtumasta. Videon tarkoituksena herätellä ajattelemaan myös perinteisiä lajeja ja e-urheilun yhdistämistä.*
 
 ---
+
 ## E-urheilutapahtuman toimintasuunnitelma ja avainroolit  
 
 Tämä ohje tarjoaa kattavat tiedot e-urheilutapahtuman toteutuksesta, avainrooleista ja käytännön esimerkeistä. Lisäksi mukana on hyödyllisiä resursseja jatkotutkimusta varten.
@@ -195,11 +175,14 @@ Tämä ohje tarjoaa kattavat tiedot e-urheilutapahtuman toteutuksesta, avainrool
 ---
 
 ## **1. Juontaminen ja selostaminen**  
-### **Roolin kuvaus:**  
+
+### Roolin kuvaus
+
 - **Juontajat:** Tapahtuman kasvoina ja viihdyttäjinä juontajat esittelevät joukkueet, tiedottavat aikatauluista, vetävät haastatteluja ja pitävät yleisön tunnelman korkealla.  
 - **Selostajat (casterit):** Tarjoavat syväanalyysia otteluista, selittävät pelistrategioita ja välittävät kilpailun jännityksen yleisölle.  
 
-### **Tapahtuman aikana:**  
+### Tapahtuman aikana  
+
 - **Juontajat:**  
   - Esittelevät joukkueet ja pelaajat sekä kertovat heidän taustoistaan.  
   - Suorittavat livehaastatteluja pelaajien ja voittajien kanssa.  
@@ -208,10 +191,12 @@ Tämä ohje tarjoaa kattavat tiedot e-urheilutapahtuman toteutuksesta, avainrool
   - Analysoivat pelistrategioita reaaliajassa ja tulkitsevat tapahtumia yleisölle.  
   - Selittävät pelimekaniikkoja uusille katsojille ja pitävät tunnelman korkealla.  
 
-### **Esimerkki:**  
+### Esimerkki
+
 "Seuraavaksi lavalle astuu Team Apex, joka on hallitseva mestari! He ovat pelanneet 20 ottelua tappiotta, mutta pystyvätkö he pitämään ennätyksensä tänään? Katsotaan, mitä heidän kapteenillaan, Alexilla, on sanottavaa!"  
 
-### **Resursseja:**  
+### Resursseja
+
 - [Toastmasters International - Äänenkäytön ja esiintymistaidon kehittäminen](https://www.toastmasters.org/)  
 - [Esports Insider - Selostusopas](https://esportsinsider.com/2023/06/art-of-the-broadcast-esports-2022)  
 
@@ -219,23 +204,30 @@ Tämä ohje tarjoaa kattavat tiedot e-urheilutapahtuman toteutuksesta, avainrool
 
 ## **2. Lähetyskanavan valvonta ja moderointi**  
 
-### **Roolin kuvaus:**  
+### Roolin kuvaus
 
 - **Moderaattorit:** Valvovat online-chatin keskustelua ja puuttuvat häiritsevään käytökseen.  
 - **Lähetyksen valvojat:** Vastaavat lähetyksen sujuvuudesta ja ratkovat teknisiä ongelmia.  
 
-### **Tapahtuman aikana:**  
+### Tapahtuman aikana
 
 - Moderaattorit seuraavat aktiivisesti chat-keskusteluja Twitchissä, YouTubessa, Discordissa tai muilla alustoilla.  
 - He käyttävät automatisoituja työkaluja, kuten chattibotteja, estämään häiriökäyttäytymistä.  
 - Vastaavat yleisön kysymyksiin, kuten aikatauluihin tai sääntöihin liittyen.  
 
-### **Esimerkki:**  
+### Esimerkki
 
 "Katsoja: Milloin finaali alkaa ja milloin palkinnot jaetaan?  
 Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintojenjako suoritetaan heti ottelun jälkeen!"  
 
-### **Resursseja:**  
+"Katsoja: Milloin finaali alkaa ja milloin palkinnot jaetaan?  
+Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintojenjako suoritetaan heti ottelun jälkeen!"  
+
+### Resursseja
+
+- [Twitch Moderator Academy](https://www.twitch.tv/creatorcamp/)  
+- [Streamlabs Academy - Teknisen valvonnan oppaat](https://streamlabs.com/)  
+- [OBS:n tukisivut](https://obsproject.com/help)  
 
 - [Twitch Moderator Academy](https://www.twitch.tv/creatorcamp/)  
 - [Streamlabs Academy - Teknisen valvonnan oppaat](https://streamlabs.com/)  
@@ -245,12 +237,12 @@ Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintoj
 
 ## **3. Tuomarointi ja järjestyksenvalvonta**  
 
-### **Roolin kuvaus:**  
+### Roolin kuvaus
 
 - **Tuomarit:** Varmistavat pelisääntöjen noudattamisen, ratkaisevat riitatilanteet ja estävät huijaamisen.  
 - **Järjestyksenvalvojat:** Vastaavat tapahtumapaikan turvallisuudesta ja yleisestä järjestyksestä.  
 
-### **Tapahtuman aikana:**  
+### Tapahtuman aikana
 
 - **Tuomarit:**  
   - Valvovat pelien sääntöjen noudattamista ja tarkastavat mahdolliset sääntörikkomukset.  
@@ -259,11 +251,11 @@ Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintoj
   - Tarkastavat osallistujien kulkuluvat ja ohjaavat yleisöä.  
   - Hallitsevat hätätilanteita ja puuttuvat häiriökäyttäytymiseen.
 
-### **Esimerkki:**  
+### Esimerkki
 
 "Pelaajalla on teknisiä ongelmia tietokoneensa kanssa ja hän väittää menettäneensä pisteitä sen takia. Tuomari tarkistaa pelitallenteen ja tekee päätöksen: ongelma ei vaikuttanut ratkaisevasti pelin lopputulokseen."  
 
-### **Resursseja:**  
+### Resursseja
 
 - [ESL:n kilpailusäännöt](https://pro.eslgaming.com/)  
 - [FACEIT:n tuomariopas](https://support.faceit.com/hc/en-us/categories/360003095600)  
@@ -273,12 +265,12 @@ Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintoj
 
 ## **4. Myynti ja markkinointi**  
 
-### **Roolin kuvaus:**  
+### Roolin kuvaus
 
 - **Myyntitiimi:** Hoitaa sponsorointia, lipunmyyntiä ja varmistaa tapahtuman taloudellisen kannattavuuden.  
 - **Markkinointitiimi:** Vastaa tapahtuman näkyvyydestä, mainonnasta ja yleisön sitouttamisesta.  
 
-### **Tapahtuman aikana:**  
+### Tapahtuman aikana
 
 - **Myyntitiimi:**  
   - Koordinoi sponsorien kanssa logojen ja mainosvideoiden sijoittelua.  
@@ -287,11 +279,11 @@ Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintoj
   - Tekee reaaliaikaisia päivityksiä sosiaaliseen mediaan, kuten kuvia ja lyhyitä videoita otteluista.  
   - Järjestää yleisöaktiviteetteja, kuten liveäänestyksiä ja kilpailuja.  
 
-### **Esimerkki:**  
+### Esimerkki 
 
 "Markkinointitiimi twiittaa: *'Jännitystä ilmassa! Team Apex vs. CyberStorm alkaa juuri nyt! Kuka voittaa? Kommentoi alle!'* Samalla myyntitiimi järjestää VIP-alueella sponsorien verkostoitumistapahtuman."  
 
-### **Resursseja:**  
+### Resursseja
 
 - [Canva - Visuaalisen sisällön suunnittelu](https://www.canva.com/)  
 
@@ -299,24 +291,24 @@ Moderaattori: Finaali alkaa klo 18:00. Muista pysyä linjoilla, sillä palkintoj
 
 ## **5. Mediatuotanto ja striimaus**  
 
-### **Roolin kuvaus:**  
+### Roolin kuvaus
 
 Mediatiimi vastaa lähetyksen teknisestä toteutuksesta ja visuaalisista elementeistä, kuten grafiikoista ja videoista.  
 
-### **Tapahtuman aikana:**  
+### Tapahtuman aikana
 
-- **Visuaaliset elementit:** 
+- **Visuaaliset elementit:**
 
   - Lisäävät grafiikat, kuten overlayt, tulostaulut ja sponsorilogot, reaaliaikaisesti lähetykseen.  
   - Käyttävät highlight-videoita yleisön sitouttamiseen.  
 - **Kuvaus ja ohjaus:**  
   - Varmistavat oikeat kuvakulmat ja sujuvat siirtymät lähetyksen aikana.  
 
-### **Esimerkki:**  
+### Esimerkki
 
 "CyberStorm nappaa ratkaisevan voiton – mediatiimi zoomaa riehaantuneeseen yleisöön ja lisää lähetykseen voittajagrafiikan. Pian tämän jälkeen haastattelu CyberStormin kapteenin kanssa näytetään suorana."  
 
-### **Resursseja:**  
+### Resursseja
 
 - [StreamScheme - Striimauksen oppaat](https://www.streamscheme.com/)  
 - [Canva - Overlayt ja grafiikat](https://www.canva.com/)  
@@ -325,20 +317,20 @@ Mediatiimi vastaa lähetyksen teknisestä toteutuksesta ja visuaalisista element
 
 ## **6. Viestintä ja PR**  
 
-### **Roolin kuvaus:**  
+### Roolin kuvaus
 
 Viestintätiimi rakentaa tapahtuman mainetta ja välittää tietoa median sekä yleisön suuntaan.  
 
-### **Tapahtuman aikana:**  
+### Tapahtuman aikana
 
 - Koordinoivat median haastatteluja pelaajien, järjestäjien ja sponsoreiden kanssa.  
 - Julkaisevat reaaliaikaisia tiedotteita ja päivittävät tapahtuman virallisia kanavia.  
 
-### **Esimerkki:**  
+### Esimerkki
 
 "Median edustajat haastattelevat Team Apexin kapteenia. Viestintätiimi huolehtii, että haastattelu tapahtuu suunnitellusti erillisessä mediapisteessä."  
 
-### **Resursseja:**  
+### Resursseja
 
 - [Pressitt - PR-työkalut ja mediaviestintä](https://pressitt.com/)  
 - [Hootsuite - Sosiaalisen median hallinta](https://hootsuite.com/)  
@@ -380,7 +372,7 @@ Tässä osiossa tutustutaan erilaisiin teknisiin haasteisiin e-urheilutapahtumis
 
 - Sijoita paikalle verkkoasiantuntijoita ratkaisemaan viive- tai pakettihäviöongelmia.
 - Käytä VPN:iä tai erikoistuneita peliverkkoja reitityksen optimoimiseksi.
-- DDos hyökkäykset voivat pilata koko turnauksen. Jos pelipalvelimet ovat verkossa voi niihin kohdistua hyökkäyksiä. Yhtenä ratkaisuna on tarjota lookaalisti pelattava peliversio (ks. [Ddos hyökkäys isossa turnauksessa] (https://www.insurancebusinessmag.com/us/risk-management/news/how-ddos-attacks-are-shaping-esports-security-and-risk-management-516320.aspx).
+- DDos hyökkäykset voivat pilata koko turnauksen. Jos pelipalvelimet ovat verkossa voi niihin kohdistua hyökkäyksiä. Yhtenä ratkaisuna on tarjota lookaalisti pelattava peliversio [Ddos hyökkäys isossa turnauksessa] (<https://www.insurancebusinessmag.com/us/risk-management/news/how-ddos-attacks-are-shaping-esports-security-and-risk-management-516320.aspx>).
 
 ---
 
