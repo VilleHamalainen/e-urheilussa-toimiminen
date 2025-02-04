@@ -462,6 +462,6 @@ Ladatkaa koneellenne [Steam](https://store.steampowered.com/about/), jos sitä e
 
 ## Edellinen aihe
 
-- [E-urheilutapahtuman toteuttaminen](https://villehamalainen.github.io/e-urheilussa-toimiminen/e-urheilutapahtuman-toteuttaminen/)
+- [E-urheilutapahtuman toteuttaminen](https://villehamalainen.github.io/e-urheilussa-toimiminen/e-urheilutapahtuman-suunnittelu/)
 
 ---
