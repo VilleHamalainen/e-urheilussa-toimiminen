@@ -280,8 +280,6 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 | 18. Valitse suoratoistoalusta ja luo tili         |           |        |  |
 | 19. Valitse ja ilmoita selostajat                 |           |        |  |
 
----
-
 ### Turnauksen aikana
 
 | Vaihe                                              | Määräaika | Valmis |
