@@ -259,7 +259,7 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 <details>
 <summary>Ennen turnausta</summary>
 
-{% markdown %}
+{: .markdown}
 | Vaihe                                             | Määräaika | Valmis |
 | ------------------------------------------------- | --------- | ------ |
 | 1. Määrittele turnauksen tarkoitus                |           |        |  |
@@ -281,7 +281,7 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 | 17. Testaa turnauksen läpivienti tiimin kanssa    |           |        |  |
 | 18. Valitse suoratoistoalusta ja luo tili         |           |        |  |
 | 19. Valitse ja ilmoita selostajat                 |           |        |  |
-{% endmarkdown %}
+
 </details>
 
 <details>
@@ -373,74 +373,6 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
     Tekoälyn näkemys lanitapahtumasta.
 </p>
 </div>
-- [Moduuli 1: E-urheilutapahtuman suunnittelu](#moduuli-1-e-urheilutapahtuman-suunnittelu)
-- [Sisällysluettelo](#sisällysluettelo)
-  - [Tapahtuman luonteen ja kohderyhmän valinta](#tapahtuman-luonteen-ja-kohderyhmän-valinta)
-  - [Tapahtuman luonne](#tapahtuman-luonne)
-    - [**Kilpailulliset** e-urheilutapahtumat](#kilpailulliset-e-urheilutapahtumat)
-    - [**Yhteisölliset** e-urheilutapahtumat](#yhteisölliset-e-urheilutapahtumat)
-    - [**Hybridi** e-urheilutapahtumat](#hybridi-e-urheilutapahtumat)
-  - [**Tehtävä**: Tapahtuman luonne ja kohderyhmä (luokassa mietittäväksi)](#tehtävä-tapahtuman-luonne-ja-kohderyhmä-luokassa-mietittäväksi)
-  - [Kohdeyleisö](#kohdeyleisö)
-  - [**Tehtävä:** Kohdeyleisön analysointi](#tehtävä-kohdeyleisön-analysointi)
-  - [Peligenren valinta ja ymmärtäminen](#peligenren-valinta-ja-ymmärtäminen)
-  - [Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin](#tapahtuman-koko-ja-sen-vaikutus-järjestelyihin-ja-resursseihin)
-  - [](#)
-  - [Online-tapahtuma](#online-tapahtuma)
-  - [Faceit turnauspohjana](#faceit-turnauspohjana)
-    - [**Tehtävä:** Suunnittele turnaus (ryhmätehtävä)](#tehtävä-suunnittele-turnaus-ryhmätehtävä)
-    - [**Tehtävä:** Rekisteröityminen ja joukkueiden muodostaminen](#tehtävä-rekisteröityminen-ja-joukkueiden-muodostaminen)
-    - [**Tehtävä:** Toteuta turnaus](#tehtävä-toteuta-turnaus)
-    - [**Tehtävä:** Kerro turnauksesta (luokassa pohdittavaksi)](#tehtävä-kerro-turnauksesta-luokassa-pohdittavaksi)
-    - [Turnauksen järjestämisen muistilista](#turnauksen-järjestämisen-muistilista)
-  - [Lan-tapahtuma](#lan-tapahtuma)
-    - [1. Pelipaikat](#1-pelipaikat)
-    - [2. Logistiikka ja turvallisuus](#2-logistiikka-ja-turvallisuus)
-    - [3. Yleisö](#3-yleisö)
-    - [4. Tapahtuman tunnelma](#4-tapahtuman-tunnelma)
-  - [Yhteiset tekijät online- ja lan-tapahtumassa](#yhteiset-tekijät-online--ja-lan-tapahtumassa)
-    - [1. Markkinointi ja viestintä](#1-markkinointi-ja-viestintä)
-    - [2. Budjetointi ja rahoitus](#2-budjetointi-ja-rahoitus)
-    - [3. Henkilöstö ja vapaaehtoiset](#3-henkilöstö-ja-vapaaehtoiset)
-  - [E-urheilu LANin (Local Area Network) perusteet](#e-urheilu-lanin-local-area-network-perusteet)
-    - [Mikä on reititin (router)?](#mikä-on-reititin-router)
-    - [Mikä on kytkin (switch)?](#mikä-on-kytkin-switch)
-    - [VLAN-verkot](#vlan-verkot)
-    - [Pelilaneissa käytetyt kytkimet](#pelilaneissa-käytetyt-kytkimet)
-    - [Resursseja](#resursseja)
-  - [Yhteenveto](#yhteenveto)
-    - [**Tehtävä**: Kyselylomakkeen suunnittelu](#tehtävä-kyselylomakkeen-suunnittelu)
-    - [**Tehtävä**: Ikärajat ja pelien soveltuvuus](#tehtävä-ikärajat-ja-pelien-soveltuvuus)
-    - [**Tehtävä**: Lanin suunnittelu](#tehtävä-lanin-suunnittelu)
-    - [**Tehtävä**: OSI-malli](#tehtävä-osi-malli)
-    - [**Bonustehtävä**: LanCache isommille laneille](#bonustehtävä-lancache-isommille-laneille)
-  - [Striimaus](#striimaus)
-    - [OBS Studio](#obs-studio)
-    - [Twitch Studio](#twitch-studio)
-  - [Tehtäviä](#tehtäviä)
-    - [**Tehtävä:** Vertaile OBS studiota ja Twitch studiota](#tehtävä-vertaile-obs-studiota-ja-twitch-studiota)
-  - [Canva](#canva)
-    - [Canvan käyttöönotto](#canvan-käyttöönotto)
-    - [Suoratoisto-overlayn tyypit](#suoratoisto-overlayn-tyypit)
-  - [Yhteenveto](#yhteenveto-1)
-  - [Tehtäviä](#tehtäviä-1)
-  - [Twitch](#twitch)
-    - [**Mitä striimaus Twitchissä vaatii?**](#mitä-striimaus-twitchissä-vaatii)
-    - [Twitch-tilin luominen](#twitch-tilin-luominen)
-    - [Menestyminen Twitchissä](#menestyminen-twitchissä)
-    - [Twitch-bannerit](#twitch-bannerit)
-    - [Twitchin pimeä puoli](#twitchin-pimeä-puoli)
-  - [Tehtäviä](#tehtäviä-2)
-    - [**Tehtävä:** Oman internekäyttäytymisen relfektointi\*\*](#tehtävä-oman-internekäyttäytymisen-relfektointi)
-    - [**Tehtävä:** OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu](#tehtävä-obs--tai-twitch-studion-käyttö-ja-striimauksen-suunnittelu)
-  - [YouTube](#youtube)
-    - [Twitch VODien siirtäminen YouTubeen](#twitch-vodien-siirtäminen-youtubeen)
-    - [YouTube-bannerit](#youtube-bannerit)
-  - [Tehtäviä](#tehtäviä-3)
-    - [**Tehtävä:** YouTube-kanavan perustaminen ja sisällön jakaminen](#tehtävä-youtube-kanavan-perustaminen-ja-sisällön-jakaminen)
-  - [Striimauksen sisällöntuotanto ja yleisön kiinnittäminen](#striimauksen-sisällöntuotanto-ja-yleisön-kiinnittäminen)
-  - [Seuraava aihe](#seuraava-aihe)
-  - [Edellinen aihe](#edellinen-aihe)
 
 ---
 
@@ -647,7 +579,6 @@ Selvittäkää kuinka isommilla laneilla selvitään ilman, että koko verkko ka
 - **OBS Studio:** [Lataus OBS](https://obsproject.com/)
 
 ---
-
 
 ### OBS Studio
 
