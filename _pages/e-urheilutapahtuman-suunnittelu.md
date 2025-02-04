@@ -150,9 +150,9 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
    Eettiset ja sosiaaliset rajoitteet on myös syytä pitää mielessä. Peleille on usein annettu ikärajat organisaatioiden, kuten Yhdysvaltain Entertainment Software Rating Board (ESRB) tai Euroopan Pan European Game Information (PEGI), toimesta. Nämä arviot tarjoavat ohjeita ikätason mukaisesta sisällöstä. Maasta tai alueesta riippuen voi olla laillisia rajoituksia tiettyjen ikäryhmien altistamisesta tietyille ikärajoitetuille peleille. Tapahtuman järjestäjien on noudatettava näitä lakeja välttääkseen oikeudellisia seuraamuksia.
    
-   Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerkiksi PEGI 18 -luokiteltu peli ei olisi sopiva oppilaitoksessa järjestettävässä turnauksessa. Esimerkiksi Counter Strike turnauksen järjestäminen alakoulussa ei onnistu. Tästä syystä kohdeyleisön tunteminen on tärkeää ja parempi vaihtoehto voisikin olla esim. Super Smash Bros peli, joka toimii Nintendolla, jolla on pitkä historia lasten ja nuorten pelikonsolina. Alaikäisiä osallistujia sisältävissä tapahtumissa vanhempien suostumuksen saaminen on tärkeää, jos pelin sisältöä voidaan pitää sopimattomana tietyille ikäryhmille. Peligenren valinta on monimutkainen prosessi, joka vaatii huolellista harkintaa useista näkökulmista.
+Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerkiksi PEGI 18 -luokiteltu peli ei olisi sopiva oppilaitoksessa järjestettävässä turnauksessa. Esimerkiksi Counter Strike turnauksen järjestäminen alakoulussa ei onnistu. Tästä syystä kohdeyleisön tunteminen on tärkeää ja parempi vaihtoehto voisikin olla esim. Super Smash Bros peli, joka toimii Nintendolla, jolla on pitkä historia lasten ja nuorten pelikonsolina. Alaikäisiä osallistujia sisältävissä tapahtumissa vanhempien suostumuksen saaminen on tärkeää, jos pelin sisältöä voidaan pitää sopimattomana tietyille ikäryhmille. Peligenren valinta on monimutkainen prosessi, joka vaatii huolellista harkintaa useista näkökulmista.
 
-   ---
+---
 
 ## Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
 
@@ -169,7 +169,8 @@ permalink: /e-urheilutapahtuman-suunnittelu/
         E-urheilutapahtuman suunnittelun vaiheet.
     </p>
    </div>
-   ---
+
+---
    
 ## Online-tapahtuma
 
@@ -257,6 +258,8 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 
 <details>
 <summary>Ennen turnausta</summary>
+
+<br>
 
 | Vaihe                                             | Määräaika | Valmis |
 | ------------------------------------------------- | --------- | ------ |
