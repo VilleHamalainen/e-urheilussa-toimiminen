@@ -23,7 +23,6 @@ permalink: /e-urheilutapahtuman-suunnittelu/
   - [**Tehtävä:** Kohdeyleisön analysointi](#tehtävä-kohdeyleisön-analysointi)
   - [Peligenren valinta ja ymmärtäminen](#peligenren-valinta-ja-ymmärtäminen)
   - [Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin](#tapahtuman-koko-ja-sen-vaikutus-järjestelyihin-ja-resursseihin)
-  - [](#)
   - [Online-tapahtuma](#online-tapahtuma)
   - [Faceit turnauspohjana](#faceit-turnauspohjana)
     - [**Tehtävä:** Suunnittele turnaus (ryhmätehtävä)](#tehtävä-suunnittele-turnaus-ryhmätehtävä)
