@@ -2,7 +2,6 @@
 layout: default
 title: E-urheilutapahtuman toteuttaminen
 permalink: /e-urheilutapahtuman-toteuttaminen/
-
 ---
 
 # E-urheilutapahtuman toteuttaminen
@@ -11,14 +10,67 @@ permalink: /e-urheilutapahtuman-toteuttaminen/
 
 ## Sisällysluettelo
 
-- [Roolit ja tehtävät tapahtuman aikana](#roolit-ja-tehtavat-tapahtuman-aikana) 
-- [Mahdolliset ongelmat](#mahdolliset-ongelmat)  
-- [Avainroolit e-urheilutapahtumien hallinnassa](#avainroolit-e-urheilutapahtumien-hallinnassa)  
-- [Turnauksen aikainen ja jälkeinen muistilista](#turnauksen-aikainen-ja-jalkeinen-muistilista)  
-- [E-urheilutapahtuman toimintasuunnitelma ja avainroolit](#e-urheilutapahtuman-toimintasuunnitelma-ja-avainroolit)  
-- [Teknisten ongelmien hallinta](#teknisten-ongelmien-hallinta)  
-- [Oman osaamisen kehittäminen e-urheilussa](#oman-osaamisen-kehittaminen-e-urheilussa)  
-  
+- [E-urheilutapahtuman toteuttaminen](#e-urheilutapahtuman-toteuttaminen)
+  - [Sisällysluettelo](#sisällysluettelo)
+  - [Tapahtuman aikana olevat roolitukset ja tehtävät](#tapahtuman-aikana-olevat-roolitukset-ja-tehtävät)
+  - [E-urheilutapahtuman toimintasuunnitelma ja avainroolit](#e-urheilutapahtuman-toimintasuunnitelma-ja-avainroolit)
+  - [**1. Juontaminen ja selostaminen**](#1-juontaminen-ja-selostaminen)
+    - [**Roolin kuvaus:**](#roolin-kuvaus)
+    - [**Tapahtuman aikana:**](#tapahtuman-aikana)
+    - [**Esimerkki:**](#esimerkki)
+    - [**Resursseja:**](#resursseja)
+  - [**2. Lähetyskanavan valvonta ja moderointi**](#2-lähetyskanavan-valvonta-ja-moderointi)
+    - [**Roolin kuvaus:**](#roolin-kuvaus-1)
+    - [**Tapahtuman aikana:**](#tapahtuman-aikana-1)
+    - [**Esimerkki:**](#esimerkki-1)
+    - [**Resursseja:**](#resursseja-1)
+  - [**3. Tuomarointi ja järjestyksenvalvonta**](#3-tuomarointi-ja-järjestyksenvalvonta)
+    - [**Roolin kuvaus:**](#roolin-kuvaus-2)
+    - [**Tapahtuman aikana:**](#tapahtuman-aikana-2)
+    - [**Esimerkki:**](#esimerkki-2)
+    - [**Resursseja:**](#resursseja-2)
+  - [**4. Myynti ja markkinointi**](#4-myynti-ja-markkinointi)
+    - [**Roolin kuvaus:**](#roolin-kuvaus-3)
+    - [**Tapahtuman aikana:**](#tapahtuman-aikana-3)
+    - [**Esimerkki:**](#esimerkki-3)
+    - [**Resursseja:**](#resursseja-3)
+  - [**5. Mediatuotanto ja striimaus**](#5-mediatuotanto-ja-striimaus)
+    - [**Roolin kuvaus:**](#roolin-kuvaus-4)
+    - [**Tapahtuman aikana:**](#tapahtuman-aikana-4)
+    - [**Esimerkki:**](#esimerkki-4)
+    - [**Resursseja:**](#resursseja-4)
+  - [**6. Viestintä ja PR**](#6-viestintä-ja-pr)
+    - [**Roolin kuvaus:**](#roolin-kuvaus-5)
+    - [**Tapahtuman aikana:**](#tapahtuman-aikana-5)
+    - [**Esimerkki:**](#esimerkki-5)
+    - [**Resursseja:**](#resursseja-5)
+  - [**Yhteenveto**](#yhteenveto)
+  - [Teknisten ongelmien hallinta e-urheilutapahtumissa](#teknisten-ongelmien-hallinta-e-urheilutapahtumissa)
+  - [1. Verkko-ongelmat](#1-verkko-ongelmat)
+    - [Yleiset ongelmat:](#yleiset-ongelmat)
+    - [Valmistautuminen:](#valmistautuminen)
+    - [Ratkaisut:](#ratkaisut)
+  - [2. Laitteistoviat](#2-laitteistoviat)
+    - [Yleiset ongelmat:](#yleiset-ongelmat-1)
+    - [Valmistautuminen:](#valmistautuminen-1)
+    - [Ratkaisut:](#ratkaisut-1)
+  - [3. Ohjelmistovirheet](#3-ohjelmistovirheet)
+    - [Yleiset ongelmat:](#yleiset-ongelmat-2)
+    - [Valmistautuminen:](#valmistautuminen-2)
+    - [Ratkaisut:](#ratkaisut-2)
+  - [4. Audiovisuaaliset ongelmat](#4-audiovisuaaliset-ongelmat)
+    - [Yleiset ongelmat:](#yleiset-ongelmat-3)
+    - [Valmistautuminen:](#valmistautuminen-3)
+    - [Ratkaisut:](#ratkaisut-3)
+  - [5. Sähköön liittyvät ongelmat](#5-sähköön-liittyvät-ongelmat)
+    - [Yleiset ongelmat:](#yleiset-ongelmat-4)
+    - [Valmistautuminen:](#valmistautuminen-4)
+    - [Ratkaisut:](#ratkaisut-4)
+  - [Keskeiset opit](#keskeiset-opit)
+  - [Harjoitellaan "käytännössä"!](#harjoitellaan-käytännössä)
+  - [Seraava aihe](#seraava-aihe)
+  - [Edellinen aihe](#edellinen-aihe)
+
 ---
 
 ## Tapahtuman aikana olevat roolitukset ja tehtävät

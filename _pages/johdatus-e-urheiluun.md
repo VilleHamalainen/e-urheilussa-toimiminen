@@ -10,15 +10,22 @@ permalink: /johdatus-e-urheiluun/
 
 ## Sisällysluettelo
 
-- <a href="#moduuli-0-johdatus-e-urheiluun">Moduuli 0: Johdatus e-urheiluun</a>
-  - <a href="#e-urheilun-maaritelma">E-urheilun määritelmä</a>
-  - <a href="#mita-kaikkea-e-urheiluun-liittyy?">Tehtävä: Mitä kaikkea e-urheiluun liittyy?</a>
-  - <a href="#e-urheilun-historia">E-urheilun historia</a>
-  - <a href="#e-urheilu-suomessa">E-urheilu Suomessa</a>
-  - <a href="#e-urheilun-koulutus-suomessa">E-urheilun koulutus Suomessa</a>
-  - <a href="#e-urheilun-tulevaisuuden-nakymat">E-urheilun tulevaisuuden näkymät</a>
-  - <a href="#materiaaleja">Materiaaleja</a>
-  - <a href="#seuraava-aihe">Seuraava aihe</a>
+- [Moduuli 0: Johdatus e-urheiluun](#moduuli-0-johdatus-e-urheiluun)
+  - [Sisällysluettelo](#sisällysluettelo)
+  - [E-urheilun määritelmä](#e-urheilun-määritelmä)
+  - [**Tehtävä:** Mitä kaikkea e-urheiluun liittyy?](#tehtävä-mitä-kaikkea-e-urheiluun-liittyy)
+  - [E-urheilun historia](#e-urheilun-historia)
+    - [**Tehtävä:** E-urheilun kehitys](#tehtävä-e-urheilun-kehitys)
+  - [E-urheilu Suomessa](#e-urheilu-suomessa)
+  - [E-urheilun koulutus Suomessa](#e-urheilun-koulutus-suomessa)
+  - [Tehtäviä](#tehtäviä)
+    - [**Tehtävä**: Minä e-urheilijana ja pelaajana](#tehtävä-minä-e-urheilijana-ja-pelaajana)
+    - [**Tehtävä**: E-urheilun kehittyminen oman genren tai pelin osalta (yksin, pareittain tai pienissä ryhmissä)](#tehtävä-e-urheilun-kehittyminen-oman-genren-tai-pelin-osalta-yksin-pareittain-tai-pienissä-ryhmissä)
+    - [**Tehtävä**: E-urheilukaupungit Köln ja Katowice (pareittain tai pienissä ryhmissä)](#tehtävä-e-urheilukaupungit-köln-ja-katowice-pareittain-tai-pienissä-ryhmissä)
+  - [E-urheilun tulevaisuuden näkymät](#e-urheilun-tulevaisuuden-näkymät)
+    - [**Tehtävä**: Tulevaisuuden visio (pareittain tai pienissä ryhmissä)](#tehtävä-tulevaisuuden-visio-pareittain-tai-pienissä-ryhmissä)
+    - [Materiaaleja:](#materiaaleja)
+    - [Seuraava aihe](#seuraava-aihe)
 
 ---
 

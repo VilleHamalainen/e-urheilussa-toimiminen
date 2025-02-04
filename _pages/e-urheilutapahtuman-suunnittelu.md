@@ -8,72 +8,105 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 # Moduuli 1: E-urheilutapahtuman suunnittelu
 
 ---
+
 # Sisällysluettelo
 
-- <a href="#moduuli-1-e-urheilutapahtuman-suunnittelu">Moduuli 1: E-urheilutapahtuman suunnittelu</a>
-  - <a href="#tapahtuman-luonteen-ja-kohderyhman-valinta">Tapahtuman luonteen ja kohderyhmän valinta</a>
-  - <a href="#tapahtuman-luonne">Tapahtuman luonne</a>
-  - <a href="#tehtava-tapahtuman-luonne-ja-kohderyhma">Tehtävä: Tapahtuman luonne ja kohderyhmä</a>
-  - <a href="#kohdeyleiso">Kohdeyleisö</a>
-  - <a href="#tehtava-kohdeyleison-analysointi">Tehtävä: Kohdeyleisön analysointi</a>
-  - <a href="#peligenren-valinta-ja-ymmartaminen">Peligenren valinta ja ymmärtäminen</a>
-  - <a href="#tapahtuman-koko-ja-sen-vaikutus-jarjestelyihin-ja-resursseihin">Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin</a>
-  - <a href="#online-tapahtuma">Online-tapahtuma</a>
-  - <a href="#faceit-turnauspohjana">Faceit turnauspohjana</a>
-  - <a href="#tehtava-suunnittele-turnaus">Tehtävä: Suunnittele turnaus</a>
-  - <a href="#tehtava-rekisteroityminen-ja-joukkueiden-muodostaminen">Tehtävä: Rekisteröityminen ja joukkueiden muodostaminen</a>
-  - <a href="#tehtava-toteuta-turnaus">Tehtävä: Toteuta turnaus</a>
-  - <a href="#tehtava-kerro-turnauksesta">Tehtävä: Kerro turnauksesta</a>
-  - <a href="#turnauksen-jarjestamisen-muistilista">Turnauksen järjestämisen muistilista</a>
-  - <a href="#lan-tapahtuma">Lan-tapahtuma</a>
-  - <a href="#yhteiset-tekijat-online-ja-lan-tapahtumassa">Yhteiset tekijät online- ja lan-tapahtumassa</a>
-  - <a href="#esports-lanin-local-area-network-perusteet">Esports LANin (Local Area Network) perusteet</a>
-  - <a href="#yhteenveto">Yhteenveto</a>
-  - <a href="#tehtava-kyselylomakkeen-suunnittelu">Tehtävä: Kyselylomakkeen suunnittelu</a>
-  - <a href="#tehtava-ikarajat-ja-pelien-soveltuvuus">Tehtävä: Ikärajat ja pelien soveltuvuus</a>
-  - <a href="#tehtava-lanin-suunnittelu">Tehtävä: Lanin suunnittelu</a>
-  - <a href="#tehtava-osi-malli">Tehtävä: OSI-malli</a>
-  - <a href="#bonustehtava-lancache-isommille-laneille">Bonustehtävä: LanCache isommille laneille</a>
-  - <a href="#striimaus">Striimaus</a>
-  - <a href="#yhteenveto">Yhteenveto</a>
-    - <a href="#tehtava-obs-tai-twitch-studion-kaytto-ja-striimauksen-suunnittelu">Tehtävä: OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu</a>
-  - <a href="#twitch">Twitch</a>
-   - <a href="#tehtava-obs-tai-twitch-studion-kaytto-ja-striimauksen-suunnittelu">Tehtävä: OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu</a>
-    - <a href="#keskustelu-luokassa">Tehtävä: Oman internetkäyttäytymisen reflektointi</a>
-  - <a href="#youtube">YouTube</a>
-    - <a href="#tehtava-youtube-kanavan-perustaminen-ja-sisallon-jakaminen">Tehtävä: YouTube-kanavan perustaminen ja sisällön jakaminen</a>
-  - <a href="#striimauksen-sisallontuotanto-ja-yleison-kiinnittaminen">Striimauksen sisällöntuotanto ja yleisön kiinnittäminen</a>
-  - <a href="#seuraava-aihe">Seuraava aihe</a>
-  - <a href="#edellinen-aihe">Edellinen aihe</a>
+- [Moduuli 1: E-urheilutapahtuman suunnittelu](#moduuli-1-e-urheilutapahtuman-suunnittelu)
+- [Sisällysluettelo](#sisällysluettelo)
+  - [Tapahtuman luonteen ja kohderyhmän valinta](#tapahtuman-luonteen-ja-kohderyhmän-valinta)
+  - [Tapahtuman luonne](#tapahtuman-luonne)
+    - [**Kilpailulliset** e-urheilutapahtumat](#kilpailulliset-e-urheilutapahtumat)
+    - [**Yhteisölliset** e-urheilutapahtumat](#yhteisölliset-e-urheilutapahtumat)
+    - [**Hybridi** e-urheilutapahtumat](#hybridi-e-urheilutapahtumat)
+  - [**Tehtävä**: Tapahtuman luonne ja kohderyhmä (luokassa mietittäväksi)](#tehtävä-tapahtuman-luonne-ja-kohderyhmä-luokassa-mietittäväksi)
+  - [Kohdeyleisö](#kohdeyleisö)
+  - [**Tehtävä:** Kohdeyleisön analysointi](#tehtävä-kohdeyleisön-analysointi)
+  - [Peligenren valinta ja ymmärtäminen](#peligenren-valinta-ja-ymmärtäminen)
+  - [Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin](#tapahtuman-koko-ja-sen-vaikutus-järjestelyihin-ja-resursseihin)
+  - [](#)
+  - [Online-tapahtuma](#online-tapahtuma)
+  - [Faceit turnauspohjana](#faceit-turnauspohjana)
+    - [**Tehtävä:** Suunnittele turnaus (ryhmätehtävä)](#tehtävä-suunnittele-turnaus-ryhmätehtävä)
+    - [**Tehtävä:** Rekisteröityminen ja joukkueiden muodostaminen](#tehtävä-rekisteröityminen-ja-joukkueiden-muodostaminen)
+    - [**Tehtävä:** Toteuta turnaus](#tehtävä-toteuta-turnaus)
+    - [**Tehtävä:** Kerro turnauksesta (luokassa pohdittavaksi)](#tehtävä-kerro-turnauksesta-luokassa-pohdittavaksi)
+    - [Turnauksen järjestämisen muistilista](#turnauksen-järjestämisen-muistilista)
+  - [Lan-tapahtuma](#lan-tapahtuma)
+    - [1. Pelipaikat](#1-pelipaikat)
+    - [2. Logistiikka ja turvallisuus](#2-logistiikka-ja-turvallisuus)
+    - [3. Yleisö](#3-yleisö)
+    - [4. Tapahtuman tunnelma](#4-tapahtuman-tunnelma)
+  - [Yhteiset tekijät online- ja lan-tapahtumassa](#yhteiset-tekijät-online--ja-lan-tapahtumassa)
+    - [1. Markkinointi ja viestintä](#1-markkinointi-ja-viestintä)
+    - [2. Budjetointi ja rahoitus](#2-budjetointi-ja-rahoitus)
+    - [3. Henkilöstö ja vapaaehtoiset](#3-henkilöstö-ja-vapaaehtoiset)
+  - [E-urheilu LANin (Local Area Network) perusteet](#e-urheilu-lanin-local-area-network-perusteet)
+    - [Mikä on reititin (router)?](#mikä-on-reititin-router)
+    - [Mikä on kytkin (switch)?](#mikä-on-kytkin-switch)
+    - [VLAN-verkot](#vlan-verkot)
+    - [Pelilaneissa käytetyt kytkimet](#pelilaneissa-käytetyt-kytkimet)
+    - [Resursseja](#resursseja)
+  - [Yhteenveto](#yhteenveto)
+    - [**Tehtävä**: Kyselylomakkeen suunnittelu](#tehtävä-kyselylomakkeen-suunnittelu)
+    - [**Tehtävä**: Ikärajat ja pelien soveltuvuus](#tehtävä-ikärajat-ja-pelien-soveltuvuus)
+    - [**Tehtävä**: Lanin suunnittelu](#tehtävä-lanin-suunnittelu)
+    - [**Tehtävä**: OSI-malli](#tehtävä-osi-malli)
+    - [**Bonustehtävä**: LanCache isommille laneille](#bonustehtävä-lancache-isommille-laneille)
+  - [Striimaus](#striimaus)
+    - [OBS Studio](#obs-studio)
+    - [Twitch Studio](#twitch-studio)
+  - [Tehtäviä](#tehtäviä)
+    - [**Tehtävä:** Vertaile OBS studiota ja Twitch studiota](#tehtävä-vertaile-obs-studiota-ja-twitch-studiota)
+  - [Canva](#canva)
+    - [Canvan käyttöönotto](#canvan-käyttöönotto)
+    - [Suoratoisto-overlayn tyypit](#suoratoisto-overlayn-tyypit)
+  - [Yhteenveto](#yhteenveto-1)
+  - [Tehtäviä](#tehtäviä-1)
+  - [Twitch](#twitch)
+    - [**Mitä striimaus Twitchissä vaatii?**](#mitä-striimaus-twitchissä-vaatii)
+    - [Twitch-tilin luominen](#twitch-tilin-luominen)
+    - [Menestyminen Twitchissä](#menestyminen-twitchissä)
+    - [Twitch-bannerit](#twitch-bannerit)
+    - [Twitchin pimeä puoli](#twitchin-pimeä-puoli)
+  - [Tehtäviä](#tehtäviä-2)
+    - [**Tehtävä:** Oman internekäyttäytymisen relfektointi\*\*](#tehtävä-oman-internekäyttäytymisen-relfektointi)
+    - [**Tehtävä:** OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu](#tehtävä-obs--tai-twitch-studion-käyttö-ja-striimauksen-suunnittelu)
+  - [YouTube](#youtube)
+    - [Twitch VODien siirtäminen YouTubeen](#twitch-vodien-siirtäminen-youtubeen)
+    - [YouTube-bannerit](#youtube-bannerit)
+  - [Tehtäviä](#tehtäviä-3)
+    - [**Tehtävä:** YouTube-kanavan perustaminen ja sisällön jakaminen](#tehtävä-youtube-kanavan-perustaminen-ja-sisällön-jakaminen)
+  - [Striimauksen sisällöntuotanto ja yleisön kiinnittäminen](#striimauksen-sisällöntuotanto-ja-yleisön-kiinnittäminen)
+  - [Seuraava aihe](#seuraava-aihe)
+  - [Edellinen aihe](#edellinen-aihe)
 
 ---
-
 
 ## Tapahtuman luonteen ja kohderyhmän valinta
 	
    Aluksi todettakoon, että näissä materiaaleissa puhutaan e-urheilutapahtumien järjestämisestä Counter Strike pelin näkökulmasta ja materiaalissa puhutaankin usein Gradia Cup tapahtumasta ja näin ollen pelilaitteena toimii PC, mutta samat lainalaisuudet pätevät erilaisiin myös erilaisiin tapahtumiin, kuten konsoli tai vaikka lautapeli-iltoihin! Tapahtumat voivat olla kohderyhmiltään ja luonteeltaan hyvin erilaisia. Onkin hyvin tärkeää tiedostaa, että kohdeyleisö ja turnauksen luonne kohtaavat. Esimerkkinä huonosti tehdystä arvioista voisi olla CS2-turnaus, jossa on mukana useampi ammattitason joukkue ja paljon harrastusmielessä pelaavia joukkueita. Usein urheilun puolella onkin niin, että pelaajat, jotka pelaavat ammatikseen tai tarpeeksi korkealla sarjatasolla eivät voi osallistua "leikkimielisiin" turnauksiin tai ainakin pelaajien määrää on jollain tavalla rajoitettu.
 
-   ---
+---
 
 ## Tapahtuman luonne
 
-   ### **Kilpailulliset** e-urheilutapahtumat
+### **Kilpailulliset** e-urheilutapahtumat
 
    Kilpailullisissa e-urheilutapahtumissa pääosassa on jännitys, kilpailu ja parhaiden pelaajien suoritusten seuraaminen.  Tapahtuman järjestäjänä näkökulmasta tärkeintä on houkutella ammatikseen pelaavia tai muuten todella taitavia pelaajia, jotka tarjoavat yleisölle korkean tason pelaamista. Viimeisimpänä esimerkkinä ovat Elisa Masters Espoo tai vielä isompana turnauksena Dota 2 TI.Turnauksessa korostuvat hyvät järjestelyt ja selkeä turnausformaatti.
 
-   ### **Yhteisölliset** e-urheilutapahtumat
+### **Yhteisölliset** e-urheilutapahtumat
 
    Yhteisöllisissä e-urheilutapahtumissa tärkeää on mahdollisuus osallistua, sitouttaa ja luoda yhteisöllisyyttä. Tämä on tärkeää ottaa huomioon turnauksen suunnitteluvaiheessa. Millaiset joukkueet ja pelaajat voivat osallistua Gradia Cuppiin tai muihin järjestettäviin turnauksiin ja tapahtumiin? Tietenkin Gradian kaikki ammatillisen puolen opiskelijat, joilla on opiskelijatunnus. Mikä on lukioiden tilanne? Onko turnaukseen mahdollista tai suotavaa ottaa yhteistyöjoukkueita esimerkiksi muista ammatillisista oppilaitoksista? Jos turnaukseen osallistuu puoliammattilaisia, niin onko tässä jotain rajoitteita tai riskejä, jotka voivat "pilata" turnauksen? Pohditaan näitä yhdessä lisää vähän myöhemmin.
 
    Palataan vielä tarkoitukseen. Yhtenä tavoitteena olisi tuoda opiskelijoita/pelaajia yhteen, jotta he muodostaisivat joukkueita ja yksi haastava tavoite voisi olla, että myös pelaajat, jotka eivät tunne entuudestaan toisiaan saisivat muodostettua joukkueita. Verkostoituminen ja uusien kavereiden löytäminen voisi olla yksi hieno tavoite turnaukselle, mutta myös yhteisöllisessä e-urheilutapahtumassa voi olla palkintoja. Tässä vaiheessa onkin hyvä tiedostaa, että vaikka turnauksen järjestäjät suunnittelevat turnauksen tietylle porukalle, niin on varmaa, että turnaukseen osallistuu pelaajia eri lähtökohdista. Olemme ihmisinä ja myös pelaajina erilaisia. Jatketaan Gradia Cupin kautta turnauksen kohdeyleisön kartoitusta. Ilman todella tarkkaa kieltolistaa (faceit elo, mm rank, pelitunnit) on täysin varmaa, että turnauksen sisällä on todella isoja tasoeroja, eikä tämä välttämättä ole ongelma. Osa pelaajista haluaa turnaukseen, jotta voi voittaa mahdolliset palkinnot ja tavoitteena on olla turnauksen paras joukkue. Osa joukkueista osallistuu ensimmäiseen turnaukseen, koska ajattelee, että se voisi olla hauskaa ajanvietettä kavereiden kanssa ilman minkäänlaisia tulostavoitteita. Tähänkin väliin mahtuu todella paljon erilaisia taitotasoja.
 
-   ### **Hybridi** e-urheilutapahtumat
+### **Hybridi** e-urheilutapahtumat
 
    Hybridi e-urheilutapahtumissa haetaan tasapainoa kilpailun ja yhteisöllisyyden välille. Käytännössä kilpailullisissa turnauksissa voi olla myös oma BYOC-osio, jossa myös harrastemielessä pelaavat voivat tuoda omat koneensa ja pelata tapahtuman yhteydessä. Esimerkiksi joulukuun 15-17 2023 järjestettävä DreamHack Atlanta [DreamHack Atlanta](https://dreamhack.com/atlanta/lan/) tarjoaa turnauksia, joissa palkintopotit ovat tuhansia euroja.
 
    Periaatteessa e-urheilua voidaan myös liittää osaksi yritysten liiketoimintaa ilman sen suurempaa kilpailua, mutta koska yhtenä tavoitteena tutkinnon osassa on Gradia Cup 2024 onnistunut järjestäminen, niin suunnittelu lähtee tästä näkökulmasta. Mahdollisten toimeksiantojen myötä voimme myös suunnitella ja toteuttaa muita turnauksia, joten yleinen tieto tapahtumien järjestämisestä on paikallaan.
 
-   ---
+---
 
 ## **Tehtävä**: Tapahtuman luonne ja kohderyhmä (luokassa mietittäväksi)
 
@@ -90,15 +123,15 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
    Kohdeyleisöön vaikuttavat myös ikärajat. Tapahtuma voi olla suunnattu lapsille, nuorille tai aikuisille. Esimerkkinä nuorten pelileirin, jossa tarkoituksena on tarjota monipuolista ja opettavaista tekemistä nuorille. Vaihtoehtoisesti tapahtuma voi olla aikuisille suunnattu tapahtuma, jossa korostuu esimerkiksi ravintolapuoli ja muu viihtyminen.
 
-   ---
+---
 
-   ## **Tehtävä:** Kohdeyleisön analysointi
+## **Tehtävä:** Kohdeyleisön analysointi
 
-   1. Tutki, mitkä tekijät vaikuttavat kohdeyleisön valintaan.
-   2. Pohdi, miten kohdeyleisöä voidaan laajentaa eri peligenreillä.
-   3. Miten ikärajat vaikuttavat tapahtuman suunnitteluun?
+1. Tutki, mitkä tekijät vaikuttavat kohdeyleisön valintaan.
+2. Pohdi, miten kohdeyleisöä voidaan laajentaa eri peligenreillä.
+3. Miten ikärajat vaikuttavat tapahtuman suunnitteluun?
 
-   ---
+---
 
 ## Peligenren valinta ja ymmärtäminen 
 
@@ -190,6 +223,7 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 ### **Tehtävä:** Rekisteröityminen ja joukkueiden muodostaminen
 
 1. **Rekisteröitykää FACEIT-palveluun**, jos ette ole vielä jäseniä.  
+
 2. **Perustakaa turnaus** FACEIT:ssä käyttäen palvelun turnaustyökaluja.  
 
    Hyödyllisiä ohjeita:  
@@ -337,6 +371,75 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
     Tekoälyn näkemys lanitapahtumasta.
 </p>
 </div>
+- [Moduuli 1: E-urheilutapahtuman suunnittelu](#moduuli-1-e-urheilutapahtuman-suunnittelu)
+- [Sisällysluettelo](#sisällysluettelo)
+  - [Tapahtuman luonteen ja kohderyhmän valinta](#tapahtuman-luonteen-ja-kohderyhmän-valinta)
+  - [Tapahtuman luonne](#tapahtuman-luonne)
+    - [**Kilpailulliset** e-urheilutapahtumat](#kilpailulliset-e-urheilutapahtumat)
+    - [**Yhteisölliset** e-urheilutapahtumat](#yhteisölliset-e-urheilutapahtumat)
+    - [**Hybridi** e-urheilutapahtumat](#hybridi-e-urheilutapahtumat)
+  - [**Tehtävä**: Tapahtuman luonne ja kohderyhmä (luokassa mietittäväksi)](#tehtävä-tapahtuman-luonne-ja-kohderyhmä-luokassa-mietittäväksi)
+  - [Kohdeyleisö](#kohdeyleisö)
+  - [**Tehtävä:** Kohdeyleisön analysointi](#tehtävä-kohdeyleisön-analysointi)
+  - [Peligenren valinta ja ymmärtäminen](#peligenren-valinta-ja-ymmärtäminen)
+  - [Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin](#tapahtuman-koko-ja-sen-vaikutus-järjestelyihin-ja-resursseihin)
+  - [](#)
+  - [Online-tapahtuma](#online-tapahtuma)
+  - [Faceit turnauspohjana](#faceit-turnauspohjana)
+    - [**Tehtävä:** Suunnittele turnaus (ryhmätehtävä)](#tehtävä-suunnittele-turnaus-ryhmätehtävä)
+    - [**Tehtävä:** Rekisteröityminen ja joukkueiden muodostaminen](#tehtävä-rekisteröityminen-ja-joukkueiden-muodostaminen)
+    - [**Tehtävä:** Toteuta turnaus](#tehtävä-toteuta-turnaus)
+    - [**Tehtävä:** Kerro turnauksesta (luokassa pohdittavaksi)](#tehtävä-kerro-turnauksesta-luokassa-pohdittavaksi)
+    - [Turnauksen järjestämisen muistilista](#turnauksen-järjestämisen-muistilista)
+  - [Lan-tapahtuma](#lan-tapahtuma)
+    - [1. Pelipaikat](#1-pelipaikat)
+    - [2. Logistiikka ja turvallisuus](#2-logistiikka-ja-turvallisuus)
+    - [3. Yleisö](#3-yleisö)
+    - [4. Tapahtuman tunnelma](#4-tapahtuman-tunnelma)
+  - [Yhteiset tekijät online- ja lan-tapahtumassa](#yhteiset-tekijät-online--ja-lan-tapahtumassa)
+    - [1. Markkinointi ja viestintä](#1-markkinointi-ja-viestintä)
+    - [2. Budjetointi ja rahoitus](#2-budjetointi-ja-rahoitus)
+    - [3. Henkilöstö ja vapaaehtoiset](#3-henkilöstö-ja-vapaaehtoiset)
+  - [E-urheilu LANin (Local Area Network) perusteet](#e-urheilu-lanin-local-area-network-perusteet)
+    - [Mikä on reititin (router)?](#mikä-on-reititin-router)
+    - [Mikä on kytkin (switch)?](#mikä-on-kytkin-switch)
+    - [VLAN-verkot](#vlan-verkot)
+    - [Pelilaneissa käytetyt kytkimet](#pelilaneissa-käytetyt-kytkimet)
+    - [Resursseja](#resursseja)
+  - [Yhteenveto](#yhteenveto)
+    - [**Tehtävä**: Kyselylomakkeen suunnittelu](#tehtävä-kyselylomakkeen-suunnittelu)
+    - [**Tehtävä**: Ikärajat ja pelien soveltuvuus](#tehtävä-ikärajat-ja-pelien-soveltuvuus)
+    - [**Tehtävä**: Lanin suunnittelu](#tehtävä-lanin-suunnittelu)
+    - [**Tehtävä**: OSI-malli](#tehtävä-osi-malli)
+    - [**Bonustehtävä**: LanCache isommille laneille](#bonustehtävä-lancache-isommille-laneille)
+  - [Striimaus](#striimaus)
+    - [OBS Studio](#obs-studio)
+    - [Twitch Studio](#twitch-studio)
+  - [Tehtäviä](#tehtäviä)
+    - [**Tehtävä:** Vertaile OBS studiota ja Twitch studiota](#tehtävä-vertaile-obs-studiota-ja-twitch-studiota)
+  - [Canva](#canva)
+    - [Canvan käyttöönotto](#canvan-käyttöönotto)
+    - [Suoratoisto-overlayn tyypit](#suoratoisto-overlayn-tyypit)
+  - [Yhteenveto](#yhteenveto-1)
+  - [Tehtäviä](#tehtäviä-1)
+  - [Twitch](#twitch)
+    - [**Mitä striimaus Twitchissä vaatii?**](#mitä-striimaus-twitchissä-vaatii)
+    - [Twitch-tilin luominen](#twitch-tilin-luominen)
+    - [Menestyminen Twitchissä](#menestyminen-twitchissä)
+    - [Twitch-bannerit](#twitch-bannerit)
+    - [Twitchin pimeä puoli](#twitchin-pimeä-puoli)
+  - [Tehtäviä](#tehtäviä-2)
+    - [**Tehtävä:** Oman internekäyttäytymisen relfektointi\*\*](#tehtävä-oman-internekäyttäytymisen-relfektointi)
+    - [**Tehtävä:** OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu](#tehtävä-obs--tai-twitch-studion-käyttö-ja-striimauksen-suunnittelu)
+  - [YouTube](#youtube)
+    - [Twitch VODien siirtäminen YouTubeen](#twitch-vodien-siirtäminen-youtubeen)
+    - [YouTube-bannerit](#youtube-bannerit)
+  - [Tehtäviä](#tehtäviä-3)
+    - [**Tehtävä:** YouTube-kanavan perustaminen ja sisällön jakaminen](#tehtävä-youtube-kanavan-perustaminen-ja-sisällön-jakaminen)
+  - [Striimauksen sisällöntuotanto ja yleisön kiinnittäminen](#striimauksen-sisällöntuotanto-ja-yleisön-kiinnittäminen)
+  - [Seuraava aihe](#seuraava-aihe)
+  - [Edellinen aihe](#edellinen-aihe)
+
 ---
 
 ## E-urheilu LANin (Local Area Network) perusteet
