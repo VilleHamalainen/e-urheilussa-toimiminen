@@ -30,6 +30,9 @@ permalink: /e-urheilutapahtuman-suunnittelu/
     - [**Tehtävä:** Toteuta turnaus](#tehtävä-toteuta-turnaus)
     - [**Tehtävä:** Kerro turnauksesta (luokassa pohdittavaksi)](#tehtävä-kerro-turnauksesta-luokassa-pohdittavaksi)
     - [Turnauksen järjestämisen muistilista](#turnauksen-järjestämisen-muistilista)
+    - [Ennen turnausta](#ennen-turnausta)
+    - [Turnauksen aikana](#turnauksen-aikana)
+    - [Turnauksen jälkeen](#turnauksen-jälkeen)
   - [Lan-tapahtuma](#lan-tapahtuma)
     - [1. Pelipaikat](#1-pelipaikat)
     - [2. Logistiikka ja turvallisuus](#2-logistiikka-ja-turvallisuus)
@@ -82,7 +85,7 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 ---
 
 ## Tapahtuman luonteen ja kohderyhmän valinta
-	
+
    Aluksi todettakoon, että näissä materiaaleissa puhutaan e-urheilutapahtumien järjestämisestä Counter Strike pelin näkökulmasta ja materiaalissa puhutaankin usein Gradia Cup tapahtumasta ja näin ollen pelilaitteena toimii PC, mutta samat lainalaisuudet pätevät erilaisiin myös erilaisiin tapahtumiin, kuten konsoli tai vaikka lautapeli-iltoihin! Tapahtumat voivat olla kohderyhmiltään ja luonteeltaan hyvin erilaisia. Onkin hyvin tärkeää tiedostaa, että kohdeyleisö ja turnauksen luonne kohtaavat. Esimerkkinä huonosti tehdystä arvioista voisi olla CS2-turnaus, jossa on mukana useampi ammattitason joukkue ja paljon harrastusmielessä pelaavia joukkueita. Usein urheilun puolella onkin niin, että pelaajat, jotka pelaavat ammatikseen tai tarpeeksi korkealla sarjatasolla eivät voi osallistua "leikkimielisiin" turnauksiin tai ainakin pelaajien määrää on jollain tavalla rajoitettu.
 
 ---
@@ -132,63 +135,60 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
 ---
 
-## Peligenren valinta ja ymmärtäminen 
+## Peligenren valinta ja ymmärtäminen
 
 Pelin tai pelien valinta vaikuttaa kohdeyleisöön ja tapahtuman luonteeseen. Helpointa on rajata peli aluksi yhteen ja mahdollisuuksien mukaan laajentaa pelikatalogia, jos sille on kysyntää. Gradialla on järjestetty aikaisempina vuosina Gradia Cup niminen CS:GO-turnaus. Miksi näin on? Yksi syy on tietenkin Counter Striken kestosuosio nuorten parissa ja pelin eri muodot ovat olleet suosiossa jo kaksi vuosikymmentä. Kuitenkin esimerkiksi Gradialta löytyy 22 0000 opiskelijaa, joten voisi olla, että myös muille peleille olisi kysyntää erilaisten tapahtumien muodossa.
 
-Suosion lisäksi on syytä ottaa huomioon saa saavutettavuus. Eli mitä tarvitaan, että peliä voi a) pelata b) pelata kilpailullisesti? Esimerkiksi Counter Strike 2 on ilmainen päivitys CS:GO-peliin ja muutenkin ilmainen. Toisaalta esimerkiksi World Of Warcraft maksaa alkusijoituksen ja lisäksi maksun joka kuukausi. 
+Suosion lisäksi on syytä ottaa huomioon saa saavutettavuus. Eli mitä tarvitaan, että peliä voi a) pelata b) pelata kilpailullisesti? Esimerkiksi Counter Strike 2 on ilmainen päivitys CS:GO-peliin ja muutenkin ilmainen. Toisaalta esimerkiksi World Of Warcraft maksaa alkusijoituksen ja lisäksi maksun joka kuukausi.
 
 Yksi aspekti turnauksen luoteen kannalta ovat laitevaatimukset. Tämä koskee tapahtumia, jossa on koneet ovat valmiina. Tällöin tapahtuman järjestäjän tulee pitää huoli, että pelattavat pelit toimivat tarpeeksi hyvin. Tapahtumassa tulee ottaa huomioon myös muut osa-alueet kuten näytöt, muut oheislaitteet kuten hiiret, näppäimistöt ja kuulokkeet. Yleensä myös laneihin, jossa koneet ovat omasta takaa tuodaan oma hiiri, näppäimistö ja hiirimatto. Palataan tähän aiheeseen myöhemmin tarkemmin.
 
 Muita mahdollisia pohdinnan kohteita ovat kulttuuriset näkökohdat. Tällä tarkoitetaan lähinnä peligenrejen suosioita. Alla esimerkkejä:
 
-- **StarCraft Koreassa**: StarCraft ja StarCraft II ovat erittäin suosittuja Etelä-Koreassa, missä ne ovat kehittyneet suureksi osaksi pop-kulttuuria ja niillä on suuri ammattilaiskenttä. Tämä suosio ei välttämättä näy samalla tavalla muissa maissa. 
+- **StarCraft Koreassa**: StarCraft ja StarCraft II ovat erittäin suosittuja Etelä-Koreassa, missä ne ovat kehittyneet suureksi osaksi pop-kulttuuria ja niillä on suuri ammattilaiskenttä. Tämä suosio ei välttämättä näy samalla tavalla muissa maissa.
 
 - **Mobiipelaaminen Aasiassa**: Mobiilipelit kuten Honor of Kings tai PUBG Mobile ovat erittäin suosittuja Aasiassa, erityisesti Kiinassa ja Intiassa. Nämä pelit ovat sopeutuneet paikallisiin markkinoihin paremmin kuin länsimaiset vastineensa. Toisaalta taas e-urheilutapahtuman näkökulmasta tuntuisia hassulta pelata mobiilipelejä (opettajan mielipide), mutta voi olla, että tässä on paljonkin potentiaalia.
 
 **FIFA Latinalaisessa Amerikassa ja Euroopassa**: Jalkapallopelit, kuten FIFA-sarja, ovat erityisen suosittuja Euroopassa ja Latinalaisessa Amerikassa, missä jalkapallo on suosituin urheilulaji, mutta pelit eivät nauti vastaavaa suosiota esimerkiksi Aasiassa tai Yhdysvalloissa.
 
 Eettiset ja sosiaaliset rajoitteet on myös syytä pitää mielessä. Peleille on usein annettu ikärajat organisaatioiden, kuten Yhdysvaltain Entertainment Software Rating Board (ESRB) tai Euroopan Pan European Game Information (PEGI), toimesta. Nämä arviot tarjoavat ohjeita ikätason mukaisesta sisällöstä. Maasta tai alueesta riippuen voi olla laillisia rajoituksia tiettyjen ikäryhmien altistamisesta tietyille ikärajoitetuille peleille. Tapahtuman järjestäjien on noudatettava näitä lakeja välttääkseen oikeudellisia seuraamuksia.
-   
+
 Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerkiksi PEGI 18 -luokiteltu peli ei olisi sopiva oppilaitoksessa järjestettävässä turnauksessa. Esimerkiksi Counter Strike turnauksen järjestäminen alakoulussa ei onnistu. Tästä syystä kohdeyleisön tunteminen on tärkeää ja parempi vaihtoehto voisikin olla esim. Super Smash Bros peli, joka toimii Nintendolla, jolla on pitkä historia lasten ja nuorten pelikonsolina. Alaikäisiä osallistujia sisältävissä tapahtumissa vanhempien suostumuksen saaminen on tärkeää, jos pelin sisältöä voidaan pitää sopimattomana tietyille ikäryhmille. Peligenren valinta on monimutkainen prosessi, joka vaatii huolellista harkintaa useista näkökulmista.
 
 ---
 
 ## Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
 
-
 Tapahtuman laajuus ja osallistujamäärä vaikuttavat luonnollisesti järjestelyihin ja tarvittaviin resursseihin. Eri kokoisten tapahtumien järjestelyissä on otettava huomioon useita eri tekijöitä. Käydään läpi näitä aspekteja tarkemmin sekä online- että LAN-tapahtumien näkökulmasta.
 
-
 ![Pelitapahtuman eri vaiheet porrasnäkymänä](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/EsportsEventPlanningStairs.png)
+
 *E-urheilutapahtuman suunnittelun vaiheet.*
 
 ---
-   
+  
 ## Online-tapahtuma
 
+Tämän tutkinnon osan toteutus tehdään valmiilla turnausjärjestelmällä kuten Faceit, Esportal jne, mutta on hyvä tiedostaa, että mitä enemmän pelaajia turnauksessa on, sitä enemmän tarvitaan moderointia ym. Mitä enemmän yleisöä tapahtumaan osallistuu, sitä enemmän moderointia tarvitaan myös muualla.
 
-   Tämän tutkinnon osan toteutus tehdään valmiilla turnausjärjestelmällä kuten Faceit, Esportal jne, mutta on hyvä tiedostaa, että mitä enemmän pelaajia turnauksessa on, sitä enemmän tarvitaan moderointia ym. Mitä enemmän yleisöä tapahtumaan osallistuu, sitä enemmän moderointia tarvitaan myös muualla.
+Online-tapahtumissa korostuvat viestintäkanavat ja niiden hyödyntäminen esim. Discord yleiseen viestintään ja myös pelien aikaa tapahtuvaan viestintään. Mitä isompi turnaus on, sitä tarkemmat suunnitelmat aikataulut vaativat, ja myös tämä työllistää ihmisiä turnauksena aikana. Samoin tapahtuman striimauksen järjestäminen ja toteutus vaatii pohdintaa online- sekä lan-tapahtumassa.
 
-   Online-tapahtumissa korostuvat viestintäkanavat ja niiden hyödyntäminen esim. Discord yleiseen viestintään ja myös pelien aikaa tapahtuvaan viestintään. Mitä isompi turnaus on, sitä tarkemmat suunnitelmat aikataulut vaativat, ja myös tämä työllistää ihmisiä turnauksena aikana. Samoin tapahtuman striimauksen järjestäminen ja toteutus vaatii pohdintaa online- sekä lan-tapahtumassa.
+Osallistumisen tulee olla selkeää ja sääntöjen tulee olla hyvissä ajoin selvillä. Miten rekisteröityminen toteutetaan? Ohjeet ja säännöt tulee olla kirjattuna.
 
-   Osallistumisen tulee olla selkeää ja sääntöjen tulee olla hyvissä ajoin selvillä. Miten rekisteröityminen toteutetaan? Ohjeet ja säännöt tulee olla kirjattuna.
-
-   Ladataan ja tutustutaan vuoden 2022-toteutuksen materiaaleihin [Opiskelijoiden muistiinpanot vuodelta 2022](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main//Aikaisempienvuosienmateriaaleja/Gradiacup2022.docx)
-
+Ladataan ja tutustutaan vuoden 2022-toteutuksen materiaaleihin [Opiskelijoiden muistiinpanot vuodelta 2022](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main//Aikaisempienvuosienmateriaaleja/Gradiacup2022.docx)
 
 ## Faceit turnauspohjana
-   
-Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmenee tarvetta. Vanha ohje löytyy osoitteesta https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
+
+Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmenee tarvetta. [Vanha ohje turnauksen tekemiseen](https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament)
 
 GradiaCupin kannalta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
 
-
 ![Oman turnauksen luominen FaceIt-palvelussa](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Luoturnaus.png)
+
 *Oman turnauksen luominen FaceIt:ssa on helppoa ja onnistuu muutamalla napin painalluksessa!*
 
 ---
-   
+
 
 ### **Tehtävä:** Suunnittele turnaus (ryhmätehtävä)
 
@@ -205,10 +205,11 @@ GradiaCupin kannalta meille tärkeä alusta on FaceIt ja siihen perehtyminen, ko
    - **Round robin** (kaikki pelaavat kaikkia vastaan)  
 
 ![Formaatin valinta on ratkaisevassa roolissa](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Valitseturnausformaatti.png)
+
 *Formaatin valinta on ratkaisevassa roolissa turnauksen onnistumisen kannalta.*
 
 ---
-   
+
 
 1. **Suunnitelkaa turnauksen aikataulu.**  
    Miettikää:  
@@ -247,6 +248,7 @@ GradiaCupin kannalta meille tärkeä alusta on FaceIt ja siihen perehtyminen, ko
 ### **Tehtävä:** Kerro turnauksesta (luokassa pohdittavaksi)
 
 Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota voitte analysoida ja kehittää.  
+
 - Tutustukaa vuoden 2022 Discord-viestintään ja miettikää mahdollisia parannuksia.  
 - Pohtikaa, miten turnauksen viestintää kannattaa suunnitella etukäteen.  
 - Mitä **uhkakuvia** turnauksen viestintään liittyy?  
@@ -254,10 +256,8 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 
 ### Turnauksen järjestämisen muistilista
 
-<details>
-<summary>Ennen turnausta</summary>
+### Ennen turnausta
 
-{: .markdown}
 | Vaihe                                             | Määräaika | Valmis |
 | ------------------------------------------------- | --------- | ------ |
 | 1. Määrittele turnauksen tarkoitus                |           |        |  |
@@ -280,10 +280,9 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 | 18. Valitse suoratoistoalusta ja luo tili         |           |        |  |
 | 19. Valitse ja ilmoita selostajat                 |           |        |  |
 
-</details>
+---
 
-<details>
-<summary>Turnauksen aikana</summary>
+### Turnauksen aikana
 
 | Vaihe                                              | Määräaika | Valmis |
 | -------------------------------------------------- | --------- | ------ |
@@ -300,13 +299,12 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 | 30. Valitse lähetettävät ottelut                   |           |        |  |
 | 31. Ole valmiina otteluiden alkaessa               |           |        |  |
 
-</details>
+---
 
-<details>
-<summary>Turnauksen jälkeen</summary>
+### Turnauksen jälkeen
 
 | Vaihe                                                     | Määräaika | Valmis |
-| --------------------------------------------------------- | --------- | ------ |
+| --------------------------------------------------------- | --------- | ------ |  
 | 32. Juhli tiimin kanssa                                   |           |        |  |
 | 33. Kerää pelaajapalautetta                               |           |        |  |
 | 34. Valmistele tapahtumaraportti                          |           |        |  |
@@ -315,32 +313,32 @@ Tehtävää varten saatte opettajalta **2022-vuoden Discord-toteutuksen**, jota 
 | 37. Järjestä palkintojenjakotilaisuus                     |           |        |  |
 | 38. Analysoi data                                         |           |        |  |
 | 39. Lähetä data asianomaisille toimijoille                |           |        |  |
-</details>
-
 
 Muistilistan laatimisessa on hyödynnetty Foundational Guide for Esports Tournaments -dokumenttia, joka on julkaistu 4.0 Creative Commons -lisenssillä Dell Technologiesin ja Advanced Learning Partnersin toimesta.
-
-
 
 ## Lan-tapahtuma
 
 Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä yllättääkin ihmiset, jotka ajattelevat, että "siellä pelataan vaan tietokoneella". Tämä on toki totta, mutta tapahtumassa on tärkeää huomioida kaikki tapahtuman vaatimukset. Lan-tapahtumassa erityisen tärkeää on huolehtia, että virtaa ja internetkaistaa on riittävästi.
 
 ### 1. Pelipaikat
+
 - **Riittävä määrä pelipaikkoja ja -pöytiä.**
 - **Verkko ja sähkö:** Luotettava LAN-verkko ja riittävä sähkökapasiteetti.
 - **Koneet ja laitteet:** Tarvittavat tietokoneet, näytöt ja muut pelilaitteet.
 
 ### 2. Logistiikka ja turvallisuus
+
 - **Tilan järjestely:** Ergonominen ja turvallinen tilan suunnittelu.
 - **Turvallisuus:** Paloturvallisuus, ensiapu ja järjestyksenvalvonta.
 - **Saapuminen ja poistuminen:** Selkeät reitit saapumiselle ja poistumiselle.
 
 ### 3. Yleisö
+
 - **Katsomo:** Mukavat ja hyvät näkymät pelialueelle ja streamiin.
 - **Ravintola- ja viihdepalvelut (K18):** Tarjoilut ja mahdolliset oheistoiminnot.
 
 ### 4. Tapahtuman tunnelma
+
 - **Äänentoisto ja valaistus:** Laadukas äänentoisto ja tunnelmallinen valaistus.
 - **Visuaaliset elementit:** Näyttötaulut, bannerit ja muu visuaalinen ilme.
 
@@ -349,42 +347,47 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
 ## Yhteiset tekijät online- ja lan-tapahtumassa
 
 ### 1. Markkinointi ja viestintä
+
 - **Ennakkomarkkinointi:** Tapahtuman markkinointi ja tiedotus ennen tapahtumaa.
 - **Sosiaalinen media:** Aktiivinen läsnäolo ja vuorovaikutus sosiaalisessa mediassa.
 
 ### 2. Budjetointi ja rahoitus
+
 - **Budjetin laadinta:** Tarkka budjetin suunnittelu ja seuranta.
 - **Sponsorit ja kumppanit:** Mahdollisten sponsorien ja kumppaneiden hankkiminen.
 
 ### 3. Henkilöstö ja vapaaehtoiset
+
 - **Tiimit ja tehtävät:** Selkeät roolit ja vastuualueet henkilöstölle ja vapaaehtoisille.
 - **Koulutus:** Henkilöstön ja vapaaehtoisten koulutus ja perehdytys.
 
 ---
 
 ![Tekoälyn näkemys lanista.](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanParty.png)
+
 *Tekoälyn näkemys lanitapahtumasta.*
 
 ## E-urheilu LANin (Local Area Network) perusteet
 
 ![Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanDevices2.png)
+
 *Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.*
 
 ---
 
-[Lanissa](https://en.wikipedia.org/wiki/Local_area_network) tapahtuva pelaaminen voi olla pienimuotoisia kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa poissaollessa. Toisaalta lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteutettu ammattitason tapahtuma. 
+[Lanissa](https://en.wikipedia.org/wiki/Local_area_network) tapahtuva pelaaminen voi olla pienimuotoisia kaveriporukan tapahtumia, joita on järjestetty jo kymmeniä vuosia autotalleissa ja vanhempien asunnoissa poissaollessa. Toisaalta lan-tapahtuma voi olla isolla budjetilla suunniteltu ja toteutettu ammattitason tapahtuma.
 
 Vaikka lanin koko vaihtelee, käytössä on yleensä liittymä internetiin, vaikka tämä ei ole pakollista. Internetin ja lanin välinen yhteys hoidetaan reitittimen (router) avulla. Reititin on tärkeä laite, joka ohjaa datapaketteja verkkojen välillä ja varmistaa, että yhteydet toimivat.
 
 ### Mikä on reititin (router)?
 
-Reitittimiä on monenlaisia, mutta tässä yhteydessä puhumme kotikäyttöön soveltuvista reitittimistä. Reititin on laite, joka välittää datapaketteja verkkojen välillä, ja voidaan ajatella, että se toimii liikenteenohjaajana, joka varmistaa, että datapaketit löytävät oikeaan julkiseen IP-osoitteeseen. 
+Reitittimiä on monenlaisia, mutta tässä yhteydessä puhumme kotikäyttöön soveltuvista reitittimistä. Reititin on laite, joka välittää datapaketteja verkkojen välillä, ja voidaan ajatella, että se toimii liikenteenohjaajana, joka varmistaa, että datapaketit löytävät oikeaan julkiseen IP-osoitteeseen.
 
 Reititin hoitaa myös IP-osoitteiden hallinnan ja mahdollistaa laitteiden välisen kommunikaation. Esimerkiksi Counter-Strike tai Valorant -peleissä pelaajien liikkeet ja ammunnat muuttuvat datapaketeiksi, jotka lähetetään pelipalvelimelle. Jos pelipalvelin on hostattuna LAN-tapahtumassa, reititin ohjaa edelleen liikennettä privaattien IP-osoitteiden avulla (DHCP).
 
 IPv4-protokollassa oli noin 4,3 miljardia IP-osoitetta, mutta NAT (Network Address Translation) kehitettiin, jotta useat laitteet voivat jakaa yhden julkisen IP-osoitteen. Nykyään IPv6-protokolla, joka käyttää 128-bittisiä osoitteita, ratkaisee IP-osoitteiden puutteen.
 
-   
+
 Reitittimiä on useita erilaisia, mutta tässä yhteydessä puhumme pienemmän mittakaavan reittimistä kuten kodin reititin. Reititin on laite, joka välittää datapaketteja verkkojen välillä. Reititintä voi ajatella vaikkapa liikenteen ohjaajana, joka pitää huolta, että datapaketit löytävät oikeaan julkiseen IP (Internet Protocol)-osoitteeseen. Samassa verkossa olevilla koneilla on omat privaatit IP-osoitteet, joiden avulla laitteet tunnistavat ja kommunikoivat keskenään. Pelatessasi Counter Strikea tai Valoranttia, muuttuvat ammukset ja pelaajan liikkeet datapaketeiksi, jotka lähtevät pelivalvelimelle. Jos pelipalvelin on hostattuna lanin sisällä (jonkun koneella), hoitaa reititin edelleen ohjausta privaattien IP-osoitteiden avulla (DHCP). Mainittakoot, että aikanaan kun internet on syntynyt on IPv4 protokollan mukaisia osoitteita ollut noin 4.3 miljardia (2^32) ja, koska jokaisella verkossa olevalla laitteella (nykyään mikro, puhelin, vessanpönttö jne.) on  julkinen oma IP-osoitteensa kehitettiin osoitteiden yhtenä kiertona osoitteiden loppumiselle NAT eli Network Address Translation, jonka avulla useat laitteet samassa verkossa voivat jakaa yhden julkisen IP-osoitteen. Nykyään käyttöön on tullut IPv6, joka käyttää 128-bittistä osoitetta (2^128), jonka pitäisi ratkaista IP-osoitteiden ongelma ainakin toistaiseksi.
 
 
@@ -426,7 +429,7 @@ Counterstikessa oman privaatin IP:n pääsee katsomaan status-komennolla. Tärke
    ```
 ---
 
-Yleisesti reitittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja internetin välillä tai internet-palveluntarjoajien verkkojen välillä. Niitä käytetään kaikenkokoisissa verkoissa, ja suurimmat ja tehokkaimmat reitittimet ovat yleensä  internet-palveluntarjoajien, akateemisten ja tutkimuslaitosten hallussa. 
+Yleisesti reitittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja internetin välillä tai internet-palveluntarjoajien verkkojen välillä. Niitä käytetään kaikenkokoisissa verkoissa, ja suurimmat ja tehokkaimmat reitittimet ovat yleensä  internet-palveluntarjoajien, akateemisten ja tutkimuslaitosten hallussa.
 
 ### Mikä on kytkin (switch)?
 
@@ -434,6 +437,7 @@ Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (**Data Link Layer 2**)
 
 
 ![Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Kytkin.png)
+
 *Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.*
 
 ---
@@ -461,27 +465,27 @@ Pelilaneissa kytkimen käyttö on erityisen tärkeää. Jokainen laite saa oman 
 
 ```console
 
- 	Windows IP Configuration
+  Windows IP Configuration
 
 
-	Ethernet adapter Ethernet:
+ Ethernet adapter Ethernet:
 
-   	Connection-specific DNS Suffix  . :
-   	Link-local IPv6 Address . . . . . : fe80::4d53:5fa1:cdde:a2f7%4
-   	IPv4 Address. . . . . . . . . . . : 82.112.110.245
-   	Subnet Mask . . . . . . . . . . . : 255.255.252.0
-   	Default Gateway . . . . . . . . . : 192.168.1.1
+    Connection-specific DNS Suffix  . :
+    Link-local IPv6 Address . . . . . : fe80::4d53:5fa1:cdde:a2f7%4
+    IPv4 Address. . . . . . . . . . . : 82.112.110.245
+    Subnet Mask . . . . . . . . . . . : 255.255.252.0
+    Default Gateway . . . . . . . . . : 192.168.1.1
 
-	Ethernet adapter vEthernet (Default Switch):
+ Ethernet adapter vEthernet (Default Switch):
 
-   	Connection-specific DNS Suffix  . :
-   	Link-local IPv6 Address . . . . . : ************** 
-   	IPv4 Address. . . . . . . . . . . : 172.18.176.1
-   	Subnet Mask . . . . . . . . . . . : 255.255.240.0
-   	Default Gateway . . . . . . . . . :
-```   
+    Connection-specific DNS Suffix  . :
+    Link-local IPv6 Address . . . . . : ************** 
+    IPv4 Address. . . . . . . . . . . : 172.18.176.1
+    Subnet Mask . . . . . . . . . . . : 255.255.240.0
+    Default Gateway . . . . . . . . . :
+```
+
 Omassa kotiverkossa on syytä olla tietoinen reitittimen asetuksista ja verkon tilasta. Windows-koneella verkon tiedot voidaan tarkistaa `ipconfig`-komennolla.
-
 
 ---
 
@@ -497,7 +501,7 @@ Enempää ei tässä yhteydessä verkkoteknologiaa käydä läpi. Alla linkkejä
 ---
 
 ## Yhteenveto
-   
+
 Online- ja LAN-tapahtumien järjestäminen e-urheilussa vaatii monipuolista suunnittelua ja huolellista toteutusta. Online-tapahtumat korostavat teknisen infrastruktuurin ja virtuaalisen viestinnän merkitystä, kun taas LAN-tapahtumat keskittyvät fyysisen tilan, laitteiden ja yleisön kokemuksen hallintaan. Molemmissa tapahtumatyypeissä on tärkeää kiinnittää huomiota markkinointiin, budjetointiin, henkilöstöhallintaan ja osallistujakokemukseen. Onnistunut tapahtuma edellyttää joustavaa suunnittelua, tehokasta koordinointia ja kykyä reagoida muuttuviin olosuhteisiin.
 
 ---
@@ -516,9 +520,9 @@ Voiko valitsemaasi peliä käyttää tapahtumassa? Mitä tarkoittaa IPR?
 
 ---
 
-### **Tehtävä**: Lanin suunnittelu 
+### **Tehtävä**: Lanin suunnittelu
 
-Tämä tehtävä on suunniteltu niin, että se valmistaa opiskelijoita LAN-tapahtuman järjestämiseen. Aikaisemmin järjestetyn toteutuksen dokumentaation voi ladata [GradiaCup2022.docx](https://raw.githubusercontent.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua. 
+Tämä tehtävä on suunniteltu niin, että se valmistaa opiskelijoita LAN-tapahtuman järjestämiseen. Aikaisemmin järjestetyn toteutuksen dokumentaation voi ladata [GradiaCup2022.docx](https://raw.githubusercontent.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua.
 
 Tehtävänä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen porukalle. Miten toteutusta lähdettäisiin tekemään? Millaisilla laitteilla tässä voitaisiin onnistua? Ladatkaa ja tutustukaa cs2-palvelimen pystyttämiseen.
 
@@ -531,15 +535,15 @@ Tehtävänä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen
 
 Selvitä, mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat LAN-tapahtumien kannalta? Mihin kerrokseen ne kuuluvat?
 
-
 ![OSI-malli](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/OSImalli.png)
+
 *OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.*
 
 ---
 
 ### **Bonustehtävä**: LanCache isommille laneille
 
-Selvittäkää kuinka isommilla laneilla selvitään ilman, että koko verkko kaatuu. Vihje löytyy jo itse tehtäväannosta. Lancachen eli lanin välimuistilla tarkoitetaan käytännössä tapaa tallentaa pelejä ym. asioita, joita lanittajat haluavat ladata ja sen sijaan, että jokainen alkaa latamaan omaa versiotaan ja näin ollen kuormittaa verkkoa, voidaan lancachen avulla tiedostot ladata välimuistista. 
+Selvittäkää kuinka isommilla laneilla selvitään ilman, että koko verkko kaatuu. Vihje löytyy jo itse tehtäväannosta. Lancachen eli lanin välimuistilla tarkoitetaan käytännössä tapaa tallentaa pelejä ym. asioita, joita lanittajat haluavat ladata ja sen sijaan, että jokainen alkaa latamaan omaa versiotaan ja näin ollen kuormittaa verkkoa, voidaan lancachen avulla tiedostot ladata välimuistista.
 - [Dockerin asennus](https://docs.docker.com/engine/install/ubuntu/#installation-methods)
 - [LanCachen asennus](https://lancache.net/docs/installation/docker-compose/)
 
@@ -669,6 +673,7 @@ Striimaajat voivat hakea **Affiliate**- tai **Partner**-ohjelmiin, jotka tarjoav
 
 
 ![Twitch yleisnakyma](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchnakyma.png)
+
 *Twitchin yleisnäkymästä voit valita itseäsi kiinnostavan genren.*
 
 ---
@@ -692,12 +697,14 @@ Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit perso
 
 
 ![Twitch lahetysikkuna](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys1.png)
+
 *Käytä **stream-avainta** liittääksesi OBS Studion Twitchiin. Avaimen löydät **Asetukset -> Lähetys** -valikon takaa.*
 
 ---
-   
-     
+
+
 ![Twitch stream avain OBS](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys2.png)
+
 *Varmista, että OBS:n asetukset ovat kunnossa. Testaa streamia menemättä live-tilaan.*
 
 ---
@@ -736,6 +743,7 @@ Twitch on toteuttanut useita toimenpiteitä parantaakseen ympäristöään, kute
 ---
 
 ### **Tehtävä:** Oman internekäyttäytymisen relfektointi**
+
    - Onko joku itse osallistunut toimintaan, joka nykyään hävettää jossain vastaavanlaisessa palvelussa?
    - Onko joku kohdannut Twitchissä tai muissa sosiaalisissa medioissa/peleissä vihamielisiä tilanteita?
    - Miten jokainen meistä voi itse vaikuttaa siihen, ettei osallistu kiusaamiseen?

@@ -24,7 +24,7 @@ permalink: /johdatus-e-urheiluun/
     - [**Tehtävä**: E-urheilukaupungit Köln ja Katowice (pareittain tai pienissä ryhmissä)](#tehtävä-e-urheilukaupungit-köln-ja-katowice-pareittain-tai-pienissä-ryhmissä)
   - [E-urheilun tulevaisuuden näkymät](#e-urheilun-tulevaisuuden-näkymät)
     - [**Tehtävä**: Tulevaisuuden visio (pareittain tai pienissä ryhmissä)](#tehtävä-tulevaisuuden-visio-pareittain-tai-pienissä-ryhmissä)
-    - [Materiaaleja:](#materiaaleja)
+    - [Materiaaleja](#materiaaleja)
     - [Seuraava aihe](#seuraava-aihe)
 
 ---
@@ -37,12 +37,12 @@ permalink: /johdatus-e-urheiluun/
 
 ## **Tehtävä:** Mitä kaikkea e-urheiluun liittyy?
 
-Mitä kaikkea muuta <b>e-urheilun ekosysteemiin</b> kuuluu? Mikä on ekosysteemi? Yksi näkemys aiheeseen löytyy painamalla alapuolella olevaa tekstiä.
+Mitä kaikkea muuta **e-urheilun ekosysteemiin** kuuluu? Mikä on ekosysteemi? Yksi näkemys aiheeseen löytyy painamalla alapuolella olevaa tekstiä.
 
 <details>
-<summary>->Paina:Kuva ekosysteemistä<-</summary>
+<summary>➡**Paina**:Kuva ekosysteemistä⬅</summary>
 
-  <img src="https://villehamalainen.github.io/e-urheilussa-toimiminen/Kuvat/esportsecosystem.png" alt="Esports Ecosystem">
+  ["Esports Ecosystem"](https://villehamalainen.github.io/e-urheilussa-toimiminen/Kuvat/esportsecosystem.png)
   <center>Kuva. Lee, Je Seok & Steinkuehler, Constance. (2019). Esports as a catalyst for connected learning: the North America Scholastics Esports Federation. XRDS: Crossroads, The ACM Magazine for Students. 25. 54-59. 10.1145/3331075. </center>
 </details>
 
@@ -62,7 +62,6 @@ Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa v
 <p style="max-width: 100%; margin: 0 auto; text-align: left;">
   Pelikuvaa vuonna 1972 julkaistusta Space War pelistä.
 </p>
-
 
 ---
 
@@ -92,14 +91,13 @@ Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. M
 
 ---
 
-Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät e-urheilua eteen päin isoin harppauksin. The Cyberathlete Professional League (CPL) perustettiin kyseisenä vuonna ja yksi 2000-luvun alun suosituimmista peleistä StarCraft julkaistiin saman vuonna. StarCraft nousi massiiviseksi hitiksi ympäri maailman, mutta erityisen suosituksi Etelä-Koreassa, jossa kyseinen peli tarjosi monelle mahdollisuuden ammattilaisuuteen. Pelejä näytettiin myös kansallisessa televisiossa. Pelit Quake ja StarCraft saivat omat kilpailulliset peliyhteisönsä. 
+Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät e-urheilua eteen päin isoin harppauksin. The Cyberathlete Professional League (CPL) perustettiin kyseisenä vuonna ja yksi 2000-luvun alun suosituimmista peleistä StarCraft julkaistiin saman vuonna. StarCraft nousi massiiviseksi hitiksi ympäri maailman, mutta erityisen suosituksi Etelä-Koreassa, jossa kyseinen peli tarjosi monelle mahdollisuuden ammattilaisuuteen. Pelejä näytettiin myös kansallisessa televisiossa. Pelit Quake ja StarCraft saivat omat kilpailulliset peliyhteisönsä.
 
 2000-luvulla e-urheilun suosio kasvoi, mikä herätti suurten peliorganisaatioiden, sponsoreiden ja mediayhtiöiden kiinnostuksen uusien nopeampien yhteyksien myötä.. Vielä 90-luvulla suurin osa länsimaista sai internetin puhelinverkon kautta. Tämä tarkoitti, että puhelimella ei voinut soittaa kun netti oli käyttössä. 2000-luvulla kuvaan tulivat ns. broadband-yhteydet (laajakaista), jotka tarkoittivat sitä, että Internet oli "aina" päällä. Lisäksi nopeudet datan siirrossa paranivat huomattavasti. Kuitenkin kuvaavaa on, että vuonna 2000 OECD-maissa oli noin 150 miljoonaa modeemiyhteyttä ja alle 20 miljoonaa laajakaistaa. 2005 vuonna luvut olivat n. 130 miljoona molempia yhteystyyppejä ja vuonna 2010 laajakaistoja oli yli 300 miljoonaa. (ks. materiaalit). Lan-verkoista ja internetistä puhumme lisää kun vertailemme lan- ja onlinetapahtumien järjestämistä.
 
 2000-luvun isoja tapahtumia olivat ainakin MLG:n perustaminen vuonna 2002 New Yorkissa, joka lisäsi esporsin suosiota Yhdysvalloissa. Pelattuja pelejä oli mm. Halo, Tekken, Gears of War jne. Vuonna 2003 järjestettiin The Electronic Sports World Cup (ESWC), joka oli ensimmäinen iso kansainvälinen turnaus. Täällä pelattiin mm. Counter Strikea. Tarkemmin ESWC:n historiaan voi käydä tutustumassa [ESWC:n kotisivuilla](https://www.eswc.com/). Saman vuonna järjestettiin The World Cyber Games (WCG) koreassam joka oli suuri kansainvälinen turnaus. Pelatut pelit: Age of Mythology, FIFA 2003, Counter Strike, StarCraft, Unreal, Warcraft 3.
 
-Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Series (CGS). Ensimmäisessä versiossa vuonna 2006 pelattiin myös useampia eri pelejä, joista isoimmat IP:t Yhdysvalloissa tuohon aikaan olivat Counter Strike 1.6 ja Halo 2. Tarkoituksena projektilla oli tuoda eurheilu liiga, jota näytettäisiin televisiossa säännöllisesti. Valitettavasti projektin laajus muuttui Yhdysvalloista myös Eurooppaan ja Aasiaan, jolloin rahaa alkoi palaa paljon odotettua enemmän. Tarkemmin 2000-luvun lopun pelitapahtumiin pääse käsiksi [tässä artikkeliss](https://www.hotspawn.com/other/guides/championship-gaming-series-ahead-of-its-time.)
-
+Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Series (CGS). Ensimmäisessä versiossa vuonna 2006 pelattiin myös useampia eri pelejä, joista isoimmat IP:t Yhdysvalloissa tuohon aikaan olivat Counter Strike 1.6 ja Halo 2. Tarkoituksena projektilla oli tuoda eurheilu liiga, jota näytettäisiin televisiossa säännöllisesti. Valitettavasti projektin laajus muuttui Yhdysvalloista myös Eurooppaan ja Aasiaan, jolloin rahaa alkoi palaa paljon odotettua enemmän. Tarkemmin 2000-luvun lopun pelitapahtumiin pääse käsiksi [tässä artikkelissa](https://www.hotspawn.com/other/guides/championship-gaming-series-ahead-of-its-time.)
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=q6EWc1Kz10o" title="Championship Gaming Series 2006">
@@ -112,19 +110,17 @@ Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Serie
 
 ---
 
-Hyppäämme ajassa hieman eteen päin ja vuoteen, jolloin Valve järjesti The International (TI) **Dota 2** turnauksen. Turnauksesta teki poikkeuksellisen se, että palkintopotti oli jotain, mitä e-urheilussa ei oltu aikaisemmin nähty. Kokonaispotti oli 1.6 miljoonaa dollaria, jonka tarkoituksena oli tuoda julkisuutta uudelle Dota 2 pelille (betalle). Jälkikäteen voitanee todeta, että julkisuustempaus toimi varsin hyvin ja parhaimmillaan palkintopotti on ollut noin 40 miljoonaa dollaria, joka on ollut ns. Battle Passin ansiota, josta tietty prosentti on mennyt suoraan The Internationalin palkintopottiin. 
+Hyppäämme ajassa hieman eteen päin ja vuoteen, jolloin Valve järjesti The International (TI) **Dota 2** turnauksen. Turnauksesta teki poikkeuksellisen se, että palkintopotti oli jotain, mitä e-urheilussa ei oltu aikaisemmin nähty. Kokonaispotti oli 1.6 miljoonaa dollaria, jonka tarkoituksena oli tuoda julkisuutta uudelle Dota 2 pelille (betalle). Jälkikäteen voitanee todeta, että julkisuustempaus toimi varsin hyvin ja parhaimmillaan palkintopotti on ollut noin 40 miljoonaa dollaria, joka on ollut ns. Battle Passin ansiota, josta tietty prosentti on mennyt suoraan The Internationalin palkintopottiin.
 
-Ennen Dota 2:n julkaisua markkinoille ilmestyi myös **League of Legends (LoL)**, joka otti vaikutteita alkuperäisestä DotA-versiosta. DotA oli Blizzardin kehittämän Warcraft III -pelin modifikaatio tai modi, joka tunnettiin nimellä Defense of the Ancients tai DotA Allstars. Tätä modia jatkokehitti nimimerkki IceFrog, ja hän siirtyikin myöhemmin Valve-yhtiöön kehittämään Dota 2 -peliä. League Of Legends sai myös hyvän vastaanoton ja se panosti selkeään käyttöliittymään, täysin erilainen taiteellinen tyyli ja uusiin pelimekaniikkoihin. Linjoilla tapahtuva taistelu keskittyi enemmän vastustajiin ja mm. linjalalla liikkuvien omien "creeppien" tuhoaminen ei ollut mahdollista. 
+Ennen Dota 2:n julkaisua markkinoille ilmestyi myös **League of Legends (LoL)**, joka otti vaikutteita alkuperäisestä DotA-versiosta. DotA oli Blizzardin kehittämän Warcraft III -pelin modifikaatio tai modi, joka tunnettiin nimellä Defense of the Ancients tai DotA Allstars. Tätä modia jatkokehitti nimimerkki IceFrog, ja hän siirtyikin myöhemmin Valve-yhtiöön kehittämään Dota 2 -peliä. League Of Legends sai myös hyvän vastaanoton ja se panosti selkeään käyttöliittymään, täysin erilainen taiteellinen tyyli ja uusiin pelimekaniikkoihin. Linjoilla tapahtuva taistelu keskittyi enemmän vastustajiin ja mm. linjalalla liikkuvien omien "creeppien" tuhoaminen ei ollut mahdollista.
 
 Vuonna 2012 markkinoille tuli jälleen uusi versio **Counter Strikesta**. Vaikka 1.6 version jälkeen markkinoilla oli myös Counter Strike:Source, niin kyseinen peli ei koskaan saavuttanut samanlaista suosiota kuin alkuperäinen peli. Myös uusi versio herätti pelaajissa erilaisia tuntemuksia (vertaa CS:GO ja CS 2 tällä hetkellä). Ensimmäiset versiot pelistä olivat huonoja ja todella erilaisia kuin mihin 1.6 pelaajat olivat tottuneet. CS:GO yhdisti huippujoukkueet 1.6:sta sekä Sourcesta ja seurauksena syntyikin joukkueita, jotka yhdistivät molempien pelien pelaajia. Pelaajat, jotka vaihtoivat heti uuteen peliin saivat ison edun, joka mahdollisti myös historiallisen Ninjas in Pyjamas- joukkueen 87-0 karttaputken. Jotain, mitä tuskin tullaan koskaan rikkomaan johtuen pelaajien tason noususta. Samat lainalaisuuden löytyvät myös muista urheilulajeista, kuten jääkiekosta, jossa entisaikojen supertähdet ovat tehneet kauden aikana maalimääriä, joita monesta syystä tuskin tullaan koskaan rikkomaan.
 
-2010-luvulla Dota 2, LOL ja Counterstrike ovat olleet isoimpia titteleitä, mutta muita mainitsemisen arvoisia pelejä ovat Blizzardin OverWatch, **PlayerUnknown's Battlegrounds (2017)**, **Fortnite Battle Royal (2017)**, Apex Legends (2019) ja Valorant (2020). Tässä vaiheessa on hyvä huomata, että Starcraft 2 -peliä ei enää listoilla näy. RTS eli Real Time Strategy pelit kokivat kovan kolauksen MOBA (Dota 2, LOL) pelien tulon myötä, joka korosti enemmän joukkuepelin merkitystä ja peligenre onkin osoittaunut myös kasuaaleille pelaajille lähestyttävämmäksi kuin 300 napin painnallusta minuutissa vaativat SC2 ja Warcraft 3. 
+2010-luvulla Dota 2, LOL ja Counterstrike ovat olleet isoimpia titteleitä, mutta muita mainitsemisen arvoisia pelejä ovat Blizzardin OverWatch, **PlayerUnknown's Battlegrounds (2017)**, **Fortnite Battle Royal (2017)**, Apex Legends (2019) ja Valorant (2020). Tässä vaiheessa on hyvä huomata, että Starcraft 2 -peliä ei enää listoilla näy. RTS eli Real Time Strategy pelit kokivat kovan kolauksen MOBA (Dota 2, LOL) pelien tulon myötä, joka korosti enemmän joukkuepelin merkitystä ja peligenre onkin osoittaunut myös kasuaaleille pelaajille lähestyttävämmäksi kuin 300 napin painnallusta minuutissa vaativat SC2 ja Warcraft 3.
 
 Suurimpia turnauksia ennen 2020-lukua muissa peleissä ovat olleet esimerkiksi Fortnite World Cup 2019, jossa palkintopotti oli huomattavat 30 miljoonaa dollaria. Myös PUBG:ssä on ollut useita turnauksia, joissa palkintopotit ovat olleet useamman miljoonan euron suuruisia vuodesta 2018 lähtien. Valorantin ja Apex Legendsin turnausten palkintopotit ovat olleet hieman vaatimattomampia, mutta rahallisesti puhutaan silti sadoista tuhansista ja jopa miljoonista dollareista.
 
-Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös COVID-19, joka pysäytti koko oikean maailman ja isot lanitapahtumat. Seurauksena kaikki siirtyivät enemmän tai vähemmän verkkoon. Tällä on ollut sekä hyviä, että huonoja seurauksia. Hyvänä puolena voidaan pitää sitä, että e-urheilu on saanut varmasti lisää katsojia. Toistaalta taas LAN-tapahtumien puuttuminen on vaikuttanut negatiivisesti monien organisaatioiden tulon lähteisiin. Tätä materiaalia tehdessä elämme vuoden 2023 loppua ja pian vuosi vaihtuu. Maailman tilanne COVID-19:n osalta on hieman normalisoitunut ja LAN-tapahtumat ovatkin tehneet paluun. Materiaaleja tehtäessä Dall-e oli kovasti otsikoissa, joten tässäpä tekoälyn näkemys pelaamisen historiasta. 
-
-
+Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös COVID-19, joka pysäytti koko oikean maailman ja isot lanitapahtumat. Seurauksena kaikki siirtyivät enemmän tai vähemmän verkkoon. Tällä on ollut sekä hyviä, että huonoja seurauksia. Hyvänä puolena voidaan pitää sitä, että e-urheilu on saanut varmasti lisää katsojia. Toistaalta taas LAN-tapahtumien puuttuminen on vaikuttanut negatiivisesti monien organisaatioiden tulon lähteisiin. Tätä materiaalia tehdessä elämme vuoden 2023 loppua ja pian vuosi vaihtuu. Maailman tilanne COVID-19:n osalta on hieman normalisoitunut ja LAN-tapahtumat ovatkin tehneet paluun. Materiaaleja tehtäessä Dall-e oli kovasti otsikoissa, joten tässäpä tekoälyn näkemys pelaamisen historiasta.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleEvolutionofesports.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
@@ -137,7 +133,6 @@ Yllä on lyhyt E-urheilun historia kuvattuna globaalisti. Väliin mahtuu myös C
 
 Yleiskuvan eri lukujen isoista linjoista voi katsoa alla olevasta kuvasta. Olemme tulleet varsin pitkän matka 1970-luvulta ja ensimmäisestä tapahtumastakin on kulunut jo noin viisikymmentä vuotta. Tätä materiaalia lukevien opiskelijoiden vanhemmat ovat siis saattaneet osallistua jo erilaisiin lanitapahtumiin tai harrastavat pelaamista!
 
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/VisualOfEsportshistoryMap.png" style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
   </div>
@@ -148,6 +143,7 @@ Yleiskuvan eri lukujen isoista linjoista voi katsoa alla olevasta kuvasta. Olemm
 ---
 
 Historian saatossa myös peleissä jaetut rahasummat ovat alkaneet muodostua varsin suuriksi. Erityisesto DOTA 2 on tuottanut pelaajilleen valtavia summia ja onkin aivan omassa luokassaan verrattuna muihin peleihin vielä historian tässä vaiheessa.
+
 | Rank | Game              | Total Prize Pool |
 | ---- | ----------------- | ---------------- |
 | 1    | Dota 2            | $308,752,064     |
@@ -156,7 +152,7 @@ Historian saatossa myös peleissä jaetut rahasummat ovat alkaneet muodostua var
 | 4    | League of Legends | $99,669,526      |
 | 5    | PUBG Mobile       | $78,897,361      |
 
-Eri pelien palkintopotit koko historian ajalta vuoden 2023 lopulla. Lähde: https://escharts.com/top-games?order=peak
+Eri pelien palkintopotit koko historian ajalta vuoden 2023 lopulla. Lähde: <https://escharts.com/top-games?order=peak>
 
 ### **Tehtävä:** E-urheilun kehitys
 
@@ -165,13 +161,11 @@ Eri pelien palkintopotit koko historian ajalta vuoden 2023 lopulla. Lähde: http
 
 ---
 
-
 ## E-urheilu Suomessa
 
 Suomessa E-urheilun nousu on ollut osa maailmanlaajuista kehitystä. Suomessa on syntynyt useita menestyviä pelaajia ja joukkueita eri pelilajeissa, kuten Counter-Strike: Global Offensive, Dota 2 ja League of Legends. Lisäksi suomalaiset pelaajat ja joukkueet ovat saavuttaneet menestystä kansainvälisissä turnauksissa. Viimeaikaisia suuria suorituksia ovat mm. Jerax:n ja Topsonin Dota 2 TI -turnauksen voitot vuosina 2018 ja 2019. Eikä suinkaan unohdeta vuonna 2017 samaisen turnauksen voittanutta Matumbamania. Voitot tekivät kyseisitä pelaajista miljonäärejä. Encen CS:GO Majorin toinen sija vuonna 2019 oli myös huikea altavastaaja tarina, joka valitettavasti ei saanut jatkoa joukkueen pelillisen johtahan vaihtumisen myötä. Vaikka Star Craft 2 ei olekaan enää suosionsa huipulla voitanee todeta, että Serral yksi suurimmista e-urheilut tähdistä, joita Suomessa on koskaan ollut. Serralista tuli ensimmäinen Korean ulkopuolelta oleva pelaaja, joka voitti korkeimman tason (S-tier) Korealaisen StarCraft II turnauksen kun hän voitti GSL vs. The World vuonna 2018.
 
 Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman rankingeissa. Menestystä on tullut yksittäisille pelaajille PUBG:ssa, Valorantissa, Rainbow Six Siegessä, Owerwatchissa, Fortnitessa, Lolissa, Hearthstonessa ja myös elektronisissa ajopeleissä. Tarkempia tietoja tienesteistä voit katsoa [Esports Earning sivulta](https://www.esportsearnings.com/countries/fi).
-
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Bv4CqIxqTMA" title="The International 2018">
@@ -184,9 +178,7 @@ Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman ra
 
 ---
 
-
 ## E-urheilun koulutus Suomessa
-
 
 E-urheilu on kasvattanut suosiotaan koulutussektorilla maailmanlaajuisesti, ja useat oppilaitokset tarjoavat nyt e-urheiluun liittyviä ohjelmia ja stipendejä lahjakkaille pelaajille. Tämä on osaltaan edistänyt e-urheilun hyväksymistä virallisena urheilumuotona monissa maissa.
 
@@ -198,7 +190,6 @@ Esimerkiksi [Jamk, Gradia ja JYU](https://coesports.gg/) pyrkivät nostamaan Jyv
 
 Myös [AhlmanEdu Tampereella](https://www.mtvuutiset.fi/artikkeli/suomessa-on-yksi-koulu-jossa-voi-opiskella-e-urheilun-ammattilaiseksi-mtv-selvitti-mihin-silla-tahdataan/8716096#gs.2hmh4p) tarjoaa koulutusta e-urheilun saralla, ja Helsingin Aalto-yliopistolla järjestetään vuosittain [peleihin ja e-urheiluun liittyviä tapahtumia](https://gamesnow.aalto.fi/gn-lectures-2023-24/). Tässä on vain muutamia nostoja ja erilaisia avauksia e-urheiluun liittyen tehdään ympäri säännöölisesti ympäri Suomea.
 
-
 ---
 
 ## Tehtäviä
@@ -209,7 +200,7 @@ Myös [AhlmanEdu Tampereella](https://www.mtvuutiset.fi/artikkeli/suomessa-on-yk
 
 Vastaa seuraaviin kysymyksiin mahdollisimman laajasti.
 
-1. Miten e-sports ja pelaaminen on vaikuttanut sinuun ja miksi olet päätynyt opiskelemaan kyseistä tutkinnon osaa? 
+1. Miten e-sports ja pelaaminen on vaikuttanut sinuun ja miksi olet päätynyt opiskelemaan kyseistä tutkinnon osaa?
 
 2. Miten e-sports ja pelaaminen ovat vaikuttaneet henkilökohtaiseen kasvuusi? Onko se auttanut kehittämään tiimityötaitoja, ongelmanratkaisukykyä tai muita taitoja, jotka näet hyödyllisinä?
 
@@ -219,10 +210,9 @@ Vastaa seuraaviin kysymyksiin mahdollisimman laajasti.
 
 5. Kerro myös oman pelaajapolkusi merkittävimmistä kohdista, kuten suosikkipelisi, muistettavat hetket pelaamisen parissa ja mitä olet oppinut matkan varrella.
 
-
 ### **Tehtävä**: E-urheilun kehittyminen oman genren tai pelin osalta (yksin, pareittain tai pienissä ryhmissä)
 
-Ota mallia aikaisemmasta teoriasta ja kerro lyhyesti oman pelisi tai genren tärkeimmät saavutukset. Mistä kaikki on saanut alkunsa ja miksi peli/genre on nyt siinä pisteessä kun se on? Mieti tässä yhteydessä kaupunkeja, tapahtua ja organisaatioita.  Jos peli ei mielestäsi ole niin suosittu kuin se antaisisi, niin mieti myös tähän mahdollisia syitä. 
+Ota mallia aikaisemmasta teoriasta ja kerro lyhyesti oman pelisi tai genren tärkeimmät saavutukset. Mistä kaikki on saanut alkunsa ja miksi peli/genre on nyt siinä pisteessä kun se on? Mieti tässä yhteydessä kaupunkeja, tapahtua ja organisaatioita.  Jos peli ei mielestäsi ole niin suosittu kuin se antaisisi, niin mieti myös tähän mahdollisia syitä.
 
 ### **Tehtävä**: E-urheilukaupungit Köln ja Katowice (pareittain tai pienissä ryhmissä)
 
@@ -234,7 +224,7 @@ Selvitä ja analysoi kaupunkien merkitystä e-urheilun brändäämisessä. Valit
 
 E-urheilu on kasvanut viime vuosina räjähdysmäisesti, tullen osaksi mainstream-kulttuuria. Sen suosio on kasvanut niin katsojien, pelaajien kuin taloudellisten investointienkin osalta. E-urheilu on saavuttanut uusia yleisöjä erityisesti nuorten keskuudessa, ja se on yhä enemmän tunnustettu urheilumuodoksi. Suuria kilpailuja striimataan aktiivisesti eri alustoilla, ja ne keräävät miljoonia katsojia ympäri maailmaa.
 
-Tulevaisuutta on mahdotonta ennustaa, mutta voitanee olettaa, että E-urheilun tulevaisuus on varsin valoisa. **COVID-19** toi streameihin ym. verkossa oleviin tapahtumiin lisää seuraajia ja ehkä tästä syystä myös voidaan puhua pienestä "e-urheilun talvesta". Koska ihmisillä ei ollut vaihtoehtoja kuin olla verkossa COVID-aikana, on tilanne normalisoitunut rokotekattavuuden ja taudin lievenemisen myötä. 
+Tulevaisuutta on mahdotonta ennustaa, mutta voitanee olettaa, että E-urheilun tulevaisuus on varsin valoisa. **COVID-19** toi streameihin ym. verkossa oleviin tapahtumiin lisää seuraajia ja ehkä tästä syystä myös voidaan puhua pienestä "e-urheilun talvesta". Koska ihmisillä ei ollut vaihtoehtoja kuin olla verkossa COVID-aikana, on tilanne normalisoitunut rokotekattavuuden ja taudin lievenemisen myötä.
 
 Teknologia kehittyy jatkuvasti ja vaikka **VR (virtuaalitodellisuus)** ja **AR (lisätty todellisuus)** ovat olleet jo pidemmän aikaa pinnalla, ei niistä ainakaan vielä ole noussut varteenotettavia pelejä e-urheiluun.
 VR-tekniikka voi tarjota immersiivisempä pelikokemuksia, jotka ylittävät perinteisen näytönpohjaisen pelaamisen. Esimerkiksi, VR-pelit voivat tuoda pelaajat suoraan pelimaailmaan, tarjoten aivan uudenlaisen tavan kokea e-urheilu.
@@ -245,9 +235,9 @@ Tarjolle voisi nousta myös hybriditoteutuksia, joita AR voi yhdistää todellis
 Markkinoiden muutos. Aasia on jo nyt yksi e-urheilun suurimmista markkinoista, ja sen odotetaan kasvavan entisestään. Erityisesti Kiina, Etelä-Korea ja Kaakkois-Aasia ovat keskeisiä alueita, joissa e-urheilu saavuttaa yhä suurempaa suosiota.Kehittyvillä markkinoilla, kuten Latinalaisessa Amerikassa, Itä-Euroopassa ja Afrikassa, on suuri potentiaali e-urheilun kasvuun. Kasvava internetin saatavuus ja digitaalisen infrastruktuurin parantuminen ovat avainasemassa näillä alueilla.
 
 Uudet peligenret, kuten AR/VR-pohjaiset pelit, voivat luoda uusia kilpailumuotoja e-urheiluun. Näiden pelien erityispiirteet, kuten tilan ja liikkeen hyödyntäminen, tarjoavat uusia haasteita ja mahdollisuuksia pelaajille.
-E-urheilun kilpailut voivat laajentua yhä enemmän kattamaan erilaisia genrejä ja pelityylejä, mukaan lukien mobiilipelit, jotka ovat erityisen suosittuja kehittyvillä markkinoilla. 
+E-urheilun kilpailut voivat laajentua yhä enemmän kattamaan erilaisia genrejä ja pelityylejä, mukaan lukien mobiilipelit, jotka ovat erityisen suosittuja kehittyvillä markkinoilla.
 
-Myös erilaiset tapahtumat ja kilpailut voivat olla tulevaisuudessa suosittuja. Yhdistämällä fyysisiä ja virtuaalisia elementtejä, e-urheilutapahtumat voivat luoda hybridimuotoja, jotka tarjoavat ainutlaatuisia kokemuksia sekä paikan päällä että verkossa oleville katsojille. Youtubesta voi jo nyt katsoa streamaajien välisiä otteluita, joissa nyrkkeillään ja pelataan shakkia. 
+Myös erilaiset tapahtumat ja kilpailut voivat olla tulevaisuudessa suosittuja. Yhdistämällä fyysisiä ja virtuaalisia elementtejä, e-urheilutapahtumat voivat luoda hybridimuotoja, jotka tarjoavat ainutlaatuisia kokemuksia sekä paikan päällä että verkossa oleville katsojille. Youtubesta voi jo nyt katsoa streamaajien välisiä otteluita, joissa nyrkkeillään ja pelataan shakkia.
 
 E-urheilun kasvava suosio voi johtaa uusien koulutus- ja harjoitusympäristöjen kehittymiseen, jotka tukevat pelaajien ammatillista kehitystä.
 
@@ -266,7 +256,7 @@ Keskity seuraaviin asioihin:
 
 ---
 
-### Materiaaleja:
+### Materiaaleja
 
 - [History of e-sports 1 by ESL](https://www.youtube.com/watch?v=D-S65ZUHig8&ab_channel=ESL)
 - [History of e-sports 2 by ESL](https://www.youtube.com/watch?v=cKOTolQQ3Lw&ab_channel=ESL)
@@ -274,12 +264,9 @@ Keskity seuraaviin asioihin:
 - [Wasd-Quake, John Carmack](https://www.youtube.com/watch?v=iIhmeRfmQns&ab_channel=theScoreesports)
 
 ---
+
 ### Seuraava aihe
 
 - [E-urheilutapahtuman suunnittelu](https://villehamalainen.github.io/e-urheilussa-toimiminen/e-urheilutapahtuman-suunnittelu/)
 
-
 ---
-
-
-
