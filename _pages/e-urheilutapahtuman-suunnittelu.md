@@ -134,21 +134,21 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
 ## Peligenren valinta ja ymmärtäminen 
 
-   Pelin tai pelien valinta vaikuttaa kohdeyleisöön ja tapahtuman luonteeseen. Helpointa on rajata peli aluksi yhteen ja mahdollisuuksien mukaan laajentaa pelikatalogia, jos sille on kysyntää. Gradialla on järjestetty aikaisempina vuosina Gradia Cup niminen CS:GO-turnaus. Miksi näin on? Yksi syy on tietenkin Counter Striken kestosuosio nuorten parissa ja pelin eri muodot ovat olleet suosiossa jo kaksi vuosikymmentä. Kuitenkin esimerkiksi Gradialta löytyy 22 0000 opiskelijaa, joten voisi olla, että myös muille peleille olisi kysyntää erilaisten tapahtumien muodossa.
+Pelin tai pelien valinta vaikuttaa kohdeyleisöön ja tapahtuman luonteeseen. Helpointa on rajata peli aluksi yhteen ja mahdollisuuksien mukaan laajentaa pelikatalogia, jos sille on kysyntää. Gradialla on järjestetty aikaisempina vuosina Gradia Cup niminen CS:GO-turnaus. Miksi näin on? Yksi syy on tietenkin Counter Striken kestosuosio nuorten parissa ja pelin eri muodot ovat olleet suosiossa jo kaksi vuosikymmentä. Kuitenkin esimerkiksi Gradialta löytyy 22 0000 opiskelijaa, joten voisi olla, että myös muille peleille olisi kysyntää erilaisten tapahtumien muodossa.
 
-   Suosion lisäksi on syytä ottaa huomioon saa saavutettavuus. Eli mitä tarvitaan, että peliä voi a) pelata b) pelata kilpailullisesti? Esimerkiksi Counter Strike 2 on ilmainen päivitys CS:GO-peliin ja muutenkin ilmainen. Toisaalta esimerkiksi World Of Warcraft maksaa alkusijoituksen ja lisäksi maksun joka kuukausi. 
+Suosion lisäksi on syytä ottaa huomioon saa saavutettavuus. Eli mitä tarvitaan, että peliä voi a) pelata b) pelata kilpailullisesti? Esimerkiksi Counter Strike 2 on ilmainen päivitys CS:GO-peliin ja muutenkin ilmainen. Toisaalta esimerkiksi World Of Warcraft maksaa alkusijoituksen ja lisäksi maksun joka kuukausi. 
 
-   Yksi aspekti turnauksen luoteen kannalta ovat laitevaatimukset. Tämä koskee tapahtumia, jossa on koneet ovat valmiina. Tällöin tapahtuman järjestäjän tulee pitää huoli, että pelattavat pelit toimivat tarpeeksi hyvin. Tapahtumassa tulee ottaa huomioon myös muut osa-alueet kuten näytöt, muut oheislaitteet kuten hiiret, näppäimistöt ja kuulokkeet. Yleensä myös laneihin, jossa koneet ovat omasta takaa tuodaan oma hiiri, näppäimistö ja hiirimatto. Palataan tähän aiheeseen myöhemmin tarkemmin.
+Yksi aspekti turnauksen luoteen kannalta ovat laitevaatimukset. Tämä koskee tapahtumia, jossa on koneet ovat valmiina. Tällöin tapahtuman järjestäjän tulee pitää huoli, että pelattavat pelit toimivat tarpeeksi hyvin. Tapahtumassa tulee ottaa huomioon myös muut osa-alueet kuten näytöt, muut oheislaitteet kuten hiiret, näppäimistöt ja kuulokkeet. Yleensä myös laneihin, jossa koneet ovat omasta takaa tuodaan oma hiiri, näppäimistö ja hiirimatto. Palataan tähän aiheeseen myöhemmin tarkemmin.
 
-   Muita mahdollisia pohdinnan kohteita ovat kulttuuriset näkökohdat. Tällä tarkoitetaan lähinnä peligenrejen suosioita. Alla esimerkkejä:
+Muita mahdollisia pohdinnan kohteita ovat kulttuuriset näkökohdat. Tällä tarkoitetaan lähinnä peligenrejen suosioita. Alla esimerkkejä:
 
-   - **StarCraft Koreassa**: StarCraft ja StarCraft II ovat erittäin suosittuja Etelä-Koreassa, missä ne ovat kehittyneet suureksi osaksi pop-kulttuuria ja niillä on suuri ammattilaiskenttä. Tämä suosio ei välttämättä näy samalla tavalla muissa maissa. 
+- **StarCraft Koreassa**: StarCraft ja StarCraft II ovat erittäin suosittuja Etelä-Koreassa, missä ne ovat kehittyneet suureksi osaksi pop-kulttuuria ja niillä on suuri ammattilaiskenttä. Tämä suosio ei välttämättä näy samalla tavalla muissa maissa. 
 
-   - **Mobiipelaaminen Aasiassa**: Mobiilipelit kuten Honor of Kings tai PUBG Mobile ovat erittäin suosittuja Aasiassa, erityisesti Kiinassa ja Intiassa. Nämä pelit ovat sopeutuneet paikallisiin markkinoihin paremmin kuin länsimaiset vastineensa. Toisaalta taas e-urheilutapahtuman näkökulmasta tuntuisia hassulta pelata mobiilipelejä (opettajan mielipide), mutta voi olla, että tässä on paljonkin potentiaalia.
+- **Mobiipelaaminen Aasiassa**: Mobiilipelit kuten Honor of Kings tai PUBG Mobile ovat erittäin suosittuja Aasiassa, erityisesti Kiinassa ja Intiassa. Nämä pelit ovat sopeutuneet paikallisiin markkinoihin paremmin kuin länsimaiset vastineensa. Toisaalta taas e-urheilutapahtuman näkökulmasta tuntuisia hassulta pelata mobiilipelejä (opettajan mielipide), mutta voi olla, että tässä on paljonkin potentiaalia.
 
-   **FIFA Latinalaisessa Amerikassa ja Euroopassa**: Jalkapallopelit, kuten FIFA-sarja, ovat erityisen suosittuja Euroopassa ja Latinalaisessa Amerikassa, missä jalkapallo on suosituin urheilulaji, mutta pelit eivät nauti vastaavaa suosiota esimerkiksi Aasiassa tai Yhdysvalloissa.
+**FIFA Latinalaisessa Amerikassa ja Euroopassa**: Jalkapallopelit, kuten FIFA-sarja, ovat erityisen suosittuja Euroopassa ja Latinalaisessa Amerikassa, missä jalkapallo on suosituin urheilulaji, mutta pelit eivät nauti vastaavaa suosiota esimerkiksi Aasiassa tai Yhdysvalloissa.
 
-   Eettiset ja sosiaaliset rajoitteet on myös syytä pitää mielessä. Peleille on usein annettu ikärajat organisaatioiden, kuten Yhdysvaltain Entertainment Software Rating Board (ESRB) tai Euroopan Pan European Game Information (PEGI), toimesta. Nämä arviot tarjoavat ohjeita ikätason mukaisesta sisällöstä. Maasta tai alueesta riippuen voi olla laillisia rajoituksia tiettyjen ikäryhmien altistamisesta tietyille ikärajoitetuille peleille. Tapahtuman järjestäjien on noudatettava näitä lakeja välttääkseen oikeudellisia seuraamuksia.
+Eettiset ja sosiaaliset rajoitteet on myös syytä pitää mielessä. Peleille on usein annettu ikärajat organisaatioiden, kuten Yhdysvaltain Entertainment Software Rating Board (ESRB) tai Euroopan Pan European Game Information (PEGI), toimesta. Nämä arviot tarjoavat ohjeita ikätason mukaisesta sisällöstä. Maasta tai alueesta riippuen voi olla laillisia rajoituksia tiettyjen ikäryhmien altistamisesta tietyille ikärajoitetuille peleille. Tapahtuman järjestäjien on noudatettava näitä lakeja välttääkseen oikeudellisia seuraamuksia.
    
 Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerkiksi PEGI 18 -luokiteltu peli ei olisi sopiva oppilaitoksessa järjestettävässä turnauksessa. Esimerkiksi Counter Strike turnauksen järjestäminen alakoulussa ei onnistu. Tästä syystä kohdeyleisön tunteminen on tärkeää ja parempi vaihtoehto voisikin olla esim. Super Smash Bros peli, joka toimii Nintendolla, jolla on pitkä historia lasten ja nuorten pelikonsolina. Alaikäisiä osallistujia sisältävissä tapahtumissa vanhempien suostumuksen saaminen on tärkeää, jos pelin sisältöä voidaan pitää sopimattomana tietyille ikäryhmille. Peligenren valinta on monimutkainen prosessi, joka vaatii huolellista harkintaa useista näkökulmista.
 
@@ -157,18 +157,11 @@ Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerk
 ## Tapahtuman koko ja sen vaikutus järjestelyihin ja resursseihin
 
 
-   Tapahtuman laajuus ja osallistujamäärä vaikuttavat luonnollisesti järjestelyihin ja tarvittaviin resursseihin. Eri kokoisten tapahtumien järjestelyissä on otettava huomioon useita eri tekijöitä. Käydään läpi näitä aspekteja tarkemmin sekä online- että LAN-tapahtumien näkökulmasta.
+Tapahtuman laajuus ja osallistujamäärä vaikuttavat luonnollisesti järjestelyihin ja tarvittaviin resursseihin. Eri kokoisten tapahtumien järjestelyissä on otettava huomioon useita eri tekijöitä. Käydään läpi näitä aspekteja tarkemmin sekä online- että LAN-tapahtumien näkökulmasta.
 
 
-   <div style="text-align: center; margin: 0 auto;">
-    <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/EsportsEventPlanningStairs.png" 
-        alt="Pelitapahtuman eri vaiheet porrasnäkymänä" 
-        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-        E-urheilutapahtuman suunnittelun vaiheet.
-    </p>
-   </div>
+![Pelitapahtuman eri vaiheet porrasnäkymänä](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/EsportsEventPlanningStairs.png)
+*E-urheilutapahtuman suunnittelun vaiheet.*
 
 ---
    
@@ -186,22 +179,16 @@ Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerk
 
 ## Faceit turnauspohjana
    
-   Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmenee tarvetta. Vanha ohje löytyy osoitteesta https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
+Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmenee tarvetta. Vanha ohje löytyy osoitteesta https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament
 
-   GradiaCupin kannalta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
+GradiaCupin kannalta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
 
-  <div style="text-align: center; margin: 0 auto;">
-    <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Luoturnaus.png" 
-        alt="Oman turnauksen luominen FaceIt-palvelussa" 
-        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-      <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-     Oman turnauksen luominen FaceIt:ssa on helppoa ja onnistuu muutamalla napin painalluksessa!
-</p>
-</div>
 
+![Oman turnauksen luominen FaceIt-palvelussa](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Luoturnaus.png)
+*Oman turnauksen luominen FaceIt:ssa on helppoa ja onnistuu muutamalla napin painalluksessa!*
 
 ---
+   
 
 ### **Tehtävä:** Suunnittele turnaus (ryhmätehtävä)
 
@@ -217,19 +204,11 @@ Pelin ikärajan tulisi vastata tapahtuman kohdeyleisön ikädemografiaa. Esimerk
    - **Double-elimination** (kaksi mahdollisuutta ennen putoamista)  
    - **Round robin** (kaikki pelaavat kaikkia vastaan)  
 
-
-
-<div style="text-align: center; margin: 0 auto;">
-    <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Valitseturnausformaatti.png" 
-        alt="Formaatin valinta on ratkaisevassa roolissa" 
-        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-      <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-    Formaatin valinta on ratkaisevassa roolissa.
-</p>
-</div>
+![Formaatin valinta on ratkaisevassa roolissa](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Valitseturnausformaatti.png)
+*Formaatin valinta on ratkaisevassa roolissa turnauksen onnistumisen kannalta.*
 
 ---
+   
 
 1. **Suunnitelkaa turnauksen aikataulu.**  
    Miettikää:  
@@ -383,33 +362,13 @@ Lan-tapahtumassa on monia tekijöitä, joita tulee ottaa huomioon. Usein tämä 
 
 ---
 
-<div style="text-align: center; margin: 0 auto;">
-    <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanParty.png" 
-        alt="Tekoälyn näkemys lanista." 
-        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-<p style="max-width: 100%; margin: 0 auto; text-align: left;">
-    Tekoälyn näkemys lanitapahtumasta.
-</p>
-</div>
-
----
-
 ![Tekoälyn näkemys lanista.](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanParty.png)
 *Tekoälyn näkemys lanitapahtumasta.*
 
 ## E-urheilu LANin (Local Area Network) perusteet
 
-
-<div style="text-align: center; margin: 0 auto;">
-    <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanDevices2.png" 
-        alt="Tekoälyn näkemys lanista ja eri laitteista" 
-        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-   <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-    Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.
-   </p>
-</div>
+![Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/DalleLanDevices2.png)
+*Laniin kuuluu tietokoneiden lisäksi erilaisia laitteita, jotka mahdollistavat tiedon siirron sujuvuuden.*
 
 ---
 
@@ -473,14 +432,12 @@ Yleisesti reitittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja int
 
 Hyppäämme seuraavaksi OSI-mallin alemmalle kerrokselle (**Data Link Layer 2**). **Kytkin** on laite, jolla kytketään useampi laite samaan lähiverkkoon (LAN). Toisin kuin reititin, joka operoi IP-osoitteiden avulla, kytkin toimii tutkimalla **MAC-osoitteita**, jotka ovat tiedon siirron välineitä. Kytkin rakentaa taulun laitteista, jotka on kytketty sen portteihin, ja ohjaa liikennettä tämän perusteella.
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Kytkin.png" 
-	     alt="Kytkin" 
-	     style="width: 100%; height: auto; max-width: 100%; margin: 0 auto;; height: auto;">
-	 <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-		Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.
-	</p>
-    </div>
+
+![Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Kytkin.png)
+*Kytkin on laite, joka liittää useamman laitteen samaan lähiverkkoon.*
+
+---
+
 
 ### VLAN-verkot
 
@@ -574,15 +531,9 @@ Tehtävänä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen
 
 Selvitä, mitä tarkoittaa OSI-malli. Mitkä ovat mielestäsi tärkeimmät osat LAN-tapahtumien kannalta? Mihin kerrokseen ne kuuluvat?
 
-<div style="text-align: center; margin: 0 auto;">
-    <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/OSImalli.png" 
-        alt="OSI-malli" 
-        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-        OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.
-    </p>
-</div>
+
+![OSI-malli](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/OSImalli.png)
+*OSI-malli kuvaa verkon rakennetta ja eri kerroksia, joista internet rakentuu.*
 
 ---
 
@@ -717,15 +668,8 @@ Striimaus vaatii sekä teknisen osaamisen että luovuuden. OBS Studio ja Twitch 
 Striimaajat voivat hakea **Affiliate**- tai **Partner**-ohjelmiin, jotka tarjoavat erilaisia lisäetuja, mutta vaativat myös enemmän panostusta streamaukseen.
 
 
-<div style="text-align: center; margin: 0 auto;">
-    <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchnakyma.png" 
-        alt="Twitch yleisnakyma" 
-        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-        Twitchin yleisnäkymästä voit valita itseäsi kiinnostavan genren.
-    </p>
-</div>
+![Twitch yleisnakyma](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchnakyma.png)
+*Twitchin yleisnäkymästä voit valita itseäsi kiinnostavan genren.*
 
 ---
 
@@ -746,29 +690,17 @@ Twitch-kanavan perustaminen on yksinkertaista. Kun olet luonut tilin, voit perso
 
    Tässä vaiheessa meidän pitää yhdistää OBS tai joku muu streamasohjelmisto Twitchiin. [Tarkemmat ohjeet löytyvät täältä](https://gam3s.gg/news/streamlabs-obs-streaming-setup-guide/).
 
-   <div style="text-align: center; margin: 0 auto;">
-    <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys1.png" 
-        alt="Twitch lahetysikkuna" 
-        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-    <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-        Käytä **stream-avainta** liittääksesi OBS Studion Twitchiin. Avaimen löydät **Asetukset -> Lähetys** -valikon takaa.
-    </p>
-   </div>
-     
-   ---
 
-   <div style="text-align: center; margin: 0 auto;">
-   <img 
-        src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys2.png" 
-        alt="Twitch lahetysikkuna" 
-        style="width: 100%; max-width: 100%; height: auto; margin-bottom: 20px;">
-   <p style="max-width: 100%; margin: 0 auto; text-align: left;">
-        Varmista, että OBS:n asetukset ovat kunnossa. Testaa streamia menemättä live-tilaan.
-   </p>
-   </div>
+![Twitch lahetysikkuna](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys1.png)
+*Käytä **stream-avainta** liittääksesi OBS Studion Twitchiin. Avaimen löydät **Asetukset -> Lähetys** -valikon takaa.*
+
+---
+   
      
-   ---
+![Twitch stream avain OBS](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/twitchlahetys2.png)
+*Varmista, että OBS:n asetukset ovat kunnossa. Testaa streamia menemättä live-tilaan.*
+
+---
 
 ### Menestyminen Twitchissä
 
