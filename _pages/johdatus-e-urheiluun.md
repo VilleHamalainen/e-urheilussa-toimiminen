@@ -40,7 +40,7 @@ permalink: /johdatus-e-urheiluun/
 Mitä kaikkea muuta **e-urheilun ekosysteemiin** kuuluu? Mikä on ekosysteemi? Yksi näkemys aiheeseen löytyy painamalla alapuolella olevaa tekstiä.
 
 <details>
-  <summary><strong>Paina minua!</strong></summary>
+  <summary><strong>=> Paina minua!<== </strong></summary>
   <p>
     <img src="https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/esportsecosystem.png" alt="Esports Ecosystem">
   </p>
