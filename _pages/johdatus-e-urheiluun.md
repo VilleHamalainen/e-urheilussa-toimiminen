@@ -39,9 +39,15 @@ permalink: /johdatus-e-urheiluun/
 
 Mitä kaikkea muuta **e-urheilun ekosysteemiin** kuuluu? Mikä on ekosysteemi? Yksi näkemys aiheeseen löytyy painamalla alapuolella olevaa tekstiä.
 
-  ["Esports Ecosystem"](https://villehamalainen.github.io/e-urheilussa-toimiminen/Kuvat/esportsecosystem.png)
-  
-  Kuva. Lee, Je Seok & Steinkuehler, Constance. (2019). Esports as a catalyst for connected learning: the North America Scholastics Esports Federation. XRDS: Crossroads, The ACM Magazine for Students. 25. 54-59. 10.1145/3331075.
+<details>
+
+<summary>Paina minua!</summary>
+
+["Esports Ecosystem"](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/esportsecosystem.png)
+
+Kuva. Lee, Je Seok & Steinkuehler, Constance. (2019). Esports as a catalyst for connected learning: the North America Scholastics Esports Federation. XRDS: Crossroads, The ACM Magazine for Students. 25. 54-59. 10.1145/3331075.
+
+</details>
 
 ---
 
