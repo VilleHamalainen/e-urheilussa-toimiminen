@@ -4,3 +4,4 @@ include:
 theme: jekyll-theme-midnight
 
 google_analytics: G-ZB6TMMN0SE
+simple_analytics: true
