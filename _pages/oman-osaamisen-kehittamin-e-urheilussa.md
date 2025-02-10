@@ -72,7 +72,7 @@ Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenka
 
  ---
 
-Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin konseptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tottakai tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
+Ampumisen lisäksi muita osa-alueita ovat esimerkiksi karttatuntemus, joka vaikuttaa myös ampumiseen. Voit olla maailman nopein ja tarkin pelaaja, mutta ilman karttatuntemusta et tiedä mihin tähdätä tehokkaasti. Ja iso osa ns. tähtäämistä onkin tietää mihin tähtäin kuuluu milloinkin sijoittaa ja pelissä puhutaankin konseptista "pre aiming", jota voitaisiin verrata muiden lajien etukäteiseen visualisointiin siitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Karttatuntemus ja etukäteen tähtääminen ovat ehdottoman tärkeitä osa-alueita, joita varsinkaan aloittelevat pelaajat eivät vielä osaa ajatella. Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
 
 ### Liikkuminen
 
@@ -342,14 +342,13 @@ Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi 
 
 **Käytännön tehtävät:**  
 
-- Striimaa peliä **Twitchissä** käyttäen **OBS Studioa** (harjoittele overlaysien ja chatbotin käyttöä).  
-- Editoi highlight-video **Adobe Premiere Prolla**.  
+- Striimaa peliä **Twitchissä** käyttäen **OBS Studiota** (harjoittele overlayn ja chatbotin käyttöä).  
+- Editoi highlight-video valitsemallasi työkalulla kuten [Clipchamp](https://app.clipchamp.com/login), jos olet Windows käyttäjä.  
 
 **Resurssit:**  
 
 - Kurssi: [Skillshare: Streaming 101](https://www.skillshare.com)  
-- Työkalu: **Streamlabs** (alustava striimauspaketti)  
-
+ 
 ---
 
 ## Liiketoimintaosaaminen
@@ -372,7 +371,6 @@ Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi 
 **Käytännön työkalut:**  
 
 - Käytä **Exceliä** tai **Mint**-sovellusta tulojen ja menojen seurantaan.  
-- Sijoita ylimääräiset varat matalariskisijoituksiin (esim. indeksirahastot).  
 
 ---
 
@@ -383,7 +381,7 @@ Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi 
 **Strategiat:**  
 
 - **Twitter:** Jaa päivittäisiä päivityksiä pelikokemuksistasi.  
-- **TikTok:** Luo lyhyitä, humoristisia "clipejä" epäonnistumistasi ja voitoistasi.  
+- **TikTok:** Luo lyhyitä, humoristisia pätkiä epäonnistumistasi ja voitoistasi.  
 
 **Resurssit:**  
 
@@ -409,12 +407,11 @@ Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi 
 **Resurssit:**  
 
 - Kurssi: [Gamer Sensei Coach Training](https://www.gamersensei.com)  
-- Työkalu: **Mobalytics** (pelianalyysi)  
+- Työkalu: [Mobalytics] (https://mobalytics.gg/), [Leetify CS](https://leetify.com/home/)
 
 ### Muut urat  
 
-- **Sisällöntuotanto:** Aloita oma YouTube-kanava strategiaoppaiden kanssa.  
-- **Tapahtumien järjestäminen:** Osallistu **DreamHack**in vapaaehtoistyöhön.  
+- **Sisällöntuotanto:** Aloita oma YouTube-kanava.  
 
 ## Laaja tehtävä innokkaille opiskelijoille
 
