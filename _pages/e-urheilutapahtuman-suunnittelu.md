@@ -9,10 +9,10 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
 ---
 
-# Sisällysluettelo
+## Sisällysluettelo
 
 - [Moduuli 1: E-urheilutapahtuman suunnittelu](#moduuli-1-e-urheilutapahtuman-suunnittelu)
-- [Sisällysluettelo](#sisällysluettelo)
+  - [Sisällysluettelo](#sisällysluettelo)
   - [Tapahtuman luonteen ja kohderyhmän valinta](#tapahtuman-luonteen-ja-kohderyhmän-valinta)
   - [Tapahtuman luonne](#tapahtuman-luonne)
     - [**Kilpailulliset** e-urheilutapahtumat](#kilpailulliset-e-urheilutapahtumat)
@@ -104,7 +104,7 @@ permalink: /e-urheilutapahtuman-suunnittelu/
 
 ### **Hybridi** e-urheilutapahtumat
 
-   Hybridi e-urheilutapahtumissa haetaan tasapainoa kilpailun ja yhteisöllisyyden välille. Käytännössä kilpailullisissa turnauksissa voi olla myös oma BYOC-osio, jossa myös harrastemielessä pelaavat voivat tuoda omat koneensa ja pelata tapahtuman yhteydessä. Esimerkiksi joulukuun 15-17 2023 järjestettävä DreamHack Atlanta [DreamHack Atlanta](https://dreamhack.com/atlanta/lan/) tarjoaa turnauksia, joissa palkintopotit ovat tuhansia euroja.
+   Hybridi e-urheilutapahtumissa haetaan tasapainoa kilpailun ja yhteisöllisyyden välille. Käytännössä kilpailullisissa turnauksissa voi olla myös oma BYOC (Bring you own device)-osio, jossa myös harrastemielessä pelaavat voivat tuoda omat koneensa ja pelata tapahtuman yhteydessä. Esimerkiksi joulukuun 15-17 2023 järjestettävä DreamHack Atlanta [DreamHack Atlanta](https://dreamhack.com/atlanta/lan/) tarjoaa turnauksia, joissa palkintopotit ovat tuhansia euroja.
 
    Periaatteessa e-urheilua voidaan myös liittää osaksi yritysten liiketoimintaa ilman sen suurempaa kilpailua, mutta koska yhtenä tavoitteena tutkinnon osassa on Gradia Cup 2024 onnistunut järjestäminen, niin suunnittelu lähtee tästä näkökulmasta. Mahdollisten toimeksiantojen myötä voimme myös suunnitella ja toteuttaa muita turnauksia, joten yleinen tieto tapahtumien järjestämisestä on paikallaan.
 
@@ -421,6 +421,7 @@ Counterstikessa oman privaatin IP:n pääsee katsomaan status-komennolla. Tärke
       [Client] #end
       
    ```
+
 ---
 
 Yleisesti reitittimet tarjoavat yhteyksiä yritysten sisällä, yritysten ja internetin välillä tai internet-palveluntarjoajien verkkojen välillä. Niitä käytetään kaikenkokoisissa verkoissa, ja suurimmat ja tehokkaimmat reitittimet ovat yleensä  internet-palveluntarjoajien, akateemisten ja tutkimuslaitosten hallussa.
@@ -659,7 +660,7 @@ Striimaus vaatii sekä teknisen osaamisen että luovuuden. OBS Studio ja Twitch 
 ## Tehtäviä
 
 **Tehtävä**: Vertaile OBS studiota ja Twitch studiota: Kirjoita lyhyt raportti molempien työkalujen hyvistä ja huonoista puolista.
-**Tehtävä**: Luo overlay Canvassa:** Suunnittele ja lataa oma overlay käyttäen Canvaa.
+**Tehtävä**: Luo overlay Canvassa:**Suunnittele ja lataa oma overlay käyttäen Canvaa.
 **Tehtävä**: Testaa striimin toiminta:** Käytä luomaasi overlayta OBS Studioon tai Twitch Studioon ja testaa striimausta.
 
 ## Twitch
@@ -738,10 +739,10 @@ Twitch on toteuttanut useita toimenpiteitä parantaakseen ympäristöään, kute
 
 ### **Tehtävä:** Oman internekäyttäytymisen relfektointi**
 
-   - Onko joku itse osallistunut toimintaan, joka nykyään hävettää jossain vastaavanlaisessa palvelussa?
-   - Onko joku kohdannut Twitchissä tai muissa sosiaalisissa medioissa/peleissä vihamielisiä tilanteita?
-   - Miten jokainen meistä voi itse vaikuttaa siihen, ettei osallistu kiusaamiseen?
-   - Miten toimit tai olet toiminut, jos olet kohdannut kiusaamista verkossa?
+- Onko joku itse osallistunut toimintaan, joka nykyään hävettää jossain vastaavanlaisessa palvelussa?
+- Onko joku kohdannut Twitchissä tai muissa sosiaalisissa medioissa/peleissä vihamielisiä tilanteita?
+- Miten jokainen meistä voi itse vaikuttaa siihen, ettei osallistu kiusaamiseen?
+- Miten toimit tai olet toiminut, jos olet kohdannut kiusaamista verkossa?
 
 ### **Tehtävä:** OBS- tai Twitch-studion käyttö ja striimauksen suunnittelu
 

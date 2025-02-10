@@ -419,6 +419,7 @@ Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi 
 ## Laaja tehtävä innokkaille opiskelijoille
 
 <details>
+
 <Summary>**Avaa tehtävä:** Suunnitelkaa ja toteuttakaa oma pienen mittakaavat esports-pelikurssi! </Summary>
 
 ### Tehtävän kuvaus
