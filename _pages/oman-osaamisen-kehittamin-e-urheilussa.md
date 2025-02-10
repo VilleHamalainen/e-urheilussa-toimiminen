@@ -66,7 +66,7 @@ Esimerkiksi Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tap
 
 Alla ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Kuitenkaan pelkkä yksilön mekaaninen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.
 
-[![How to use modern tools to develop aim by Styko](http://img.youtube.com/vi/1vN2H0rzd5U/0.jpg)](https://www.youtube.com/watch?v=1vN2H0rzd5U)
+[![How to use modern tools to develop aim by Styko](https://img.youtube.com/vi/1vN2H0rzd5U/0.jpg)](https://www.youtube.com/watch?v=1vN2H0rzd5U)
 
 *Stykon ohjeita tarkkuuden parantamiseen moderneilla työkaluilla.*
 
@@ -142,7 +142,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 
 **Resurssit:**  
 
-[![The Competitive Advantage of Teamwork with Patrick Lencioni](http://img.youtube.com/vi/cIGLI3eWfsc/0.jpg)](https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc.)  
+[![The Competitive Advantage of Teamwork with Patrick Lencioni](https://img.youtube.com/vi/cIGLI3eWfsc/0.jpg)](https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc.)  
 
 *Kilpailuedun saavuttaminen yhteistyöllä.*
 
@@ -220,7 +220,7 @@ Onko joukkueen strategia erän aikana selkeä? Toimiiko kommunikaatio selkeästi
 Näkyykö paine kommunikaatiossa missään vaiheessa? Onko kommunikaatio erilaista alussa kuin lopun clutch-tilanteessa?
 Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
 
- [![Example of esports communication by NAVI](http://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU)  
+ [![Example of esports communication by NAVI](https://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU)  
 
 *Esimerkki Navin kommunikaatiosta.*
 
@@ -229,7 +229,7 @@ Huomaatteko joukkueiden kommunikaatiossa selkeitä eroja?
 Tunnistatteko eroja joukkueiden välillä, jotka puhuvat natiivisti samaa kieltä vs kaikki puhuvat englantia?
 Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputulokseen?
 
-[![Clutch communication by Faze](http://img.youtube.com/vi/8owi_WvrGuk/0.jpg)](https://www.youtube.com/watch?v=8owi_WvrGuk)  
+[![Clutch communication by Faze](https://img.youtube.com/vi/8owi_WvrGuk/0.jpg)](https://www.youtube.com/watch?v=8owi_WvrGuk)  
 
 *JKS ja Ropz 2v5 tilanteen pelaaminen ja kommunikaatio.*
 
@@ -247,7 +247,7 @@ Nopea tilanteiden hahmottaminen on elintärkeä osa e-urheilussa menestymiselle,
 
 Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. Usein ns. pelillinen johtaja pitää huolen siitä, että joukkue vaikkapa ostaa samaan aikaan, mutta myös huipputasolla tulee paljon virheitä sen suhteen miten paljon resursseja yksittäinen pelaaja käyttää. Pelien päivitysten myötä myös ekonomia kokee mahdollisesti suuriakin muutoksia, ja esimerkiksi CS2 siirtyi MR16-systeemistä MR12-systeemiin, joka onkin taas korostanut ensimmäisten kierrosten rooleja. Samoin eri aseiden muutokset ovat vaikuttaneet paljon ns "metagameen" eli tyyliin, jolla esimerkiksi joukkueet ostavat eri kierroksilla. Pelin historiassa on ollut mm. jaksoja, joissa tietyt pistoolit ovat olleet niin vahvoja, että niiden ostaminen usein osoittautui liian tehokkaaksi taktiikaksi. Yksittäisen aseidenkin muutokset voivat vaikuttaa pelin sisällä ostettaviin asioihin suuresti, joten ekonomian ja metan tunteminen on yksi ehdottomista vaatimuksista huipputasolla.
 
-[![Tec9 too good](http://img.youtube.com/vi/edigZqRlMeI/0.jpg)](https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault)  
+[![Tec9 too good](https://img.youtube.com/vi/edigZqRlMeI/0.jpg)](https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault)  
 
 *Tec9 oli pienen hetken ase, joka teki jokaisesta kierroksesta voitettavan. Olofmaister sai aseen takia lempinimen "Tec9master".*
 

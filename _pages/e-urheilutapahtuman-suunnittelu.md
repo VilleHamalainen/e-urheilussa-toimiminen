@@ -179,7 +179,7 @@ Ladataan ja tutustutaan vuoden 2022-toteutuksen materiaaleihin [Opiskelijoiden m
 
 ## Faceit turnauspohjana
 
-Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään https://www.faceit.com/fi/ palvelussa. Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmenee tarvetta. [Vanha ohje turnauksen tekemiseen](https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament)
+Vuoden 2022 palautteen ja kokemusten perusteella suositus on, että online turnaus järjestetään [FaceIt palvelussa](https://www.faceit.com/fi/) . Muita vaihtoehtoja löytyy varmasti ja jos toteuttajilta kokemusta löytyy, nii muitakin alusta voidaan harkita. Faceit:sta löytyy alustoja myös muihin peliformaatteihin, jos niille ilmenee tarvetta. [Vanha ohje turnauksen tekemiseen](https://support.faceit.com/hc/en-us/articles/115000014644-Creating-a-tournament)
 
 GradiaCupin kannalta meille tärkeä alusta on FaceIt ja siihen perehtyminen, koska turnauksen karsinta hoituu FaceIt:ssa ja lanifinaali Jamk:n GamePitissä. Pääsemme tutustumaan GamePittiin ja osallistumaan muihinkin lanitoteutuksiin ennen GradiaCuppia.
 

@@ -150,19 +150,19 @@ Alla oleva lista on tuttu jo  osiosta.e-urheilutapahtuman suunnittelumoduulista.
 
 **Muistilistan laatimisessa on hyödynnetty Foundational Guide for Esports Tournaments -dokumenttia, joka on julkaistu 4.0 Creative Commons -lisenssillä Dell Technologiesin ja Advanced Learning Partnersin toimesta.**
 
-[![Inside an esports event](http://img.youtube.com/vi/_d5C75pLDKs/0.jpg)](https://www.youtube.com/watch?v=_d5C75pLDKs&ab_channel=UniversityofStaffordshire)  
+[![Inside an esports event](https://img.youtube.com/vi/_d5C75pLDKs/0.jpg)](https://www.youtube.com/watch?v=_d5C75pLDKs&ab_channel=UniversityofStaffordshire)  
 
 *Video hieman isomman opiskelijoiden e-urheilutapahtuman järjestämisestä ja siihen liittyvistä haasteista ja onnistumisista.*
 
 ---
 
-[![**Inside Smash Bros console gaming event**](http://img.youtube.com/vi/8JR_YMksuOQ/0.jpg)](https://www.youtube.com/watch?v=8JR_YMksuOQ&ab_channel=22WestTelevision)  
+[![**Inside Smash Bros console gaming event**](https://img.youtube.com/vi/8JR_YMksuOQ/0.jpg)](https://www.youtube.com/watch?v=8JR_YMksuOQ&ab_channel=22WestTelevision)  
 
 *Videokuvaa Smash Bros konsoliturnauksesta, jossa tuotanto ym. ovat hieman pienemmässä mittakaavassa kuin aikaisemmalla videolla.*
 
 ---
 
-[![Biking esports event](http://img.youtube.com/vi/qe5jqnv1dlU/0.jpg)](https://www.youtube.com/watch?v=qe5jqnv1dlU&ab_channel=MyWhoosh)  
+[![Biking esports event](https://img.youtube.com/vi/qe5jqnv1dlU/0.jpg)](https://www.youtube.com/watch?v=qe5jqnv1dlU&ab_channel=MyWhoosh)  
 
 *Video hieman erilaisesta e-urheilutapahtumasta. Videon tarkoituksena herätellä ajattelemaan myös perinteisiä lajeja ja e-urheilun yhdistämistä.*
 

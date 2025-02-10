@@ -57,7 +57,7 @@ Mitä kaikkea muuta **e-urheilun ekosysteemiin** kuuluu? Mikä on ekosysteemi? Y
 
 Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa vuonna 1972 pelille **Space War**. Pääpalkintona oli vuoden Rolling Stones lehden tilaus! Nykyään palkintosummat ovat hieman suurempia.
 
-[![Space War game play](http://img.youtube.com/vi/XEFLpbjfybc/0.jpg)](https://www.youtube.com/watch?v=XEFLpbjfybc)
+[![Space War game play](https://img.youtube.com/vi/XEFLpbjfybc/0.jpg)](https://www.youtube.com/watch?v=XEFLpbjfybc)
 
 *Pelikuvaa vuonna 1972 julkaistusta *Space War* -pelistä.*
 
@@ -65,7 +65,7 @@ Ensimmäinen tiedetty videopelikilpailu järjestettiin Stanfordin yliopistossa v
 
 Yliopistot olivat luonnollinen lähtökohta pelien kehitykselle, sillä niillä oli käytössään tehokkaat tietokoneet, mikä loi pohjan kilpapelaamiselle viihteenä ja kilpailuna. Seuraava iso askel oli samaisen pelin ympärille rakennettu [The Space Invaders Championship in 1980](https://www.computerhistory.org/revolution/computer-games/16/185), jonka järjesti siihen aikaan suurin videopeliyritys Atari.
 
-[![Space Invaders Atari Championship 1981](http://img.youtube.com/vi/pft_MCrLhZI/0.jpg)](https://www.youtube.com/watch?v=pft_MCrLhZI)
+[![Space Invaders Atari Championship 1981](https://img.youtube.com/vi/pft_MCrLhZI/0.jpg)](https://www.youtube.com/watch?v=pft_MCrLhZI)
 
 *Atarin *Space Invaders* -mestaruuskisat vuodelta 1981.*
 
@@ -73,7 +73,7 @@ Yliopistot olivat luonnollinen lähtökohta pelien kehitykselle, sillä niillä 
 
 Kuitenkin vasta 1990-luvulla E-urheilun eli kilpapelaamisen perusta vahvistui. Markkinoille alkoi tulla entistä nopeampia tietokoneita ja konsoleita, jotka mahdollistivat monipuolisempien pelien pelaamisen. Vuonna 1997 Electronic Entertainment Expo (E3)-pelimessuilla järjestetty Red Annihilation **Quake**-turnaus mainitaan usein yhtenä varhaisimmista suurista e-urheilu-tapahtumista. Turnauksessa kilpailtiin Quake-nimisessä ensimmäisen persoonan ammuntapelissä (1st person shooter tai fps), jonka oli kehittänyt id Software. Turnauksen pääpalkintona oli **Ferrari 328 GTS-urheiluauto**, joka oli ensimmäinen arvokas ja mielenkiintoa herättävä palkinto (vrt. vuoden Rolling Stones lehden tilaus). Palkinnon ja näkyvyyden ansioista e-urheilu osoitti, että se voi vetää paikan päälle isoja määriä katsojia. Hyvänä ehdokkaana ensimmäiseksi "e-urheilun ammattilaiseksi" onkin Dennis "Thresh" Fong, joka voitti kyseisen Ferrarin.
 
-[![The 1st Pro Gamer Ever](http://img.youtube.com/vi/4xUmZxnEMUI/0.jpg)](https://www.youtube.com/watch?v=4xUmZxnEMUI)
+[![The 1st Pro Gamer Ever](https://img.youtube.com/vi/4xUmZxnEMUI/0.jpg)](https://www.youtube.com/watch?v=4xUmZxnEMUI)
 
 *Tallenne maailman ensimmäisestä ammatikseen pelaavasta henkilöstä.*
 
@@ -87,7 +87,7 @@ Seuraavana vuonna tapahtui myös paljon asioita, jotka veivät e-urheilua eteen 
 
 Vuosina 2006 ja 2007 Yhdysvalloissa järjestettiin The Championship Gaming Series (CGS). Ensimmäisessä versiossa vuonna 2006 pelattiin myös useampia eri pelejä, joista isoimmat IP:t Yhdysvalloissa tuohon aikaan olivat Counter Strike 1.6 ja Halo 2. Tarkoituksena projektilla oli tuoda e-urheilu liiga, jota näytettäisiin televisiossa säännöllisesti. Valitettavasti projektin laajus muuttui Yhdysvalloista myös Eurooppaan ja Aasiaan, jolloin rahaa alkoi palaa paljon odotettua enemmän. Tarkemmin 2000-luvun lopun pelitapahtumiin pääse käsiksi [tässä artikkelissa](https://www.hotspawn.com/other/guides/championship-gaming-series-ahead-of-its-time.)
 
-[![Championship Gaming Series 2006](http://img.youtube.com/vi/q6EWc1Kz10o/0.jpg)](https://www.youtube.com/watch?v=q6EWc1Kz10o)
+[![Championship Gaming Series 2006](https://img.youtube.com/vi/q6EWc1Kz10o/0.jpg)](https://www.youtube.com/watch?v=q6EWc1Kz10o)
 
 *Tallenne yhdestä vuoden suurimmista 2006 turnauksista.*
 
@@ -144,7 +144,7 @@ Suomessa E-urheilun nousu on ollut osa maailmanlaajuista kehitystä. Suomessa on
 
 Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman rankingeissa. Menestystä on tullut yksittäisille pelaajille PUBG:ssa, Valorantissa, Rainbow Six Siegessä, Owerwatchissa, Fortnitessa, Lolissa, Hearthstonessa ja myös elektronisissa ajopeleissä. Tarkempia tietoja tienesteistä voit katsoa [Esports Earning sivulta](https://www.esportsearnings.com/countries/fi).
 
-[![The International 2018](http://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg)](https://www.youtube.com/watch?v=Bv4CqIxqTMA)
+[![The International 2018](https://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg)](https://www.youtube.com/watch?v=Bv4CqIxqTMA)
 
 *Huikea TI-behind the scenes, jossa on mukana myös suomalaisia Dota-tähtiä!*
 
