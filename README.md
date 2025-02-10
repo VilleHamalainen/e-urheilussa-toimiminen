@@ -40,7 +40,7 @@ Lisätietoja: Lisätietoja hankkeesta ja sen edistymisestä löytyy osaamiskeski
 
 ## E-urheilussatoimiminen polun materiaalit
 
-- [Johdatus e-urheiluun](johdatus-e-urheiluun/)
-- [E-urheilutapahtuman suunnittelu](e-urheilutapahtuman-suunnittelu/)
-- [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
-- [Oman osaamisen kehittäminen e-urheilussa](oman-osaamisen-kehittäminen-e-urheilussa/)
+- [Johdatus e-urheiluun](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/_pages/johdatus-e-urheiluun.md)
+- [E-urheilutapahtuman suunnittelu](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/_pages/e-urheilutapahtuman-suunnittelu/)
+- [E-urheilutapahtuman toteuttaminen](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/_pages/e-urheilutapahtuman-toteuttaminen/)
+- [Oman osaamisen kehittäminen e-urheilussa](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/blob/main/_pages/oman-osaamisen-kehittäminen-e-urheilussa/)
