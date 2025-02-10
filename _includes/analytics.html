@@ -1,9 +1,11 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics | strip }}"></script>
+<!-- Google Analytics (GA4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
-    gtag('config', '{{ site.google_analytics | strip}}');
+    gtag('config', 'G-ZB6TMMN0SE', {
+        cookie_flags: 'SameSite=None; Secure'  // Fix for third-party cookie issues
+    });
 </script>
