@@ -33,6 +33,8 @@ permalink: /johdatus-e-urheiluun/
 
 **Elektroninen urheilu** (eng. esports) on tietotekniikkaa hyödyntävää kilpaurheilua. Elektronista urheilua harrastetaan niin joukkue- kuin yksilömuodossakin riippuen pelistä ja pelimuodosta. Tavallisimmat elektronisen urheilun pelit ovat tietokoneella tai konsolilla toimivia viihdepelejä, jotka jakautuvat useampaan alalajiin, eli genreen. Kattavamman kuvauksen näistä löydät [SEUL:n sivuilta](https://seul.fi/).
 
+Yleiskuvan materiaaleista saat lataamalla ja kuuntelemalla seuraavan ["Podcastin"]("https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/Introduction%20to%20Esports.wav"), joka on tuotettu kielimallilla näistä materiaaleista.
+
 ---
 
 ## **Tehtävä:** Mitä kaikkea e-urheiluun liittyy?
