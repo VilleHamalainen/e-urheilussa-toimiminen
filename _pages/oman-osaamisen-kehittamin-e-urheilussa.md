@@ -14,6 +14,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
   - [Sisällysluettelo](#sisällysluettelo)
   - [Pelillinen kehittyminen](#pelillinen-kehittyminen)
     - [Pelimekaniikat](#pelimekaniikat)
+  - [https://www.youtube.com/watch?v=VN4b2c\_CdIo\&ab\_channel=minigodcs aimtrainerdemo](#httpswwwyoutubecomwatchvvn4b2c_cdioab_channelminigodcs-aimtrainerdemo)
     - [Liikkuminen](#liikkuminen)
     - [Kommunikaatio ja tiimityöskentely](#kommunikaatio-ja-tiimityöskentely)
   - [Tiimidynamiikka](#tiimidynamiikka)
@@ -70,49 +71,44 @@ Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tapping, Bursti
 
 Pre aiming tarkoittaa siis kykyä visualioida sitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Jotta tiedämme mihin tähdätä ja milloin meidän tulee tuntea kaikki kartat ja tuntea niiden ajoitukset. Palaamme tähän aiheeseen tarkemmin myöhemmin. Puhuimme äsken puolustavan joukkueen ampumisesta, mutta mikä on tilanne hyökkääjän suhteen? Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori ja internetviive antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Kuitenkin isoimman edun hyökkääjälle (huom. tämä voi ola kumpi tahansa puoli riippuen tilanteesta ja pelaajasta) hyvin toteutettuna tuo tieto siitä, mitä seuraavaksi tapahtuu, joka helpottaa omaa valmistautumista ja reagointia tilanteisiin. Hyökkäävä pelaaja pyrkiii visualisoimaan ja asettamaan tähtäimen sinne missä puolustava pelaaja on ja ampuu tyypilliiin kohtiin varuilta. Tätä kutsutaan ns. "pre-fireksi" eli ennakkoon apumiseksi kohtiin, joissa pelaajat tyypillisesti ovat.
 
-Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Luonnollisesti samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
+Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
 
 [![Why you still strugling with moving targets?](https://img.youtube.com/vi/DP954gl592E/0.jpg)](https://www.youtube.com/watch?v=DP954gl592E)
 
 *Vihjeita liikkuvien kohteiden seuraamiseen ja työkaluja oman pelaamisen kehittämiseen.*
 
+https://www.youtube.com/watch?v=VN4b2c_CdIo&ab_channel=minigodcs aimtrainerdemo
 ---
 
 ### Liikkuminen
 
-Liikkuminen on keskeinen taito, joka erottaa huippupelaajat muista e-urheilussa. Liikkumistekniikoiden hallitseminen voi luoda etuja, vaikeuttaa vastustajan tähtäämistä ja mahdollistaa tehokkaammat hyökkäykset. Tämä osio käsittelee liikkumisen avainkonsepteja, käyttäen ensisijaisesti Counter-Strike 2:ta (CS2) esimerkkinä, vaikka monet periaatteet pätevät muihinkin peleihin.
+Tämä osio käsittelee liikkumisen avainkonsepteja, käyttäen ensisijaisesti Counter-Strike 2:ta (CS2) esimerkkinä, vaikka monet periaatteet pätevät muihinkin peleihin. Liikkuminen ei ole vain paikkojen välillä liikkumista, vaan huippupelaajat liikkuvat ja ampuvat samaan aikaan, niin, että tarkkuus ei kärsi. Pelissä liikkumiseen liitty hahmon nopeus ja kiihtyvyys, joihin pelaaja voi vaikuttaa painamalla eteen, taakse, oikealla ja vasemmalle nappeja. Ehkä tärkein yksittäinen liikkumiseen ja ampumiseen liittyvä mekaniikka on ns. "counter strafing", jossa pelaaja painaa vasemmalle liikkuessaan (A-nappi näppäimistössä) D-nappia, jolloin pelihahmo pysähtyy samalla hetkellä ja tällöin ampuminen tarkasti on mahdollista. Edellisessä osiossa puhuimme ampumisesta ilman liikettä, mutta kuten tulemme huomaamaan, paikallaan oleva pelaaja ei pelissä pärjää. Ilman vastaliikettä ammukset lähtevät mihin sattuvat. Jos pelaaja taas päästää irti tässä tapauksessa A-napista, kestää hahmolla pieni hetki pysähtyä. Toinen tapa liikuttaa omaa hahmoa on mennä kyykkyyn, joka myös pysäyttää hahmon ja näin ollen tekee ampumisesta tarkkaa (itseasiassa kaikkein tarkin tapa ampua on olla kyykyssä), jollon myös hahmon koko ruudulla pienenee, mutta vastaavasti liikkumiseen tulee viivettä ja se hidastuu. Kyykkyyn meneminen on myös äärimmäisen tärkeä tapa sotkea ampumisosiossa puhuttua ennakoivaa ampumista, koska pelaajan pää voi olla kahdella eri korkeudella riippuen tuleeko pelaaja kyykyssä vai seisten. Vauhtiin taas vaikuttaa tuleeko pelaaja juosten vai kävellen (lisäksi pienellä vastaliikkeellä hahmo saavuttaa hetkellisen korkeimman mahdollisen kiihtyvyyden).
 
-Strateginen Liikkuminen: Kyse ei ole vain nopeasta liikkumisesta, vaan myös älykkäästä liikkumisesta edun saavuttamiseksi. Tähän kuuluu ymmärtää, miten liikkumisesi vaikuttaa näkyvyyteesi vastustajalle ja miten liikkumista voidaan käyttää pelin tahdin kontrolloimiseen.
+[![The Ultimate Guide to Counter Strafing in CS"](https://img.youtube.com/vi/Li4J09ei8ro/0.jpg)(https://www.youtube.com/watch?v=Li4J09ei8ro&ab_channel=CSSeb)
 
-Peek tyylit (kurkkaus tyylit vapaasti suomennettuna):
+*Liikkumisen ja ampumisen perusteet.*
 
-- Wide Peek (Laajakurkistus): Itsensä paljastaminen laajempaan kulmaan nopeasti tiedon saamiseksi ja vastustajien haastamiseksi. Pelaajalla on erilaisia keinoja saada hahmoonsa vauhtia ja tässä tyylissä tieto siitä, että hahmolla kannattaa liikkua ensin toiseen suuntaa lisää hahmon maksiminopeutta hetkellisesti. Tästä on myös käytössä termejä kuten "Ferrari Peek" jne..
+[![Donk 1 v 5 keystrokes](https://img.youtube.com/vi/qIHmRN93Oj0/0.jpg)(https://www.youtube.com/watch?v=qIHmRN93Oj0&ab_channel=Leetify)
 
-- Shoulder Peek (Olkapääkurkistus): Vain pienen osan olkapäästä paljastaminen, jotta vastustajan tulituksen saa houkuteltua esiin. Tämä mahdollistaa tiedon keräämisen ilman, että täysin sitoudutaan tilanteeseen.
+*Maailman parhaan pelaajan taidonnäyte.*
 
-Ketteryys ja Ennakoimattomuus:
+Liikkuminen on keskeinen taito, joka erottaa huippupelaajat muista pelaajista ja vaikuttaa pelin jokaiseen osa-alueeseen. Erilaisten liikkumistekniikoiden hallitseminen voi yllättää vastustajan, koska tietyttyihin paikkoihin pääseminen nopeasti vaatii peruspelaajalle haastavien liikkeiden suorittamista (esimerkiksi CS2-kartta Miragen ikkunasta mutkaan hyppy CT:nä). Liikkumisella vaikeutetaan myös vastustajan tähtäämistä, josta pääsemme tarkemmin erilaisiin tapoihin tulla esiin nurkkien tai muiden esteiden takaa Pelissä voi myös hypätä, jolla voi päästä nopeasti vaikeisiin paikkoihin, harhauttaa vastustajan tähtäimen paikkaa jne. Erilaiset hypyt ja liikkuminen ovat luoneet omia pelimuotoja, jossa pelaajat kilpailevat ja emme tässä materiaalissa syvenny aiheeseen sen enempää. Alla olevasta videoista voi aloittaa tutustumisen hyppyjen maailmaan.
 
-- Hyppiminen: Hyppyjen käyttäminen vaikeuttaaksesi osumista. Hyppiminen voi häiritä vihollisen tähtäämistä ja tehdä osumisesta haastavampaa, mutta liiallinen käyttö voi tehdä siitä ennakoitavaa.
+[![How To Do Every Skill Jump in CS2](https://img.youtube.com/vi/goFpDwLvFqs/0.jpg)(https://www.youtube.com/watch?v=goFpDwLvFqs&ab_channel=dabewie)
 
-- Liukuminen: Liukujen käyttäminen nopeasti sijainnin vaihtamiseksi tai vihollisen tulituksen väistämiseksi. Tätä voidaan yhdistää muihin liikkeisiin monimutkaisten ja ennakoimattomien toimintojen luomiseksi.
+*Counter Strike on täynnä erilaisia vaikeita hyppyjä, joilla voi saavuttaa etuja.*
 
-- Crouch-Peeking (Kyykkykurkistus) : Nopea kyykistyminen, jotta vain pieni osa vartalosta paljastuu. Tämä on hyödyllistä kulmien takaa kurkistamiseen ja oman profiilin minimoimiseen.
+**Peek tyylit (kurkkaus tyylit vapaasti suomennettuna)**:
 
-Miten liikkuminen vaikuttaa peliin
+- Wide Peek (laajakurkistus) tarkoittaa liikettä, jossa pelaaja pyrkii tulemaan kulman takaa mahdollisimman nopeasti altistaen itsensä usealla eri kulmalle, mutta näin ollen hän pyrkii välttämään vastustajan pelaajan tähtäimen nopeudella ja samalla antaa tilaa takana tuleville pelaajille. Pelaajalla on erilaisia keinoja saada hahmoonsa vauhtia ja tässä tyylissä tieto siitä, että hahmolla kannattaa liikkua ensin toiseen suuntaa lisää hahmon maksiminopeutta hetkellisesti. Tästä on myös käytössä termejä kuten "Ferrari Peek", jossa vastustajan näkökulmasta pelaaja tulee esille Ferrarin nopeudella tehden osumisesta häneen äärimmäisen hankalaa.
 
-- **Tarkkuus**: Tehokas liikkuminen ei ole vain siirtymistä pisteestä A pisteeseen B. Kyse on liikkumisen käyttämisestä oman tarkkuuden parantamiseksi samalla kun se häiritsee vihollisen tähtäämistä. Liikkeen vaihtelu on myös osa arvaamattomuutta, jota huippupelaajat käyttävät hyväkseen.
+- Shoulder Peek (olkapääkurkistus) tarkoittaa liikettä, jossa pelaaja paljastaa vain pienen osan hahmostaan (olkapään), jolloin tavoitteena on saada vastustajan reagoimaan ja ampumaan. Tämä antaa pelaajalle tietoa vastustajan sijainnista ja mahdollisuuden tehdä esimerkiksi yllä mainittu wide peek pienen liikkeen jälkeen, jolloin vastuastajan tähtäin on toivottavasti väärässä paikassa. Shoulder Peek mahdollistaa tiedon keräämisen ilman, että täysin sitoudutaan taisteluun.
 
-- **Ajoitus**: Liikkuminen on myös ajoittamista. Tämä ei ole pelkkää mekaniikkaa, vaan pelaajan tulee tuntea syyt ja seuraukset, joita kartan tapahtumat aiheuttavat.  Oikein ajoitettu liike (lurkkaus) voi esimerkiksi voittaa koko erän sellaisenaan tai varmistaa hyvän hyökkäyksen.
+- Crouch Peek (kyykkykurkistus) tarkoittaa liikettä, jossa pelaaja suorittaa nopean kyykistyminen, jolla pelaaja muuttaa oman päänsä sijaintia ja tekee samalla pelihahmosta pienemmän ja vaikeammin osuttavan. Tätä tekniikkaa käytetään usein prefire tekniikan kanssa. Tätä tekniikkaa hieman muuttaen hyödyntävät monet huippupelaajat, niin, että he tulevat välillä esiin suoraan kyykyssä tai pystyssä mennen kyykkyyn kun vihollinen huomataan.
 
-- **Tilan luominen**: Hyvin ajoitettu ja toteutettu liikkuminen voi luoda tilaa sinulle ja joukkueellesi avaten mahdollisuuksia hyökkäyksiin. Esimerkiksi ensiksi menevien pelaajien tulee pystyä liikkumaan sulavasti, jotta muut pelaajat pääsevät etenemään avuksi.
+Liikkumisessa ei ole kyse vain nopeudesta, vaan myös älykkäästä liikkumisesta edun saavuttamiseksi joukkueelle. Tätä kutsutaan usein tilan ottamiseksi, jolloin yhden tai useamman pelajaan liikkuminen strategisesti tärkeisiin paikkoihin voi parhaassa tapauksessa muuttaa koko erän kulun tai ainakin herättää kysymyksiä ja epävaramuutta vastustajan joukkueessa. Counter Strikessa on kahdenlaista liikkumista: liikettä, joka päästää ääntä ja liikettä, joka on hiljaista. Juostessa toiset pelaajat kuulevat sinut kun taas kävellessä tai kyykyssä edetessä ääntä ei kuulu. Äänet ovatkin tärkeä osa peliä ja vaativat myös oman osionsa, mutta liikkuminen tuottaa ääntä ja voi aiheuttaa muutoksia vastustajan ryhmittymisessä. Esimerkkinä, jos puolustava pelaaja kuulee useammat askeleet, saattaa hän olettaa, että hyökkäys tapahtuu pian hänen alueellaan ja näin ollen kommunikoi siit muille, joka voi johtaa ryhmittymisen muuttumiseen ja aukaista tiloja muualla. Tämä esimerkki koskee tilanteita ennen varsinaista hyökkäystä, jossa tilan ottaminen liikkeen avulla korostuu kyvyllä liikkua tehokkaasti pommialueen läpi paikkoihin, joista puolustajien tie saadaan katkaistua samalla tarkistaen paikat, jossa vihollinen voi olla. Tämä ei myöskään aina tarkoita täysillä etenemistä vaan liikkuminen voi olla hiljaista tarkasti suunniteltua etenemistä, jossa eri pelaajat ns. "clearaavat" eri alueita kartalla. Pelaajat ja joukkueet joutuvat miettimään, mikä on optimaalisin reitti, jossa et paljasta itseäsi liian usealle eri kulmalle, jos sinut voidaan kukistaa.
 
-- **Harjoittelu**: Kuten mikä tahansa taito, liikkuminen vaatii jatkuvaa harjoittelua. Voit harjoitella tiettyjä tekniikoita kuten hyppyjä ja kurkkaamista (peek) harjoituskartoissa tai harjoituspeleissä.
-
-- **Analysointi**: Tutki, miten ammattipelaajat käyttävät liikkumista etulyöntiaseman saavuttamiseksi, ja kiinnitä huomiota heidän käyttämiinsä ajoituksiin ja tekniikoihin. Eri pelaajilla on erilaisia tapoja liikkua. Toiset saattavat olla systemaattisempia ja käyttää enemmän pieniä liikkeitä kun taas toiset käyttävät enemmän leveitä ja hahmon nopeuteen perustuvaa tekniikkaa.
-
-- Mukautuminen: On tärkeää tunnistaa, että parhaat liikkumistekniikat voivat riippua pelistä, kartasta ja tilanteesta.
-
-**Karttatietoisuus**: Liikkuminen on tiiviisti sidoksissa karttatietoisuuteen. Kartan asettelun ja yleisten hyökkäyskulmien tunteminen on ratkaisevaa liikkumisen suunnittelussa. Karttatietoisuuden ja liikkumistaitojen yhdistelmä on se, mikä mahdollistaa ennakkoon tähtäämisen ja nopean reagoinnin.
+Liikkumiseen liittyy hyvin vahvasti karttatuntemus, koska optimaalisen reitin löytäminen vaatii selkeän kuvan siitä minne olet menossa. Vaikeutuksen tässä pelissä liikkumiseen tuovat muut pelaajat (omat sekä vastustajat), valokranaatit (näet valkoista) ja savut (näet harmaata). Tällöin liikkuminen perustuu omaan visuaaliseen hahmottamiseen sekä karttaan, josta pystyt jollain tasolla katsomaan, missä olet. Voit katsoa linkistä [tarkempia tietoa kartasta ja sen muuttamisesta](https://cslabez.com/best-cs2-radar-settings-guide/).
 
 ### Kommunikaatio ja tiimityöskentely
 
