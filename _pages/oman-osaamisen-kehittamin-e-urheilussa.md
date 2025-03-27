@@ -14,9 +14,14 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
   - [Sisällysluettelo](#sisällysluettelo)
   - [Pelillinen kehittyminen](#pelillinen-kehittyminen)
     - [Pelimekaniikat](#pelimekaniikat)
-  - [https://www.youtube.com/watch?v=VN4b2c\_CdIo\&ab\_channel=minigodcs aimtrainerdemo](#httpswwwyoutubecomwatchvvn4b2c_cdioab_channelminigodcs-aimtrainerdemo)
-    - [Liikkuminen](#liikkuminen)
-    - [Kommunikaatio ja tiimityöskentely](#kommunikaatio-ja-tiimityöskentely)
+      - [Ampuminen](#ampuminen)
+      - [Liikkuminen](#liikkuminen)
+      - [Utility](#utility)
+      - [Äänet ja kuva](#äänet-ja-kuva)
+      - [Pelin erikoisuudet](#pelin-erikoisuudet)
+    - [Muut taidot](#muut-taidot)
+    - [Henkinen kyvykkyys](#henkinen-kyvykkyys)
+      - [Kommunikaatio ja tiimityöskentely](#kommunikaatio-ja-tiimityöskentely)
   - [Tiimidynamiikka](#tiimidynamiikka)
     - [Pelin aikainen toiminta](#pelin-aikainen-toiminta)
     - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)
@@ -49,7 +54,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
   - [Laaja tehtävä innokkaille opiskelijoille](#laaja-tehtävä-innokkaille-opiskelijoille)
     - [Tehtävän kuvaus](#tehtävän-kuvaus)
     - [Vaiheet](#vaiheet)
-  - [Podcasteja liittyen e-urheiluun](#podcasteja-liittyen-e-urheiluun)
+  - [Resursseja](#resursseja)
   - [Seuraava aihe](#seuraava-aihe)
   - [Edellinen aihe](#edellinen-aihe)
 
@@ -61,7 +66,11 @@ E-urheilulla ja perinteisellä urheilulla on hyvin paljon yhtäläisyyksiä, vai
 
 ### Pelimekaniikat
 
-Pelitaitojen tai pelimekaanikan kehittäminen on yksi perusvaatimuksista pelissä pärjäämiselle. Ampumapeleissä luonnollisesti ensimmäinen asia on tähtääminen mahdollisimman nopeasti ja tarkasti vastustajaan. Tähän on kehitetty omia uusia työkaluja, joiden avulla ns. "1st bullet accuracya" voidaan kehittää. Esimerkkeinä mainittakoot Steamista löytyvä ilmainen [Aimlabs](https://store.steampowered.com/app/714010/Aimlabs/) tai selaimessa toimiva [Mouseaccuracy](https://mouseaccuracy.com/game). Nopea ja tarkka ampuminen on kuitenkin vain yksi osa kilpapelaamista ja esimerkiksi Counter Strikessa erilaisia ampumistyylejä on useita erilaisia. Parhaat pelaajat hyödyntävät erilaisia tyylejä tilanteen mukaan. Esimerkiksi, jos joukkue tietää, että vastustaja säästää ja heillä ei ole suojia, on tietyissä tilanteissa järkevää tähdätä vartaloon, jolloin ilman suojaa olevat pelaajat hidastuvat ja heidän tähtäämisensä muuttuu mahdottomaksi ns. "aim punchin" takia, jolloin tähtäin hyppii mihin sattuu. Esimerkiksi huippujoukkue Astraliksen pelaajat saattoivat muuttaa tähätäimensä sijaintia ekonomian perusteella.
+Tässä osiossa käydään läpi pelimekaniikkoja Counter Striken näkökulmasta. Erilaisia mekaniikkoja, jotka pelaajan täytyy hallita ovat seuraavat pelimekaniikat: ampuminen, liikkuminen, erilaisten peliobjektien kuten granaattien tuntemus, taktiikka ja ns. metagame, pelin ekonomia, visuaaliset elementit kuten ääni ja kuva(pelaajien äänet, varjot) ja pelin tavoitteet kuten pommin toiminta.
+
+#### Ampuminen
+
+Ampumapeleissä luonnollisesti ensimmäinen asia on tähtääminen mahdollisimman nopeasti ja tarkasti vastustajaan. Tähän on kehitetty omia uusia työkaluja, joiden avulla ns. "1st bullet accuracya" voidaan kehittää. Esimerkkeinä mainittakoot Steamista löytyvä ilmainen [Aimlabs](https://store.steampowered.com/app/714010/Aimlabs/) tai selaimessa toimiva [Mouseaccuracy](https://mouseaccuracy.com/game). Nopea ja tarkka ampuminen on kuitenkin vain yksi osa kilpapelaamista ja esimerkiksi Counter Strikessa erilaisia ampumistyylejä on useita erilaisia. Parhaat pelaajat hyödyntävät erilaisia tyylejä tilanteen mukaan. Esimerkiksi, jos joukkue tietää, että vastustaja säästää ja heillä ei ole suojia, on tietyissä tilanteissa järkevää tähdätä vartaloon, jolloin ilman suojaa olevat pelaajat hidastuvat ja heidän tähtäämisensä muuttuu mahdottomaksi ns. "aim punchin" takia, jolloin tähtäin hyppii mihin sattuu. Esimerkiksi huippujoukkue Astraliksen pelaajat saattoivat muuttaa tähätäimensä sijaintia ekonomian perusteella.
 
 [![How to use modern tools to develop aim by Styko](https://img.youtube.com/vi/1vN2H0rzd5U/0.jpg)](https://www.youtube.com/watch?v=1vN2H0rzd5U)
 
@@ -78,9 +87,10 @@ Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten 
 *Vihjeita liikkuvien kohteiden seuraamiseen ja työkaluja oman pelaamisen kehittämiseen.*
 
 https://www.youtube.com/watch?v=VN4b2c_CdIo&ab_channel=minigodcs aimtrainerdemo
+
 ---
 
-### Liikkuminen
+#### Liikkuminen
 
 Tämä osio käsittelee liikkumisen avainkonsepteja, käyttäen ensisijaisesti Counter-Strike 2:ta (CS2) esimerkkinä, vaikka monet periaatteet pätevät muihinkin peleihin. Liikkuminen ei ole vain paikkojen välillä liikkumista, vaan huippupelaajat liikkuvat ja ampuvat samaan aikaan, niin, että tarkkuus ei kärsi. Pelissä liikkumiseen liitty hahmon nopeus ja kiihtyvyys, joihin pelaaja voi vaikuttaa painamalla eteen, taakse, oikealla ja vasemmalle nappeja. Ehkä tärkein yksittäinen liikkumiseen ja ampumiseen liittyvä mekaniikka on ns. "counter strafing", jossa pelaaja painaa vasemmalle liikkuessaan (A-nappi näppäimistössä) D-nappia, jolloin pelihahmo pysähtyy samalla hetkellä ja tällöin ampuminen tarkasti on mahdollista. Edellisessä osiossa puhuimme ampumisesta ilman liikettä, mutta kuten tulemme huomaamaan, paikallaan oleva pelaaja ei pelissä pärjää. Ilman vastaliikettä ammukset lähtevät mihin sattuvat. Jos pelaaja taas päästää irti tässä tapauksessa A-napista, kestää hahmolla pieni hetki pysähtyä. Toinen tapa liikuttaa omaa hahmoa on mennä kyykkyyn, joka myös pysäyttää hahmon ja näin ollen tekee ampumisesta tarkkaa (itseasiassa kaikkein tarkin tapa ampua on olla kyykyssä), jollon myös hahmon koko ruudulla pienenee, mutta vastaavasti liikkumiseen tulee viivettä ja se hidastuu. Kyykkyyn meneminen on myös äärimmäisen tärkeä tapa sotkea ampumisosiossa puhuttua ennakoivaa ampumista, koska pelaajan pää voi olla kahdella eri korkeudella riippuen tuleeko pelaaja kyykyssä vai seisten. Vauhtiin taas vaikuttaa tuleeko pelaaja juosten vai kävellen (lisäksi pienellä vastaliikkeellä hahmo saavuttaa hetkellisen korkeimman mahdollisen kiihtyvyyden).
 
@@ -110,7 +120,28 @@ Liikkumisessa ei ole kyse vain nopeudesta, vaan myös älykkäästä liikkumises
 
 Liikkumiseen liittyy hyvin vahvasti karttatuntemus, koska optimaalisen reitin löytäminen vaatii selkeän kuvan siitä minne olet menossa. Vaikeutuksen tässä pelissä liikkumiseen tuovat muut pelaajat (omat sekä vastustajat), valokranaatit (näet valkoista) ja savut (näet harmaata). Tällöin liikkuminen perustuu omaan visuaaliseen hahmottamiseen sekä karttaan, josta pystyt jollain tasolla katsomaan, missä olet. Voit katsoa linkistä [tarkempia tietoa kartasta ja sen muuttamisesta](https://cslabez.com/best-cs2-radar-settings-guide/).
 
-### Kommunikaatio ja tiimityöskentely
+
+#### Utility
+
+Tekstiä
+
+#### Äänet ja kuva
+
+Tekstiä
+
+#### Pelin erikoisuudet
+
+Tekstiä
+
+### Muut taidot
+
+Tekstiä
+
+### Henkinen kyvykkyys
+
+Mitä tarkoitetaan henkiselle kyvykkyydellä tässä tapauksessa? Se on ainakin seuraavia asioita: kyky pysyä rauhallisena, keskittyneenä, aktiivisena, kykyä hahmottaa pelin kulku, kestää jännitystä. 
+
+#### Kommunikaatio ja tiimityöskentely
 
 Tiimityöskentely ja kommunikaatio ovat yksi tärkeimmistä tekijöistä, jotka erottavat huippujoukkueet alempien tasojen joukkueista. Kommunikaatio ei ole tarkkaa tiedettä ja joukkueilla onkin erilaisia tapoja kommunikoida.
 
@@ -531,11 +562,13 @@ Kerää palautetta osallistujilta ja arvioi kurssin toteutuksen mahdolliset kehi
 
 </details>
 
-## Podcasteja liittyen e-urheiluun
+## Resursseja
 
 [Natun ja Robun podcast](https://open.spotify.com/show/6nXZmspwDgIdPxBpjhreQV?si=b87a32ed64284ed8)
 
 [Pelaamisen kehittämiseen keskittyviä podcasteja](https://open.spotify.com/show/4v91zLNxqDFlFeFYcZpTZV?si=4c74a416e69349b1)
+
+[Mitä on pelitaito ja miten sitä voidaan kehittää?](https://findresearcher.sdu.dk/ws/portalfiles/portal/173482556/The_Play_of_Champions_final_pre_print.pdf)
 
 ---
 
