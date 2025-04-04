@@ -521,6 +521,7 @@ Tehtävänä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen
 
 - [Counter-Strike 2 Dedicated Servers](https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows)
 - [CS2 Dedicated Server Guide](https://hub.tcno.co/games/cs2/dedicated_server/)
+- [CS Dedicated Server Setup](https://www.youtube.com/watch?v=1ZrEn0CiMi4&ab_channel=TroubleChute)
 
 ---
 
