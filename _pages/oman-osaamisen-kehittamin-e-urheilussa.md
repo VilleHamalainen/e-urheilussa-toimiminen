@@ -16,6 +16,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
     - [Pelimekaniikat](#pelimekaniikat)
       - [Ampuminen](#ampuminen)
       - [Liikkuminen](#liikkuminen)
+      - [Pelitietämys](#pelitietämys)
       - [Utility](#utility)
       - [Äänet ja kuva](#äänet-ja-kuva)
       - [Pelin erikoisuudet](#pelin-erikoisuudet)
@@ -32,7 +33,6 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
     - [Pelin aikainen johtajuus](#pelin-aikainen-johtajuus)
     - [Pelin ulkopuolinen johtajuus](#pelin-ulkopuolinen-johtajuus)
   - [Tehtäviä](#tehtäviä)
-    - [Pelitietämys](#pelitietämys)
     - [Oman ja joukkueen tekemisen analysointi](#oman-ja-joukkueen-tekemisen-analysointi)
   - [Fyysinen ja henkinen hyvinvointi](#fyysinen-ja-henkinen-hyvinvointi)
     - [Ergonomia ja fyysinen kunto](#ergonomia-ja-fyysinen-kunto)
@@ -62,7 +62,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
 
 ## Pelillinen kehittyminen
 
-E-urheilulla ja perinteisellä urheilulla on hyvin paljon yhtäläisyyksiä, vaikka pelaamiseen onkin pitkään liitetty stereotypioita epäterveellisesistä elämäntavoista. Ja onkin totta, että lajissaan maailman paras e-urheilija ei näytä fyysisesti samalta kuin useiden eri lajien huippu-urheilijat, eikä näin kuulukkaan olla. Pelien pelaaminen ja niissä kilpaileminen vaatii useita erilaisia taitoja, ymmärryksen pelin isosta kuvasta eli strategian ja taktiikan, kykyä äärimmäisen nopeisiin päätöksiin, henkistä kanttia ja kestävyyttä sekä kykyä keskittyä pitkiä ajanjaksoja useiden tuntien ajan ja vaikka mitä muuta! Tässä tutkinnon osassa keskustelemme asioista usein Counter Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tietenkin pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa HearthStonea ja Counterstrikea suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
+E-urheilulla ja perinteisellä urheilulla on hyvin paljon yhtäläisyyksiä, vaikka pelaamiseen onkin pitkään liitetty stereotypioita epäterveellisesistä elämäntavoista. Ja onkin totta, että lajissaan maailman paras e-urheilija ei näytä fyysisesti samalta kuin useiden eri lajien huippu-urheilijat, eikä näin kuulukkaan olla. Pelien pelaaminen ja niissä kilpaileminen vaatii useita erilaisia taitoja, ymmärryksen pelin isosta kuvasta eli strategian ja taktiikan, kykyä äärimmäisen nopeisiin päätöksiin, henkistä kanttia ja kestävyyttä sekä kykyä keskittyä pitkiä ajanjaksoja useiden tuntien ajan ja vaikka mitä muuta! Tässä tutkinnon osassa keskustelemme asioista usein Counter Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tietenkin pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa [HearthStonea](https://hearthstone.blizzard.com/en-us) ja [Counterstrikea](https://www.counter-strike.net/) suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
 
 ### Pelimekaniikat
 
@@ -110,20 +110,41 @@ Liikkuminen on keskeinen taito, joka erottaa huippupelaajat muista pelaajista ja
 
 **Peek tyylit (kurkkaus tyylit vapaasti suomennettuna)**:
 
-- Wide Peek (laajakurkistus) tarkoittaa liikettä, jossa pelaaja pyrkii tulemaan kulman takaa mahdollisimman nopeasti altistaen itsensä usealla eri kulmalle, mutta näin ollen hän pyrkii välttämään vastustajan pelaajan tähtäimen nopeudella ja samalla antaa tilaa takana tuleville pelaajille. Pelaajalla on erilaisia keinoja saada hahmoonsa vauhtia ja tässä tyylissä tieto siitä, että hahmolla kannattaa liikkua ensin toiseen suuntaa lisää hahmon maksiminopeutta hetkellisesti. Tästä on myös käytössä termejä kuten "Ferrari Peek", jossa vastustajan näkökulmasta pelaaja tulee esille Ferrarin nopeudella tehden osumisesta häneen äärimmäisen hankalaa.
+- Wide Peek (laajakurkistus) tarkoittaa liikettä, jossa pelaaja pyrkii tulemaan kulman takaa mahdollisimman nopeasti altistaen itsensä usealla eri kulmalle, mutta näin ollen hän pyrkii välttämään vastustajan pelaajan tähtäimen nopeudella ja samalla antaa tilaa takana tuleville pelaajille. Pelaajalla on erilaisia keinoja saada hahmoonsa vauhtia ja tässä tyylissä tieto siitä, että hahmolla kannattaa liikkua ensin toiseen suuntaa lisää hahmon maksiminopeutta hetkellisesti. Tästä on myös käytössä termejä kuten "Ferrari Peek", jossa vastustajan näkökulmasta pelaaja tulee esille Ferrarin nopeudella tehden osumisesta häneen äärimmäisen hankalaa. Kyseisestä liikkeestä käytetään myös termiä "levitä", jolloin liikumalla tehdään tilaa perässä tuleville muille pelaajille, ja tämä taas mahdollistaa ylivoimatilanteiden luomisen tulitaisteluihin.
 
 - Shoulder Peek (olkapääkurkistus) tarkoittaa liikettä, jossa pelaaja paljastaa vain pienen osan hahmostaan (olkapään), jolloin tavoitteena on saada vastustajan reagoimaan ja ampumaan. Tämä antaa pelaajalle tietoa vastustajan sijainnista ja mahdollisuuden tehdä esimerkiksi yllä mainittu wide peek pienen liikkeen jälkeen, jolloin vastuastajan tähtäin on toivottavasti väärässä paikassa. Shoulder Peek mahdollistaa tiedon keräämisen ilman, että täysin sitoudutaan taisteluun.
 
 - Crouch Peek (kyykkykurkistus) tarkoittaa liikettä, jossa pelaaja suorittaa nopean kyykistyminen, jolla pelaaja muuttaa oman päänsä sijaintia ja tekee samalla pelihahmosta pienemmän ja vaikeammin osuttavan. Tätä tekniikkaa käytetään usein prefire tekniikan kanssa. Tätä tekniikkaa hieman muuttaen hyödyntävät monet huippupelaajat, niin, että he tulevat välillä esiin suoraan kyykyssä tai pystyssä mennen kyykkyyn kun vihollinen huomataan.
 
-Liikkumisessa ei ole kyse vain nopeudesta, vaan myös älykkäästä liikkumisesta edun saavuttamiseksi joukkueelle. Tätä kutsutaan usein tilan ottamiseksi, jolloin yhden tai useamman pelajaan liikkuminen strategisesti tärkeisiin paikkoihin voi parhaassa tapauksessa muuttaa koko erän kulun tai ainakin herättää kysymyksiä ja epävaramuutta vastustajan joukkueessa. Counter Strikessa on kahdenlaista liikkumista: liikettä, joka päästää ääntä ja liikettä, joka on hiljaista. Juostessa toiset pelaajat kuulevat sinut kun taas kävellessä tai kyykyssä edetessä ääntä ei kuulu. Äänet ovatkin tärkeä osa peliä ja vaativat myös oman osionsa, mutta liikkuminen tuottaa ääntä ja voi aiheuttaa muutoksia vastustajan ryhmittymisessä. Esimerkkinä, jos puolustava pelaaja kuulee useammat askeleet, saattaa hän olettaa, että hyökkäys tapahtuu pian hänen alueellaan ja näin ollen kommunikoi siit muille, joka voi johtaa ryhmittymisen muuttumiseen ja aukaista tiloja muualla. Tämä esimerkki koskee tilanteita ennen varsinaista hyökkäystä, jossa tilan ottaminen liikkeen avulla korostuu kyvyllä liikkua tehokkaasti pommialueen läpi paikkoihin, joista puolustajien tie saadaan katkaistua samalla tarkistaen paikat, jossa vihollinen voi olla. Tämä ei myöskään aina tarkoita täysillä etenemistä vaan liikkuminen voi olla hiljaista tarkasti suunniteltua etenemistä, jossa eri pelaajat ns. "clearaavat" eri alueita kartalla. Pelaajat ja joukkueet joutuvat miettimään, mikä on optimaalisin reitti, jossa et paljasta itseäsi liian usealle eri kulmalle, jos sinut voidaan kukistaa.
+Liikkumisessa ei ole kyse vain nopeudesta, vaan myös älykkäästä liikkumisesta edun saavuttamiseksi joukkueelle. Tätä kutsutaan usein tilan ottamiseksi, jolloin yhden tai useamman pelajaan liikkuminen strategisesti tärkeisiin paikkoihin voi parhaassa tapauksessa muuttaa koko erän kulun tai ainakin herättää kysymyksiä ja epävaramuutta vastustajan joukkueessa. Counter Strikessa on kahdenlaista liikkumista: liikettä, joka päästää ääntä ja liikettä, joka on hiljaista. Juostessa toiset pelaajat kuulevat sinut, kun taas kävellessä tai kyykyssä edetessä ääntä ei kuulu. Äänet ovat tärkeä osa peliä ja liikkumisen tuottama ääni on yksi tärkeimmistä tavoista saada tietoa pelin aikana. Aihe on sinällään monimutkainen, koska ammattilaispeleissä myös äänien kuulumattomuus voi paljastaa vastustajalle mitä todennäköisesti tapahtuu seuraavaksi. Ei organisoiduissa peleissä tilanne on hieman toisenlainen, koska joukkeilla ei ole selkeitä suunnitelmai. Esimerkkinä, jos puolustava pelaaja kuulee useammat askeleet, saattaa hän olettaa, että hyökkäys tapahtuu pian hänen alueellaan ja näin ollen kommunikoi siit muille, joka voi johtaa ryhmittymisen muuttumiseen ja aukaista tiloja muualla. Tämä esimerkki koskee tilanteita ennen varsinaista hyökkäystä, jossa tilan ottaminen liikkeen avulla korostuu kyvyllä liikkua tehokkaasti pommialueen läpi paikkoihin, joista puolustajien tie saadaan katkaistua samalla tarkistaen paikat, jossa vihollinen voi olla. Tämä ei myöskään aina tarkoita täysillä etenemistä vaan liikkuminen voi olla hiljaista tarkasti suunniteltua etenemistä, jossa eri pelaajat ns. "clearaavat" eri alueita kartalla. Pelaajat ja joukkueet joutuvat miettimään, mikä on optimaalisin reitti, jossa et paljasta itseäsi liian usealle eri kulmalle, jos sinut voidaan kukistaa.
 
-Liikkumiseen liittyy hyvin vahvasti karttatuntemus, koska optimaalisen reitin löytäminen vaatii selkeän kuvan siitä minne olet menossa. Vaikeutuksen tässä pelissä liikkumiseen tuovat muut pelaajat (omat sekä vastustajat), valokranaatit (näet valkoista) ja savut (näet harmaata). Tällöin liikkuminen perustuu omaan visuaaliseen hahmottamiseen sekä karttaan, josta pystyt jollain tasolla katsomaan, missä olet. Voit katsoa linkistä [tarkempia tietoa kartasta ja sen muuttamisesta](https://cslabez.com/best-cs2-radar-settings-guide/).
+Liikkumiseen liittyy hyvin vahvasti karttatuntemus, koska optimaalisen reitin löytäminen vaatii selkeän kuvan siitä minne olet menossa. Vaikeutuksen tässä pelissä liikkumiseen tuovat muut pelaajat (omat sekä vastustajat), valokranaatit (näet valkoista) ja savut (näet harmaata). Tällöin liikkuminen perustuu omaan visuaaliseen hahmottamiseen sekä karttaan, josta pystyt jollain tasolla katsomaan, missä olet. Voit katsoa linkistä [tarkempia tietoa kartasta ja sen muuttamisesta](https://cslabez.com/best-cs2-radar-settings-guide/). Lisää karttatuntemuksesta ja kranaateista pääset lukemaan seuraavassa osiossa.
 
+#### Pelitietämys
+
+Useissa peleissä on peruselementtien, kuten tässä tapauksessa liikkuminen ja ampuminen, erilaisia elementtejä, joiden hyödyntäminen erottaa parhaat pelaajat ja varsinkin joukkueet toisistaan. Counterstrikesta löytyy ainakin seuraavat konseptit, jotka kilpailullisesti pelaavan pelaajan tulee hallita:
+
+- **Ekonomia** eli pelin sisäisen rahasysteemin tunteminen. Kilpailullisessa pelissä jokaisella pelaajalla on aluksi 800 $ rahaa, mutta pelin edetessä rahatilanne elää sen mukaan voittaako vai häviääkö joukkue. Eri aseilla voitetuista taisteluista saa erimäärän rahaa, joukkueen hävitessä useamman kierroksen putkeen, tasoittaa peli rahatilannetta aluksi antaen 1400 $ ja nousten 500 $ jokaisen tappion jälkeen saavuttaen lopulta 3400 $ maksimin. Kaikilla tasoilla on tärkeää, että joukkue tekee yhdessä ekonomiset päätökset ja ostavat tai säästävät joukkuueena. Pelin voiton kannalta joukkue ei voi ostaa jokaisella kierroksella parhaita aseita, vaan pelissä on ns. säästökierroksia, jossa pelaajat eivät osta juuri mitään tai ns. puoliostoja, jossa joukkue ostaa halvempia aseita ja suojia, jotka antavat paremman mahdollisuuden voitolle, mutta eivät heikennä seuraavan kierroksen ostoa, jos kyseinen kierros hävitään. Tässä tullaan edellä mainittuun ekonomian ja ns. tappiobonuksen ymmärtämiseen. Tarkemmin aiheesta voi lukea [Guide to Understand CS2 Economy](https://cslabez.com/guide-to-cs2-ecomony/) tai katsomalla [Natosaphix CS2 coach explains game economy](https://www.youtube.com/watch?v=IbTzvqzJBjY&ab_channel=NaToSaphiX2nd). Ekonomia ei ole vain CounterStrikessa, vaan vastaavia päätöksiä joutuu tekemään lähes kaikissa kilpailullisissa peleissä.
+
+Usein ns. pelillinen johtaja pitää huolen siitä, että joukkue ostaa samaan aikaan. Aikaisemmissa pelin versioissa virheostot tulivat kalliiksi, mutta nykyisessä pelin versiossa väärän oston voi peruuttaa, mikä on ehdottoman hyvä ominaisuus. Pelien päivitysten myötä myös ekonomia kokee  muutoksia, ja esimerkiksi CS2 siirtyi MR16-systeemistä MR12-systeemiin, joka onkin taas korostanut ensimmäisten kierrosten rooleja. Samoin eri aseiden muutokset ovat vaikuttaneet paljon ns "metagameen" eli tyyliin, jolla joukkueet ostavat eri kierroksilla.
+
+- **Meta eli Most effective tactics available** tarkoittaa ymmärrystä siitä, mitkä keinot antavat sinulle parhaat mahdollisuuden suoritua parhaalla mahdollsella tavalla. Tässä tapauksessa ns. "metan ymmärykseen kuuluu" tieto parhaista aseista yleisesti, mutta myös erilaisissa tilanteissa. Helppo tapa ajatella aseita on tehdä niistä ns. "tier-lista", joista ihmiset tuntuvat tykkäävän. Mitkä ovat siis pelin parhaat aseet, joiden ostaminen aina kuin mahdollista on paras taktiikka toimia. Tästä paras esimerkki on AK-47, joka on saatavilla vain terroristipuolella ja on pelin paras rifle-tyyppinen ase, koska se kukistaa vihollisen yhdestä osumasta päähän, kun taas puolustavalla joukkueella vastaavat aseet tekevät n. 90 vahinkoa, joka tarkoittaa, että fragiin (pelaajan voittamiseen) tarvitaan kaksi laukausta. Ammattilaispelaajat ottavatkin siis aina voitettujen kierrosten jälkeen terroristipuolen AK47:t talteen ja pelaavat niillä niin pitkään kuin mahdollista.
+
+Hyvänä esimerkkinä metan ja ekonomian toiminnan ymmärtämisestä voidaan pitää tietoa siitä voiko vastustajalla olla AWP eli tuttavallisemmin avikka, joka on tarkkuuskivääri, jolla voi ampua tarkasti kauas ja ase myös tuhoaa vastustajan osumilla, joilla muut aseet eivät. Ensimmäisillä kierroksilla rahaa ei kyseiseen aseenseen ole, mutta tiettyjen kierrosten jälkeen on hyvä ainakin tiedostaa voiko josssain paikassa olla kyseinen ase. Usein AWP:ta vastaan pitää pelata hieman eri tavalla, usein useammalla pelaajalla, koska aseella ammutaan luoti kerrallaan tai vaihtoehtoisesti kyseinen pelaaja pyritään pelamaan pois tilanteista aikaisemminkin mainittujen granaattien avulla.
+
+Awp onkin niin niin merkityksellinen, että sen ympärille on joukkeissa rakennettu rooli, joka pelaa aina mahdollisuuden tullen kyseistä asetta. Usein kyseessä on joukkueen tähtipelaaja, joka voi sotkea vastustajan peliä olemalla kyseisen aseen kanssa eri paikoissa, mutta joukkueet hyödyntävät asetta myös muilla tavoilla jopa pelaten useampaa kerralla. Voitanee todeta, että meta kyseisen aseen suhteen on pelata yhtä tai maksimisaan kahta kerralla, koska ase on kallis, sen kanssa liikkuminen on hidasta ja ampuminen on yksi kerrallaan lauksia, joten ohi ampuminen korostuu eri tavalla. Myös dotassa ja lolissa on erilaisia rooleja joihin pelaajat valikoituvat ominaisuuksiensa mukaan.
+
+Pelin historiassa on ollut jaksoja, joissa tietyt aseet ovat olleet niin vahvoja, että niiden ostaminen usein osoittautui liian tehokkaaksi taktiikaksi. Yllä mainittu AWP on yksi näistä ja aseen kanssa liikkumista ja ampumista jouduttiinkin muuttamaan, koska osa huippupelaajista oli aseen kanssa liian hyviä. Erilaiset pistoolit ovat myös olleet varsin hyviä eri vaiheissa pelejä, koska pelin kehittäjät ovat pyrkineet antamaan jokaiselle kierrokselle panosta. Yksittäisen aseiden muutokset voivat vaikuttaa pelin sisällä ostettaviin asioihin suuresti, joten ekonomian ja metan tunteminen on yksi ehdottomista vaatimuksista huipputasolla. Alla video nykyäänkin olemassa olevasta TEC-9 pistoolista jolloin se oli vielä parempi.
+
+[![Tec9 too good](https://img.youtube.com/vi/edigZqRlMeI/0.jpg)](https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault)  
+
+*Tec9 oli pienen hetken ase, joka teki jokaisesta kierroksesta voitettavan. Olofmaister sai aseen takia lempinimen "Tec9master".*
+
+- **Karttatuntemus** 
 
 #### Utility
 
-Tekstiä
+
 
 #### Äänet ja kuva
 
@@ -139,7 +160,7 @@ Tekstiä
 
 ### Henkinen kyvykkyys
 
-Mitä tarkoitetaan henkiselle kyvykkyydellä tässä tapauksessa? Se on ainakin seuraavia asioita: kyky pysyä rauhallisena, keskittyneenä, aktiivisena, kykyä hahmottaa pelin kulku, kestää jännitystä. 
+Mitä tarkoitetaan henkiselle kyvykkyydellä tässä tapauksessa? Se on ainakin seuraavia asioita: kyky pysyä rauhallisena, keskittyneenä, aktiivisena, kykyä hahmottaa pelin kulku, kestää jännitystä.
 
 #### Kommunikaatio ja tiimityöskentely
 
@@ -157,7 +178,7 @@ Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopu
 **Käytännön esimerkkejä ja harjoituksia:**  
 
 - Joukkueilla voi olla erilaisia koodikieliä tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter Strikessa](https://totalcsgo.com/callouts).
-- Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä peruuttaa.
+- Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä perääntyä.
 
 ---
 
@@ -274,15 +295,7 @@ Tästä päästäänkin strategioihin ja taktiikoihin, joita yksilötasolla on v
 
 Nopea tilanteiden hahmottaminen on elintärkeä osa e-urheilussa menestymiselle, ja varsinkin pelien huiput erottuvat nimenomaan tässä taidossa. Usein harrastajalle voikin näyttää, että huippupelaajat tietävät tarkalleen, missä viholliset ovat ja täysi noviisi voisi kuvitella, että pelaajat näkevät seinien läpi, mutta todellisuudessa tuhansien tuntien ja tarkan pelisuunnitelman takia huiput osaavat ennakoida suurella todennäköisyydellä vastustajan sijainnin tai vastustajan joukkueen ryhmittymän. Tässä palataan myös joukkuepelaamiseen ja tiedon jakamiseen pelaajien kesken. Usein nopeissa pelitilanteissa voikin olla hyödyllistä sanoa, että "pelaaja x on yleensä pelannut eri paikassa, joten varo yllättäviä tilanteita" tai "sinulla on enää 5 ammusta jäljellä", koska usein pelin tiimellyksessä nämä asiat saattavat unohtua. Tälle kurssille onkin valikoitunut paljon materiaalia Stykolta, joka ei ole se tyypillisin huippupelaaja ja hän onkin joutunut vaihtamaan joukkuetta usein ja myös kokenut urallaan paljon kritiikkiä ja tästä syystä joutunut miettimään peliä usealta eri kantilta.
 
-### Pelitietämys
 
-Myös ekonomian ja eria aseiden tuntemus on ehdoton vaatimus amattipelaajalle. Usein ns. pelillinen johtaja pitää huolen siitä, että joukkue vaikkapa ostaa samaan aikaan, mutta myös huipputasolla tulee paljon virheitä sen suhteen miten paljon resursseja yksittäinen pelaaja käyttää. Pelien päivitysten myötä myös ekonomia kokee mahdollisesti suuriakin muutoksia, ja esimerkiksi CS2 siirtyi MR16-systeemistä MR12-systeemiin, joka onkin taas korostanut ensimmäisten kierrosten rooleja. Samoin eri aseiden muutokset ovat vaikuttaneet paljon ns "metagameen" eli tyyliin, jolla esimerkiksi joukkueet ostavat eri kierroksilla. Pelin historiassa on ollut mm. jaksoja, joissa tietyt pistoolit ovat olleet niin vahvoja, että niiden ostaminen usein osoittautui liian tehokkaaksi taktiikaksi. Yksittäisen aseidenkin muutokset voivat vaikuttaa pelin sisällä ostettaviin asioihin suuresti, joten ekonomian ja metan tunteminen on yksi ehdottomista vaatimuksista huipputasolla.
-
-[![Tec9 too good](https://img.youtube.com/vi/edigZqRlMeI/0.jpg)](https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault)  
-
-*Tec9 oli pienen hetken ase, joka teki jokaisesta kierroksesta voitettavan. Olofmaister sai aseen takia lempinimen "Tec9master".*
-
----
 
 ### Oman ja joukkueen tekemisen analysointi
 
@@ -567,6 +580,8 @@ Kerää palautetta osallistujilta ja arvioi kurssin toteutuksen mahdolliset kehi
 [Natun ja Robun podcast](https://open.spotify.com/show/6nXZmspwDgIdPxBpjhreQV?si=b87a32ed64284ed8)
 
 [Pelaamisen kehittämiseen keskittyviä podcasteja](https://open.spotify.com/show/4v91zLNxqDFlFeFYcZpTZV?si=4c74a416e69349b1)
+
+[How to get into pro Counter-Strike w/ gla1ve](https://www.youtube.com/watch?v=bCNYZw5O22U&ab_channel=ENCEEsports)
 
 [Mitä on pelitaito ja miten sitä voidaan kehittää?](https://findresearcher.sdu.dk/ws/portalfiles/portal/173482556/The_Play_of_Champions_final_pre_print.pdf)
 
