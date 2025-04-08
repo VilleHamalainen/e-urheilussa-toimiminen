@@ -17,6 +17,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Ampuminen](#ampuminen)
       - [Liikkuminen](#liikkuminen)
       - [Pelitietämys](#pelitietämys)
+      - [Utility muiden pelien kontekstissa](#utility-muiden-pelien-kontekstissa)
       - [Äänet ja kuva](#äänet-ja-kuva)
       - [Pelin erikoisuudet](#pelin-erikoisuudet)
     - [Muut taidot](#muut-taidot)
@@ -143,19 +144,37 @@ Pelin historiassa on ollut jaksoja, joissa tietyt aseet ovat olleet niin vahvoja
 
 Karttatuntemuksesta on puhuttu jo aikaisemmissa osioissa, koska ne vaikuttavat suoraan pelissä tapahtuvaan tähtäämiseen ja ampumiseen, liikkumiseen, mutta myös pelillisiin yksilötason ja joukkueen taktiikoihin, kommunikaatioon ja karttakohtaiseen metaan. Tähän liittyy mm. karttakohtaiset ajoitukset, joihin taas liittyy tietämys jokaisen erän alussa olevista "lähdöistä" eli spawneista, jotka määrittelevät kumman joukkueen edustaja ehtii kartan kriittisiin kohtiin ensiksi. 
 
-Käydään läpi asioita ensiksi yksilöllisen pelaajan näkökulmasta, joka haluaa kehittää omaa pelillistä osaamistaa ja tavoittelee kilpauraa eurheilijana. Pelaajan on hyvä tietää ja tuntea ajoitukset, joilla pelaajat kerkeävät kartan kriittisiin paikkoihin. Tästä esimerkkinä voisi olla Mirage-kartan terroristien vs puolustavan joukkueen taistelu keskustan hallinnasta. Parhaalla lähdöllä oleva puolustava pelaaja kerkeää ikkunaan, josta keskustaa pääsee nopeiten katsomaan. Toisena Dust2, jossa puolutajapelaajat kerkeävät paremmilla lähdöillä ensiksi suoralle, joka vaikuttaa siihen miten hyvät pelaajat tekevät valintoja erien alussa ja peleissä kuulekin kommentteja, kuten "minulla on hyvä lähtö suoralle", joka voi muuttaa molempien puolten erän aloitusta. Alla video, jossa on suurin osa kilpailullisten karttojen alkuajoituksista, jotka yksilöllisen pelaajan on hyvä tietää. Aloittelevat ja kehittyneemmätkin pelaajat tulevat usein yllätetyiksi siitä, missä vastustajat ovat. 
+Käydään läpi asioita ensiksi yksilöllisen pelaajan näkökulmasta, joka haluaa kehittää omaa pelillistä osaamistaa ja tavoittelee kilpauraa eurheilijana. Pelaajan on hyvä tietää ja tuntea ajoitukset, joilla pelaajat kerkeävät kartan kriittisiin paikkoihin. Tästä esimerkkinä voisi olla Mirage-kartan terroristien vs puolustavan joukkueen taistelu keskustan hallinnasta. Parhaalla lähdöllä oleva puolustava pelaaja kerkeää ikkunaan, josta keskustaa pääsee nopeiten katsomaan. Toisena Dust2, jossa puolutajapelaajat kerkeävät paremmilla lähdöillä ensiksi suoralle, joka vaikuttaa siihen miten hyvät pelaajat tekevät valintoja erien alussa ja peleissä kuulekin kommentteja, kuten "minulla on hyvä lähtö suoralle", joka voi muuttaa molempien puolten erän aloitusta. Alla video, jossa on suurin osa kilpailullisten karttojen alkuajoituksista, jotka yksilöllisen pelaajan on hyvä tietää. Aloittelevat ja kehittyneemmätkin pelaajat tulevat usein yllätetyiksi siitä, missä vastustajat ovat.
 
 [!(New CS2 spawn timings for every map 2024)](https://www.youtube.com/watch?v=63vBcSgtk3I)
 
-*Video eri lähtöjen ajoituksista kaikkiin karttoihin, jotka olivat 2024 kilpailullisessa karttapoolissa*
+*Video eri lähtöjen ajoituksista kaikkiin karttoihin, jotka olivat 2024 kilpailullisessa karttapoolissa.*
 
 Kartan tuntemus mahdollistaa sen, että yksilöllinen pelaaja voi tehdä ns. "omia pelejä" myös joukkueena pelattaessa, koska hän tuntee kartan ajoitukset, pystyy itse heittämään tarvittavan utilityn, jolloin hän pystyy tekemään itselleen tilaa ja yllättämään vastustajan. Tässä on siis kyse yksilötaidosta, jolla pelaaja voi erottua edukseen ei organisoisudussa ympäristössä. Tavoitteellisesti pelaavat pelaajat taas rakentavat tilanteitan joukkueena ennalta sovittujen taktiikoiden avulla tai pelaten tietyn protokollaan mukaan. Tämä pätee molempien puolien pelaamiseen ja uusin Counter Striken versio tukee aktiivista pelaamista myös puolustavalle joukkueelle.
 
 Nopea tilanteiden hahmottaminen on elintärkeä osa e-urheilussa menestymiselle, ja varsinkin pelien huiput erottuvat nimenomaan tässä taidossa. Usein harrastajalle voikin näyttää, että huippupelaajat tietävät tarkalleen, missä viholliset ovat ja täysi noviisi voisi kuvitella, että pelaajat näkevät seinien läpi, mutta todellisuudessa tuhansien tuntien ja tarkan pelisuunnitelman takia huiput osaavat ennakoida suurella todennäköisyydellä vastustajan sijainnin tai vastustajan joukkueen ryhmittymän. Tässä palataan myös joukkuepelaamiseen ja tiedon jakamiseen pelaajien kesken. Usein nopeissa pelitilanteissa voikin olla hyödyllistä sanoa, että "pelaaja x on yleensä pelannut eri paikassa, joten varo yllättäviä tilanteita" tai "sinulla on enää 5 ammusta jäljellä", koska usein pelin tiimellyksessä nämä asiat saattavat unohtua. Tälle kurssille onkin valikoitunut paljon materiaalia Stykolta, joka ei ole se tyypillisin huippupelaaja ja hän onkin joutunut vaihtamaan joukkuetta usein ja myös kokenut urallaan paljon kritiikkiä ja tästä syystä joutunut miettimään peliä usealta eri kantilta.
 
+- **Utility** tarkoittaa erilaisia kranaatteja joita pelissä on. Näitä on räjähdekranaatti (HE-grenade), joka tekee vahinkoa rippuen osuman tarkuudesta ja siitä on vastaan ottavalla pelaajalla suoja (Kevlar), valokranaatti (Flashbang), joka muuttaa vastustajan ja omien pelaajien ruudun valkoiseksi maksimissaan 4,87 sekunnin ajaksi riippuen etäisyydestä ja kulmasta, jossa kranaatti räjähtää, savukranaatti(Smoke), joka kestää 18 sekuntia peittäen alueen savuun, liekkikranaatti (Molotov/Incendiary), joka kestää 7 sekuntia. Näillä kranaateilla on pieni ero alueen, vahingon ja hinnan suhteen, joka tekee Molotovista  paremman kuin puolustavan joukkueen vastaavasta kranatista ja harhautuskranaatti (Decoy), joka pitää asetta vastaavaa ääntä 15 sekunnin ajan. Kranaateista on puhuttu jo jonkin verran ja ne ovat kriittsessä osassa ammattilaispeleissä.
 
-- **Utility** tarkoittaa erilasia kranaatteja joita pelissä on. Näitä on räjähdekranaatti (HE-grenade), valokranaatti(Flashbang), savukranaatti(Smoke), liekkikranaatti () ja harhautuskranaatti (Decoy).
+Utilityn käyttö ja sen tehokkuus vaihtelevat merkittävästi eri taitotasoilla. Aloittelijatasolla pelaajat saattavat ostaa kranaatteja harvoin tai käyttää niitä ilman selkeää tarkoitusta — esimerkiksi heittämällä savun sattumanvaraisesti ilman, että se estäisi näkyvyyttä tai tukisi joukkuetoverin toimintaa. Tällöin utility toimii lähinnä ylimääräisenä efektinä eikä tuota suurta etua.
 
+Keskitasolla pelaajat alkavat jo ymmärtää perustason heittoja, kuten savuja peruskulkureiteille (esim. Mirage mapin "Window smoke" tai Dust2:n "Cross smoke"). Flashien käyttö alkaa muuttua tietoisemmaksi: niillä yritetään sokaista vihollisia ennen kulman ottamista. Liekkikranaattien käyttö muuttuu puolustavammaksi: niitä heitetään viivyttämään puskuja tai tyhjentämään yleisiä nurkkia (ns. "common spots").
+
+Ammattilaistasolla utilityn käyttö on lähes taidetta ja osa pelaajista kuten Suomen oma AleksiB onkin noussut esiin usein loistavasta kranaattien käytöstään. Yhden kierroksen aikana voidaan käyttää täydellinen setti kranaatteja alueen hallintaan, viivyttämiseen, feikkaukseen tai vastahyökkäyksen mahdollistamiseen. Esimerkiksi hyökkäävä joukkue voi feikata A-pommisaittia savuilla ja molotoveilla pakottaen rotaatiot, jonka jälkeen oikea hyökkäys suuntautuukin B:lle. Tällainen "utility fake" on hyvin tavallista korkeimmalla tasolla. Ammattilaisilla jokainen savukranaatti, flash ja molotov on suunniteltu tarkkaan tiettyyn tarkoitukseen, ja usein myös ajoitus on sekunnin tarkkaa.
+
+CS2:n utility ei ole pelkästään työkalu vahingon tekemiseen tai näkyvyyden estämiseen – se on tärkeä osa strategiaa, tiedon saantia, aluekontrollia ja ajankäyttöä.
+
+#### Utility muiden pelien kontekstissa
+
+Utility ei ole ilmiönä rajoittunut vain Counter-Striken kaltaisiin peleihin, vaan se esiintyy monessa muodossa eri peleissä.
+
+Valorantissa jokaisella agentilla on omat "utilityt", jotka voivat olla savuja, seiniä, ansalankoja tai flash-kykyjä. Esimerkiksi agentti Omen voi heittää savun pitkän matkan päähän estäen näkyvyyttä useista kulmista yhtä aikaa, kun taas Skye voi ohjata flashin tarkasti kulman taakse. Utility ei ole rajattu ostettavaksi vaan sidottu hahmoon ja peli-identiteettiin.
+
+Rainbow Six Siegegessä utility on kriittinen osa jokaista kierrosta. Pelaajilla on käytössään erilaisia gadgetteja kuten miinoja, droneja, suojia, kameraestolaitteita jne. Näiden oikea-aikainen ja taktinen käyttö ratkaisee tilanteita enemmän kuin pelkkä tähtäystaito.
+
+Overwatchissa useilla sankareilla on kykyjä, jotka estävät, vahingoittavat tai hidastavat vihollisia. Esimerkiksi Mei voi jäädyttää vihollisia, Reaper voi teleportata selustaan ja Sigma pystyy blokkaamaan kranaatit kilvellään. Utility on jatkuvasti käytössä olevaa taktista työkalua, jolla hallitaan tilannetta enemmän kuin tappamisen kautta.
+
+Utilityn merkitys kasvaa sitä mukaa kun pelaajien ymmärrys pelin strategisista ulottuvuuksista syvenee. Olipa kyseessä CS2, Valorant tai mikä tahansa muu taktinen peli, kyse ei ole vain "kranaattien heittämisestä", vaan kokonaisvaltaisesta kyvystä vaikuttaa pelikenttään ja pakottaa viholliset reagoimaan.
 
 
 #### Äänet ja kuva
@@ -302,9 +321,6 @@ Nykyään on ainakin kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi
 1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
 2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukkueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit.
 3. Striimaaminen. Voit myös pelata ammatiksesi olematta varsinaisesti osana kilpailullista joukkuetta striimauksen kautta. Usein pelaajilla on erilaisia taitoja (hyvä pelissä, karismaattinen, hauska tai hyvä opettaja), jonka avulla hän kerää itselleen katsojia ja pystyy tuomaan organisaatioille arvoa tätä kautta. Striimin kautta sinut voidaan myös bongata osaksi e-urheilujoukkuetta.
-
-
-
 
 
 ### Oman ja joukkueen tekemisen analysointi
