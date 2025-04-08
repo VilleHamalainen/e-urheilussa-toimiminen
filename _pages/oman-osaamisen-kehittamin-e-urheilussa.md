@@ -17,7 +17,6 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Ampuminen](#ampuminen)
       - [Liikkuminen](#liikkuminen)
       - [Pelitietämys](#pelitietämys)
-      - [Utility](#utility)
       - [Äänet ja kuva](#äänet-ja-kuva)
       - [Pelin erikoisuudet](#pelin-erikoisuudet)
     - [Muut taidot](#muut-taidot)
@@ -94,17 +93,17 @@ https://www.youtube.com/watch?v=VN4b2c_CdIo&ab_channel=minigodcs aimtrainerdemo
 
 Tämä osio käsittelee liikkumisen avainkonsepteja, käyttäen ensisijaisesti Counter-Strike 2:ta (CS2) esimerkkinä, vaikka monet periaatteet pätevät muihinkin peleihin. Liikkuminen ei ole vain paikkojen välillä liikkumista, vaan huippupelaajat liikkuvat ja ampuvat samaan aikaan, niin, että tarkkuus ei kärsi. Pelissä liikkumiseen liitty hahmon nopeus ja kiihtyvyys, joihin pelaaja voi vaikuttaa painamalla eteen, taakse, oikealla ja vasemmalle nappeja. Ehkä tärkein yksittäinen liikkumiseen ja ampumiseen liittyvä mekaniikka on ns. "counter strafing", jossa pelaaja painaa vasemmalle liikkuessaan (A-nappi näppäimistössä) D-nappia, jolloin pelihahmo pysähtyy samalla hetkellä ja tällöin ampuminen tarkasti on mahdollista. Edellisessä osiossa puhuimme ampumisesta ilman liikettä, mutta kuten tulemme huomaamaan, paikallaan oleva pelaaja ei pelissä pärjää. Ilman vastaliikettä ammukset lähtevät mihin sattuvat. Jos pelaaja taas päästää irti tässä tapauksessa A-napista, kestää hahmolla pieni hetki pysähtyä. Toinen tapa liikuttaa omaa hahmoa on mennä kyykkyyn, joka myös pysäyttää hahmon ja näin ollen tekee ampumisesta tarkkaa (itseasiassa kaikkein tarkin tapa ampua on olla kyykyssä), jollon myös hahmon koko ruudulla pienenee, mutta vastaavasti liikkumiseen tulee viivettä ja se hidastuu. Kyykkyyn meneminen on myös äärimmäisen tärkeä tapa sotkea ampumisosiossa puhuttua ennakoivaa ampumista, koska pelaajan pää voi olla kahdella eri korkeudella riippuen tuleeko pelaaja kyykyssä vai seisten. Vauhtiin taas vaikuttaa tuleeko pelaaja juosten vai kävellen (lisäksi pienellä vastaliikkeellä hahmo saavuttaa hetkellisen korkeimman mahdollisen kiihtyvyyden).
 
-[![The Ultimate Guide to Counter Strafing in CS"](https://img.youtube.com/vi/Li4J09ei8ro/0.jpg)(https://www.youtube.com/watch?v=Li4J09ei8ro&ab_channel=CSSeb)
+[![The Ultimate Guide to Counter Strafing in CS"](https://img.youtube.com/vi/Li4J09ei8ro/0.jpg)](https://www.youtube.com/watch?v=Li4J09ei8ro&ab_channel=CSSeb)
 
 *Liikkumisen ja ampumisen perusteet.*
 
-[![Donk 1 v 5 keystrokes](https://img.youtube.com/vi/qIHmRN93Oj0/0.jpg)(https://www.youtube.com/watch?v=qIHmRN93Oj0&ab_channel=Leetify)
+[![Donk 1 v 5 keystrokes](https://img.youtube.com/vi/qIHmRN93Oj0/0.jpg)](https://www.youtube.com/watch?v=qIHmRN93Oj0&ab_channel=Leetify)
 
 *Maailman parhaan pelaajan taidonnäyte.*
 
 Liikkuminen on keskeinen taito, joka erottaa huippupelaajat muista pelaajista ja vaikuttaa pelin jokaiseen osa-alueeseen. Erilaisten liikkumistekniikoiden hallitseminen voi yllättää vastustajan, koska tietyttyihin paikkoihin pääseminen nopeasti vaatii peruspelaajalle haastavien liikkeiden suorittamista (esimerkiksi CS2-kartta Miragen ikkunasta mutkaan hyppy CT:nä). Liikkumisella vaikeutetaan myös vastustajan tähtäämistä, josta pääsemme tarkemmin erilaisiin tapoihin tulla esiin nurkkien tai muiden esteiden takaa Pelissä voi myös hypätä, jolla voi päästä nopeasti vaikeisiin paikkoihin, harhauttaa vastustajan tähtäimen paikkaa jne. Erilaiset hypyt ja liikkuminen ovat luoneet omia pelimuotoja, jossa pelaajat kilpailevat ja emme tässä materiaalissa syvenny aiheeseen sen enempää. Alla olevasta videoista voi aloittaa tutustumisen hyppyjen maailmaan.
 
-[![How To Do Every Skill Jump in CS2](https://img.youtube.com/vi/goFpDwLvFqs/0.jpg)(https://www.youtube.com/watch?v=goFpDwLvFqs&ab_channel=dabewie)
+[![How To Do Every Skill Jump in CS2](https://img.youtube.com/vi/goFpDwLvFqs/0.jpg)](https://www.youtube.com/watch?v=goFpDwLvFqs&ab_channel=dabewie)
 
 *Counter Strike on täynnä erilaisia vaikeita hyppyjä, joilla voi saavuttaa etuja.*
 
@@ -140,9 +139,22 @@ Pelin historiassa on ollut jaksoja, joissa tietyt aseet ovat olleet niin vahvoja
 
 *Tec9 oli pienen hetken ase, joka teki jokaisesta kierroksesta voitettavan. Olofmaister sai aseen takia lempinimen "Tec9master".*
 
-- **Karttatuntemus** 
+- **Karttatuntemus**
 
-#### Utility
+Karttatuntemuksesta on puhuttu jo aikaisemmissa osioissa, koska ne vaikuttavat suoraan pelissä tapahtuvaan tähtäämiseen ja ampumiseen, liikkumiseen, mutta myös pelillisiin yksilötason ja joukkueen taktiikoihin, kommunikaatioon ja karttakohtaiseen metaan. Tähän liittyy mm. karttakohtaiset ajoitukset, joihin taas liittyy tietämys jokaisen erän alussa olevista "lähdöistä" eli spawneista, jotka määrittelevät kumman joukkueen edustaja ehtii kartan kriittisiin kohtiin ensiksi. 
+
+Käydään läpi asioita ensiksi yksilöllisen pelaajan näkökulmasta, joka haluaa kehittää omaa pelillistä osaamistaa ja tavoittelee kilpauraa eurheilijana. Pelaajan on hyvä tietää ja tuntea ajoitukset, joilla pelaajat kerkeävät kartan kriittisiin paikkoihin. Tästä esimerkkinä voisi olla Mirage-kartan terroristien vs puolustavan joukkueen taistelu keskustan hallinnasta. Parhaalla lähdöllä oleva puolustava pelaaja kerkeää ikkunaan, josta keskustaa pääsee nopeiten katsomaan. Toisena Dust2, jossa puolutajapelaajat kerkeävät paremmilla lähdöillä ensiksi suoralle, joka vaikuttaa siihen miten hyvät pelaajat tekevät valintoja erien alussa ja peleissä kuulekin kommentteja, kuten "minulla on hyvä lähtö suoralle", joka voi muuttaa molempien puolten erän aloitusta. Alla video, jossa on suurin osa kilpailullisten karttojen alkuajoituksista, jotka yksilöllisen pelaajan on hyvä tietää. Aloittelevat ja kehittyneemmätkin pelaajat tulevat usein yllätetyiksi siitä, missä vastustajat ovat. 
+
+[!(New CS2 spawn timings for every map 2024)](https://www.youtube.com/watch?v=63vBcSgtk3I)
+
+*Video eri lähtöjen ajoituksista kaikkiin karttoihin, jotka olivat 2024 kilpailullisessa karttapoolissa*
+
+Kartan tuntemus mahdollistaa sen, että yksilöllinen pelaaja voi tehdä ns. "omia pelejä" myös joukkueena pelattaessa, koska hän tuntee kartan ajoitukset, pystyy itse heittämään tarvittavan utilityn, jolloin hän pystyy tekemään itselleen tilaa ja yllättämään vastustajan. Tässä on siis kyse yksilötaidosta, jolla pelaaja voi erottua edukseen ei organisoisudussa ympäristössä. Tavoitteellisesti pelaavat pelaajat taas rakentavat tilanteitan joukkueena ennalta sovittujen taktiikoiden avulla tai pelaten tietyn protokollaan mukaan. Tämä pätee molempien puolien pelaamiseen ja uusin Counter Striken versio tukee aktiivista pelaamista myös puolustavalle joukkueelle.
+
+Nopea tilanteiden hahmottaminen on elintärkeä osa e-urheilussa menestymiselle, ja varsinkin pelien huiput erottuvat nimenomaan tässä taidossa. Usein harrastajalle voikin näyttää, että huippupelaajat tietävät tarkalleen, missä viholliset ovat ja täysi noviisi voisi kuvitella, että pelaajat näkevät seinien läpi, mutta todellisuudessa tuhansien tuntien ja tarkan pelisuunnitelman takia huiput osaavat ennakoida suurella todennäköisyydellä vastustajan sijainnin tai vastustajan joukkueen ryhmittymän. Tässä palataan myös joukkuepelaamiseen ja tiedon jakamiseen pelaajien kesken. Usein nopeissa pelitilanteissa voikin olla hyödyllistä sanoa, että "pelaaja x on yleensä pelannut eri paikassa, joten varo yllättäviä tilanteita" tai "sinulla on enää 5 ammusta jäljellä", koska usein pelin tiimellyksessä nämä asiat saattavat unohtua. Tälle kurssille onkin valikoitunut paljon materiaalia Stykolta, joka ei ole se tyypillisin huippupelaaja ja hän onkin joutunut vaihtamaan joukkuetta usein ja myös kokenut urallaan paljon kritiikkiä ja tästä syystä joutunut miettimään peliä usealta eri kantilta.
+
+
+- **Utility** tarkoittaa erilasia kranaatteja joita pelissä on. Näitä on räjähdekranaatti (HE-grenade), valokranaatti(Flashbang), savukranaatti(Smoke), liekkikranaatti () ja harhautuskranaatti (Decoy).
 
 
 
@@ -291,9 +303,7 @@ Nykyään on ainakin kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi
 2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukkueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit.
 3. Striimaaminen. Voit myös pelata ammatiksesi olematta varsinaisesti osana kilpailullista joukkuetta striimauksen kautta. Usein pelaajilla on erilaisia taitoja (hyvä pelissä, karismaattinen, hauska tai hyvä opettaja), jonka avulla hän kerää itselleen katsojia ja pystyy tuomaan organisaatioille arvoa tätä kautta. Striimin kautta sinut voidaan myös bongata osaksi e-urheilujoukkuetta.
 
-Tästä päästäänkin strategioihin ja taktiikoihin, joita yksilötasolla on vaikeampi suunnitella ja toteuttaa. Yksilönä voit joutua peleissä tekemään ns. omia pelejä, koska joukkuekaverit eivät ole kiinnostuneita kommunikoimaan ja pelaamaan joukkueen eteen. Tämä ei välttämättä ole huono asia, mutta pelaajille, jotka haaveilevat ammattilaisuudesta tämä tuottaa varmasti haasteita ja vaatii myöhemmin paljon oppimista.
 
-Nopea tilanteiden hahmottaminen on elintärkeä osa e-urheilussa menestymiselle, ja varsinkin pelien huiput erottuvat nimenomaan tässä taidossa. Usein harrastajalle voikin näyttää, että huippupelaajat tietävät tarkalleen, missä viholliset ovat ja täysi noviisi voisi kuvitella, että pelaajat näkevät seinien läpi, mutta todellisuudessa tuhansien tuntien ja tarkan pelisuunnitelman takia huiput osaavat ennakoida suurella todennäköisyydellä vastustajan sijainnin tai vastustajan joukkueen ryhmittymän. Tässä palataan myös joukkuepelaamiseen ja tiedon jakamiseen pelaajien kesken. Usein nopeissa pelitilanteissa voikin olla hyödyllistä sanoa, että "pelaaja x on yleensä pelannut eri paikassa, joten varo yllättäviä tilanteita" tai "sinulla on enää 5 ammusta jäljellä", koska usein pelin tiimellyksessä nämä asiat saattavat unohtua. Tälle kurssille onkin valikoitunut paljon materiaalia Stykolta, joka ei ole se tyypillisin huippupelaaja ja hän onkin joutunut vaihtamaan joukkuetta usein ja myös kokenut urallaan paljon kritiikkiä ja tästä syystä joutunut miettimään peliä usealta eri kantilta.
 
 
 
