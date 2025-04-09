@@ -22,16 +22,13 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Äänet muiden pelien kontekstissa](#äänet-muiden-pelien-kontekstissa)
       - [Visuaaliset efektit](#visuaaliset-efektit)
   - [Pelin erikoisuudet](#pelin-erikoisuudet)
-    - [Dynaaminen ympäristö](#dynaaminen-ympäristö)
-    - [Ajanhallinta ja resursseja](#ajanhallinta-ja-resursseja)
-    - [Asymmetrinen pelisuunnittelu](#asymmetrinen-pelisuunnittelu)
   - [Muut taidot ja henkinen kyvykkyys](#muut-taidot-ja-henkinen-kyvykkyys)
     - [Stressinhallinnan keinoja](#stressinhallinnan-keinoja)
     - [Joukkuekommunikaation hienovaraisuudet](#joukkuekommunikaation-hienovaraisuudet)
   - [Tiimidynamiikka](#tiimidynamiikka)
     - [Pelin aikainen toiminta](#pelin-aikainen-toiminta)
     - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)
-  - [Yhteenveto: Kuinka nousta huipputasolle?](#yhteenveto-kuinka-nousta-huipputasolle)
+    - [Yhteenveto: Kuinka nousta huipputasolle?](#yhteenveto-kuinka-nousta-huipputasolle)
     - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta-1)
   - [Konfliktinratkaisu](#konfliktinratkaisu)
     - [Pelin aikaiset konfliktit](#pelin-aikaiset-konfliktit)
@@ -123,17 +120,19 @@ Liikkuminen on keskeinen taito, joka erottaa huippupelaajat muista pelaajista ja
 
 **Peek tyylit (kurkkaus tyylit vapaasti suomennettuna)**:
 
-- Wide Peek (laajakurkistus) tarkoittaa liikettä, jossa pelaaja pyrkii tulemaan kulman takaa mahdollisimman nopeasti altistaen itsensä usealla eri kulmalle, mutta näin ollen hän pyrkii välttämään vastustajan pelaajan tähtäimen nopeudella ja samalla antaa tilaa takana tuleville pelaajille. Pelaajalla on erilaisia keinoja saada hahmoonsa vauhtia ja tässä tyylissä tieto siitä, että hahmolla kannattaa liikkua ensin toiseen suuntaa lisää hahmon maksiminopeutta hetkellisesti. Tästä on myös käytössä termejä kuten "Ferrari Peek", jossa vastustajan näkökulmasta pelaaja tulee esille Ferrarin nopeudella tehden osumisesta häneen äärimmäisen hankalaa. Kyseisestä liikkeestä käytetään myös termiä "levitä", jolloin liikumalla tehdään tilaa perässä tuleville muille pelaajille, ja tämä taas mahdollistaa ylivoimatilanteiden luomisen tulitaisteluihin.
+- **Wide Peek** (laajakurkistus) tarkoittaa liikettä, jossa pelaaja pyrkii tulemaan kulman takaa mahdollisimman nopeasti altistaen itsensä usealla eri kulmalle, mutta näin ollen hän pyrkii välttämään vastustajan pelaajan tähtäimen nopeudella ja samalla antaa tilaa takana tuleville pelaajille. Pelaajalla on erilaisia keinoja saada hahmoonsa vauhtia ja tässä tyylissä tieto siitä, että hahmolla kannattaa liikkua ensin toiseen suuntaa lisää hahmon maksiminopeutta hetkellisesti. Tästä on myös käytössä termejä kuten "Ferrari Peek", jossa vastustajan näkökulmasta pelaaja tulee esille Ferrarin nopeudella tehden osumisesta häneen äärimmäisen hankalaa. Kyseisestä liikkeestä käytetään myös termiä "levitä", jolloin liikumalla tehdään tilaa perässä tuleville muille pelaajille, ja tämä taas mahdollistaa ylivoimatilanteiden luomisen tulitaisteluihin.
 
-- Shoulder Peek/Jiggle Peek (olkapääkurkistus) tarkoittaa liikettä, jossa pelaaja paljastaa vain pienen osan hahmostaan (olkapään), jolloin tavoitteena on saada vastustajan reagoimaan ja ampumaan. Tämä antaa pelaajalle tietoa vastustajan sijainnista ja mahdollisuuden tehdä esimerkiksi yllä mainittu wide peek pienen liikkeen jälkeen, jolloin vastuastajan tähtäin on toivottavasti väärässä paikassa. Shoulder Peek mahdollistaa tiedon keräämisen ilman, että täysin sitoudutaan taisteluun.
+- **Shoulder Peek/Jiggle Peek** (olkapääkurkistus) tarkoittaa liikettä, jossa pelaaja paljastaa vain pienen osan hahmostaan (olkapään), jolloin tavoitteena on saada vastustajan reagoimaan ja ampumaan. Tämä antaa pelaajalle tietoa vastustajan sijainnista ja mahdollisuuden tehdä esimerkiksi yllä mainittu wide peek pienen liikkeen jälkeen, jolloin vastuastajan tähtäin on toivottavasti väärässä paikassa. Shoulder Peek mahdollistaa tiedon keräämisen ilman, että täysin sitoudutaan taisteluun.
 
-- Crouch Peek (kyykkykurkistus) tarkoittaa liikettä, jossa pelaaja suorittaa nopean kyykistyminen, jolla pelaaja muuttaa oman päänsä sijaintia ja tekee samalla pelihahmosta pienemmän ja vaikeammin osuttavan. Tätä tekniikkaa käytetään usein prefire tekniikan kanssa. Tätä tekniikkaa hieman muuttaen hyödyntävät monet huippupelaajat, niin, että he tulevat välillä esiin suoraan kyykyssä tai pystyssä mennen kyykkyyn kun vihollinen huomataan.
+- **Crouch Peek** (kyykkykurkistus) tarkoittaa liikettä, jossa pelaaja suorittaa nopean kyykistyminen, jolla pelaaja muuttaa oman päänsä sijaintia ja tekee samalla pelihahmosta pienemmän ja vaikeammin osuttavan. Tätä tekniikkaa käytetään usein prefire tekniikan kanssa. Tätä tekniikkaa hieman muuttaen hyödyntävät monet huippupelaajat, niin, että he tulevat välillä esiin suoraan kyykyssä tai pystyssä mennen kyykkyyn kun vihollinen huomataan.
 
-- Dry Peek (yllättävä kurkistus ilman valoa) tarkoitaa tässä yhteydessä liikettä, joka ei varoita itsestään etukäteen. Esimerkiksi ammattitasonpeleissä heitettävä utility voi antaa vastustajalle vihjeitä siitä, mitä tapahtuu ja joskus toimiva taktiikka voikin olla ns. "Dry Peek", jossa ei heitetä esimerkiski valokranaatteja yli, vaan yllätetään vastustaja.
+- **Dry Peek** (yllättävä kurkistus ilman valoa) tarkoitaa tässä yhteydessä liikettä, joka ei varoita itsestään etukäteen ja onkin hieman erilainen yllä oleviin tekniikoihin verrattuna, koska esimerkiksi Wide Peek voi olla samaan aikaan Dry Peek. Esimerkiksi ammattitasonpeleissä heitettävä utility voi antaa vastustajalle vihjeitä siitä, mitä tapahtuu ja joskus toimiva taktiikka voikin olla ns. "Dry Peek", jossa ei heitetä esimerkiski valokranaatteja yli, vaan yllätetään vastustaja.
 
 Liikkumisessa ei ole kyse vain nopeudesta, vaan myös älykkäästä liikkumisesta edun saavuttamiseksi joukkueelle. Tätä kutsutaan usein tilan ottamiseksi, jolloin yhden tai useamman pelajaan liikkuminen strategisesti tärkeisiin paikkoihin voi parhaassa tapauksessa muuttaa koko erän kulun tai ainakin herättää kysymyksiä ja epävaramuutta vastustajan joukkueessa. Counter-Strikessa on kahdenlaista liikkumista: liikettä, joka päästää ääntä ja liikettä, joka on hiljaista. Juostessa toiset pelaajat kuulevat sinut, kun taas kävellessä tai kyykyssä edetessä ääntä ei kuulu. Äänet ovat tärkeä osa peliä ja liikkumisen tuottama ääni on yksi tärkeimmistä tavoista saada tietoa pelin aikana. Aihe on sinällään monimutkainen, koska ammattilaispeleissä myös äänien kuulumattomuus voi paljastaa vastustajalle mitä todennäköisesti tapahtuu seuraavaksi. Ei organisoiduissa peleissä tilanne on hieman toisenlainen, koska joukkeilla ei ole selkeitä suunnitelmai. Esimerkkinä, jos puolustava pelaaja kuulee useammat askeleet, saattaa hän olettaa, että hyökkäys tapahtuu pian hänen alueellaan ja näin ollen kommunikoi siit muille, joka voi johtaa ryhmittymisen muuttumiseen ja aukaista tiloja muualla. Tämä esimerkki koskee tilanteita ennen varsinaista hyökkäystä, jossa tilan ottaminen liikkeen avulla korostuu kyvyllä liikkua tehokkaasti pommialueen läpi paikkoihin, joista puolustajien tie saadaan katkaistua samalla tarkistaen paikat, jossa vihollinen voi olla. Tämä ei myöskään aina tarkoita täysillä etenemistä vaan liikkuminen voi olla hiljaista tarkasti suunniteltua etenemistä, jossa eri pelaajat ns. "clearaavat" eri alueita kartalla. Pelaajat ja joukkueet joutuvat miettimään, mikä on optimaalisin reitti, jossa et paljasta itseäsi liian usealle eri kulmalle, jos sinut voidaan kukistaa.
 
 Liikkumiseen liittyy hyvin vahvasti karttatuntemus, koska optimaalisen reitin löytäminen vaatii selkeän kuvan siitä minne olet menossa. Vaikeutuksen tässä pelissä liikkumiseen tuovat muut pelaajat (omat sekä vastustajat), valokranaatit (näet valkoista) ja savut (näet harmaata). Tällöin liikkuminen perustuu omaan visuaaliseen hahmottamiseen sekä karttaan, josta pystyt jollain tasolla katsomaan, missä olet. Voit katsoa linkistä [tarkempia tietoa kartasta ja sen muuttamisesta](https://cslabez.com/best-cs2-radar-settings-guide/). Lisää karttatuntemuksesta ja kranaateista pääset lukemaan seuraavassa osiossa.
+
+---
 
 #### Pelitietämys
 
@@ -189,6 +188,8 @@ Utility ei ole ilmiönä rajoittunut vain Counter-Striken kaltaisiin peleihin, v
 
 Utilityn merkitys kasvaa sitä mukaa kun pelaajien ymmärrys pelin strategisista ulottuvuuksista syvenee. Olipa kyseessä CS2, Valorant tai mikä tahansa muu taktinen peli, kyse ei ole vain "kranaattien heittämisestä", vaan kokonaisvaltaisesta kyvystä vaikuttaa pelikenttään ja pakottaa viholliset reagoimaan.
 
+---
+
 #### Äänet
 
 **Äänet** ovat äärimmäisen tärkeä osa pelejä ja yhtäkkiä aihe voi kuulostaa yksinkertaiselta, mutta alla esimerkkejä äänistä ja mitä niistä voidaan päätellä CS2:ssa:
@@ -219,45 +220,21 @@ Kuten Dota 2:ssa, myös League of Legendsissä äänipalaute toimii strategisena
 
 Kuten Dota 2:ssa, myös League of Legendsissä pelaajat voivat säätää ääniasetuksiaan. Äänitehosteiden voimakkuutta voi säätää erikseen, ja jotkut pelaajat saattavat haluta hiljentää tietyt äänet keskittymisen parantamiseksi. Oletuksena äänet ovat kuitenkin käytössä.
 
+---
+
 #### Visuaaliset efektit
 
 Counter-Strikessa ei ole niin paljoa visuaalisia efektejä kuin esimerkiksi moba-peleissä, jossa erilaiset taiat näkyvät, mutta pelaajan tulee silti tuntea mekaniikat, kuten valaistus ja sen vaikutus varjoihin, joita pelaajista tulee. Pelissä on paikkoja, joissa toinen pelaaja voi nähdä toisen pelaajan varjon enne kuin hän tulee näkyviin.
 
 Pelihahmon ja aseiden ulottuvuukisen tunteminen on tärkeää, koska nämä asiat voivat paljastaa sijainnin tahattomasti. Esimerkiksi pitkäpiippuiset aseet saattavat näkyä seinien takaa tavalla, jota aloitteleva pelaaja ei osaa arvata. Tämä vaikuttaa siihen, missä asennossa hahmoa kannattaa pitää tai toisinsanoen mihin pelihahmolla kannattaa tietyissä tilanteissa katsoa. Esimerkiksi pelaajan katsoessa alas päin, laskee tämän pää tasolle, jolloin tietyistä kohdista kartoissa voi päästä liikkumaan huomaamatta. Esimerkiski Dust2-kartassa A:n päälle voi päästä mutkasta katsomalla alas päin ja liikkumalla eteen päin, jolloin suoralla oleva pelaaja ei näy vihollisen päälakea.
 
-Visuaalisten efektien säätä onkin tärkeä osa Counter-Strikea ja pelin alusta saakka huippupelaajat ovat etsineet asetuksia, joilla pelin pelaaminen on mahdollisimman sujuvaa ilman, että visuaalisten vihjeiden käyttö heikkenee. Tästä esimerkkinä on varjojen hyödyntäminen, joka matalimmilla asetuksilla parantaa suorituskykyä, mutta varjot eivät tällöin näy niin pitkälle, joka taas on kilpailuedun menetys.
-
-[![CS2 Sound Guide by voo CSGO](https://img.youtube.com/vi/4WX5uwsfY3A/0.jpg)](https://www.youtube.com/watch?v=4WX5uwsfY3A)  
-*Äänen paikallistamisen syventäminen CS2:ssa.*
+Visuaalisten efektien säätö onkin tärkeä osa Counter-Strikea, ja pelin alusta saakka huippupelaajat ovat etsineet asetuksia, joilla pelin pelaaminen on mahdollisimman sujuvaa ilman, että visuaalisten vihjeiden käyttö heikkenee. Tästä esimerkkinä on varjojen hyödyntäminen, joka matalimmilla asetuksilla parantaa suorituskykyä, mutta varjot eivät tällöin näy niin pitkälle, joka taas on kilpailuedun menetys.
 
 ---
 
 ## Pelin erikoisuudet
 
 **Jokaisen pelin ainutlaatuiset mekaniikat vaativat erityistä suunnittelua ja soveltuvuutta.**  
-
-### Dynaaminen ympäristö
-
-- **Rainbow Six Siege:**  
-  - Seinien rikkominen luo uusia näkökulmia, mutta myös altistaa puolustajat. Huippujoukkueet kuten G2 hyödyntävät tätä aggressiivisesti "vertical play"-strategioissa.  
-- **Fortnite:**  
-  - Rakentamisen nopeus määrittää taistelujen dynamiikan. Pro-pelaajat kuten Bugha hallitsevat "90s"-rakennusspammin 0,5 sekunnin reaktiolla.  
-
-### Ajanhallinta ja resursseja
-
-- **Dota 2:**  
-  - "Power Spike" -konsepti (esim. Anti-Magen 20-minuuttinen Battle Fury) määrää joukkueen aggressiivisuuden.  
-- **League of Legends:**  
-  - Junglaajan "camp reset"-ajoitukset vaikuttavat koko kartan paineeseen.  
-
-### Asymmetrinen pelisuunnittelu
-
-- **Dead by Daylight:**  
-  - 4v1-mallissa selviytyjien ja murhaajan kyvyt ovat täysin erilaiset, mikä edellyttää jatkuvaa roolien uudelleensovittamista.  
-- **StarCraft II:**  
-  - Rotakohtaiset rakennepuut (esim. Zergin "Creep Spread") muuttavat perustaktiikoita radikaalisti.  
-
----
 
 ## Muut taidot ja henkinen kyvykkyys
 
@@ -289,14 +266,14 @@ Visuaalisten efektien säätä onkin tärkeä osa Counter-Strikea ja pelin alust
 
 ### Pelin ulkopuolinen toiminta
 
-- **Tietotekninen analyysi:**  
+- **Tietotekninen analyysi osaksi pelaajana kehittymistä:**  
   - Käyttöön työkaluja kuten [Leetify](https://leetify.com/) (CS2) tai [Mobalytics](https://mobalytics.gg/) (LoL) tunnistamaan heikkoudet.  
 - **Psykologinen tuki:**  
   - Joukkueet kuten Fnatic käyttävät urheilupsykologeja käsittelemään kilpailupaineita.  
 
 ---
 
-## Yhteenveto: Kuinka nousta huipputasolle?
+### Yhteenveto: Kuinka nousta huipputasolle?
 
 1. **Perusmekaniikat hallittuksi:**  
    - Käytä 30% harjoitusajasta aim-trainereihin (Kovaak's FPS Aim Trainer) ja liikkeiden hiomiseen.  
