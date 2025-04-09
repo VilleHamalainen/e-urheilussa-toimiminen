@@ -18,14 +18,20 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Liikkuminen](#liikkuminen)
       - [Pelitietämys](#pelitietämys)
       - [Utility muiden pelien kontekstissa](#utility-muiden-pelien-kontekstissa)
-      - [Äänet ja kuva](#äänet-ja-kuva)
-      - [Pelin erikoisuudet](#pelin-erikoisuudet)
-    - [Muut taidot](#muut-taidot)
-    - [Henkinen kyvykkyys](#henkinen-kyvykkyys)
-      - [Kommunikaatio ja tiimityöskentely](#kommunikaatio-ja-tiimityöskentely)
+      - [Äänet ja visuaaliset efektit](#äänet-ja-visuaaliset-efektit)
+      - [Äänet muiden pelien kontekstissa](#äänet-muiden-pelien-kontekstissa)
+  - [Pelin erikoisuudet](#pelin-erikoisuudet)
+    - [Dynaaminen ympäristö](#dynaaminen-ympäristö)
+    - [Ajanhallinta ja resursseja](#ajanhallinta-ja-resursseja)
+    - [Asymmetrinen pelisuunnittelu](#asymmetrinen-pelisuunnittelu)
+  - [Muut taidot ja henkinen kyvykkyys](#muut-taidot-ja-henkinen-kyvykkyys)
+    - [Stressinhallinnan keinoja](#stressinhallinnan-keinoja)
+    - [Joukkuekommunikaation hienovaraisuudet](#joukkuekommunikaation-hienovaraisuudet)
   - [Tiimidynamiikka](#tiimidynamiikka)
     - [Pelin aikainen toiminta](#pelin-aikainen-toiminta)
     - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)
+  - [Yhteenveto: Kuinka nousta huipputasolle?](#yhteenveto-kuinka-nousta-huipputasolle)
+    - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta-1)
   - [Konfliktinratkaisu](#konfliktinratkaisu)
     - [Pelin aikaiset konfliktit](#pelin-aikaiset-konfliktit)
     - [Pelin ulkopuoliset konfliktit](#pelin-ulkopuoliset-konfliktit)
@@ -62,23 +68,29 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
 
 ## Pelillinen kehittyminen
 
-E-urheilulla ja perinteisellä urheilulla on hyvin paljon yhtäläisyyksiä, vaikka pelaamiseen onkin pitkään liitetty stereotypioita epäterveellisesistä elämäntavoista. Ja onkin totta, että lajissaan maailman paras e-urheilija ei näytä fyysisesti samalta kuin useiden eri lajien huippu-urheilijat, eikä näin kuulukkaan olla. Pelien pelaaminen ja niissä kilpaileminen vaatii useita erilaisia taitoja, ymmärryksen pelin isosta kuvasta eli strategian ja taktiikan, kykyä äärimmäisen nopeisiin päätöksiin, henkistä kanttia ja kestävyyttä sekä kykyä keskittyä pitkiä ajanjaksoja useiden tuntien ajan ja vaikka mitä muuta! Tässä tutkinnon osassa keskustelemme asioista usein Counter Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tietenkin pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa [HearthStonea](https://hearthstone.blizzard.com/en-us) ja [Counterstrikea](https://www.counter-strike.net/) suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
+E-urheilulla ja perinteisellä urheilulla on hyvin paljon yhtäläisyyksiä, vaikka pelaamiseen onkin pitkään liitetty stereotypioita epäterveellisesistä elämäntavoista. Ja onkin totta, että lajissaan maailman paras e-urheilija ei näytä fyysisesti samalta kuin useiden eri lajien huippu-urheilijat, eikä näin kuulukkaan olla. Pelien pelaaminen ja niissä kilpaileminen vaatii useita erilaisia taitoja, ymmärryksen pelin isosta kuvasta eli strategian ja taktiikan, kykyä äärimmäisen nopeisiin päätöksiin, henkistä kanttia ja kestävyyttä sekä kykyä keskittyä pitkiä ajanjaksoja useiden tuntien ajan ja vaikka mitä muuta! Tässä tutkinnon osassa keskustelemme asioista usein Counter-Striken näkökulmasta, mutta samat lainalaisuudet pätevät myös muihin pelityyppeihin. Tietenkin pelillisiä eroja on ja olisikin hölmöä verrata vaikkapa [HearthStonea](https://hearthstone.blizzard.com/en-us) ja [Counterstrikea](https://www.counter-strike.net/) suoraan toisiinsa, koska pelityypit ovat täysin erilaisia.
 
 ### Pelimekaniikat
 
-Tässä osiossa käydään läpi pelimekaniikkoja Counter Striken näkökulmasta. Erilaisia mekaniikkoja, jotka pelaajan täytyy hallita ovat seuraavat pelimekaniikat: ampuminen, liikkuminen, erilaisten peliobjektien kuten granaattien tuntemus, taktiikka ja ns. metagame, pelin ekonomia, visuaaliset elementit kuten ääni ja kuva(pelaajien äänet, varjot) ja pelin tavoitteet kuten pommin toiminta.
+Tässä osiossa käydään läpi pelimekaniikkoja Counter-Striken näkökulmasta. Erilaisia mekaniikkoja, jotka pelaajan täytyy hallita ovat seuraavat pelimekaniikat: ampuminen, liikkuminen, erilaisten peliobjektien kuten granaattien tuntemus, taktiikka ja ns. metagame, pelin ekonomia, visuaaliset elementit kuten ääni ja kuva (pelaajien äänet, varjot) ja pelin tavoitteet kuten pommin toiminta.
 
 #### Ampuminen
 
-Ampumapeleissä luonnollisesti ensimmäinen asia on tähtääminen mahdollisimman nopeasti ja tarkasti vastustajaan. Tähän on kehitetty omia uusia työkaluja, joiden avulla ns. "1st bullet accuracya" voidaan kehittää. Esimerkkeinä mainittakoot Steamista löytyvä ilmainen [Aimlabs](https://store.steampowered.com/app/714010/Aimlabs/) tai selaimessa toimiva [Mouseaccuracy](https://mouseaccuracy.com/game). Nopea ja tarkka ampuminen on kuitenkin vain yksi osa kilpapelaamista ja esimerkiksi Counter Strikessa erilaisia ampumistyylejä on useita erilaisia. Parhaat pelaajat hyödyntävät erilaisia tyylejä tilanteen mukaan. Esimerkiksi, jos joukkue tietää, että vastustaja säästää ja heillä ei ole suojia, on tietyissä tilanteissa järkevää tähdätä vartaloon, jolloin ilman suojaa olevat pelaajat hidastuvat ja heidän tähtäämisensä muuttuu mahdottomaksi ns. "aim punchin" takia, jolloin tähtäin hyppii mihin sattuu. Esimerkiksi huippujoukkue Astraliksen pelaajat saattoivat muuttaa tähätäimensä sijaintia ekonomian perusteella.
+Ampumapeleissä luonnollisesti ensimmäinen asia on tähtääminen mahdollisimman nopeasti ja tarkasti vastustajaan. Tähän on kehitetty omia uusia työkaluja, joiden avulla ns. "1st bullet accuracya" voidaan kehittää. Esimerkkeinä mainittakoot Steamista löytyvä ilmainen [Aimlabs](https://store.steampowered.com/app/714010/Aimlabs/) tai selaimessa toimiva [Mouseaccuracy](https://mouseaccuracy.com/game). Nopea ja tarkka ampuminen on kuitenkin vain yksi osa kilpapelaamista ja esimerkiksi Counter-Strikessa erilaisia ampumistyylejä on useita erilaisia. Parhaat pelaajat hyödyntävät erilaisia tyylejä tilanteen mukaan. Esimerkiksi, jos joukkue tietää, että vastustaja säästää ja heillä ei ole suojia, on tietyissä tilanteissa järkevää tähdätä vartaloon, jolloin ilman suojaa olevat pelaajat hidastuvat ja heidän tähtäämisensä muuttuu mahdottomaksi ns. "aim punchin" takia, jolloin tähtäin hyppii mihin sattuu. Esimerkiksi huippujoukkue Astraliksen pelaajat saattoivat muuttaa tähätäimensä sijaintia ekonomian perusteella.
 
 [![How to use modern tools to develop aim by Styko](https://img.youtube.com/vi/1vN2H0rzd5U/0.jpg)](https://www.youtube.com/watch?v=1vN2H0rzd5U)
 
 *Ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Yksilön mekaaninen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.*
 
-Counter Strikessa puhutaan ainakin kolmesta eri ampumatyylistä: Tapping, Bursting ja Spraying, jotka vapaasti suomennettuina tarkoittavat yhtä laukausta, alle kymmentä laukausta ja lippaallista ammuksia, joiden ohjaaminen onkin oma taitonsa, koska kaikilla aseilla luodit lentävät hieman eri tavalla. Eri pelaajilla on erilaisia tyylejä käyttää aseita, mutta usein aivan huippupelaajat tunnetaan poikkeuksellisen nopeasta ja tarkasta ensimmäisestä ammuksesta, jolla vihollinen usein voitetaan kerralla verrattuna useamman ammuksen ampumiseen, joka vie aikaa ja antaa muulle vastustajan joukkueelle aikaa reagointiin. Ampumisessa voidaan puhua lisäksi liikkuvan kohteen seuraamisesta varsinkin burst tai spray ampumatyyleissä ja nopeista reaktiotilanteista, joissa pelaaja heilauttaa tähtäimen millisekunneissa eri kohtaan kuin missä se alunperin oli. Ampuminen on pelien fundamentaalinen mekaniikka, joka voi tietämättömälle vaikuttaa varsin suoraviivaiselta, mutta esimerkiski puolustavan ja hyökkääjän tulee miettiä eri tilanteissa hieman eri asioita ampumisen suhteen. Otetaan esimerkki puolustavan joukkueen pelaajasta, joka odottaa, että vastustaja tulee nurkan takaa. Hän siis laittaa tähtäimensä kohtaan, johon vastustajan pää ilmestyy isoimmalla todennäköisyydellä ja niin, että pelaaja kerkeää tähän reagoida. Tässä tilanteessa puhutaan ennakoivasta ampumisesta tai tutummin "pre aiming", joka onnistuessaan tuottaa useita frageja, mutta mitä tapahtuu, jos ensimmäiset ammukset menevät ohi? Tällöin pelaaja joutuu muuttamaan ampumistekniikkaansa seuraavaksi tekniikaksi, koska usein vastustajat liikkuvat arvaamattomasti ja usein alemman tason pelaajat eivät ole kovin hyviä seuraamaan liikkuvia kohteita, mikä sinänsä onkin hyvin luonnollista. Palaamme aiheeseen tarkemmin liikkumisosiossa.
+Counter-Strikessa on useita eri tyylejä, joita ovat:
 
-Pre aiming tarkoittaa siis kykyä visualioida sitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Jotta tiedämme mihin tähdätä ja milloin meidän tulee tuntea kaikki kartat ja tuntea niiden ajoitukset. Palaamme tähän aiheeseen tarkemmin myöhemmin. Puhuimme äsken puolustavan joukkueen ampumisesta, mutta mikä on tilanne hyökkääjän suhteen? Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori ja internetviive antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Kuitenkin isoimman edun hyökkääjälle (huom. tämä voi ola kumpi tahansa puoli riippuen tilanteesta ja pelaajasta) hyvin toteutettuna tuo tieto siitä, mitä seuraavaksi tapahtuu, joka helpottaa omaa valmistautumista ja reagointia tilanteisiin. Hyökkäävä pelaaja pyrkiii visualisoimaan ja asettamaan tähtäimen sinne missä puolustava pelaaja on ja ampuu tyypilliiin kohtiin varuilta. Tätä kutsutaan ns. "pre-fireksi" eli ennakkoon apumiseksi kohtiin, joissa pelaajat tyypillisesti ovat.
+- **Tapping** (yksi tarkka laukaus)
+- **Bursting** (nopea sarja, alle 10 laukausta)
+- **Spraying** (täysi lipas hallitulla sarjalla)
+  
+Eri pelaajilla on erilaisia tyylejä käyttää aseita, mutta usein aivan huippupelaajat tunnetaan poikkeuksellisen nopeasta ja tarkasta ensimmäisestä ammuksesta, jolla vihollinen usein voitetaan kerralla verrattuna useamman ammuksen ampumiseen, joka vie aikaa ja antaa muulle vastustajan joukkueelle aikaa reagointiin. Ampumisessa voidaan puhua lisäksi liikkuvan kohteen seuraamisesta varsinkin burst tai spray ampumatyyleissä ja nopeista reaktiotilanteista, joissa pelaaja heilauttaa tähtäimen millisekunneissa eri kohtaan kuin missä se alunperin oli. Ampuminen on pelien fundamentaalinen mekaniikka, joka voi tietämättömälle vaikuttaa varsin suoraviivaiselta, mutta esimerkiski puolustavan ja hyökkääjän tulee miettiä eri tilanteissa hieman eri asioita ampumisen suhteen. Otetaan esimerkki puolustavan joukkueen pelaajasta, joka odottaa, että vastustaja tulee nurkan takaa. Hän siis laittaa tähtäimensä kohtaan, johon vastustajan pää ilmestyy isoimmalla todennäköisyydellä ja niin, että pelaaja kerkeää tähän reagoida. Tässä tilanteessa puhutaan ennakoivasta ampumisesta tai tutummin "pre aiming", joka onnistuessaan tuottaa useita frageja, mutta mitä tapahtuu, jos ensimmäiset ammukset menevät ohi? Tällöin pelaaja joutuu muuttamaan ampumistekniikkaansa seuraavaksi tekniikaksi, koska usein vastustajat liikkuvat arvaamattomasti ja usein alemman tason pelaajat eivät ole kovin hyviä seuraamaan liikkuvia kohteita, mikä sinänsä onkin hyvin luonnollista. Palaamme aiheeseen tarkemmin liikkumisosiossa.
+
+Pre aiming tarkoittaa siis kykyä visualioida sitä, mitä hetken päästä tapahtuu ja mihin yritetään tähdätä. Jotta tiedämme mihin tähdätä ja milloin meidän tulee tuntea kaikki kartat ja tuntea niiden ajoitukset. Palaamme tähän aiheeseen tarkemmin myöhemmin. Puhuimme äsken puolustavan joukkueen ampumisesta, mutta mikä on tilanne hyökkääjän suhteen? Tässä vaiheessa peliin astuu myös mukaan pelimekaniikka, jota kutsutaan ns. "peaker's advantageksi", jossa pelimoottori ja internetviive antaa tiettyjä etuja pelaajalle, joka tekee aloitteen. Kuitenkin isoimman edun hyökkääjälle (huom. tämä voi olla kumpi tahansa puoli riippuen tilanteesta ja pelaajasta) hyvin toteutettuna tuo tieto siitä, mitä seuraavaksi tapahtuu, joka helpottaa omaa valmistautumista ja reagointia tilanteisiin. Hyökkäävä pelaaja pyrkiii visualisoimaan ja asettamaan tähtäimen sinne missä puolustava pelaaja on ja ampuu tyypillisiin kohtiin varuilta. Tätä kutsutaan ns. "pre-fireksi" eli ennakkoon apumiseksi kohtiin, joissa pelaajat tyypillisesti ovat.
 
 Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
 
@@ -106,17 +118,19 @@ Liikkuminen on keskeinen taito, joka erottaa huippupelaajat muista pelaajista ja
 
 [![How To Do Every Skill Jump in CS2](https://img.youtube.com/vi/goFpDwLvFqs/0.jpg)](https://www.youtube.com/watch?v=goFpDwLvFqs&ab_channel=dabewie)
 
-*Counter Strike on täynnä erilaisia vaikeita hyppyjä, joilla voi saavuttaa etuja.*
+*Counter-Strike on täynnä erilaisia vaikeita hyppyjä, joilla voi saavuttaa etuja.*
 
 **Peek tyylit (kurkkaus tyylit vapaasti suomennettuna)**:
 
 - Wide Peek (laajakurkistus) tarkoittaa liikettä, jossa pelaaja pyrkii tulemaan kulman takaa mahdollisimman nopeasti altistaen itsensä usealla eri kulmalle, mutta näin ollen hän pyrkii välttämään vastustajan pelaajan tähtäimen nopeudella ja samalla antaa tilaa takana tuleville pelaajille. Pelaajalla on erilaisia keinoja saada hahmoonsa vauhtia ja tässä tyylissä tieto siitä, että hahmolla kannattaa liikkua ensin toiseen suuntaa lisää hahmon maksiminopeutta hetkellisesti. Tästä on myös käytössä termejä kuten "Ferrari Peek", jossa vastustajan näkökulmasta pelaaja tulee esille Ferrarin nopeudella tehden osumisesta häneen äärimmäisen hankalaa. Kyseisestä liikkeestä käytetään myös termiä "levitä", jolloin liikumalla tehdään tilaa perässä tuleville muille pelaajille, ja tämä taas mahdollistaa ylivoimatilanteiden luomisen tulitaisteluihin.
 
-- Shoulder Peek (olkapääkurkistus) tarkoittaa liikettä, jossa pelaaja paljastaa vain pienen osan hahmostaan (olkapään), jolloin tavoitteena on saada vastustajan reagoimaan ja ampumaan. Tämä antaa pelaajalle tietoa vastustajan sijainnista ja mahdollisuuden tehdä esimerkiksi yllä mainittu wide peek pienen liikkeen jälkeen, jolloin vastuastajan tähtäin on toivottavasti väärässä paikassa. Shoulder Peek mahdollistaa tiedon keräämisen ilman, että täysin sitoudutaan taisteluun.
+- Shoulder Peek/Jiggle Peek (olkapääkurkistus) tarkoittaa liikettä, jossa pelaaja paljastaa vain pienen osan hahmostaan (olkapään), jolloin tavoitteena on saada vastustajan reagoimaan ja ampumaan. Tämä antaa pelaajalle tietoa vastustajan sijainnista ja mahdollisuuden tehdä esimerkiksi yllä mainittu wide peek pienen liikkeen jälkeen, jolloin vastuastajan tähtäin on toivottavasti väärässä paikassa. Shoulder Peek mahdollistaa tiedon keräämisen ilman, että täysin sitoudutaan taisteluun.
 
 - Crouch Peek (kyykkykurkistus) tarkoittaa liikettä, jossa pelaaja suorittaa nopean kyykistyminen, jolla pelaaja muuttaa oman päänsä sijaintia ja tekee samalla pelihahmosta pienemmän ja vaikeammin osuttavan. Tätä tekniikkaa käytetään usein prefire tekniikan kanssa. Tätä tekniikkaa hieman muuttaen hyödyntävät monet huippupelaajat, niin, että he tulevat välillä esiin suoraan kyykyssä tai pystyssä mennen kyykkyyn kun vihollinen huomataan.
 
-Liikkumisessa ei ole kyse vain nopeudesta, vaan myös älykkäästä liikkumisesta edun saavuttamiseksi joukkueelle. Tätä kutsutaan usein tilan ottamiseksi, jolloin yhden tai useamman pelajaan liikkuminen strategisesti tärkeisiin paikkoihin voi parhaassa tapauksessa muuttaa koko erän kulun tai ainakin herättää kysymyksiä ja epävaramuutta vastustajan joukkueessa. Counter Strikessa on kahdenlaista liikkumista: liikettä, joka päästää ääntä ja liikettä, joka on hiljaista. Juostessa toiset pelaajat kuulevat sinut, kun taas kävellessä tai kyykyssä edetessä ääntä ei kuulu. Äänet ovat tärkeä osa peliä ja liikkumisen tuottama ääni on yksi tärkeimmistä tavoista saada tietoa pelin aikana. Aihe on sinällään monimutkainen, koska ammattilaispeleissä myös äänien kuulumattomuus voi paljastaa vastustajalle mitä todennäköisesti tapahtuu seuraavaksi. Ei organisoiduissa peleissä tilanne on hieman toisenlainen, koska joukkeilla ei ole selkeitä suunnitelmai. Esimerkkinä, jos puolustava pelaaja kuulee useammat askeleet, saattaa hän olettaa, että hyökkäys tapahtuu pian hänen alueellaan ja näin ollen kommunikoi siit muille, joka voi johtaa ryhmittymisen muuttumiseen ja aukaista tiloja muualla. Tämä esimerkki koskee tilanteita ennen varsinaista hyökkäystä, jossa tilan ottaminen liikkeen avulla korostuu kyvyllä liikkua tehokkaasti pommialueen läpi paikkoihin, joista puolustajien tie saadaan katkaistua samalla tarkistaen paikat, jossa vihollinen voi olla. Tämä ei myöskään aina tarkoita täysillä etenemistä vaan liikkuminen voi olla hiljaista tarkasti suunniteltua etenemistä, jossa eri pelaajat ns. "clearaavat" eri alueita kartalla. Pelaajat ja joukkueet joutuvat miettimään, mikä on optimaalisin reitti, jossa et paljasta itseäsi liian usealle eri kulmalle, jos sinut voidaan kukistaa.
+- Dry Peek (yllättävä kurkistus ilman valoa) tarkoitaa tässä yhteydessä liikettä, joka ei varoita itsestään etukäteen. Esimerkiksi ammattitasonpeleissä heitettävä utility voi antaa vastustajalle vihjeitä siitä, mitä tapahtuu ja joskus toimiva taktiikka voikin olla ns. "Dry Peek", jossa ei heitetä esimerkiski valokranaatteja yli, vaan yllätetään vastustaja.
+
+Liikkumisessa ei ole kyse vain nopeudesta, vaan myös älykkäästä liikkumisesta edun saavuttamiseksi joukkueelle. Tätä kutsutaan usein tilan ottamiseksi, jolloin yhden tai useamman pelajaan liikkuminen strategisesti tärkeisiin paikkoihin voi parhaassa tapauksessa muuttaa koko erän kulun tai ainakin herättää kysymyksiä ja epävaramuutta vastustajan joukkueessa. Counter-Strikessa on kahdenlaista liikkumista: liikettä, joka päästää ääntä ja liikettä, joka on hiljaista. Juostessa toiset pelaajat kuulevat sinut, kun taas kävellessä tai kyykyssä edetessä ääntä ei kuulu. Äänet ovat tärkeä osa peliä ja liikkumisen tuottama ääni on yksi tärkeimmistä tavoista saada tietoa pelin aikana. Aihe on sinällään monimutkainen, koska ammattilaispeleissä myös äänien kuulumattomuus voi paljastaa vastustajalle mitä todennäköisesti tapahtuu seuraavaksi. Ei organisoiduissa peleissä tilanne on hieman toisenlainen, koska joukkeilla ei ole selkeitä suunnitelmai. Esimerkkinä, jos puolustava pelaaja kuulee useammat askeleet, saattaa hän olettaa, että hyökkäys tapahtuu pian hänen alueellaan ja näin ollen kommunikoi siit muille, joka voi johtaa ryhmittymisen muuttumiseen ja aukaista tiloja muualla. Tämä esimerkki koskee tilanteita ennen varsinaista hyökkäystä, jossa tilan ottaminen liikkeen avulla korostuu kyvyllä liikkua tehokkaasti pommialueen läpi paikkoihin, joista puolustajien tie saadaan katkaistua samalla tarkistaen paikat, jossa vihollinen voi olla. Tämä ei myöskään aina tarkoita täysillä etenemistä vaan liikkuminen voi olla hiljaista tarkasti suunniteltua etenemistä, jossa eri pelaajat ns. "clearaavat" eri alueita kartalla. Pelaajat ja joukkueet joutuvat miettimään, mikä on optimaalisin reitti, jossa et paljasta itseäsi liian usealle eri kulmalle, jos sinut voidaan kukistaa.
 
 Liikkumiseen liittyy hyvin vahvasti karttatuntemus, koska optimaalisen reitin löytäminen vaatii selkeän kuvan siitä minne olet menossa. Vaikeutuksen tässä pelissä liikkumiseen tuovat muut pelaajat (omat sekä vastustajat), valokranaatit (näet valkoista) ja savut (näet harmaata). Tällöin liikkuminen perustuu omaan visuaaliseen hahmottamiseen sekä karttaan, josta pystyt jollain tasolla katsomaan, missä olet. Voit katsoa linkistä [tarkempia tietoa kartasta ja sen muuttamisesta](https://cslabez.com/best-cs2-radar-settings-guide/). Lisää karttatuntemuksesta ja kranaateista pääset lukemaan seuraavassa osiossa.
 
@@ -124,7 +138,7 @@ Liikkumiseen liittyy hyvin vahvasti karttatuntemus, koska optimaalisen reitin l�
 
 Useissa peleissä on peruselementtien, kuten tässä tapauksessa liikkuminen ja ampuminen, erilaisia elementtejä, joiden hyödyntäminen erottaa parhaat pelaajat ja varsinkin joukkueet toisistaan. Counterstrikesta löytyy ainakin seuraavat konseptit, jotka kilpailullisesti pelaavan pelaajan tulee hallita:
 
-- **Ekonomia** eli pelin sisäisen rahasysteemin tunteminen. Kilpailullisessa pelissä jokaisella pelaajalla on aluksi 800 $ rahaa, mutta pelin edetessä rahatilanne elää sen mukaan voittaako vai häviääkö joukkue. Eri aseilla voitetuista taisteluista saa erimäärän rahaa, joukkueen hävitessä useamman kierroksen putkeen, tasoittaa peli rahatilannetta aluksi antaen 1400 $ ja nousten 500 $ jokaisen tappion jälkeen saavuttaen lopulta 3400 $ maksimin. Kaikilla tasoilla on tärkeää, että joukkue tekee yhdessä ekonomiset päätökset ja ostavat tai säästävät joukkuueena. Pelin voiton kannalta joukkue ei voi ostaa jokaisella kierroksella parhaita aseita, vaan pelissä on ns. säästökierroksia, jossa pelaajat eivät osta juuri mitään tai ns. puoliostoja, jossa joukkue ostaa halvempia aseita ja suojia, jotka antavat paremman mahdollisuuden voitolle, mutta eivät heikennä seuraavan kierroksen ostoa, jos kyseinen kierros hävitään. Tässä tullaan edellä mainittuun ekonomian ja ns. tappiobonuksen ymmärtämiseen. Tarkemmin aiheesta voi lukea [Guide to Understand CS2 Economy](https://cslabez.com/guide-to-cs2-ecomony/) tai katsomalla [Natosaphix CS2 coach explains game economy](https://www.youtube.com/watch?v=IbTzvqzJBjY&ab_channel=NaToSaphiX2nd). Ekonomia ei ole vain CounterStrikessa, vaan vastaavia päätöksiä joutuu tekemään lähes kaikissa kilpailullisissa peleissä.
+- **Ekonomia eli pelin sisäisen rahasysteemi**. Kilpailullisessa pelissä jokaisella pelaajalla on aluksi 800 $ rahaa, mutta pelin edetessä rahatilanne elää sen mukaan voittaako vai häviääkö joukkue. Eri aseilla voitetuista taisteluista saa erimäärän rahaa, joukkueen hävitessä useamman kierroksen putkeen, tasoittaa peli rahatilannetta aluksi antaen 1400 $ ja nousten 500 $ jokaisen tappion jälkeen saavuttaen lopulta 3400 $ maksimin. Kaikilla tasoilla on tärkeää, että joukkue tekee yhdessä ekonomiset päätökset ja ostavat tai säästävät joukkuueena. Pelin voiton kannalta joukkue ei voi ostaa jokaisella kierroksella parhaita aseita, vaan pelissä on ns. säästökierroksia, jossa pelaajat eivät osta juuri mitään tai ns. puoliostoja, jossa joukkue ostaa halvempia aseita ja suojia, jotka antavat paremman mahdollisuuden voitolle, mutta eivät heikennä seuraavan kierroksen ostoa, jos kyseinen kierros hävitään. Tässä tullaan edellä mainittuun ekonomian ja ns. tappiobonuksen ymmärtämiseen. Tarkemmin aiheesta voi lukea [Guide to Understand CS2 Economy](https://cslabez.com/guide-to-cs2-ecomony/) tai katsomalla [Natosaphix CS2 coach explains game economy](https://www.youtube.com/watch?v=IbTzvqzJBjY&ab_channel=NaToSaphiX2nd). Ekonomia ei ole vain CounterStrikessa, vaan vastaavia päätöksiä joutuu tekemään lähes kaikissa kilpailullisissa peleissä.
 
 Usein ns. pelillinen johtaja pitää huolen siitä, että joukkue ostaa samaan aikaan. Aikaisemmissa pelin versioissa virheostot tulivat kalliiksi, mutta nykyisessä pelin versiossa väärän oston voi peruuttaa, mikä on ehdottoman hyvä ominaisuus. Pelien päivitysten myötä myös ekonomia kokee  muutoksia, ja esimerkiksi CS2 siirtyi MR16-systeemistä MR12-systeemiin, joka onkin taas korostanut ensimmäisten kierrosten rooleja. Samoin eri aseiden muutokset ovat vaikuttaneet paljon ns "metagameen" eli tyyliin, jolla joukkueet ostavat eri kierroksilla.
 
@@ -140,17 +154,15 @@ Pelin historiassa on ollut jaksoja, joissa tietyt aseet ovat olleet niin vahvoja
 
 *Tec9 oli pienen hetken ase, joka teki jokaisesta kierroksesta voitettavan. Olofmaister sai aseen takia lempinimen "Tec9master".*
 
-- **Karttatuntemus**
+- **Karttatuntemus**, josta on puhuttu jo aikaisemmissa osioissa, koska se vaikuttaa suoraan pelissä tapahtuvaan tähtäämiseen ja ampumiseen, liikkumiseen, mutta myös pelillisiin yksilötason ja joukkueen taktiikoihin, kommunikaatioon ja karttakohtaiseen metaan. Tähän liittyy mm. karttakohtaiset ajoitukset, joihin taas liittyy tietämys jokaisen erän alussa olevista "lähdöistä" eli spawneista, jotka määrittelevät kumman joukkueen edustaja ehtii kartan kriittisiin kohtiin ensiksi.
 
-Karttatuntemuksesta on puhuttu jo aikaisemmissa osioissa, koska ne vaikuttavat suoraan pelissä tapahtuvaan tähtäämiseen ja ampumiseen, liikkumiseen, mutta myös pelillisiin yksilötason ja joukkueen taktiikoihin, kommunikaatioon ja karttakohtaiseen metaan. Tähän liittyy mm. karttakohtaiset ajoitukset, joihin taas liittyy tietämys jokaisen erän alussa olevista "lähdöistä" eli spawneista, jotka määrittelevät kumman joukkueen edustaja ehtii kartan kriittisiin kohtiin ensiksi. 
-
-Käydään läpi asioita ensiksi yksilöllisen pelaajan näkökulmasta, joka haluaa kehittää omaa pelillistä osaamistaa ja tavoittelee kilpauraa eurheilijana. Pelaajan on hyvä tietää ja tuntea ajoitukset, joilla pelaajat kerkeävät kartan kriittisiin paikkoihin. Tästä esimerkkinä voisi olla Mirage-kartan terroristien vs puolustavan joukkueen taistelu keskustan hallinnasta. Parhaalla lähdöllä oleva puolustava pelaaja kerkeää ikkunaan, josta keskustaa pääsee nopeiten katsomaan. Toisena Dust2, jossa puolutajapelaajat kerkeävät paremmilla lähdöillä ensiksi suoralle, joka vaikuttaa siihen miten hyvät pelaajat tekevät valintoja erien alussa ja peleissä kuulekin kommentteja, kuten "minulla on hyvä lähtö suoralle", joka voi muuttaa molempien puolten erän aloitusta. Alla video, jossa on suurin osa kilpailullisten karttojen alkuajoituksista, jotka yksilöllisen pelaajan on hyvä tietää. Aloittelevat ja kehittyneemmätkin pelaajat tulevat usein yllätetyiksi siitä, missä vastustajat ovat.
+Käydään aluksi läpi asioita  yksilöllisen pelaajan näkökulmasta, joka haluaa kehittää omaa pelillistä osaamistaa ja tavoittelee kilpauraa eurheilijana. Pelaajan on hyvä tietää ja tuntea ajoitukset, joilla pelaajat kerkeävät kartan kriittisiin paikkoihin. Tästä esimerkkinä voisi olla Mirage-kartan terroristien vs puolustavan joukkueen taistelu keskustan hallinnasta. Parhaalla lähdöllä oleva puolustava pelaaja kerkeää ikkunaan, josta keskustaa pääsee nopeiten katsomaan. Toisena Dust2, jossa puolutajapelaajat kerkeävät paremmilla lähdöillä ensiksi suoralle, joka vaikuttaa siihen miten hyvät pelaajat tekevät valintoja erien alussa ja peleissä kuulekin kommentteja, kuten "minulla on hyvä lähtö suoralle", joka voi muuttaa molempien puolten erän aloitusta. Alla video, jossa on suurin osa kilpailullisten karttojen alkuajoituksista, jotka yksilöllisen pelaajan on hyvä tietää. Aloittelevat ja kehittyneemmätkin pelaajat tulevat usein yllätetyiksi siitä, missä vastustajat ovat.
 
 [!(New CS2 spawn timings for every map 2024)](https://www.youtube.com/watch?v=63vBcSgtk3I)
 
 *Video eri lähtöjen ajoituksista kaikkiin karttoihin, jotka olivat 2024 kilpailullisessa karttapoolissa.*
 
-Kartan tuntemus mahdollistaa sen, että yksilöllinen pelaaja voi tehdä ns. "omia pelejä" myös joukkueena pelattaessa, koska hän tuntee kartan ajoitukset, pystyy itse heittämään tarvittavan utilityn, jolloin hän pystyy tekemään itselleen tilaa ja yllättämään vastustajan. Tässä on siis kyse yksilötaidosta, jolla pelaaja voi erottua edukseen ei organisoisudussa ympäristössä. Tavoitteellisesti pelaavat pelaajat taas rakentavat tilanteitan joukkueena ennalta sovittujen taktiikoiden avulla tai pelaten tietyn protokollaan mukaan. Tämä pätee molempien puolien pelaamiseen ja uusin Counter Striken versio tukee aktiivista pelaamista myös puolustavalle joukkueelle.
+Kartan tuntemus mahdollistaa sen, että yksilöllinen pelaaja voi tehdä ns. "omia pelejä" myös joukkueena pelattaessa, koska hän tuntee kartan ajoitukset, pystyy itse heittämään tarvittavan utilityn, jolloin hän pystyy tekemään itselleen tilaa ja yllättämään vastustajan. Tässä on siis kyse yksilötaidosta, jolla pelaaja voi erottua edukseen ei organisoisudussa ympäristössä. Tavoitteellisesti pelaavat pelaajat taas rakentavat tilanteitan joukkueena ennalta sovittujen taktiikoiden avulla tai pelaten tietyn protokollaan mukaan. Tämä pätee molempien puolien pelaamiseen ja uusin Counter-Striken versio tukee aktiivista pelaamista myös puolustavalle joukkueelle.
 
 Nopea tilanteiden hahmottaminen on elintärkeä osa e-urheilussa menestymiselle, ja varsinkin pelien huiput erottuvat nimenomaan tässä taidossa. Usein harrastajalle voikin näyttää, että huippupelaajat tietävät tarkalleen, missä viholliset ovat ja täysi noviisi voisi kuvitella, että pelaajat näkevät seinien läpi, mutta todellisuudessa tuhansien tuntien ja tarkan pelisuunnitelman takia huiput osaavat ennakoida suurella todennäköisyydellä vastustajan sijainnin tai vastustajan joukkueen ryhmittymän. Tässä palataan myös joukkuepelaamiseen ja tiedon jakamiseen pelaajien kesken. Usein nopeissa pelitilanteissa voikin olla hyödyllistä sanoa, että "pelaaja x on yleensä pelannut eri paikassa, joten varo yllättäviä tilanteita" tai "sinulla on enää 5 ammusta jäljellä", koska usein pelin tiimellyksessä nämä asiat saattavat unohtua. Tälle kurssille onkin valikoitunut paljon materiaalia Stykolta, joka ei ole se tyypillisin huippupelaaja ja hän onkin joutunut vaihtamaan joukkuetta usein ja myös kokenut urallaan paljon kritiikkiä ja tästä syystä joutunut miettimään peliä usealta eri kantilta.
 
@@ -168,48 +180,137 @@ CS2:n utility ei ole pelkästään työkalu vahingon tekemiseen tai näkyvyyden 
 
 Utility ei ole ilmiönä rajoittunut vain Counter-Striken kaltaisiin peleihin, vaan se esiintyy monessa muodossa eri peleissä.
 
-Valorantissa jokaisella agentilla on omat "utilityt", jotka voivat olla savuja, seiniä, ansalankoja tai flash-kykyjä. Esimerkiksi agentti Omen voi heittää savun pitkän matkan päähän estäen näkyvyyttä useista kulmista yhtä aikaa, kun taas Skye voi ohjata flashin tarkasti kulman taakse. Utility ei ole rajattu ostettavaksi vaan sidottu hahmoon ja peli-identiteettiin.
+**Valorantissa** jokaisella agentilla on omat "utilityt", jotka voivat olla savuja, seiniä, ansalankoja tai flash-kykyjä. Esimerkiksi agentti Omen voi heittää savun pitkän matkan päähän estäen näkyvyyttä useista kulmista yhtä aikaa, kun taas Skye voi ohjata flashin tarkasti kulman taakse. Utility ei ole rajattu ostettavaksi vaan sidottu hahmoon ja peli-identiteettiin.
 
-Rainbow Six Siegegessä utility on kriittinen osa jokaista kierrosta. Pelaajilla on käytössään erilaisia gadgetteja kuten miinoja, droneja, suojia, kameraestolaitteita jne. Näiden oikea-aikainen ja taktinen käyttö ratkaisee tilanteita enemmän kuin pelkkä tähtäystaito.
+**Rainbow Six Siegegessä** utility on kriittinen osa jokaista kierrosta. Pelaajilla on käytössään erilaisia gadgetteja kuten miinoja, droneja, suojia, kameraestolaitteita jne. Näiden oikea-aikainen ja taktinen käyttö ratkaisee tilanteita enemmän kuin pelkkä tähtäystaito.
 
-Overwatchissa useilla sankareilla on kykyjä, jotka estävät, vahingoittavat tai hidastavat vihollisia. Esimerkiksi Mei voi jäädyttää vihollisia, Reaper voi teleportata selustaan ja Sigma pystyy blokkaamaan kranaatit kilvellään. Utility on jatkuvasti käytössä olevaa taktista työkalua, jolla hallitaan tilannetta enemmän kuin tappamisen kautta.
+**Overwatchissa** useilla sankareilla on kykyjä, jotka estävät, vahingoittavat tai hidastavat vihollisia. Esimerkiksi Mei voi jäädyttää vihollisia, Reaper voi teleportata selustaan ja Sigma pystyy blokkaamaan kranaatit kilvellään. Utility on jatkuvasti käytössä oleva taktinen työkalu, jolla annetaan tiimille mahdollisuuksia voittoon.
 
 Utilityn merkitys kasvaa sitä mukaa kun pelaajien ymmärrys pelin strategisista ulottuvuuksista syvenee. Olipa kyseessä CS2, Valorant tai mikä tahansa muu taktinen peli, kyse ei ole vain "kranaattien heittämisestä", vaan kokonaisvaltaisesta kyvystä vaikuttaa pelikenttään ja pakottaa viholliset reagoimaan.
 
+#### Äänet ja visuaaliset efektit
 
-#### Äänet ja kuva
+- **Äänet** ovat äärimmäisen tärkeä osa pelejä ja yhtäkkiä aihe voi kuulostaa yksinkertaiselta, mutta tässä esimerkkejä äänistä ja mitä niistä voidaan päätellä CS2:ssa.
+- Eri aseet tekevät erilaisia ääniä, joten niistä voidaan päätellä vihollisen asetilanne ja mistä päin ammukset tulevat. Osassa aseista on äänenvaimennin, joka taas häivyttää ääntä ja tarpeeksi kaukaa ammuttuna ääni katoaa kokonaan. Pelaajan ja aseen äänistä saa lisävihjeitä katsomalla omaa karttaa.
+- Askeleet kuuluvat kun pelaaja juoksee, mutta kävely tai kyykyssä meno ei pidä ääntä. Aseen ottaminen juostessa taas päästää äänen, mutta hiljaa liikkuessa myös aseennostoääni katoaa.
+- Erilaiset asetemput kuten oman aseen katsominen tai aseen animaation käyttä ei pidä ääntä, mutta aseen kiikarin aktivointi pitää ääntä. Esimerkkinä aikaisemmin mainittua avikan ääni kuuluu siis jonkinlaisen matkan päähän.
+- Aseen lataaminen kuuluu yhtä kauas kuin juoksemisen äänet (ks. kuva). Aseen lataamisen voi keskeyttää, jolloin ääni on vain lippaan poisotto eikä takaisin laittamista. Tälläkin voi hämätä vastustajaa.
+- Äänistä voi jopa päätellä onko jonkin aseen lipas tyhjä.
 
-Tekstiä
+Yllä on vain pieni osa äänistä ja siitä mitä niistä voi päätellä, joten tarkemman kuvauksen eri äänistä saat alta olevalta videolta.
 
-#### Pelin erikoisuudet
+[![Everything You Need to Know About CS2 Sounds](https://www.youtube.com/watch?v=bQrm_QbsKzQ&ab_channel=WilsonCS2)]
 
-Tekstiä
+*Äänet ovat monimutkaisempi asia kun yhtäkkiä voisi päätellä ja onkin tärkeä tietää mitkä äänet kuuluvat myös vastustajalle.*
 
-### Muut taidot
+#### Äänet muiden pelien kontekstissa
 
-Tekstiä
+**Dota 2:ssa** loitsujen ja esineiden äänet ovat olennainen osa peliä. Kun pelaaja käyttää loitsun tai aktivoi esineen, ääni kuuluu kaikille pelaajille, jotka ovat sen kuuluvuusetäisyydellä. Pelissä käytetään paikallista äänentoistoa (ns. "positionaalista audiota"), mikä tarkoittaa, että pelaajat voivat usein päätellä hyökkäyksen suunnan pelkästään äänen perusteella.
 
-### Henkinen kyvykkyys
+Koska nämä äänet kertovat vihollisten toimista, taitavat pelaajat käyttävät niitä vastaliikkeiden suunnitteluun. Esimerkiksi, jos joukkuetoveri kuulee voimakkaan loitsun äänen, hän saattaa käyttää sitä merkkinä vetäytymiseen tai valmistautumiseen vastahyökkäykseen.
 
-Mitä tarkoitetaan henkiselle kyvykkyydellä tässä tapauksessa? Se on ainakin seuraavia asioita: kyky pysyä rauhallisena, keskittyneenä, aktiivisena, kykyä hahmottaa pelin kulku, kestää jännitystä.
+Vaikka nämä äänet ovat tärkeä osa peliä, pelaajat voivat säätää ääniasetuksiaan vaimentaakseen tai hiljentääkseen tiettyjä ääniä. Oletuksena äänet ovat kuitenkin päällä, jotta ne tukevat pelaajien tilannetajua ja taktista hahmotusta.
 
-#### Kommunikaatio ja tiimityöskentely
+**League of Legends** sisältää monipuolisia äänivihjeitä loitsuille, kyvyille ja esineiden käytölle. Vaikka peli ei käytä täysin positionaalista ääntä kuten Dota 2, monet ääniefektit on suunniteltu ilmoittamaan kaikille pelaajille merkittävistä tapahtumista. Esimerkiksi recallin tai tietyn kyvyn ääni voi kuulua, vaikka olisit kaukana sen tapahtumapaikasta.
 
-Tiimityöskentely ja kommunikaatio ovat yksi tärkeimmistä tekijöistä, jotka erottavat huippujoukkueet alempien tasojen joukkueista. Kommunikaatio ei ole tarkkaa tiedettä ja joukkueilla onkin erilaisia tapoja kommunikoida.
+Kuten Dota 2:ssa, myös League of Legendsissä äänipalaute toimii strategisena työkaluna. Vihollisen ultin tai tärkeän summoner spellin äänen tunnistaminen voi paljastaa vihollisen liikkeet ja aikeet. Tämän vuoksi kilpapelaajat kuuntelevat tarkasti peliin liittyviä äänivihjeitä.
+
+Kuten Dota 2:ssa, myös League of Legendsissä pelaajat voivat säätää ääniasetuksiaan. Äänitehosteiden voimakkuutta voi säätää erikseen, ja jotkut pelaajat saattavat haluta hiljentää tietyt äänet keskittymisen parantamiseksi. Oletuksena äänet ovat kuitenkin käytössä.
+
+- **Visuaaliset vihjeet:**  
+  - Varjojen liike tai aseen näkyvyys (esim. sniper-putken pystyssä oleva vihollinen) paljastaa positiot.  
+  - *Overwatchissa* sankarien ultimaattien animaatiot (esim. McCreen "High Noon") vaativat millisekuntitason reaktion.  
+  - **Näyttöasetukset:** Ammattilaiset käyttävät usein matalia resoluutioita (1280x960) ja väriprofiileja (Digital Vibrance 100%) parantaakseen havaittavuutta.  
+
+[![CS2 Sound Guide by voo CSGO](https://img.youtube.com/vi/4WX5uwsfY3A/0.jpg)](https://www.youtube.com/watch?v=4WX5uwsfY3A)  
+*Äänen paikallistamisen syventäminen CS2:ssa.*
+
+---
+
+## Pelin erikoisuudet
+
+**Jokaisen pelin ainutlaatuiset mekaniikat vaativat erityistä suunnittelua ja soveltuvuutta.**  
+
+### Dynaaminen ympäristö
+
+- **Rainbow Six Siege:**  
+  - Seinien rikkominen luo uusia näkökulmia, mutta myös altistaa puolustajat. Huippujoukkueet kuten G2 hyödyntävät tätä aggressiivisesti "vertical play"-strategioissa.  
+- **Fortnite:**  
+  - Rakentamisen nopeus määrittää taistelujen dynamiikan. Pro-pelaajat kuten Bugha hallitsevat "90s"-rakennusspammin 0,5 sekunnin reaktiolla.  
+
+### Ajanhallinta ja resursseja
+
+- **Dota 2:**  
+  - "Power Spike" -konsepti (esim. Anti-Magen 20-minuuttinen Battle Fury) määrää joukkueen aggressiivisuuden.  
+- **League of Legends:**  
+  - Junglaajan "camp reset"-ajoitukset vaikuttavat koko kartan paineeseen.  
+
+### Asymmetrinen pelisuunnittelu
+
+- **Dead by Daylight:**  
+  - 4v1-mallissa selviytyjien ja murhaajan kyvyt ovat täysin erilaiset, mikä edellyttää jatkuvaa roolien uudelleensovittamista.  
+- **StarCraft II:**  
+  - Rotakohtaiset rakennepuut (esim. Zergin "Creep Spread") muuttavat perustaktiikoita radikaalisti.  
+
+---
+
+## Muut taidot ja henkinen kyvykkyys
+
+### Stressinhallinnan keinoja
+
+- **Fyysiset tekniikat:**  
+  - Hengitysharjoitukset (4-7-8-malli) ennen "clutch"-tilanteita.  
+  - Käsien ja ranteiden venyttely 15 minuutin välein estää kipuja.  
+- **Mentaalinen reset:**  
+  - Pro-pelaajat kuten s1mple käyttävät 30-sekuntisia taukoja häviöputkien katkaisemiseen.  
+
+### Joukkuekommunikaation hienovaraisuudet
+
+- **Tiedon priorisointi:**  
+  - "Clearing comms" -käytäntö (hiljaisuus kriittisinä hetkinä) on välttämätön esim. CS2:n 1v5-tilanteissa.  
+- **Kulttuurierot:**  
+  - Kansainvälisissä joukkueissa (esim. G2) englantia puhuvien pelaajien sanaston yksinkertaistaminen nopeuttaa viestintää.  
+
+---
 
 ## Tiimidynamiikka
 
-Tiimidynaamikan voi erotella pelin aikana tapahtuvaan toimintaan ja pelin ulkopuoliseen toimintaan.
-
 ### Pelin aikainen toiminta
 
-- **Selkeä roolijako:** Jokaisella tiimiläisellä on selkeä tehtävä (esim. in-game leader (IGL), entry fragger, support).
-- **Reaaliaikainen kommunikaatio:** Lyhyet, selkeät komennot (esim. "Flash A", "Rotate B") ja tilannetiedon jakaminen (esim. vihollisen paikka ja resurssit).  
+- **Adaptiiviset strategiat:**  
+  - NAVIn "luova kaaos"-tyyli (improvisoitu aggressioni) vs. Vitalityn "koneen tarkkuus" (ennalta harjoitellut kranaatit).  
+- **Roolien dynamiikka:**  
+  - Esimerkki: Astraliksen "blameF" rooli IGL:nä ja lurkerina samanaikaisesti vaatii poikkeuksellista multitaskointia.  
+
+### Pelin ulkopuolinen toiminta
+
+- **Tietotekninen analyysi:**  
+  - Käyttöön työkaluja kuten [Leetify](https://leetify.com/) (CS2) tai [Mobalytics](https://mobalytics.gg/) (LoL) tunnistamaan heikkoudet.  
+- **Psykologinen tuki:**  
+  - Joukkueet kuten Fnatic käyttävät urheilupsykologeja käsittelemään kilpailupaineita.  
+
+---
+
+## Yhteenveto: Kuinka nousta huipputasolle?
+
+1. **Perusmekaniikat hallittuksi:**  
+   - Käytä 30% harjoitusajasta aim-trainereihin (Kovaak's FPS Aim Trainer) ja liikkeiden hiomiseen.  
+2. **Pelikohtaiset erikoisuudet syväluotaavaksi:**  
+   - Opettele 5–10 kranaattikombinaatiota peruskarttaa kohden (esim. Mirage A-site execute).  
+3. **Henkinen kestävyys rakennettavaksi:**  
+   - Aloita mindfulness-rutiini (esim. Headspace-sovellus) 10 min/päivä.  
+4. **Tiimikemia jalostettavaksi:**  
+   - Järjestä viikoittainen "VOD review" -sessio, jossa keskitytään yhteen heikkouteen kerrallaan.  
+
+[![Building a Pro Gaming Routine by Healthier Gamers](https://img.youtube.com/vi/3N8e4u8jSv4/0.jpg)](https://www.youtube.com/watch?v=3N8e4u8jSv4)  
+*Ammattilaisten harjoitus- ja palautumisrutiinit.*
+
+**Loppusanat:** E-urheilun huippuun pääseminen vaatii tietoisen tasapainon mekaanisten taitojen, pelitiedon ja henkisen joustavuuden välillä. Onnea matkaan – seuraava voitto saattaa olla yhden harjoituskierroksen päässä! 🎮💥  
 
 **Käytännön esimerkkejä ja harjoituksia:**  
 
-- Joukkueilla voi olla erilaisia koodikieliä tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter Strikessa](https://totalcsgo.com/callouts).
-- Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä perääntyä.
+- Joukkueilla voi olla erilaisia koodikieliä tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter-Strikessa](https://totalcsgo.com/callouts).
+- Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter-Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä perääntyä.
 
 ---
 
@@ -321,7 +422,6 @@ Nykyään on ainakin kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi
 1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
 2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukkueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit.
 3. Striimaaminen. Voit myös pelata ammatiksesi olematta varsinaisesti osana kilpailullista joukkuetta striimauksen kautta. Usein pelaajilla on erilaisia taitoja (hyvä pelissä, karismaattinen, hauska tai hyvä opettaja), jonka avulla hän kerää itselleen katsojia ja pystyy tuomaan organisaatioille arvoa tätä kautta. Striimin kautta sinut voidaan myös bongata osaksi e-urheilujoukkuetta.
-
 
 ### Oman ja joukkueen tekemisen analysointi
 
