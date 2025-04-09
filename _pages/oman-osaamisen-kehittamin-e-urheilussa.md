@@ -18,8 +18,9 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Liikkuminen](#liikkuminen)
       - [Pelitietämys](#pelitietämys)
       - [Utility muiden pelien kontekstissa](#utility-muiden-pelien-kontekstissa)
-      - [Äänet ja visuaaliset efektit](#äänet-ja-visuaaliset-efektit)
+      - [Äänet](#äänet)
       - [Äänet muiden pelien kontekstissa](#äänet-muiden-pelien-kontekstissa)
+      - [Visuaaliset efektit](#visuaaliset-efektit)
   - [Pelin erikoisuudet](#pelin-erikoisuudet)
     - [Dynaaminen ympäristö](#dynaaminen-ympäristö)
     - [Ajanhallinta ja resursseja](#ajanhallinta-ja-resursseja)
@@ -188,9 +189,10 @@ Utility ei ole ilmiönä rajoittunut vain Counter-Striken kaltaisiin peleihin, v
 
 Utilityn merkitys kasvaa sitä mukaa kun pelaajien ymmärrys pelin strategisista ulottuvuuksista syvenee. Olipa kyseessä CS2, Valorant tai mikä tahansa muu taktinen peli, kyse ei ole vain "kranaattien heittämisestä", vaan kokonaisvaltaisesta kyvystä vaikuttaa pelikenttään ja pakottaa viholliset reagoimaan.
 
-#### Äänet ja visuaaliset efektit
+#### Äänet
 
-- **Äänet** ovat äärimmäisen tärkeä osa pelejä ja yhtäkkiä aihe voi kuulostaa yksinkertaiselta, mutta tässä esimerkkejä äänistä ja mitä niistä voidaan päätellä CS2:ssa.
+**Äänet** ovat äärimmäisen tärkeä osa pelejä ja yhtäkkiä aihe voi kuulostaa yksinkertaiselta, mutta alla esimerkkejä äänistä ja mitä niistä voidaan päätellä CS2:ssa:
+
 - Eri aseet tekevät erilaisia ääniä, joten niistä voidaan päätellä vihollisen asetilanne ja mistä päin ammukset tulevat. Osassa aseista on äänenvaimennin, joka taas häivyttää ääntä ja tarpeeksi kaukaa ammuttuna ääni katoaa kokonaan. Pelaajan ja aseen äänistä saa lisävihjeitä katsomalla omaa karttaa.
 - Askeleet kuuluvat kun pelaaja juoksee, mutta kävely tai kyykyssä meno ei pidä ääntä. Aseen ottaminen juostessa taas päästää äänen, mutta hiljaa liikkuessa myös aseennostoääni katoaa.
 - Erilaiset asetemput kuten oman aseen katsominen tai aseen animaation käyttä ei pidä ääntä, mutta aseen kiikarin aktivointi pitää ääntä. Esimerkkinä aikaisemmin mainittua avikan ääni kuuluu siis jonkinlaisen matkan päähän.
@@ -217,10 +219,13 @@ Kuten Dota 2:ssa, myös League of Legendsissä äänipalaute toimii strategisena
 
 Kuten Dota 2:ssa, myös League of Legendsissä pelaajat voivat säätää ääniasetuksiaan. Äänitehosteiden voimakkuutta voi säätää erikseen, ja jotkut pelaajat saattavat haluta hiljentää tietyt äänet keskittymisen parantamiseksi. Oletuksena äänet ovat kuitenkin käytössä.
 
-- **Visuaaliset vihjeet:**  
-  - Varjojen liike tai aseen näkyvyys (esim. sniper-putken pystyssä oleva vihollinen) paljastaa positiot.  
-  - *Overwatchissa* sankarien ultimaattien animaatiot (esim. McCreen "High Noon") vaativat millisekuntitason reaktion.  
-  - **Näyttöasetukset:** Ammattilaiset käyttävät usein matalia resoluutioita (1280x960) ja väriprofiileja (Digital Vibrance 100%) parantaakseen havaittavuutta.  
+#### Visuaaliset efektit
+
+Counter-Strikessa ei ole niin paljoa visuaalisia efektejä kuin esimerkiksi moba-peleissä, jossa erilaiset taiat näkyvät, mutta pelaajan tulee silti tuntea mekaniikat, kuten valaistus ja sen vaikutus varjoihin, joita pelaajista tulee. Pelissä on paikkoja, joissa toinen pelaaja voi nähdä toisen pelaajan varjon enne kuin hän tulee näkyviin.
+
+Pelihahmon ja aseiden ulottuvuukisen tunteminen on tärkeää, koska nämä asiat voivat paljastaa sijainnin tahattomasti. Esimerkiksi pitkäpiippuiset aseet saattavat näkyä seinien takaa tavalla, jota aloitteleva pelaaja ei osaa arvata. Tämä vaikuttaa siihen, missä asennossa hahmoa kannattaa pitää tai toisinsanoen mihin pelihahmolla kannattaa tietyissä tilanteissa katsoa. Esimerkiksi pelaajan katsoessa alas päin, laskee tämän pää tasolle, jolloin tietyistä kohdista kartoissa voi päästä liikkumaan huomaamatta. Esimerkiski Dust2-kartassa A:n päälle voi päästä mutkasta katsomalla alas päin ja liikkumalla eteen päin, jolloin suoralla oleva pelaaja ei näy vihollisen päälakea.
+
+Visuaalisten efektien säätä onkin tärkeä osa Counter-Strikea ja pelin alusta saakka huippupelaajat ovat etsineet asetuksia, joilla pelin pelaaminen on mahdollisimman sujuvaa ilman, että visuaalisten vihjeiden käyttö heikkenee. Tästä esimerkkinä on varjojen hyödyntäminen, joka matalimmilla asetuksilla parantaa suorituskykyä, mutta varjot eivät tällöin näy niin pitkälle, joka taas on kilpailuedun menetys.
 
 [![CS2 Sound Guide by voo CSGO](https://img.youtube.com/vi/4WX5uwsfY3A/0.jpg)](https://www.youtube.com/watch?v=4WX5uwsfY3A)  
 *Äänen paikallistamisen syventäminen CS2:ssa.*
