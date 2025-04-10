@@ -517,7 +517,7 @@ Voiko valitsemaasi peliä käyttää tapahtumassa? Mitä tarkoittaa IPR?
 
 Tämä tehtävä on suunniteltu niin, että se valmistaa opiskelijoita LAN-tapahtuman järjestämiseen. Aikaisemmin järjestetyn toteutuksen dokumentaation voi ladata [GradiaCup2022.docx](https://raw.githubusercontent.com/VilleHamalainen/E-urheilussa-toimiminen/Moduuli_1/GradiaCup2022.docx). Myös vuoden 2021 toteutuksen materiaaleihin kannattaa tutustua.
 
-Tehtävänä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen porukalle. Miten toteutusta lähdettäisiin tekemään? Millaisilla laitteilla tässä voitaisiin onnistua? Ladatkaa ja tutustukaa cs2-palvelimen pystyttämiseen.
+Tehtävänä on valmistautua oman lanin järjestämiseen e-urheilussa toimimisen porukalle. Miten toteutusta lähdettäisiin tekemään? Millaisilla laitteilla tässä voitaisiin onnistua? Selvittäkää mikä ero on listening ja dedicated cs2-palvelimella? Ladatkaa ja tutustukaa cs2-palvelimen pystyttämiseen.
 
 - [Counter-Strike 2 Dedicated Servers](https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers#Windows)
 - [CS2 Dedicated Server Guide](https://hub.tcno.co/games/cs2/dedicated_server/)

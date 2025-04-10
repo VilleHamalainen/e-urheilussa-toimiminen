@@ -21,7 +21,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Äänet](#äänet)
       - [Äänet muiden pelien kontekstissa](#äänet-muiden-pelien-kontekstissa)
       - [Visuaaliset avustimet](#visuaaliset-avustimet)
-  - [Pelin erikoisuudet](#pelin-erikoisuudet)
+      - [Visuaaliset avustimet muiden pelien kontekstissa](#visuaaliset-avustimet-muiden-pelien-kontekstissa)
   - [Muut taidot ja henkinen kyvykkyys](#muut-taidot-ja-henkinen-kyvykkyys)
     - [Stressinhallinnan keinoja](#stressinhallinnan-keinoja)
     - [Joukkuekommunikaation hienovaraisuudet](#joukkuekommunikaation-hienovaraisuudet)
@@ -180,11 +180,11 @@ CS2:n utility ei ole pelkästään työkalu vahingon tekemiseen tai näkyvyyden 
 
 Utility ei ole ilmiönä rajoittunut vain Counter-Striken kaltaisiin peleihin, vaan se esiintyy monessa muodossa eri peleissä.
 
-**Valorantissa** jokaisella agentilla on omat "utilityt", jotka voivat olla savuja, seiniä, ansalankoja tai flash-kykyjä. Esimerkiksi agentti Omen voi heittää savun pitkän matkan päähän estäen näkyvyyttä useista kulmista yhtä aikaa, kun taas Skye voi ohjata flashin tarkasti kulman taakse. Utility ei ole rajattu ostettavaksi vaan sidottu hahmoon ja peli-identiteettiin.
+⚡ **Valorantissa** jokaisella agentilla on omat "utilityt", jotka voivat olla savuja, seiniä, ansalankoja tai flash-kykyjä. Esimerkiksi agentti Omen voi heittää savun pitkän matkan päähän estäen näkyvyyttä useista kulmista yhtä aikaa, kun taas Skye voi ohjata flashin tarkasti kulman taakse. Utility ei ole rajattu ostettavaksi vaan sidottu hahmoon ja peli-identiteettiin.
 
-**Rainbow Six Siegegessä** utility on kriittinen osa jokaista kierrosta. Pelaajilla on käytössään erilaisia gadgetteja kuten miinoja, droneja, suojia, kameraestolaitteita jne. Näiden oikea-aikainen ja taktinen käyttö ratkaisee tilanteita enemmän kuin pelkkä tähtäystaito.
+🪖 **Rainbow Six Siegegessä** utility on kriittinen osa jokaista kierrosta. Pelaajilla on käytössään erilaisia gadgetteja kuten miinoja, droneja, suojia, kameraestolaitteita jne. Näiden oikea-aikainen ja taktinen käyttö ratkaisee tilanteita enemmän kuin pelkkä tähtäystaito.
 
-**Overwatchissa** useilla sankareilla on kykyjä, jotka estävät, vahingoittavat tai hidastavat vihollisia. Esimerkiksi Mei voi jäädyttää vihollisia, Reaper voi teleportata selustaan ja Sigma pystyy blokkaamaan kranaatit kilvellään. Utility on jatkuvasti käytössä oleva taktinen työkalu, jolla annetaan tiimille mahdollisuuksia voittoon.
+🌀 **Overwatchissa** useilla sankareilla on kykyjä, jotka estävät, vahingoittavat tai hidastavat vihollisia. Esimerkiksi Mei voi jäädyttää vihollisia, Reaper voi teleportata selustaan ja Sigma pystyy blokkaamaan kranaatit kilvellään. Utility on jatkuvasti käytössä oleva taktinen työkalu, jolla annetaan tiimille mahdollisuuksia voittoon.
 
 Utilityn merkitys kasvaa sitä mukaa kun pelaajien ymmärrys pelin strategisista ulottuvuuksista syvenee. Olipa kyseessä CS2, Valorant tai mikä tahansa muu taktinen peli, kyse ei ole vain "kranaattien heittämisestä", vaan kokonaisvaltaisesta kyvystä vaikuttaa pelikenttään ja pakottaa viholliset reagoimaan.
 
@@ -208,13 +208,13 @@ Yllä on vain pieni osa äänistä ja siitä mitä niistä voi päätellä, jote
 
 #### Äänet muiden pelien kontekstissa
 
-**Dota 2:ssa** loitsujen ja esineiden äänet ovat olennainen osa peliä. Kun pelaaja käyttää loitsun tai aktivoi esineen, ääni kuuluu kaikille pelaajille, jotka ovat sen kuuluvuusetäisyydellä. Pelissä käytetään paikallista äänentoistoa (ns. "positionaalista audiota"), mikä tarkoittaa, että pelaajat voivat usein päätellä hyökkäyksen suunnan pelkästään äänen perusteella.
+🔮 **Dota 2:ssa** loitsujen ja esineiden äänet ovat olennainen osa peliä. Kun pelaaja käyttää loitsun tai aktivoi esineen, ääni kuuluu kaikille pelaajille, jotka ovat sen kuuluvuusetäisyydellä. Pelissä käytetään paikallista äänentoistoa (ns. "positionaalista audiota"), mikä tarkoittaa, että pelaajat voivat usein päätellä hyökkäyksen suunnan pelkästään äänen perusteella.
 
 Koska nämä äänet kertovat vihollisten toimista, taitavat pelaajat käyttävät niitä vastaliikkeiden suunnitteluun. Esimerkiksi, jos joukkuetoveri kuulee voimakkaan loitsun äänen, hän saattaa käyttää sitä merkkinä vetäytymiseen tai valmistautumiseen vastahyökkäykseen.
 
 Vaikka nämä äänet ovat tärkeä osa peliä, pelaajat voivat säätää ääniasetuksiaan vaimentaakseen tai hiljentääkseen tiettyjä ääniä. Oletuksena äänet ovat kuitenkin päällä, jotta ne tukevat pelaajien tilannetajua ja taktista hahmotusta.
 
-**League of Legends** sisältää monipuolisia äänivihjeitä loitsuille, kyvyille ja esineiden käytölle. Vaikka peli ei käytä täysin positionaalista ääntä kuten Dota 2, monet ääniefektit on suunniteltu ilmoittamaan kaikille pelaajille merkittävistä tapahtumista. Esimerkiksi recallin tai tietyn kyvyn ääni voi kuulua, vaikka olisit kaukana sen tapahtumapaikasta.
+🧙‍♂️ **League of Legends** sisältää monipuolisia äänivihjeitä loitsuille, kyvyille ja esineiden käytölle. Vaikka peli ei käytä täysin positionaalista ääntä kuten Dota 2, monet ääniefektit on suunniteltu ilmoittamaan kaikille pelaajille merkittävistä tapahtumista. Esimerkiksi recallin tai tietyn kyvyn ääni voi kuulua, vaikka olisit kaukana sen tapahtumapaikasta.
 
 Kuten Dota 2:ssa, myös League of Legendsissä äänipalaute toimii strategisena työkaluna. Vihollisen ultin tai tärkeän summoner spellin äänen tunnistaminen voi paljastaa vihollisen liikkeet ja aikeet. Tämän vuoksi kilpapelaajat kuuntelevat tarkasti peliin liittyviä äänivihjeitä.
 
@@ -234,13 +234,45 @@ Uutena ominaisuutena CS2:ssa on savukranaattien käyttäytyminen, joka kuuluu ut
 
 Myös karttojen valaistus ja kontrasti kannattaa ottaa huomioon ja kilpailuillisen edun kannalta kaikki lisäefektit heikentävät suorituskykyä, mutta voivat myös tehdä vastustajan näkemisestä haastavampaa. Joissain kartoissa (esimerkiksi Mirage tai Overpass) on alueita, joissa pelaaja voi sulautua taustaan, jos hahmoa ympäröivät värit ja varjot ovat sopivan kaltaiset. Pelaajat voivat säätää näytön tai pelin kontrastia ja kirkkautta niin, että hahmot erottuvat paremmin taustasta ja hieman tummemmista alueista, joita kartoista saattaa löytyä.
 
-HUD:n säätöjen ymmärtäminen on tärkeä osa pelissä pärjäämiselle. Vaikka asetukset eivät olekaan ympäristön visuaalisia elementtejä, ne vaikuttavat ratkaisevasti pelaajan kykyyn havainnoida ja reagoida. Esimerkiksi tähätäimen (crosshair) väri ja koko kannattaa säätää niin, että se ei katoa karttojen taustoihin. Joissain kartoissa vihreä tai sininen erottuu paremmin kuin valkoinen tai keltainen. Lisäki tärkeitä asioita ovat jo aikaisemmin mainitun minikartan säätäminen mahdollisimman informatiiviseksi, 
+**HUD:n (Heads-Up Display) säätöjen ymmärtäminen on tärkeä osa pelissä pärjäämiselle.** Vaikka asetukset eivät olekaan ympäristön visuaalisia elementtejä, ne vaikuttavat ratkaisevasti pelaajan kykyyn havainnoida ja reagoida. Yksi tärkeimmistä säädettävistä osista on tähtäin (crosshair). Sen väri, koko, läpinäkyvyys ja muoto voivat tehdä valtavan eron: tähtäimen tulee erottua selkeästi kartan taustoista ja valaistuksesta ilman, että se peittää olennaista tietoa. Esimerkiksi kartoissa, joissa on vaaleita seiniä tai hiekkapohjaa (kuten Mirage), kirkkaan valkoinen tähtäin voi kadota näkymästä, kun taas vaaleanvihreä tai turkoosi toimii usein paremmin. Monet pelaajat säätävätkin tähtäimensä täysin oman näkökykynsä ja pelityylinsä mukaan.
+
+Toinen keskeinen osa on minikartta. Sen koko, läpinäkyvyys, orientaatio (esim. pyöriikö kartta pelaajan mukana) ja näkyvyysalueen asetukset vaikuttavat siihen, miten tehokkaasti pelaaja voi hyödyntää tiimitovereiden jakamaa tietoa. Hyvin säädetty minikartta antaa jatkuvasti tilannekuvaa vihollisten mahdollisista sijainneista, tiimin liikkeistä ja aluekontrollista. Aloittelevat pelaajat saattavat katsoa minikarttaa vain silloin tällöin, mutta kokeneet pelaajat seuraavat sitä lähes jatkuvasti.
+
+Myös muut elementit, kuten ammusmäärän, rahatilanteen, ajastimen ja joukkueen statuksen sijoittelu ja koko vaikuttavat pelattavuuteen. HUD kannattaa säätää niin, että kaikki tärkeä tieto on nopeasti nähtävissä, mutta ei vie turhaan huomiota tai tilaa näytöltä.
+
+[![C2-visuaaliset avut pelin aikana](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/HudSoundMarked.png)]
+
+*CS2 näkymästä näkee paljon tärkeää dataa, jota pelaajan tulee seurata pelin aikana.*
+
+Kuvan 1. alue eli minikartta kertoo omien sijoittumisen eri värisillä ja kokoisilla palloilla,  omat äänet vihreällä ympyrällä, vastustajan sijainnin äänet tai näköyhteyden perusteella ?-ikonilla, eri pommialueet ja mihin pommi voidaan laittaa. Kuvan 2. alueella nähdään nopeasti oman ja vastustajajoukkueen elossa olevien pelaajien lukumäärä ja omien aseet sekä utility. Kuvan 3. alueella nähdään ns. killfeed, joka kertoo kun pelaajat kukistuvat. Ammattilaispeleissä tästä voidaan nopeasti päätellä miltä alueelta pelaaja kukistui ilman, että siitä tarvitsee edes sanoa. Kuvan 4. osiosta nähdään omat aseet ja utility ja kuvan 5. osiosta näet rahatilanteesi, elämäpisteet (max 100) ja suojien määrän (max 100).
+
+#### Visuaaliset avustimet muiden pelien kontekstissa
+
+🔮 **Dota 2:ssa** visuaaliset vihjeet ovat kriittinen osa päätöksentekoa ja reagointia. Jokainen loitsu ja esineanimaatio on suunniteltu antamaan pelaajalle tietoa tilanteesta – joskus jopa sekunteja ennen kuin vaikutus alkaa.
+
+Esimerkiksi Windrangerin Powershot näyttää nopeasti piirtyvän viivan, joka kertoo sekä suunnan että ajoituksen väistölle. Samoin Fog of War -alueella yksittäinen animaatiovälähdys voi paljastaa gankin ennen kuin vihollinen on edes näkyvissä. Illuusioiden ja oikeiden hahmojen erottaminen taas onnistuu seuraamalla liikettä, animaation sujuvuutta ja esineiden efektejä.
+
+Visuaalinen lukutaito kehittyy ajan myötä, mutta jo varhaisessa vaiheessa pelaaja oppii reagoimaan mm. Tornadoihin tai Black Holeen pelkän kuvan perusteella.
+
+🧙‍♂️ **League of Legendsissä** visuaalinen kieli on pelin ydin – jokainen kyky, loitsu ja efekti on muotoiltu niin, että sen näkee ja ymmärtää välittömästi. Skill shot -kyvyt kuten Luxin Q tai Blitzcrankin käsi piirtyvät näkyviin heti, mahdollistaen reagoimisen jo ennen osumaa.
+
+Summoner Spellsit, kuten Flash ja Teleport, ovat erittäin erottuvia, ja taitava pelaaja huomaa heti, kun vastustaja on käyttää voimakkaita taikoja tai ulteja. Visuaalisuuteen vaikuttavat myös skinit – osa kilpapelaajista valitsee skinejä, jotka selkeyttävät omaa peliä tai vaikeuttavat vastustajan lukemista. Visuaalinen johdonmukaisuus auttaa sekä omaa suorituskykyä että koko tiimin taktista koordinaatiota.
+
+⚔️ **Warcraft III: The Frozen Throne:ssa** (perinteinen RTS, joka on taas nostanut hieman päätään YouTubessa ja Twitchissä) visuaalisilla vihjeillä on todella iso rooli ja pelissä isojen taistelujen aikainen visuaalisten efektien seuranta onkin todella tärkeää.
+
+Yksiköiden yllä ei näy perinteisiä buff tai debuff-ikoneja, vaan kaikki buffit ovat animoituja hahmoihin. Esimerkiksi Bloodlust tai Slow näkyvät suoraan hahmossa. Lisäksi yksiköiden liikkeet ja varjot voivat paljastaa piiloutuneet viholliset, vaikka ne olisivat hetkellisesti puiden tai rakenteiden takana. Näissä yksityiskohdissa piilee pelin taktinen syvyys, jota hyödynnetään erityisesti korkean tason peleissä.
+
+🐲 **World of Warcraftissa** visuaaliset elementit ovat ensisijaisia reagoinnin ja taktiikan kannalta – erityisesti PvE- ja PvP-sisällössä. Jokaisella spellcastilla on visuaalinen alku, kuten Polymorphin pyörre tai Fearin varjot, jotka varoittavat tulevasta ja mahdollistavat keskeyttämisen.
+
+AoE-varoitukset näkyvät usein selkeinä punaisina tai sinisinä alueina maassa. Ne viestivät, että pelaajan on liikuttava pois ennen osumaa. Myös raid encountereissa bossin animaatiot ja ympäristön muutos kertovat, milloin seuraava vaihde tai isku tulee.
+
+Kyseisen pelin yhtenä ongelmana pidetään kuiten sitä, että pelin sisäiset visuaaliset avut eivät ole riittäviä kertomaan, mitä pelissä tapahtuu ja  peliin onkin jo pidempään tehty kolmannen osapuolen ohjelmistolla peliä helpottavia visuaalisia ja audioon perustuvia varoituksia (Weak Auras, TellMeWhen, GTFO).
+
+🚨 Jokaisessa yllä mainitussa pelissä on tietenkin vielä lisäksi omat HUD-elementtinsä, joiden lukeminen on oma taitonsa, mutta emme tämän materiaalin puitteissa perehdy niihin tarkemmin. Samat säännöt pätevät kuin Counter-Strikessa. Tutustu kaikkien pelien kaikkiin asetuksiin ja mieti miten voi käyttää niitä hyväksesi. 
 
 ---
 
-## Pelin erikoisuudet
 
-**Jokaisen pelin ainutlaatuiset mekaniikat vaativat erityistä suunnittelua ja soveltuvuutta.**  
 
 ## Muut taidot ja henkinen kyvykkyys
 
