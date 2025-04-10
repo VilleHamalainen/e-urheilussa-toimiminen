@@ -20,7 +20,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Utility muiden pelien kontekstissa](#utility-muiden-pelien-kontekstissa)
       - [Äänet](#äänet)
       - [Äänet muiden pelien kontekstissa](#äänet-muiden-pelien-kontekstissa)
-      - [Visuaaliset efektit](#visuaaliset-efektit)
+      - [Visuaaliset avustimet](#visuaaliset-avustimet)
   - [Pelin erikoisuudet](#pelin-erikoisuudet)
   - [Muut taidot ja henkinen kyvykkyys](#muut-taidot-ja-henkinen-kyvykkyys)
     - [Stressinhallinnan keinoja](#stressinhallinnan-keinoja)
@@ -222,13 +222,19 @@ Kuten Dota 2:ssa, myös League of Legendsissä pelaajat voivat säätää ääni
 
 ---
 
-#### Visuaaliset efektit
+#### Visuaaliset avustimet
 
-Counter-Strikessa ei ole niin paljoa visuaalisia efektejä kuin esimerkiksi moba-peleissä, jossa erilaiset taiat näkyvät, mutta pelaajan tulee silti tuntea mekaniikat, kuten valaistus ja sen vaikutus varjoihin, joita pelaajista tulee. Pelissä on paikkoja, joissa toinen pelaaja voi nähdä toisen pelaajan varjon enne kuin hän tulee näkyviin.
+Counter-Strikessa visuaalisia efektejä ei ole yhtä runsaasti kuin esimerkiksi moba-peleissä, joissa loitsut ja kyvyt näkyvät näyttävinä animaatioina. Silti pelaajan on tärkeä tuntea pelin visuaaliset mekaniikat, kuten valaistuksen vaikutus varjoihin, dynaamiset savut, minikkartan tarjoamat hyödyt sekä HUD:n (Heads-up display), joka tarkoittaa graafisia elementtejä peruspelin päällä, kuten minikartta, tähtäin, joukkuetoverien määrä ja utility jne.
 
-Pelihahmon ja aseiden ulottuvuukisen tunteminen on tärkeää, koska nämä asiat voivat paljastaa sijainnin tahattomasti. Esimerkiksi pitkäpiippuiset aseet saattavat näkyä seinien takaa tavalla, jota aloitteleva pelaaja ei osaa arvata. Tämä vaikuttaa siihen, missä asennossa hahmoa kannattaa pitää tai toisinsanoen mihin pelihahmolla kannattaa tietyissä tilanteissa katsoa. Esimerkiksi pelaajan katsoessa alas päin, laskee tämän pää tasolle, jolloin tietyistä kohdista kartoissa voi päästä liikkumaan huomaamatta. Esimerkiski Dust2-kartassa A:n päälle voi päästä mutkasta katsomalla alas päin ja liikkumalla eteen päin, jolloin suoralla oleva pelaaja ei näy vihollisen päälakea.
+Pelihahmon ja aseiden ulottuvuuksien tunteminen on tärkeää, sillä ne voivat tahattomasti paljastaa pelaajan sijainnin. Esimerkiksi pitkäpiippuinen ase saattaa näkyä seinän takaa tavalla, jota kokemattomampi pelaaja ei osaa ennakoida. Tämä vaikuttaa siihen, miten ja missä asennossa hahmoa kannattaa pitää – toisin sanoen, mihin suuntaan katsoa tietyissä tilanteissa. Esimerkiksi kun pelaaja katsoo alaspäin, hänen päänsä laskeutuu alemmaksi, mikä mahdollistaa liikkumisen huomaamattomammin tietyissä kartan kohdissa. Dust2-kartassa pelaaja voi esimerkiksi mutkasta kurkistamalla ja katseen alas suuntaamalla nousta A-pommialueelle niin, ettei häntä huomata heti – vain päälaki saattaa juuri ja juuri näkyä.
 
-Visuaalisten efektien säätö onkin tärkeä osa Counter-Strikea, ja pelin alusta saakka huippupelaajat ovat etsineet asetuksia, joilla pelin pelaaminen on mahdollisimman sujuvaa ilman, että visuaalisten vihjeiden käyttö heikkenee. Tästä esimerkkinä on varjojen hyödyntäminen, joka matalimmilla asetuksilla parantaa suorituskykyä, mutta varjot eivät tällöin näy niin pitkälle, joka taas on kilpailuedun menetys.
+**Visuaalisten asetusten säätäminen on olennainen osa Counter-Strikea.** Ammattilaispelaajat ovat jo pelin alkuajoista lähtien etsineet optimaalista tasapainoa suorituskyvyn ja visuaalisten vihjeiden välillä. Esimerkiksi varjojen hyödyntäminen voi tarjota merkittävää taktista etua, mutta matalilla grafiikka-asetuksilla varjot eivät välttämättä näy yhtä hyvin tai yhtä kauas. Tällöin pelaaja saattaa menettää arvokasta informaatiota pelitilanteista.
+
+Uutena ominaisuutena CS2:ssa on savukranaattien käyttäytyminen, joka kuuluu utilityyyn, mutta käsitellään nyt tässä osiossa uusien muutoksien takia. **CS2:n savukranaatit käyttäytyvät dynaamisesti eli savu täyttää tilan ympäristön mukaan ja voi reagoida esimerkiksi luoteihin tai HE-kranaatteihin.** Tämä tarkoittaa, että tarkka näkökyky ja hyvä näytön kontrastisäätö voivat auttaa havaitsemaan vastustajan varjot tai liikkeet savun keskellä. Toisaalta, liian alhaiset graafiset asetukset voivat tehdä savusta läpinäkyvämmän, mikä antaa epäreilun edun. Tämä on syy, miksi kilpailullisessa pelissä visuaaliset asetukset pyritään standardoimaan. Aikaisemmissa pelin versioissa onkin ollut epäilyksiä, että jotkut tiettyjen näytönohjainten asetuksilla savuista on nähnyt ennen kuin olisi pitänyt.
+
+Myös karttojen valaistus ja kontrasti kannattaa ottaa huomioon ja kilpailuillisen edun kannalta kaikki lisäefektit heikentävät suorituskykyä, mutta voivat myös tehdä vastustajan näkemisestä haastavampaa. Joissain kartoissa (esimerkiksi Mirage tai Overpass) on alueita, joissa pelaaja voi sulautua taustaan, jos hahmoa ympäröivät värit ja varjot ovat sopivan kaltaiset. Pelaajat voivat säätää näytön tai pelin kontrastia ja kirkkautta niin, että hahmot erottuvat paremmin taustasta ja hieman tummemmista alueista, joita kartoista saattaa löytyä.
+
+HUD:n säätöjen ymmärtäminen on tärkeä osa pelissä pärjäämiselle. Vaikka asetukset eivät olekaan ympäristön visuaalisia elementtejä, ne vaikuttavat ratkaisevasti pelaajan kykyyn havainnoida ja reagoida. Esimerkiksi tähätäimen (crosshair) väri ja koko kannattaa säätää niin, että se ei katoa karttojen taustoihin. Joissain kartoissa vihreä tai sininen erottuu paremmin kuin valkoinen tai keltainen. Lisäki tärkeitä asioita ovat jo aikaisemmin mainitun minikartan säätäminen mahdollisimman informatiiviseksi, 
 
 ---
 

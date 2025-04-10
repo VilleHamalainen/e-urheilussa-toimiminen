@@ -654,7 +654,7 @@ Stream-overlayt ja paneelit ovat erityisen tärkeitä Twitchissä, koska niihin 
 
 ## Yhteenveto
 
-Striimaus vaatii sekä teknisen osaamisen että luovuuden. OBS Studio ja Twitch Studio tarjoavat erilaisia ominaisuuksia, jotka sopivat erilaisille käyttäjille. Canva on erinomainen työkalu visuaalisesti näyttävien overlayjen luomiseen. Onnistunut striimaus edellyttää huolellista suunnittelua ja testaamista.
+Striimaus vaatii sekä teknistä osamista, että luovuutta. OBS Studio ja Twitch Studio tarjoavat erilaisia ominaisuuksia, jotka sopivat erilaisille käyttäjille. Canva on erinomainen työkalu visuaalisesti näyttävien overlayjen luomiseen. Onnistunut striimaus edellyttää huolellista suunnittelua ja testaamista.
 
 ---
 
