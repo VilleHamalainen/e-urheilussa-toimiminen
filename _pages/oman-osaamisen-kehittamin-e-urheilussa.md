@@ -23,7 +23,8 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Visuaaliset avustimet](#visuaaliset-avustimet)
       - [Visuaaliset avustimet muiden pelien kontekstissa](#visuaaliset-avustimet-muiden-pelien-kontekstissa)
       - [Henkinen peli – mikä erottaa huippupelaajat muista?](#henkinen-peli--mikä-erottaa-huippupelaajat-muista)
-    - [Stressinhallinnan keinoja](#stressinhallinnan-keinoja)
+      - [Psykologiaa pelipalvelimella](#psykologiaa-pelipalvelimella)
+      - [Stressinhallinnan keinoja](#stressinhallinnan-keinoja)
     - [Joukkuekommunikaation hienovaraisuudet](#joukkuekommunikaation-hienovaraisuudet)
   - [Tiimidynamiikka](#tiimidynamiikka)
     - [Pelin aikainen toiminta](#pelin-aikainen-toiminta)
@@ -303,7 +304,15 @@ Peleissä on joukko universaaleja taitoja, jotka siirtyvät lajista toiseen.
 
 *Osa taidoista on universaaleja, mutta usein pelaajat yrittävät tehdä siirtymiä peligenrejen sisällä. Harvoin esimerkiksi CS-ammattilainen päätyy DOTA2 ammattilaiseksi.*
 
-### Stressinhallinnan keinoja
+
+#### Psykologiaa pelipalvelimella
+
+
+[![Meet the Esports Psychologist Who Led Astralis to a 'Counter-Strike' Championship](https://www.youtube.com/watch?v=1FB76xQ8XL4&ab_channel=Mashable)]
+
+[![S02 E01: The psychology behind esports with Xirreth](https://www.youtube.com/watch?v=FLtYPGGxxSs&t=1754s&ab_channel=TurtleBeachPC)]
+
+#### Stressinhallinnan keinoja
 
 - **Fyysiset tekniikat:**  
   - Hengitysharjoitukset (4-7-8-malli) ennen "clutch"-tilanteita.  
@@ -375,7 +384,7 @@ Peleissä on joukko universaaleja taitoja, jotka siirtyvät lajista toiseen.
 
 [![The Competitive Advantage of Teamwork with Patrick Lencioni](https://img.youtube.com/vi/cIGLI3eWfsc/0.jpg)](https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc.)  
 
-*Kilpailuedun saavuttaminen yhteistyöllä. Esimerjju *
+*Kilpailuedun saavuttaminen yhteistyöllä esportsin ulkopuolelta. Samoja asioita voi hyödyntää ja peilata esportsiin.*
 
 ---
 
@@ -483,6 +492,8 @@ Nykyään on ainakin kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi
 [How pros do it](https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO)
 
 ## Fyysinen ja henkinen hyvinvointi
+
+
 
 ### Ergonomia ja fyysinen kunto
 
