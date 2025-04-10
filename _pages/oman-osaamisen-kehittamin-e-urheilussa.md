@@ -22,7 +22,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Äänet muiden pelien kontekstissa](#äänet-muiden-pelien-kontekstissa)
       - [Visuaaliset avustimet](#visuaaliset-avustimet)
       - [Visuaaliset avustimet muiden pelien kontekstissa](#visuaaliset-avustimet-muiden-pelien-kontekstissa)
-  - [Muut taidot ja henkinen kyvykkyys](#muut-taidot-ja-henkinen-kyvykkyys)
+      - [Henkinen peli – mikä erottaa huippupelaajat muista?](#henkinen-peli--mikä-erottaa-huippupelaajat-muista)
     - [Stressinhallinnan keinoja](#stressinhallinnan-keinoja)
     - [Joukkuekommunikaation hienovaraisuudet](#joukkuekommunikaation-hienovaraisuudet)
   - [Tiimidynamiikka](#tiimidynamiikka)
@@ -58,6 +58,9 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
   - [Laaja tehtävä innokkaille opiskelijoille](#laaja-tehtävä-innokkaille-opiskelijoille)
     - [Tehtävän kuvaus](#tehtävän-kuvaus)
     - [Vaiheet](#vaiheet)
+      - [Resurssit](#resurssit)
+    - [Esimerkkikurssi: **League of Legends**](#esimerkkikurssi-league-of-legends)
+    - [🏆 **Arviointi**](#-arviointi)
   - [Resursseja](#resursseja)
   - [Seuraava aihe](#seuraava-aihe)
   - [Edellinen aihe](#edellinen-aihe)
@@ -268,13 +271,37 @@ AoE-varoitukset näkyvät usein selkeinä punaisina tai sinisinä alueina maassa
 
 Kyseisen pelin yhtenä ongelmana pidetään kuiten sitä, että pelin sisäiset visuaaliset avut eivät ole riittäviä kertomaan, mitä pelissä tapahtuu ja  peliin onkin jo pidempään tehty kolmannen osapuolen ohjelmistolla peliä helpottavia visuaalisia ja audioon perustuvia varoituksia (Weak Auras, TellMeWhen, GTFO).
 
-🚨 Jokaisessa yllä mainitussa pelissä on tietenkin vielä lisäksi omat HUD-elementtinsä, joiden lukeminen on oma taitonsa, mutta emme tämän materiaalin puitteissa perehdy niihin tarkemmin. Samat säännöt pätevät kuin Counter-Strikessa. Tutustu kaikkien pelien kaikkiin asetuksiin ja mieti miten voi käyttää niitä hyväksesi. 
+🚨 Jokaisessa yllä mainitussa pelissä on tietenkin vielä lisäksi omat HUD-elementtinsä, joiden lukeminen on oma taitonsa, mutta emme tämän materiaalin puitteissa perehdy niihin tarkemmin. Samat säännöt pätevät kuin Counter-Strikessa. Tutustu kaikkien pelien kaikkiin asetuksiin ja mieti miten voi käyttää niitä hyväksesi.
 
 ---
 
+#### Henkinen peli – mikä erottaa huippupelaajat muista?
 
+Monissa peleissä – erityisesti kilpailullisissa – yksilötaidot ja refleksit ovat tärkeitä, mutta ne eivät yksin riitä. Ammattilaispelaajat erottuvat usein muista henkisen vahvuuden, tilannetajun ja oppimiskyvyn ansiosta.
 
-## Muut taidot ja henkinen kyvykkyys
+Huippupelaaja ei tee valintoja sattumalta. Hän ymmärtää tilanteen kokonaiskuvan ja osaa sopeutua nopeasti muuttuviin tilanteisiin. Kyse ei ole pelkästä tähtäystaidosta tai APM:stä, vaan siitä, miten pelaaja ajattelee peliä.
+
+Tavallisimpia erottavia tekijöitä ovat:
+
+- Tilannetaju: Pelaaja osaa yhdistää vihollisten liikkeet, äänet, karttatilanteet ja omat tiimikaverinsa liikkeisiin. Tästä syntyy ennakointikyky, joka usein näyttää "aavistukselta", mutta on oikeasti tietoon perustuva päätelmä.
+
+- Mentaalinen kestävyys: Huippupelaaja ei romahda, vaikka tilanne olisi 0–10. Hän kykenee jatkamaan keskittyneenä ja tekemään järkeviä päätöksiä painetilanteissa.
+
+- Itsereflektointi: Ottelun jälkeen ammattilaispelaaja katsoo demonsa, miettii miksi jokin epäonnistui ja tekee muutoksia. Tämä jatkuva oppimisen asenne erottaa kärjen keskitasosta.
+
+**Voiko ammattipelaaja hypätä pelistä toiseen?** Onko hyvä CS-pelaaja automaattisesti hyvä Valorantissa? Tai voiko LoL:in taitaja menestyä Dota2:ssa? Siirtymiä esimerkiksi CS2 -> Valorant on nähty paljon pelin tultua ulos ja onkin luontevaa, että osa CS2:sta siirtyneistä pelaajista ovat löytäneet suurta menestystä saman tyylisessä pelissä.
+
+Peleissä on joukko universaaleja taitoja, jotka siirtyvät lajista toiseen.
+
+| Taito                   | Missä näkyy                     | Siirtyvyys         |
+|-------------------------|----------------------------------|--------------------|
+| Tilannetaju             | FPS, MOBA, RTS                  | ✅ Korkea          |
+| Paineensieto            | Kaikki peligenret               | ✅                 |
+| Strateginen ajattelu    | RTS, MOBA, MMO PvP              | ✅                 |
+| Refleksit / mikrotarkkuus | FPS, RTS                      | ⚠️ Riippuu pelistä |
+| Pelimekaniikan hallinta | Vain tietyssä pelissä           | ❌                 |
+
+*Osa taidoista on universaaleja, mutta usein pelaajat yrittävät tehdä siirtymiä peligenrejen sisällä. Harvoin esimerkiksi CS-ammattilainen päätyy DOTA2 ammattilaiseksi.*
 
 ### Stressinhallinnan keinoja
 
@@ -348,7 +375,7 @@ Kyseisen pelin yhtenä ongelmana pidetään kuiten sitä, että pelin sisäiset 
 
 [![The Competitive Advantage of Teamwork with Patrick Lencioni](https://img.youtube.com/vi/cIGLI3eWfsc/0.jpg)](https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc.)  
 
-*Kilpailuedun saavuttaminen yhteistyöllä.*
+*Kilpailuedun saavuttaminen yhteistyöllä. Esimerjju *
 
 ---
 
@@ -647,75 +674,39 @@ Esimerkkejä:
 
 **Päivä 1:** Käytä aim-traineria 30 minuuttia ja analysoi viimeisin pelisi.
 **Päivä 2:** Kehitä pelistrategia ja harjoittele oman mielen rauhoittamista pelitilanteissa.
-**Päivä 3:** Suorita 20-minuuttinen  harjoitus ja tiimityöskentelyharjoitus.
+**Päivä 3:** Suorita 20-minuuttinen harjoitus ja tiimityöskentelyharjoitus.
 **Päivä 4:** Analysoi peliä analytiikkatyökaluilla ja anna palautetta toisille opiskelijoille.
 **Päivä 5:** Suunnittele päivän ruokavalio ja aseta lyhyen ja pitkän tähtäimen tavoitteet.
 
-Resurssit:
+#### Resurssit
 
-Listaa resurssit, joita opiskelijat voivat käyttää kurssin aikana (esim. aim-trainerit, meditaatioapplikaatiot, fitness-ohjelmat, analytiikkatyökalut, ravinto-oppaat).
-
-Kurssin aikataulu:
+🗓️ **Kurssin aikataulu**
 
 Luo yksityiskohtainen aikataulu jokaiselle päivälle, mukaan lukien aamupäivän teoreettiset istunnot ja iltapäivän käytännön tehtävät.
 
-Toteutus:
+👥 **Toteutus**
 
-Toteuta kurssi ryhmässä tai yksilönä. Jos mahdollista, järjestä kurssi toisille opiskelijoille tai ystäville.
+Toteuta kurssi ryhmässä tai yksilönä. Jos mahdollista, järjestä kurssi toisille opiskelijoille tai ystäville. Dokumentoi kurssin eteneminen ja kerää palautetta osallistujilta.
 
-Dokumentoi kurssin eteneminen ja kerää palautetta osallistujilta.
+📝 **Arviointi**
 
-Arviointi:
+Arvioi kurssin tehokkuus ja opiskelijoiden kehitys. Kerää palautetta osallistujilta ja tee tarvittavia parannuksia kurssiin.
 
-Arvioi kurssin tehokkuus ja opiskelijoiden kehitys.
+---
 
-Kerää palautetta osallistujilta ja tee tarvittavia parannuksia kurssiin.
+### Esimerkkikurssi: **League of Legends**
 
-Esimerkkikurssi:
+| **Päivä** | **Teoria**                                         | **Käytännön tehtävät**                             | **Resurssit**                                        |
+|-----------|----------------------------------------------------|----------------------------------------------------|------------------------------------------------------|
+| **Päivä 1** | 🎮 **Pelimekaniikat, lihasmuisti, tehokas harjoittelu** | 🏋️‍♂️ Käytä aim-traineria 30 minuuttia, analysoi viimeisin pelisi | 🎯 Aim Lab, League of Legends -foorumit             |
+| **Päivä 2** | 🧠 **Pelin meta, strategiat, stressinhallinta**     | 📝 Kehitä strategia, harjoittele meditaatiota       | 📊 TheScore Esports, 🧘‍♂️ Headspace                 |
+| **Päivä 3** | 💪 **Fyysisen kunnon vaikutus, tiimityöskentely**    | 🏃‍♂️ 20-minuuttinen fitness-harjoitus, tiimityöskentelyharjoitus | 🏋️‍♀️ Darebee’s Gaming Fitness, Coursera           |
+| **Päivä 4** | 📊 **Analytiikkatyökalut, valmennuksen rooli**      | 🔍 Analysoi peliä Mobalyticsilla, peer coaching     | 📈 GameLeap Esports, 🎮 Gamer Sensei                |
+| **Päivä 5** | 🍎 **Ravinto, lepo, verkostoituminen, tavoitteiden asettaminen** | 🥗 Suunnittele ruokavalio, aseta tavoitteet         | 🌱 Healthline, MyFitnessPal, paikalliset esports-yhteisöt |
 
-Peli: League of Legends
+---
 
-Päivä 1: Taitojen kehittäminen
-
-Teoria: Pelimekaniikat, lihasmuisti, tehokas harjoittelu.
-
-Käytännön tehtävät: Käytä aim-traineria 30 minuuttia, analysoi viimeisin pelisi.
-
-Resurssit: Aim Lab, League of Legends -foorumit.
-
-Päivä 2: Strateginen ymmärtäminen ja henkinen ketteryys
-
-Teoria: Pelin meta, strategiat, stressinhallinta.
-
-Käytännön tehtävät: Kehitä strategia, harjoittele meditaatiota.
-
-Resurssit: TheScore Esports, Headspace.
-
-Päivä 3: Fyysinen kunto ja tiimityöskentely
-
-Teoria: Fyysisen kunnon vaikutus, tiimityöskentely.
-
-Käytännön tehtävät: 20-minuuttinen fitness-harjoitus, tiimityöskentelyharjoitus.
-
-Resurssit: Darebee’s Gaming Fitness, Coursera.
-
-Päivä 4: Analyysitaidot ja valmennus
-
-Teoria: Analytiikkatyökalut, valmennuksen rooli.
-
-Käytännön tehtävät: Analysoi peliä Mobalyticsilla, peer coaching.
-
-Resurssit: GameLeap Esports, Gamer Sensei.
-
-Päivä 5: Terveellinen elämäntapa, verkostoituminen ja tavoitteiden asettaminen
-
-Teoria: Ravinto, lepo, verkostoituminen, tavoitteiden asettaminen.
-
-Käytännön tehtävät: Suunnittele ruokavalio, aseta tavoitteet.
-
-Resurssit: Healthline, MyFitnessPal, paikalliset esports-yhteisöt.
-
-Arviointi:
+### 🏆 **Arviointi**
 
 Kerää palautetta osallistujilta ja arvioi kurssin toteutuksen mahdolliset kehityskohdat.
 
