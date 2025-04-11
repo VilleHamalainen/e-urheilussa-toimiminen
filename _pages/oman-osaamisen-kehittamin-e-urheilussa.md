@@ -24,7 +24,7 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Visuaaliset avustimet muiden pelien kontekstissa](#visuaaliset-avustimet-muiden-pelien-kontekstissa)
       - [Henkinen peli – mikä erottaa huippupelaajat muista?](#henkinen-peli--mikä-erottaa-huippupelaajat-muista)
       - [Esports-urheilijan fyysinen ja psykologinen hyvinvointi](#esports-urheilijan-fyysinen-ja-psykologinen-hyvinvointi)
-    - [Joukkuekommunikaation hienovaraisuudet](#joukkuekommunikaation-hienovaraisuudet)
+  - [Miten ammattilaiseksi pääsee](#miten-ammattilaiseksi-pääsee)
   - [Tiimidynamiikka](#tiimidynamiikka)
     - [Pelin aikainen toiminta](#pelin-aikainen-toiminta)
     - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)
@@ -345,20 +345,29 @@ Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa
 
 *Team Roccatin psykologi kertoo useista eri osa-alueista psykologian ja e-urhelun näkökulmasta.*
 
+## Miten ammattilaiseksi pääsee
 
-### Joukkuekommunikaation hienovaraisuudet
+Yllä on pitkä listaus vaatimuksista ja työkaluista, joita esports ammattilaisuus vaatii, mutta mitä tulisi tehdä kun oman pelin mekaaniset taidot ovat tarpeeksi pitkällä ja halua jatkaa eteenpäin olisi. Useissa peleissä on nykyään leaderboardeja, joita kiipeämällä voit tulla huomatuksia joukkuepeleissä. Counter-Strikessa tälläisiä alustoja ovat perinteisesti olleet ESEA ja FACEIT. Kuitenkin yksin tai kaveriporukassakin pelaaminen on parhaillaan todella hauskaa, mutta ei tavoitteellista ja tässä kohdataankin ongelma: mistä löytää samoilla tavoitteilla olevia pelikavereita?
 
-- **Tiedon priorisointi:**  
-  - "Clearing comms" -käytäntö (hiljaisuus kriittisinä hetkinä) on välttämätön esim. CS2:n 1v5-tilanteissa.  
-- **Kulttuurierot:**  
-  - Kansainvälisissä joukkueissa (esim. G2) englantia puhuvien pelaajien sanaston yksinkertaistaminen nopeuttaa viestintää.  
+Yksi vaihtoehdoista on aloittaa oma joukkue ja etsi siihen sopivia pelaajia tai sitten koittaa liittya olemassa olevaan joukkueeseen. Tämä vaatii usein erilaisiin verkostoihin kuten forumeille, Reddit- ja Discord-yhteisöihin liittymisen tai aikaisemmin mainittujen FACEIT tai ESEA-alustojen kautta pelikavereiden hankkimisen.
 
----
+Kun joukkue on perustettu alkaa työ, josta jo aikaisemmin puhuttiin, mutta joukkueen näkökulmasta tavoitteellisesti osallistua erilaisiin online -ja lan-turnauksiin. Hyvät sijoitukset pienissä turnauksissa voivat nostaa omaa asemaasi muidenkin joukkueiden silmissä. Vaikka pelaatkin eri joukkueita vastaan kannattaa pitää silmät ja korvat jatkuvasti auki uusille mahdollisuuksille. Verkostot ovat tässäkin äärimmäisen tärkeitä.
 
-[![(How I'd Go Pro in CS2 If I Started Again)(https://img.youtube.com/vi/tonzxoJQpbA/0.jpg)https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO
+Myös striimaus on nykyään yksi vaihtoehto tulla löydetyksi. Alustat kuten Twitch tai YouTube voivat olla merkittävässä roolissa seuraajien keräämisessä, taitojen esittämisessä ja uusien kontaktien löytämisessä. Usein pelaajat mainostavatkin omaa streamiaan pelin aikana tai jälkeen varsinkin, jos peli on mennyt hyvin. Streamauksen kautta voi löytyä myös sponsoreita, joukkuetarjouksia ja auttaa oman bradin kehittämisessä!
 
+Nykyään myös YouTubeen on noussut paljon valmentajia, jotka rahaa vastaan auttavat pelaajia mielellään, mutta myös ilmaista materiaalia on paljon tarjolla ja näitä voi hyödyntää oman osaamisen tai joukkueen pelin kehittämisessä.
 
-[![(How Is Counter-Strike Taught In Danish Schools?](https://img.youtube.com/vi/zhAxECqGZSQ/0.jpg)](https://www.youtube.com/watch?v=zhAxECqGZSQ&ab_channel=STYKO)
+Jos oikeasti tavoittelet e-urheilin kirkkainta tähteä tulee sinun kohdella pelaamista kuin huippu-urheilua, jossa joudut tekemään uhrauksia ja panostamaan peliin paljon. Joukkueiden kohdalla tämä tarkoittaa usein sitä, että kaveriporukat jäävät taakse ja joudut etsimään vieraita pelaajia unelmasi saavuttamiseksi. 
+
+Yksi realiteetti on myös se, että sinulla tulee olla tarpeeksi lahjakkuutta, jotta voit päästä huipulle. Alla Stykon vihjeita ammattilaisuuteen, jos hän aloittaisi uudelleen.
+
+[![How I'd Go Pro in CS2 If I Started Again](https://img.youtube.com/vi/tonzxoJQpbA/0.jpg)](https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO)
+
+*Styko kertoo kuinka aloittaisi, jos haluaisi uudelleen ammattilaiseksi.*
+
+Palon nähnyt entinen pelaaja, opettaja ja valmentaja MithR kertoo mitä ammattilaisuus vaatii. Oletko oikeasti valmis ja tahdotko ammattipelaajaksi?
+
+[![How Is Counter-Strike Taught In Danish Schools?](https://img.youtube.com/vi/zhAxECqGZSQ/0.jpg)](https://www.youtube.com/watch?v=zhAxECqGZSQ&ab_channel=STYKO)
 
 *Näkökulmia ammattilaiseksi pääsemisestä ja siitä kuinka Counter-Strikea opetetaan Tanskassa.*
 
