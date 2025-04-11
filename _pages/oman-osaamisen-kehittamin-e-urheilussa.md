@@ -25,18 +25,21 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Henkinen peli – mikä erottaa huippupelaajat muista?](#henkinen-peli--mikä-erottaa-huippupelaajat-muista)
       - [Esports-urheilijan fyysinen ja psykologinen hyvinvointi](#esports-urheilijan-fyysinen-ja-psykologinen-hyvinvointi)
   - [Miten ammattilaiseksi pääsee?](#miten-ammattilaiseksi-pääsee)
+    - [Yhteenveto](#yhteenveto)
   - [Tiimidynamiikka](#tiimidynamiikka)
     - [Erikoistumisrooleja tai termejä](#erikoistumisrooleja-tai-termejä)
     - [Yleisiä rooleja](#yleisiä-rooleja)
-    - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)
+    - [Pelin ulkopuolinen johtajuus](#pelin-ulkopuolinen-johtajuus)
+  - [Tehtäviä](#tehtäviä)
+    - [**Tehtävä**: Kommunkaation analyysi](#tehtävä-kommunkaation-analyysi)
+    - [**Tehtävä**: Oman ja joukkueen tekemisen analysointi](#tehtävä-oman-ja-joukkueen-tekemisen-analysointi)
+    - [**Tehtävä**: Mieti omia ja joukkueesi vahvuuksia ollevan videon perusteella. Mitkä ovat videon viisi tärkeintä osa-aluetta, joihin aiot keskittyä?](#tehtävä-mieti-omia-ja-joukkueesi-vahvuuksia-ollevan-videon-perusteella-mitkä-ovat-videon-viisi-tärkeintä-osa-aluetta-joihin-aiot-keskittyä)
+    - [**Tehtävä**: Järjestä tiimipalaveri hyödyntäen pelin ulkopuolisia työkaluja. Miten muut pelaajat suhtautuivat?](#tehtävä-järjestä-tiimipalaveri-hyödyntäen-pelin-ulkopuolisia-työkaluja-miten-muut-pelaajat-suhtautuivat)
+    - [**Tehtävä**: Tutustu alla olevaan materiaaliin liittyen pelilliseen johtajuuteen ja tee alla olevat tehtävät.](#tehtävä-tutustu-alla-olevaan-materiaaliin-liittyen-pelilliseen-johtajuuteen-ja-tee-alla-olevat-tehtävät)
+    - [Pelin ulkopuolinen toiminta pelaajan ja joukkueen näkökulmasta](#pelin-ulkopuolinen-toiminta-pelaajan-ja-joukkueen-näkökulmasta)
   - [Konfliktinratkaisu](#konfliktinratkaisu)
     - [Pelin aikaiset konfliktit](#pelin-aikaiset-konfliktit)
     - [Pelin ulkopuoliset konfliktit](#pelin-ulkopuoliset-konfliktit)
-  - [Johtajuustaidot](#johtajuustaidot)
-    - [Pelin aikainen johtajuus](#pelin-aikainen-johtajuus)
-    - [Pelin ulkopuolinen johtajuus](#pelin-ulkopuolinen-johtajuus)
-  - [Tehtäviä](#tehtäviä)
-    - [Oman ja joukkueen tekemisen analysointi](#oman-ja-joukkueen-tekemisen-analysointi)
   - [Tekninen osaaminen](#tekninen-osaaminen)
     - [Laitteisto- ja ohjelmisto-osaaminen](#laitteisto--ja-ohjelmisto-osaaminen)
     - [Striimaus- ja sisällöntuotantotaidot](#striimaus--ja-sisällöntuotantotaidot)
@@ -372,6 +375,12 @@ Palon nähnyt entinen pelaaja, opettaja ja valmentaja MithR kertoo mitä ammatti
 
 *Näkökulmia ammattilaiseksi pääsemisestä ja siitä kuinka Counter-Strikea opetetaan Tanskassa.*
 
+### Yhteenveto
+
+1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
+2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukkueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit.
+3. Striimaaminen. Voit myös pelata ammatiksesi olematta varsinaisesti osana kilpailullista joukkuetta striimauksen kautta. Usein pelaajilla on erilaisia taitoja (hyvä pelissä, karismaattinen, hauska tai hyvä opettaja), jonka avulla hän kerää itselleen katsojia ja pystyy tuomaan organisaatioille arvoa tätä kautta. Striimin kautta sinut voidaan myös bongata osaksi e-urheilujoukkuetta.
+
 ## Tiimidynamiikka
 
 Menestyvä esports-joukkue rakentuu tiimidynamiikan ympärille, jossa on selkeät roolit, tehokas kommunkaatio, taktista osaamista ja tukeva organisaatio sekä valmentaja.
@@ -434,15 +443,78 @@ Palkintoja oli kategorioista:
 
 ---
 
-
 **Käytännön esimerkkejä ja harjoituksia:**  
 
 - Joukkueilla voi olla erilaisia koodisanoja tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter-Strikessa](https://totalcsgo.com/callouts).
 - Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter-Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä perääntyä.
 
+### Pelin ulkopuolinen johtajuus
+
+
+ [![OG.Ceb motivational teamleading](https://img.youtube.com/vi/mb9xmqhJnv/0.jpg)](https://www.youtube.com/watch?v=mb9xmqhJnvM&ab_channel=KickasS_____)
+
+ *Esimerkki Dota2-joukkueen pelienvälisestä toiminnasta esimerkkinä OG.Ceb.*
+
+## Tehtäviä
+
+### **Tehtävä**: Kommunkaation analyysi
+
+1. Analysoi parin tai pienen tiimin kanssa Navi-Vitality pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
+Millaisia erilaisia kommunikaatiotilanteita tunnistatte? Esimerkiksi onko kierroksen alussa, keskellä ja lopussa tapahtuvalla kommunikaatiolla eroja?
+Onko joukkueen strategia erän aikana selkeä? Toimiiko kommunikaatio selkeästi?
+Näkyykö paine kommunikaatiossa missään vaiheessa? Onko kommunikaatio erilaista alussa kuin lopun clutch-tilanteessa?
+Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
+
+ [![Example of esports communication by NAVI](https://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU)  
+
+*Esimerkki Navin kommunikaatiosta.*
+
+2. Analysoi parin kanssa Faze-G2 pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
+Huomaatteko joukkueiden kommunikaatiossa selkeitä eroja?
+Tunnistatteko eroja joukkueiden välillä, jotka puhuvat natiivisti samaa kieltä vs kaikki puhuvat englantia?
+Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputulokseen?
+
+[![Clutch communication by Faze](https://img.youtube.com/vi/8owi_WvrGuk/0.jpg)](https://www.youtube.com/watch?v=8owi_WvrGuk)  
+
+*JKS ja Ropz 2v5 tilanteen pelaaminen ja kommunikaatio.*
+
+### **Tehtävä**: Oman ja joukkueen tekemisen analysointi
+
+Tutustu alla oleviin videoihin ja mieti omaa kehittymistäsi pelaajana. Teetkö näitä asioita jo nyt? Valitse itsellesi omaan peliin sopiva kehityskohta, suorita se ja raportoi tekemisesi. Esimerkkinä tavoitteenasi on kehittää mekaanista osaamistasti, joten menet pelaamaan Deathmatchia, mutta teorian pohjalta ymmärrät, että jokaisella harjoituksella pitää olla tavoite, joten keskityt ekassa sessiossa ampumaan yksittäisiä luoteja, toisessa keskityt burstaamiseen ja viimeisessä spray-ammuntaan.
+
+[Styko demokatselmus](https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO)
+
+[Have players become too good](https://www.youtube.com/watch?v=st-T6KpSJaw&t=187s&ab_channel=STYKO)
+
+[How to improve like Niko](https://www.youtube.com/watch?v=g1pzQ0BN5ys&ab_channel=STYKO)
+
+[How to improve faster](https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO)
+
+[How pros do it](https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO)
+
+### **Tehtävä**: Mieti omia ja joukkueesi vahvuuksia ollevan videon perusteella. Mitkä ovat videon viisi tärkeintä osa-aluetta, joihin aiot keskittyä?
+
+[![The Competitive Advantage of Teamwork with Patrick Lencioni](https://img.youtube.com/vi/cIGLI3eWfsc/0.jpg)](https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc.)  
+
+*Kilpailuedun saavuttaminen yhteistyöllä esportsin ulkopuolelta. Samoja asioita voi hyödyntää ja peilata esportsiin.*
+
+### **Tehtävä**: Järjestä tiimipalaveri hyödyntäen pelin ulkopuolisia työkaluja. Miten muut pelaajat suhtautuivat?
+
+- Järjestä **viikoittainen retrospektiivi** käyttäen [*"Start, Stop, Continue"* -metodia](https://www.betterup.com/blog/start-stop-continue).  Metodin idea miettiä mitä asioita kannattaa aloittaa, joita ei tehdä. Mitä olevassa olevia toimintamalleja ei kannattaisi jatkaa ja mitkä toimivat hyvin.
+- Usein joukkueet ja tiimit osallistuvat **tiimirakennusaktiviteetteihin** (esim. pelataan yhteistyöpohjaista peliä kuten [*Overcooked*](https://en.wikipedia.org/wiki/Overcooked)).
+
+### **Tehtävä**: Tutustu alla olevaan materiaaliin liittyen pelilliseen johtajuuteen ja tee alla olevat tehtävät.
+
+[Aleksi B IGL Tutorial](https://www.youtube.com/watch?v=-DfqcmHVYt0&ab_channel=betwayesports)
+[Launders 3 things every IGL needs to know](https://www.youtube.com/watch?v=7WhcLTTArw4&ab_channel=launders)
+[How best ingame leaders think](https://www.youtube.com/watch?v=ERbN-_R4iBI&ab_channel=STYKO)
+
+- Joukkue voi harjoitella pelaamista niin, että eri pelaajat kokeilevat **IGL-roolia** harjoituksissa oppiakseen eri pelaajan näkemyksiä tai erilaisia tyylejä johtaa joukkuetta. Vaihtakaa koko pelin ajaksi tai puoliskoksi IGL-pelaajaa. Raportoi mitkä asiat menivät hyvin ja mitkä huonosti.
+- Valitse omalle pelillesi sopiva videopätkä tai kokonainen ottelu. Analysoi ammattilaisten **päätöksentekoa** ja mieti miksi pelaajat tekevät mitä he tekevät. Voit pohtia asiaa joukkueen ja/tai  yksittäisen pelaajan näkökulmasta.
+
 ---
 
-### Pelin ulkopuolinen toiminta
+### Pelin ulkopuolinen toiminta pelaajan ja joukkueen näkökulmasta
 
 - **Tiimikokoukset:** Säännölliset tapaamiset strategioiden, heikkouksien ja vahvuuksien käsittelyyn.  
 - **Vertaispalaute:** Rakentavan palautteen antaminen ilman syyllistämistä (esim. "Viimeisessä roundissa olisi kannattanut…").  
@@ -451,17 +523,6 @@ Palkintoja oli kategorioista:
   - Käyttöön työkaluja kuten [Leetify](https://leetify.com/) (CS2) tai [Mobalytics](https://mobalytics.gg/) (LoL) tunnistamaan heikkoudet.  
 - **Psykologinen tuki:**  
   - Joukkueet kuten Fnatic käyttävät urheilupsykologeja käsittelemään kilpailupaineita.  
-
-**Käytännön esimerkkejä ja harjoituksia:**  
-
-- Järjestä **viikoittainen retrospektiivi** käyttäen *"Start, Stop, Continue"* -metodia.  Metodin idea miettiä mitä asioita kannattaa aloittaa, joita ei tehdä. Mitä olevassa olevia toimintamalleja ei kannattaisi jatkaa ja mitkä toimivat hyvin.
-- Usein joukkueet ja tiimit osallistuvat **tiimirakennusaktiviteetteihin** (esim. pelataan yhteistyöpohjaista peliä kuten [*Overcooked*](https://en.wikipedia.org/wiki/Overcooked)).  
-
-**Resurssit:**  
-
-[![The Competitive Advantage of Teamwork with Patrick Lencioni](https://img.youtube.com/vi/cIGLI3eWfsc/0.jpg)](https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc.)  
-
-*Kilpailuedun saavuttaminen yhteistyöllä esportsin ulkopuolelta. Samoja asioita voi hyödyntää ja peilata esportsiin.*
 
 ---
 
@@ -494,82 +555,6 @@ Palkintoja oli kategorioista:
 
 ---
 
-## Johtajuustaidot
-
-### Pelin aikainen johtajuus
-
-- **Shot calling:** Päätöksenteko reaaliajassa (esim. "Push now!" vs. "Save weapons"). Näissä tilanteissa myös joukkueen roolien tulee olla selkeät toisin sanoen kuka tekee päätökset tärkeinä hetkinä.
-- **Motivoiva kommunikaatio:** Positiivinen palaute myös häviöiden jälkeen (esim. "Hyvä yritys, mennään seuraavaan ja ollaan hieman tarkempia").  
-
-**Käytännön esimerkkejä ja harjoituksia:**  
-
-- Joukkue voi harjoitella pelaamista niin, että eri pelaajat kokeilevat **IGL-roolia** harjoituksissa oppiakseen eri pelaajan näkemyksiä tai erilaisia tyylejä johtaa joukkuetta.  
-- Analysoi ammattilaisten **päätöksentekoa** kriisitilanteissa (esim. *VALORANT Champions* finaalit jne.).  
-
-**Resurssit:**  
-
-- Video: *"In-Game Leadership in League of Legends"* (YouTube, LS Coaching)  
-[Aleksi B IGL Tutorial](https://www.youtube.com/watch?v=-DfqcmHVYt0&ab_channel=betwayesports)
-[Launders 3 things every IGL needs to know](https://www.youtube.com/watch?v=7WhcLTTArw4&ab_channel=launders)
-[How best ingame leaders think](https://www.youtube.com/watch?v=ERbN-_R4iBI&ab_channel=STYKO)
-
----
-
-### Pelin ulkopuolinen johtajuus
-
-- **Tiimin kehittäminen:** taroituksena yksilöllisiä harjoitusohjelmia pelaajille ja jäsenille riippuen heidän rooleistaan.  
-- **Esimiestaidot:** Ajanhallinta ja priorisointi kiiren keskellä (esim. kilpailu- vs. harjoitusviikko).  
-
-**Käytännön esimerkkejä ja harjoituksia:**  
-
-- Järjestä **tiiminsisäinen mentorointiohjelma** (kokeneemmat jäsenet auttavat uusia).  
-- Osallistu **johtajakoulutukseen** (esim. Suomen Urheiluliiton järjestämät kurssit).  
-
-**Resurssit:**
-
-- [![OG.Ceb motivational teamleading](https://img.youtube.com/vi/mb9xmqhJnv/0.jpg)](https://www.youtube.com/watch?v=mb9xmqhJnvM&ab_channel=KickasS_____)
-
-## Tehtäviä
-
-1. Analysoi parin tai pienen tiimin kanssa Navi-Vitality pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
-Millaisia erilaisia kommunikaatiotilanteita tunnistatte? Esimerkiksi onko kierroksen alussa, keskellä ja lopussa tapahtuvalla kommunikaatiolla eroja?
-Onko joukkueen strategia erän aikana selkeä? Toimiiko kommunikaatio selkeästi?
-Näkyykö paine kommunikaatiossa missään vaiheessa? Onko kommunikaatio erilaista alussa kuin lopun clutch-tilanteessa?
-Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
-
- [![Example of esports communication by NAVI](https://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU)  
-
-*Esimerkki Navin kommunikaatiosta.*
-
-2. Analysoi parin kanssa Faze-G2 pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
-Huomaatteko joukkueiden kommunikaatiossa selkeitä eroja?
-Tunnistatteko eroja joukkueiden välillä, jotka puhuvat natiivisti samaa kieltä vs kaikki puhuvat englantia?
-Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputulokseen?
-
-[![Clutch communication by Faze](https://img.youtube.com/vi/8owi_WvrGuk/0.jpg)](https://www.youtube.com/watch?v=8owi_WvrGuk)  
-
-*JKS ja Ropz 2v5 tilanteen pelaaminen ja kommunikaatio.*
-
-Nykyään on ainakin kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi:
-
-1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
-2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukkueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit.
-3. Striimaaminen. Voit myös pelata ammatiksesi olematta varsinaisesti osana kilpailullista joukkuetta striimauksen kautta. Usein pelaajilla on erilaisia taitoja (hyvä pelissä, karismaattinen, hauska tai hyvä opettaja), jonka avulla hän kerää itselleen katsojia ja pystyy tuomaan organisaatioille arvoa tätä kautta. Striimin kautta sinut voidaan myös bongata osaksi e-urheilujoukkuetta.
-
-### Oman ja joukkueen tekemisen analysointi
-
-[Styko demokatselmus](https://www.youtube.com/watch?v=GfHT1nS-_h4&ab_channel=STYKO)
-
-[Have players become too good](https://www.youtube.com/watch?v=st-T6KpSJaw&t=187s&ab_channel=STYKO)
-
-[How to improve like Niko](https://www.youtube.com/watch?v=g1pzQ0BN5ys&ab_channel=STYKO)
-
-[How to improve faster](https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO)
-
-[How pros do it](https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO)
-
----
-
 
 ## Tekninen osaaminen
 
@@ -594,7 +579,7 @@ Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi 
 **Resurssit:**  
 
 - Kurssi: [Skillshare: Streaming 101](https://www.skillshare.com)  
- 
+
 ---
 
 ## Liiketoimintaosaaminen
