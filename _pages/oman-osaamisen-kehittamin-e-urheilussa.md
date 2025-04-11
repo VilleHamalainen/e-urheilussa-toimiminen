@@ -23,14 +23,13 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Visuaaliset avustimet](#visuaaliset-avustimet)
       - [Visuaaliset avustimet muiden pelien kontekstissa](#visuaaliset-avustimet-muiden-pelien-kontekstissa)
       - [Henkinen peli – mikä erottaa huippupelaajat muista?](#henkinen-peli--mikä-erottaa-huippupelaajat-muista)
-      - [Psykologiaa pelipalvelimella](#psykologiaa-pelipalvelimella)
+      - [Esports-urheilijan fyysinen ja psykologinen hyvinvointi](#esports-urheilijan-fyysinen-ja-psykologinen-hyvinvointi)
       - [Stressinhallinnan keinoja](#stressinhallinnan-keinoja)
     - [Joukkuekommunikaation hienovaraisuudet](#joukkuekommunikaation-hienovaraisuudet)
   - [Tiimidynamiikka](#tiimidynamiikka)
     - [Pelin aikainen toiminta](#pelin-aikainen-toiminta)
-    - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)
     - [Yhteenveto: Kuinka nousta huipputasolle?](#yhteenveto-kuinka-nousta-huipputasolle)
-    - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta-1)
+    - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)
   - [Konfliktinratkaisu](#konfliktinratkaisu)
     - [Pelin aikaiset konfliktit](#pelin-aikaiset-konfliktit)
     - [Pelin ulkopuoliset konfliktit](#pelin-ulkopuoliset-konfliktit)
@@ -162,7 +161,7 @@ Pelin historiassa on ollut jaksoja, joissa tietyt aseet ovat olleet niin vahvoja
 
 Käydään aluksi läpi asioita  yksilöllisen pelaajan näkökulmasta, joka haluaa kehittää omaa pelillistä osaamistaa ja tavoittelee kilpauraa eurheilijana. Pelaajan on hyvä tietää ja tuntea ajoitukset, joilla pelaajat kerkeävät kartan kriittisiin paikkoihin. Tästä esimerkkinä voisi olla Mirage-kartan terroristien vs puolustavan joukkueen taistelu keskustan hallinnasta. Parhaalla lähdöllä oleva puolustava pelaaja kerkeää ikkunaan, josta keskustaa pääsee nopeiten katsomaan. Toisena Dust2, jossa puolutajapelaajat kerkeävät paremmilla lähdöillä ensiksi suoralle, joka vaikuttaa siihen miten hyvät pelaajat tekevät valintoja erien alussa ja peleissä kuulekin kommentteja, kuten "minulla on hyvä lähtö suoralle", joka voi muuttaa molempien puolten erän aloitusta. Alla video, jossa on suurin osa kilpailullisten karttojen alkuajoituksista, jotka yksilöllisen pelaajan on hyvä tietää. Aloittelevat ja kehittyneemmätkin pelaajat tulevat usein yllätetyiksi siitä, missä vastustajat ovat.
 
-[!(New CS2 spawn timings for every map 2024)](https://www.youtube.com/watch?v=63vBcSgtk3I)
+[![New CS2 spawn timings for every map 2024](https://img.youtube.com/vi/63vBcSgtk3I/0.jpg)](https://www.youtube.com/watch?v=63vBcSgtk3I)
 
 *Video eri lähtöjen ajoituksista kaikkiin karttoihin, jotka olivat 2024 kilpailullisessa karttapoolissa.*
 
@@ -206,7 +205,7 @@ Utilityn merkitys kasvaa sitä mukaa kun pelaajien ymmärrys pelin strategisista
 
 Yllä on vain pieni osa äänistä ja siitä mitä niistä voi päätellä, joten tarkemman kuvauksen eri äänistä saat alta olevalta videolta.
 
-[![Everything You Need to Know About CS2 Sounds](https://www.youtube.com/watch?v=bQrm_QbsKzQ&ab_channel=WilsonCS2)]
+[![Everything You Need to Know About CS2 Sounds](https://www.youtube.com/vi/bQrm_QbsKzQ/0.jpg)](https://www.youtube.com/watch?v=bQrm_QbsKzQ&ab_channel=WilsonCS2)
 
 *Äänet ovat monimutkaisempi asia kun yhtäkkiä voisi päätellä ja onkin tärkeä tietää mitkä äänet kuuluvat myös vastustajalle.*
 
@@ -297,16 +296,50 @@ Peleissä on joukko universaaleja taitoja, jotka siirtyvät lajista toiseen.
 | Taito                   | Missä näkyy                     | Siirtyvyys         |
 |-------------------------|----------------------------------|--------------------|
 | Tilannetaju             | FPS, MOBA, RTS                  | ✅ Korkea          |
-| Paineensieto            | Kaikki peligenret               | ✅                 |
-| Strateginen ajattelu    | RTS, MOBA, MMO PvP              | ✅                 |
+| Paineensieto            | Kaikki peligenret               | ✅ Korkea          |
+| Strateginen ajattelu    | RTS, MOBA, MMO PvP              | ✅ Siirrettävissä  |
 | Refleksit / mikrotarkkuus | FPS, RTS                      | ⚠️ Riippuu pelistä |
-| Pelimekaniikan hallinta | Vain tietyssä pelissä           | ❌                 |
+| Pelimekaniikan hallinta | Vain tietyssä pelissä           | ❌ Vaikeaa vaihtaa genreä|
 
 *Osa taidoista on universaaleja, mutta usein pelaajat yrittävät tehdä siirtymiä peligenrejen sisällä. Harvoin esimerkiksi CS-ammattilainen päätyy DOTA2 ammattilaiseksi.*
 
+#### Esports-urheilijan fyysinen ja psykologinen hyvinvointi
 
-#### Psykologiaa pelipalvelimella
+Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa se huippupelaajat merkittävän fyysisen ja psyykkisen kuormituksen alle. Pitkä ura e-urheilijana vaatii kokonaisvaltaista panostusta psykologisiin ja fyysisiin aspekteihin.
 
+🏃 **Fyysiset vaatimukset**
+
+- **Pitkäaikainen paikallaan oleminen tuo mukanaan vaaroja.** Suurin osa e-urheilusta vaatii osallistujia istumaan ja/tai liikkumaan vähän pelatessaan, mikä herättää huolta pelaajien liikkumattomasta elämäntavasta. Tutkimukset ovat osoittaneet, että pelituntien jälkeinen fyysinen aktiivisuus ei välttämättä kompensoi pitkäaikaisen istumisen haittoja. Pitkäaikainen istuminen voi johtaa silmien väsymiseen ja alaselkäkipuihin huonon ryhdin vuoksi. Huono ryhti, kuten eteenpäin kallistunut pään asento, voi aiheuttaa oireita, kuten käsien tai olkapäiden liikkuvuuden heikkenemistä ja jännityspäänsärkyä. Yli 6–8 tuntia päivässä istuminen on yhdistetty sydän- ja verisuonitautien riskin ja kokonaiskuolleisuuden lisääntymiseen.
+
+- **Fyysisen aktiivisuuden hyödyt e-urheilussa ovat todellisia.** Fyysinen hyvinvointi ei ole irti pelinsisäisestä suorituskyvystä, vaan se on osa yleistä hyvinvointia, joka on yhteydessä mielenterveyteen ja kognitiivisiin kykyihin. Fyysinen kunto voi parantaa reaktioaikoja, kestävyyttä ja kykyä säilyttää keskittyminen pitkiä aikoja. Huipputason e-urheilijat käyttävät yli tunnin päivässä fyysiseen harjoitteluun parantaakseen pelaamistaan ja hallitakseen stressiä.
+
+- **Liikunta tuottaa lukemattomia hyötyjä, jotka voivat auttaa huippupelaajia saavuttamaan korkeamman pelitason** – sekä fyysisesti että henkisesti. Tiimit, kuten T1, ovat tehneet yhteistyötä Niken kanssa kannustaakseen liikuntaa ja tarjotakseen harjoittelua, joka auttaa parantamaan pelitaitoja.
+
+- **Tutkimukset ovat osoittaneet, että e-urheiluammattilaiset altistuvat samanlaiselle fyysiselle rasitukselle kuin "normaalit urheilijat".** Kilpailun aikana pelaajien stressihormonitasot (kortisoli) ovat verrattavissa jopa autourheilijoiden tasoihin.
+
+- **Räätälöity ruokavalio on avainasemassa suorituskyvyn ja reaktioaikojen optimoinnissa.** Säännöllinen uni on myös olennainen osa yleistä hyvinvointia ja suorituskykyä. Hyvin nukkuminen itsessään ei tee sinusta parempaa pelaajaa, mutta se on yhteydessä yleiseen hyvinvointiin ja kykyyn keskittyä, joka taas parantaa pelinaikaista suorittamista.
+
+[![Esports players are training like professional athletes](https://www.youtube.com/vi/uyF6ZwtLon/0.jpg)(https://www.youtube.com/watch?v=uyF6ZwtLonM&ab_channel=Quartz)
+
+
+[![Can Working Out Make You a Gaming God?](https://www.youtube.com/vi/O4Dx1sWCKt/0.jpg)(https://www.youtube.com/watch?v=O4Dx1sWCKtM&ab_channel=eAthleteLabs)
+
+
+🧠 **Psykologiset vaatimukset**
+
+- **E-urheilussa kilpailijat ovat usein psykologisen ja fyysisen stressin alaisina.** Amatööripelaajat ovat erityisen alttiita stressille ja negatiivisille tunteilla, koska heillä on korkkeita tavoitteita ilman riittävää valmistautumista, eikä ammattilaiseksi tulemiseen ole selkeitä harjoitteluohjeita. Korkea stressitaso voi johtaa mielenterveysongelmiin ja huonoon päätöksentekoon. E-urheilualalla on korkea uupumusaste mielenterveys- ja stressisyistä. Korkean harjoitteluajan ja masennuksen väliltä on löydetty yhteyksiä, jotka voivat johtaa univaikeuksiin.
+
+- **Psyykkinen vahvuus ja kyky säilyttää korkea keskittymiskyky pitkiä aikoja ovat avaintaitoja kaikessa e-urheilussa.** Huippusuoritusta ei voi ylläpitää jatkuvasti, mutta kyky keskittyä on ratkaisevaa paitsi suorituskyvyn myös harjoittelun laadun kannalta.
+
+- **Joukkueet alkavat yhä enemmän sisällyttää mielenterveystukea pelaajille.** Esimerkiksi Misfits on palkannut psykologin varmistamaan, että pelaajilla on menetelmiä stressin ja ahdistuksen hallintaan. Psykologiset harjoitusohjelmat ovat tarpeen urheilijoiden mielenterveyden suojelemiseksi. Valmentajien ja hallinnon tulisi myös pystyä tunnistamaan pelaajien henkisen ahdistuksen merkit ajoissa.
+
+- **E-urheiluammattilaiset kohtaavat monia stressitekijöitä**, kuten suuren yleisön edessä parhaan suorituskyvyn saavuttamiseen liittyvät paineet sekä joukkuekavereiden välisten kommunikaatio-ongelmien aiheuttama stressi. Huippupelaajilta odotetaan nopeaa ajatuksen juoksua, negatiivisista reaktioista selviämistä, jatkuvan häirinnän sietoa ja silti positiivien asenteen säilyttämistä koko turnauksen ajan. Yksittäiset virheet tärkeissä otteluissa voi ratkaista pelin lopputuloksen, mikä voi kuormittaa pelaajia henkisesti.
+
+- **Henkiläkohtaisen itseluottamuksen ja motivaation ymmärtäminen on tärkeä osa ammattilaisuutta.** Motivaatio voi olla sisäistä (pelaamisen ilo) tai ulkoista (palkinnot). Ihannetapauksessa suurin osa motivaatiosta tulisi olla sisäistä. Sisäinen motivaatio auttaa säilyttämään keskittymisen, vähentää suorituspaineita ja antaa pelaajan nauttia tekemisestään.
+
+- **Aikaisemmat kokemukset voivat heijastua itseluottamukseen tai sen puutteeseen.** Onnistumiset lisäävät itseluottamusta ja uskoa omiin kykyihin kun taas epäonnistumiset heikentävät sitä. Ympäristön (organisaatio, tiimikaveri) kommunikaatiotavat vaikuttavat myös itseluottamukseen. Jos hävityistä peleistä ja tehdyistä virheistä puhutaan ohimenevinä asioina, ne eivät jätä pysyviä negatiivisia jälkiä itseluottamukseen. Itsetuntemus omien tunteiden, ajatusten ja uskomusten tunteminen on välttämätöntä. Omien vahvuuksien, heikkouksien ja kehityskohteiden tunnistaminen mahdollistaa edistymisen.
+
+- **Rutiinit ja tavat luovat päivien rakenteen ja voivat olla erittäin hyödyllisiä tavoitteiden saavuttamisessa, kuten e-urheilijana kehittymisessä.** Päivittäiset rutiinit ovat hyödyllisiä mielenterveydelle, sillä ne voivat esimerkiksi vähentää stressiä, toimia selviytymiskeinona ja lievittää ahdistusta. Hyvät päivittäiset tavat heijastuvat suoraan pelaajan kehitykseen ja suoritukseen pelipalvelimella.
 
 [![Meet the Esports Psychologist Who Led Astralis to a 'Counter-Strike' Championship](https://www.youtube.com/watch?v=1FB76xQ8XL4&ab_channel=Mashable)]
 
@@ -338,13 +371,6 @@ Peleissä on joukko universaaleja taitoja, jotka siirtyvät lajista toiseen.
 - **Roolien dynamiikka:**  
   - Esimerkki: Astraliksen "blameF" rooli IGL:nä ja lurkerina samanaikaisesti vaatii poikkeuksellista multitaskointia.  
 
-### Pelin ulkopuolinen toiminta
-
-- **Tietotekninen analyysi osaksi pelaajana kehittymistä:**  
-  - Käyttöön työkaluja kuten [Leetify](https://leetify.com/) (CS2) tai [Mobalytics](https://mobalytics.gg/) (LoL) tunnistamaan heikkoudet.  
-- **Psykologinen tuki:**  
-  - Joukkueet kuten Fnatic käyttävät urheilupsykologeja käsittelemään kilpailupaineita.  
-
 ---
 
 ### Yhteenveto: Kuinka nousta huipputasolle?
@@ -374,6 +400,12 @@ Peleissä on joukko universaaleja taitoja, jotka siirtyvät lajista toiseen.
 
 - **Tiimikokoukset:** Säännölliset tapaamiset strategioiden, heikkouksien ja vahvuuksien käsittelyyn.  
 - **Vertaispalaute:** Rakentavan palautteen antaminen ilman syyllistämistä (esim. "Viimeisessä roundissa olisi kannattanut…").  
+
+- **Tietotekninen analyysi osaksi pelaajana kehittymistä:**  
+  - Käyttöön työkaluja kuten [Leetify](https://leetify.com/) (CS2) tai [Mobalytics](https://mobalytics.gg/) (LoL) tunnistamaan heikkoudet.  
+- **Psykologinen tuki:**  
+  - Joukkueet kuten Fnatic käyttävät urheilupsykologeja käsittelemään kilpailupaineita.  
+
 
 **Käytännön esimerkkejä ja harjoituksia:**  
 
