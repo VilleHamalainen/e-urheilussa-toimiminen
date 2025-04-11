@@ -465,20 +465,13 @@ Pelilaneissa kytkimen käyttö on erityisen tärkeää. Jokainen laite saa oman 
 
     Connection-specific DNS Suffix  . :
     Link-local IPv6 Address . . . . . : fe80::4d53:5fa1:cdde:a2f7%4
-    IPv4 Address. . . . . . . . . . . : 82.112.110.245
+    IPv4 Address. . . . . . . . . . . : 192.168.0.10
     Subnet Mask . . . . . . . . . . . : 255.255.252.0
     Default Gateway . . . . . . . . . : 192.168.1.1
 
- Ethernet adapter vEthernet (Default Switch):
-
-    Connection-specific DNS Suffix  . :
-    Link-local IPv6 Address . . . . . : ************** 
-    IPv4 Address. . . . . . . . . . . : 172.18.176.1
-    Subnet Mask . . . . . . . . . . . : 255.255.240.0
-    Default Gateway . . . . . . . . . :
 ```
 
-Omassa kotiverkossa on syytä olla tietoinen reitittimen asetuksista ja verkon tilasta. Windows-koneella verkon tiedot voidaan tarkistaa `ipconfig`-komennolla.
+*Omassa kotiverkossa on syytä olla tietoinen reitittimen asetuksista ja verkon tilasta. Windows-koneella verkon tiedot voidaan tarkistaa `ipconfig`-komennolla.*
 
 ---
 
