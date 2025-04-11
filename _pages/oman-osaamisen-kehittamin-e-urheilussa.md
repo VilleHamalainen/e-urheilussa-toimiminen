@@ -24,11 +24,9 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Visuaaliset avustimet muiden pelien kontekstissa](#visuaaliset-avustimet-muiden-pelien-kontekstissa)
       - [Henkinen peli – mikä erottaa huippupelaajat muista?](#henkinen-peli--mikä-erottaa-huippupelaajat-muista)
       - [Esports-urheilijan fyysinen ja psykologinen hyvinvointi](#esports-urheilijan-fyysinen-ja-psykologinen-hyvinvointi)
-      - [Stressinhallinnan keinoja](#stressinhallinnan-keinoja)
     - [Joukkuekommunikaation hienovaraisuudet](#joukkuekommunikaation-hienovaraisuudet)
   - [Tiimidynamiikka](#tiimidynamiikka)
     - [Pelin aikainen toiminta](#pelin-aikainen-toiminta)
-    - [Yhteenveto: Kuinka nousta huipputasolle?](#yhteenveto-kuinka-nousta-huipputasolle)
     - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)
   - [Konfliktinratkaisu](#konfliktinratkaisu)
     - [Pelin aikaiset konfliktit](#pelin-aikaiset-konfliktit)
@@ -38,10 +36,6 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
     - [Pelin ulkopuolinen johtajuus](#pelin-ulkopuolinen-johtajuus)
   - [Tehtäviä](#tehtäviä)
     - [Oman ja joukkueen tekemisen analysointi](#oman-ja-joukkueen-tekemisen-analysointi)
-  - [Fyysinen ja henkinen hyvinvointi](#fyysinen-ja-henkinen-hyvinvointi)
-    - [Ergonomia ja fyysinen kunto](#ergonomia-ja-fyysinen-kunto)
-    - [Stressinhallinta ja palautuminen](#stressinhallinta-ja-palautuminen)
-    - [Ravitsemus ja uni](#ravitsemus-ja-uni)
   - [Tekninen osaaminen](#tekninen-osaaminen)
     - [Laitteisto- ja ohjelmisto-osaaminen](#laitteisto--ja-ohjelmisto-osaaminen)
     - [Striimaus- ja sisällöntuotantotaidot](#striimaus--ja-sisällöntuotantotaidot)
@@ -319,11 +313,13 @@ Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa
 
 - **Räätälöity ruokavalio on avainasemassa suorituskyvyn ja reaktioaikojen optimoinnissa.** Säännöllinen uni on myös olennainen osa yleistä hyvinvointia ja suorituskykyä. Hyvin nukkuminen itsessään ei tee sinusta parempaa pelaajaa, mutta se on yhteydessä yleiseen hyvinvointiin ja kykyyn keskittyä, joka taas parantaa pelinaikaista suorittamista.
 
-[![Esports players are training like professional athletes](https://www.youtube.com/vi/uyF6ZwtLon/0.jpg)(https://www.youtube.com/watch?v=uyF6ZwtLonM&ab_channel=Quartz)
+[![Esports players are training like professional athletes](https://img.youtube.com/vi/uyF6ZwtLon/0.jpg)](https://www.youtube.com/watch?v=uyF6ZwtLonM&ab_channel=Quartz)
 
+*Esimerkki ammatilaisorganisaation toiminnasta ja kilpailuedun saavuttamisesta kaikin mahdollisin keinoin.*
 
-[![Can Working Out Make You a Gaming God?](https://www.youtube.com/vi/O4Dx1sWCKt/0.jpg)(https://www.youtube.com/watch?v=O4Dx1sWCKtM&ab_channel=eAthleteLabs)
+[![Can Working Out Make You a Gaming God?](https://img.youtube.com/vi/O4Dx1sWCKt/0.jpg)](https://www.youtube.com/watch?v=O4Dx1sWCKtM&ab_channel=eAthleteLabs)
 
+*Urheilun hyödyt e-urheilijalle.
 
 🧠 **Psykologiset vaatimukset**
 
@@ -341,17 +337,14 @@ Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa
 
 - **Rutiinit ja tavat luovat päivien rakenteen ja voivat olla erittäin hyödyllisiä tavoitteiden saavuttamisessa, kuten e-urheilijana kehittymisessä.** Päivittäiset rutiinit ovat hyödyllisiä mielenterveydelle, sillä ne voivat esimerkiksi vähentää stressiä, toimia selviytymiskeinona ja lievittää ahdistusta. Hyvät päivittäiset tavat heijastuvat suoraan pelaajan kehitykseen ja suoritukseen pelipalvelimella.
 
-[![Meet the Esports Psychologist Who Led Astralis to a 'Counter-Strike' Championship](https://www.youtube.com/watch?v=1FB76xQ8XL4&ab_channel=Mashable)]
+[![Meet the Esports Psychologist Who Led Astralis to a 'Counter-Strike' Championship](https://img.youtube.com/vi/1FB76xQ8XL4/0.jpg)](https://www.youtube.com/watch?v=1FB76xQ8XL4&ab_channel=Mashable)
 
-[![S02 E01: The psychology behind esports with Xirreth](https://www.youtube.com/watch?v=FLtYPGGxxSs&t=1754s&ab_channel=TurtleBeachPC)]
+*Suomalainen psykologi, joka aloitti Astraliksen kuuluisan Counter-Strike voittojen putken.*
 
-#### Stressinhallinnan keinoja
+[![S02 E01: The psychology behind esports with Xirreth](https://img.youtube.com/vi/FLtYPGGxxSs/0.jpg)](https://www.youtube.com/watch?v=FLtYPGGxxSs&t=1754s&ab_channel=TurtleBeachPC)
 
-- **Fyysiset tekniikat:**  
-  - Hengitysharjoitukset (4-7-8-malli) ennen "clutch"-tilanteita.  
-  - Käsien ja ranteiden venyttely 15 minuutin välein estää kipuja.  
-- **Mentaalinen reset:**  
-  - Pro-pelaajat kuten s1mple käyttävät 30-sekuntisia taukoja häviöputkien katkaisemiseen.  
+*Team Roccatin psykologi kertoo useista eri osa-alueista psykologian ja e-urhelun näkökulmasta.*
+
 
 ### Joukkuekommunikaation hienovaraisuudet
 
@@ -362,36 +355,25 @@ Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa
 
 ---
 
+[![(How I'd Go Pro in CS2 If I Started Again)(https://img.youtube.com/vi/tonzxoJQpbA/0.jpg)https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO
+
+
+[![(How Is Counter-Strike Taught In Danish Schools?](https://img.youtube.com/vi/zhAxECqGZSQ/0.jpg)](https://www.youtube.com/watch?v=zhAxECqGZSQ&ab_channel=STYKO)
+
+*Näkökulmia ammattilaiseksi pääsemisestä ja siitä kuinka Counter-Strikea opetetaan Tanskassa.*
+
 ## Tiimidynamiikka
 
 ### Pelin aikainen toiminta
 
-- **Adaptiiviset strategiat:**  
-  - NAVIn "luova kaaos"-tyyli (improvisoitu aggressioni) vs. Vitalityn "koneen tarkkuus" (ennalta harjoitellut kranaatit).  
-- **Roolien dynamiikka:**  
-  - Esimerkki: Astraliksen "blameF" rooli IGL:nä ja lurkerina samanaikaisesti vaatii poikkeuksellista multitaskointia.  
 
 ---
 
-### Yhteenveto: Kuinka nousta huipputasolle?
-
-1. **Perusmekaniikat hallittuksi:**  
-   - Käytä 30% harjoitusajasta aim-trainereihin (Kovaak's FPS Aim Trainer) ja liikkeiden hiomiseen.  
-2. **Pelikohtaiset erikoisuudet syväluotaavaksi:**  
-   - Opettele 5–10 kranaattikombinaatiota peruskarttaa kohden (esim. Mirage A-site execute).  
-3. **Henkinen kestävyys rakennettavaksi:**  
-   - Aloita mindfulness-rutiini (esim. Headspace-sovellus) 10 min/päivä.  
-4. **Tiimikemia jalostettavaksi:**  
-   - Järjestä viikoittainen "VOD review" -sessio, jossa keskitytään yhteen heikkouteen kerrallaan.  
-
-[![Building a Pro Gaming Routine by Healthier Gamers](https://img.youtube.com/vi/3N8e4u8jSv4/0.jpg)](https://www.youtube.com/watch?v=3N8e4u8jSv4)  
-*Ammattilaisten harjoitus- ja palautumisrutiinit.*
-
-**Loppusanat:** E-urheilun huippuun pääseminen vaatii tietoisen tasapainon mekaanisten taitojen, pelitiedon ja henkisen joustavuuden välillä. Onnea matkaan – seuraava voitto saattaa olla yhden harjoituskierroksen päässä! 🎮💥  
+ 🎮💥  
 
 **Käytännön esimerkkejä ja harjoituksia:**  
 
-- Joukkueilla voi olla erilaisia koodikieliä tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter-Strikessa](https://totalcsgo.com/callouts).
+- Joukkueilla voi olla erilaisia koodisanoja tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter-Strikessa](https://totalcsgo.com/callouts).
 - Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter-Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä perääntyä.
 
 ---
@@ -482,7 +464,7 @@ Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa
 
 **Resurssit:**
 
-- [OG.Ceb motivational teamleading](https://www.youtube.com/watch?v=mb9xmqhJnvM&ab_channel=KickasS_____)
+- [![OG.Ceb motivational teamleading](https://img.youtube.com/vi/mb9xmqhJnv/0.jpg)](https://www.youtube.com/watch?v=mb9xmqhJnvM&ab_channel=KickasS_____)
 
 ## Tehtäviä
 
@@ -523,67 +505,8 @@ Nykyään on ainakin kaksi tapaa joilla ammattimaisuuteen voi päästä käsiksi
 
 [How pros do it](https://www.youtube.com/watch?v=mVf6pRS5xoU&ab_channel=STYKO)
 
-## Fyysinen ja henkinen hyvinvointi
-
-
-
-### Ergonomia ja fyysinen kunto
-
-Pitkät pelisessiot vaativat **ergonomisen asetuksen** (selkänoja, käsijatket) ja säännölliset liikkeet **vähentääkseen kipuja**. Liikunta voi auttaa hallitsemaan lihasjännitystä ilman kipukynnysten saavuttamista, parantaen samalla ponnistelua ja lihaskuntoa. Lisäksi, säännöllinen fyysinen harjoittelu voi vähentää vammariskiä.
-
-**Käytännön vinkit:**  
-
-- Tee **5-minuuttisia venyttelytaukoja** joka tunnin välein (esim. niska, ranteet). Liikkeisiin voi sisältyä olkapään ja ranteen liikeratojen parantaminen.  
-- **Vahvista** olkapäitä ja vatsalihaksia.  
-- Istuessa kannattaa pitää **90 asteen kulma** kyynärpäissä.  
-- Huomioi **lihaskireys** olka- ja rannealueilla, jotka ovat usein rasittuneita e-urheilussa.  
-- **Joustavat vastusnauhat** voivat auttaa olkapäiden ulkokierrossa ja vatsalihasten aktivoinnissa.  
-- **Pidä taukoja** säännöllisesti ja vältä pitkiä istumisjaksoja.  
-
 ---
 
-### Stressinhallinta ja palautuminen
-
-**Lähestymistavat:**  
-
-- **Mindfulnessin ja meditaation** on todettu voivan vähentää stressiä ja ahdistusta.  
-- **Fyysinen harjoittelu** on tehokas stressin ja ahdistuksen hallinnassa.  
-- **Aktiivinen palautuminen,** kuten kevyt liikunta, on suositeltavaa.  
-- **Riittävä uni** on tärkeä stressin hallinnassa ja palautumisessa.  
-
-**Resurssit:**  
-
-- App: **Calm** (meditaatio-ohjatut sessiot)
-
----
-
-### Ravitsemus ja uni
-
-Aivot tarvitsevat ravintoa (esim. omega-3, proteiinit) ja **7-9 tuntia unta** optimaaliseen suorituskykyyn. Oikeanlainen ravinto tukee myös stressin hallintaa ja hyvinvointia.
-
-**Käytännön tehtävät:**  
-
-- Huomioi, että **liiallinen istuminen** voi heikentää terveyttä.  
-- **Syö säännöllisesti** ja vältä epäterveellisiä välipaloja.  
-- **Vältä kofeiinia** ja muita piristeitä lähellä nukkumaanmenoaikaa.  
-
-**Resurssit:**  
-
-- Artikkeli: [The Science of Sleep for Gamers](https://www.healthline.com/health/gamers-and-sleep)
-
----
-
-**Lisähuomiot:**  
-
-- **Fyysinen aktiivisuus parantaa kognitiivisia toimintoja,** kuten huomiokykyä, tiedonkäsittelyä ja muistia.  
-- **Säännöllinen liikunta** voi parantaa e-urheilijoiden suorituskykyä ja hyvinvointia.  
-- **Lihasvoimaa** ja kestävyyttä voidaan parantaa voimaharjoittelulla.  
-- **Sykkeen** ja koetun rasituksen seuranta voi auttaa optimoimaan harjoittelua.  
-- On tärkeää erottaa **fyysinen aktiivisuus ja harjoittelu**, joista jälkimmäinen on tavoitteellista ja rakenteellista.  
-- **E-urheilijat voivat hyötyä samankaltaisista harjoitteluohjelmista** kuin toimistotyöntekijät, koska molemmat vaativat pitkäaikaista istumista ja tarkkuutta vaativia tehtäviä.  
-- **HIIT-harjoittelu** on osoittautunut tehokkaaksi kognitiivisten toimintojen parantamisessa.  
-- **Unen laadulla** on suuri vaikutus suorituskykyyn ja palautumiseen.  
-- **Stressin hallinta** on tärkeää e-urheilijoiden suorituskyvylle ja hyvinvoinnille.  
 
 ## Tekninen osaaminen
 
