@@ -24,9 +24,10 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
       - [Visuaaliset avustimet muiden pelien kontekstissa](#visuaaliset-avustimet-muiden-pelien-kontekstissa)
       - [Henkinen peli – mikä erottaa huippupelaajat muista?](#henkinen-peli--mikä-erottaa-huippupelaajat-muista)
       - [Esports-urheilijan fyysinen ja psykologinen hyvinvointi](#esports-urheilijan-fyysinen-ja-psykologinen-hyvinvointi)
-  - [Miten ammattilaiseksi pääsee](#miten-ammattilaiseksi-pääsee)
+  - [Miten ammattilaiseksi pääsee?](#miten-ammattilaiseksi-pääsee)
   - [Tiimidynamiikka](#tiimidynamiikka)
-    - [Pelin aikainen toiminta](#pelin-aikainen-toiminta)
+    - [Erikoistumisrooleja tai termejä](#erikoistumisrooleja-tai-termejä)
+    - [Yleisiä rooleja](#yleisiä-rooleja)
     - [Pelin ulkopuolinen toiminta](#pelin-ulkopuolinen-toiminta)
   - [Konfliktinratkaisu](#konfliktinratkaisu)
     - [Pelin aikaiset konfliktit](#pelin-aikaiset-konfliktit)
@@ -345,7 +346,7 @@ Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa
 
 *Team Roccatin psykologi kertoo useista eri osa-alueista psykologian ja e-urhelun näkökulmasta.*
 
-## Miten ammattilaiseksi pääsee
+## Miten ammattilaiseksi pääsee?
 
 Yllä on pitkä listaus vaatimuksista ja työkaluista, joita esports ammattilaisuus vaatii, mutta mitä tulisi tehdä kun oman pelin mekaaniset taidot ovat tarpeeksi pitkällä ja halua jatkaa eteenpäin olisi. Useissa peleissä on nykyään leaderboardeja, joita kiipeämällä voit tulla huomatuksia joukkuepeleissä. Counter-Strikessa tälläisiä alustoja ovat perinteisesti olleet ESEA ja FACEIT. Kuitenkin yksin tai kaveriporukassakin pelaaminen on parhaillaan todella hauskaa, mutta ei tavoitteellista ja tässä kohdataankin ongelma: mistä löytää samoilla tavoitteilla olevia pelikavereita?
 
@@ -357,7 +358,7 @@ Myös striimaus on nykyään yksi vaihtoehto tulla löydetyksi. Alustat kuten Tw
 
 Nykyään myös YouTubeen on noussut paljon valmentajia, jotka rahaa vastaan auttavat pelaajia mielellään, mutta myös ilmaista materiaalia on paljon tarjolla ja näitä voi hyödyntää oman osaamisen tai joukkueen pelin kehittämisessä.
 
-Jos oikeasti tavoittelet e-urheilin kirkkainta tähteä tulee sinun kohdella pelaamista kuin huippu-urheilua, jossa joudut tekemään uhrauksia ja panostamaan peliin paljon. Joukkueiden kohdalla tämä tarkoittaa usein sitä, että kaveriporukat jäävät taakse ja joudut etsimään vieraita pelaajia unelmasi saavuttamiseksi. 
+Jos oikeasti tavoittelet e-urheilin kirkkainta tähteä tulee sinun kohdella pelaamista kuin huippu-urheilua, jossa joudut tekemään uhrauksia ja panostamaan peliin paljon. Joukkueiden kohdalla tämä tarkoittaa usein sitä, että kaveriporukat jäävät taakse ja joudut etsimään vieraita pelaajia unelmasi saavuttamiseksi.
 
 Yksi realiteetti on myös se, että sinulla tulee olla tarpeeksi lahjakkuutta, jotta voit päästä huipulle. Alla Stykon vihjeita ammattilaisuuteen, jos hän aloittaisi uudelleen.
 
@@ -373,12 +374,66 @@ Palon nähnyt entinen pelaaja, opettaja ja valmentaja MithR kertoo mitä ammatti
 
 ## Tiimidynamiikka
 
-### Pelin aikainen toiminta
+Menestyvä esports-joukkue rakentuu tiimidynamiikan ympärille, jossa on selkeät roolit, tehokas kommunkaatio, taktista osaamista ja tukeva organisaatio sekä valmentaja.
 
+🤝 Vahva joukkueen sisäinen dynamiikka tarkoittaa sitä kuinka hyvin pelaajat kommunikoivat ja viihtyvät keskenään. Tämä on tärkeä osa yhteisöllisyyden rakentamista, joka parantaa yhteistyötä, luottamusta ja yleistä suoriutumista. E-urheilu on yhteisöllinen kokemus, joka korostaa joukkueen dynamiikkaa toimintaa, luottamusta ja kommunikaatiota. 
+
+💬 Selkeä kommunikaatio on osa menestystä ja perinteisesti parhaat joukkueet ovat usein olleet samaa kieltä puhuvia, mutta viimeaikoina ainakin CS2:ssa kansainväliset joukkueet ovat nousseet huipulle, mutta matka on ollut pitkä ja vaatii kaikilta yhteistä kielitaitoa. Callouttien tulee olla tarkkoja, ajoitusten kunnossa koko joukkueen osalta. Tehokas kommunikaatio on turvallista, selkeää ja tavoitteisiin tähtäävää ja mahdollistaa myös palautteen antamisen ja vastaanottamisen oikealla hetkellä. Hyvä joukku pystyy rehellisyyteen ja rakentavaan palautteeseen.
+
+🎯 Selkeät roolit ovat tärkeä osa joukkueen menestymisen kannalta ja peleissä onkin oma termistö erilaisille rooleille, jotka ovat vakiintuneet useisiin eri peleihin kuten "supportti", "tankki" tai "dps/carry", joka kertoo heti millaisiin spesifeihin tehtäviin pelaajat keskittyvät. Vaikka joukkueilla on selkeät roolit, ovat pelit moniulotteisia ja nopeasti muuttuvia, joten pelaajilta vaaditaan kykyä ottaa myös toisten pelaajien rooleja hoidettavakseen pelin aikana. Esimerkkinä CS2:ssa voidaan puhua pelaajista, jotka ovat paljon äänessä ja antavat idoita pelillisen johtajalle eli Ingame Leaderille tai vaihtoehtoisesti pelaaja ei koe, että kyseinen tehtävä onnistuu häneltä hyvin sillä hetkellä, jolloin toiset pelaajat voivat astua hänen rooliinsa ja yrittää tehdä asioita joukkueen eteen. Alla CS2:n perinteiset roolit 🎮:
+
+1. 📋 IGL (In-Game Leader): pelillinen johtaja, tiimin taktiset aivot
+
+Tekee strategiset päätökset yhdessä valmentajan kanssa ja on päävastuussa joukkuen pelinaikaisesta toiminnasta varsinkin erien alussa. Rooli vaatii vahvaa taktista ymmärrystä ja johtajuustaitoja (AleksiB, Karrigan, Apex).
+
+2. 🔫 Entry Fragger: ensimmäisenä sisään tulitaisteluihin
+
+Pyrkii kukistamaan vastustajan ensimmäisenä antaen näin tilaa omalle joukkuuelle ja usein uhraa itsensä, jotta muut pääsevät paremmille paikoille. Perinteisesti uhrautuva rooli, joka miettii joukkueen etua eikä omia statseja. Tarvitsee erinomaiset mekaaniset taidot, jotta pystyy voittamaan tulitaisteluja, vahvaa uskoa omiin kykyihin ja pelottoman asenteen (Donk, Niko, Rain, Elige).
+
+3. 🎯  AWPer (tarkkuuskivääri): pelaa pelin yhtä kalleimmista aseistaa eli awikkaa aina kun mahdollista.
+
+Ottaa isoa roolia avausen hakemisessa ja on usein joukkueen tähtipelaaja, joka voi liikkua kartalla esimerkiksi spawnin perusteella. Mekaanisesti taitava pelaaja, joka kykenee varmaan suorittamiseen, mutta myös ottamaan roolia ja ratkaisemaan pelejä (Simple, Zywoo).
+
+4. 💣 Support (tukipelaaja): heittää tiimille utilityä, joka mahdollistaa muiden etenemisen (flashit, savut, molotovit).
+
+Osaa kaikki mahdolliset utilityt eri kartoissa voi heittää niitä muiden puolesta ja on myös usein IGL-roolissa (AleksiB, Apex)
+
+5. 🕵️ Lurker (väijyjä): pelaa erillään muista, pyrkii katkaisemaan rotaatioita ja yllättämään vastustajan.
+  
+Etenee hitaasti, etsii oikeat hetket iskeä. Tarvitsee hyvän pelisilmän ja malttia. (Ropz, Hunter, Get_Right (CS 1.6 ja CS:GO))
+
+### Erikoistumisrooleja tai termejä
+
+HLTV-jakaa joka vuosi [palkintoja](https://www.hltv.org/news/40752/all-the-winners-of-the-hltv-awards) erilaisista osa-alueista, jotka kertovat pelaajan roolista enemmän kuin yllä mainitut perinteiset roolit.
+
+Palkintoja oli kategorioista:
+
+💥 Opener (avaaja, entry). Tarkoittaa usein entry fraggeria, mutta voi olla myös muuten agressiivinen pelaaja, joka saa paljon avauksia aikaiseksi.
+
+🔐 Closer (klutsaaja). On usein lurkkerin roolia pelaava pelaaja, mutta ei aina, vaan kyseessä voi olla tähtipelaaja, joka menee usein kolmantena tai neljäntenä hyökkääjänä ja onkin usein tekemässä ns. tradeja eli kun entry kukistuu saa kyseinen tähtipelaaja helpomman taistelin ja jää usein clutch-tilanteisiin.
+
+🧱 Anchor (ankkuri, "oon yksin beellä"). Pelaa usein yksin toista pommipaikkaa puolustajana ja pitää paikkansa mahdollisimman pitkään.
 
 ---
 
- 🎮💥  
+### Yleisiä rooleja
+
+💭 Joukkueen tulee olla samalla aaltopituudella pelin sisällä ja sen ulkopuolella, jotta peleissä tapahtuvat ajoitukset toimivat, mutta myös pelin ulkopuolinen taktinen ja kriittinen ajattelu toimii ja oman joukkueen pelaaminen kehittyy.
+
+🚀 Johtajuus on usein IGL:n vastuulla, mutta myös muut pelaajat voivat ottaa roolia pelin ulkopuolella tai palvelimella eri tavoilla.
+
+🫱🏼‍🫲🏽 Valmentajat ohjaavat teknistä harjoittelua, strategista kehitystä ja suorituskyvyn analysointia. He auttavat hiomaan taitoja, parantamaan pelisuoritusta, kehittämään parempia kommunikointitaitoja ja rakentamaan yhtenäistä joukkuekulttuuria. Tehokas vuorovaikutus pelaajien ja valmentajien välillä on tärkeää. Valmentajat voivat ohjata teknistä harjoittelua, strategista kehitystä ja suorituskyvyn analysointia. He voivat tarjota ulkopuolisen näkökulman, joka auttaa tunnistamaan vahvuuksia ja heikkouksia, tarjoten kohdennettua palautetta kehityksen edistämiseksi. Mentorointi e-urheilussa ylittää pelkästään pelaamisen; valmentajat auttavat usein pelaajia kehittämään parempia kommunikointitapoja, ratkaisemaan konflikteja ja rakentamaan yhtenäistä joukkuekulttuuria.
+
+🧩 Joukkueiden on kyettävä sopeutumaan muuttuviin pelin dynamiikkoihin ja odottamattomiin vastustajan strategioihin. Tämä sisältää pelin sisäisen päätöksenteon, luovuuden ja joustavat roolijaot. Parhaat joukkueet omaavat kyvyn mukautua ottelun muuttuviin tilanteisiin.
+
+🤜🤛 Positiivinen joukkueympäristö tukee positiivista ilmapiiriä ja mahdollistaa rakentavan kommunikoinnin, joka taas parantaa joukkueen pelaamista. Joukkuetovereiden arvostaminen ja panoksen tunnustaminen edistävät menstystä ruokkivaa ympäristöä.
+
+📈 Säännölliset suoritusarvioinnit mahdollistavat avoimen kommunikoinnin ja rakentavan palautteen kehityskohteiden tunnistamiseksi. Jatkuva harjoittelu ja taitojen kehittäminen, mukaan lukien kommunikointi ja tiimityö ovat olennaisia. Pelaajat ovat raportoineet tyytymättömyyttä harjoittelu- ja kehittymisprosesseihinsa eri organisaatioissa, mutta esports on nuori ala, joka kehittyy jatkuvast myös tällä osa-alueella.
+
+🛠️ Menestyvä organisaatio sisältää usein henkilöitä, joilla on e-urheiluosaamista, ammattilaisurheiluosaamista ja ammattimaista liiketoimintaosaamista. Ihannetilanteessa organisaation nuoremmat jäsenet tuovat energiaa, intoa ja e-urheilukokemusta, kun taas vanhemmat jäsenet tarjoavat kokemusta, asiantuntemusta ja ammattimaisuutta.
+
+---
+
 
 **Käytännön esimerkkejä ja harjoituksia:**  
 
@@ -396,7 +451,6 @@ Palon nähnyt entinen pelaaja, opettaja ja valmentaja MithR kertoo mitä ammatti
   - Käyttöön työkaluja kuten [Leetify](https://leetify.com/) (CS2) tai [Mobalytics](https://mobalytics.gg/) (LoL) tunnistamaan heikkoudet.  
 - **Psykologinen tuki:**  
   - Joukkueet kuten Fnatic käyttävät urheilupsykologeja käsittelemään kilpailupaineita.  
-
 
 **Käytännön esimerkkejä ja harjoituksia:**  
 
