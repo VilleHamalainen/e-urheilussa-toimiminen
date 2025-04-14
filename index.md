@@ -7,6 +7,15 @@ title: Home
 
 ---
 
+## E-urheilussatoimiminen polun materiaalit
+
+- [Johdatus e-urheiluun](johdatus-e-urheiluun/)
+- [E-urheilutapahtuman suunnittelu](e-urheilutapahtuman-suunnittelu/)
+- [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
+- [Oman osaamisen kehittäminen e-urheilussa](oman-osaamisen-kehittäminen-e-urheilussa/)
+
+---
+
 ## Johdanto
 
 {% include simple-analytics.html %}
@@ -56,9 +65,3 @@ Lisätietoja: Lisätietoja hankkeesta ja sen edistymisestä löytyy osaamiskeski
 
 [![Kseok-hanke](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main/Kuvat/Kseokkuva.png)](https://coesports.gg/)
 
-## E-urheilussatoimiminen polun materiaalit
-
-- [Johdatus e-urheiluun](johdatus-e-urheiluun/)
-- [E-urheilutapahtuman suunnittelu](e-urheilutapahtuman-suunnittelu/)
-- [E-urheilutapahtuman toteuttaminen](e-urheilutapahtuman-toteuttaminen/)
-- [Oman osaamisen kehittäminen e-urheilussa](oman-osaamisen-kehittäminen-e-urheilussa/)
