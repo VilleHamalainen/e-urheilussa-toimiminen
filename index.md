@@ -64,4 +64,3 @@ Lisätietoja: Lisätietoja hankkeesta ja sen edistymisestä löytyy osaamiskeski
 [Kseok-hanke](https://coesports.gg/).
 
 [![Kseok-hanke](https://github.com/VilleHamalainen/e-urheilussa-toimiminen/raw/main/Kuvat/Kseokkuva.png)](https://coesports.gg/)
-

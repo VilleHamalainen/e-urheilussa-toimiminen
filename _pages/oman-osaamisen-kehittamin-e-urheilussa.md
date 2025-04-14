@@ -203,7 +203,7 @@ Utilityn merkitys kasvaa sitä mukaa kun pelaajien ymmärrys pelin strategisista
 
 Yllä on vain pieni osa äänistä ja siitä mitä niistä voi päätellä, joten tarkemman kuvauksen eri äänistä saat alta olevalta videolta.
 
-[![Everything You Need to Know About CS2 Sounds](https://www.youtube.com/vi/bQrm_QbsKzQ/0.jpg)](https://www.youtube.com/watch?v=bQrm_QbsKzQ&ab_channel=WilsonCS2)
+[![Everything You Need to Know About CS2 Sounds](https://img.youtube.com/vi/bQrm_QbsKzQ/0.jpg)](https://www.youtube.com/watch?v=bQrm_QbsKzQ&ab_channel=WilsonCS2)
 
 *Äänet ovat monimutkaisempi asia kun yhtäkkiä voisi päätellä ja onkin tärkeä tietää mitkä äänet kuuluvat myös vastustajalle.*
 
@@ -241,7 +241,7 @@ Toinen keskeinen osa on minikartta. Sen koko, läpinäkyvyys, orientaatio (esim.
 
 Myös muut elementit, kuten ammusmäärän, rahatilanteen, ajastimen ja joukkueen statuksen sijoittelu ja koko vaikuttavat pelattavuuteen. HUD kannattaa säätää niin, että kaikki tärkeä tieto on nopeasti nähtävissä, mutta ei vie turhaan huomiota tai tilaa näytöltä.
 
-[![C2-visuaaliset avut pelin aikana](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/HudSoundMarked.png)]
+![C2-visuaaliset avut pelin aikana](https://raw.githubusercontent.com/VilleHamalainen/e-urheilussa-toimiminen/main/Kuvat/HudSoundMarked.png)
 
 *CS2 näkymästä näkee paljon tärkeää dataa, jota pelaajan tulee seurata pelin aikana.*
 
