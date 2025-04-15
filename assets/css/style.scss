@@ -60,5 +60,27 @@ hr {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); 
 }
 
+table {
+    border-color: #F29135; // or whatever color you want
+    color: #fff; // or your text color
+  }
+  
+  th {
+    background-color: #F29135; // or a darker orange if needed
+    color: #fff;
+  }
+  
+  td {
+    border-color: #F29135;
+  }
+  
+  table a {
+    color: #F29135;
+  }
+  
+  table tr:hover {
+    background-color: rgba(242, 145, 53, 0.1); // subtle hover effect
+  }
+
   
 
