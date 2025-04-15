@@ -14,51 +14,36 @@ permalink: /oman-osaamisen-kehittäminen-e-urheilussa/
   - [Sisällysluettelo](#sisällysluettelo)
   - [Pelillinen kehittyminen](#pelillinen-kehittyminen)
     - [Pelimekaniikat](#pelimekaniikat)
-      - [Ampuminen](#ampuminen)
-      - [Liikkuminen](#liikkuminen)
-      - [Pelitietämys](#pelitietämys)
-      - [Utility muiden pelien kontekstissa](#utility-muiden-pelien-kontekstissa)
-      - [Äänet](#äänet)
-      - [Äänet muiden pelien kontekstissa](#äänet-muiden-pelien-kontekstissa)
-      - [Visuaaliset avustimet](#visuaaliset-avustimet)
-      - [Visuaaliset avustimet muiden pelien kontekstissa](#visuaaliset-avustimet-muiden-pelien-kontekstissa)
-      - [Henkinen peli – mikä erottaa huippupelaajat muista?](#henkinen-peli--mikä-erottaa-huippupelaajat-muista)
-      - [Esports-urheilijan fyysinen ja psykologinen hyvinvointi](#esports-urheilijan-fyysinen-ja-psykologinen-hyvinvointi)
+    - [Ampuminen](#ampuminen)
+    - [Liikkuminen](#liikkuminen)
+    - [Pelitietämys](#pelitietämys)
+    - [Utility muiden pelien kontekstissa](#utility-muiden-pelien-kontekstissa)
+    - [Äänet](#äänet)
+    - [Äänet muiden pelien kontekstissa](#äänet-muiden-pelien-kontekstissa)
+    - [Visuaaliset avustimet](#visuaaliset-avustimet)
+    - [Visuaaliset avustimet muiden pelien kontekstissa](#visuaaliset-avustimet-muiden-pelien-kontekstissa)
+    - [Henkinen peli – mikä erottaa huippupelaajat muista?](#henkinen-peli--mikä-erottaa-huippupelaajat-muista)
+    - [Esports-urheilijan fyysinen ja psykologinen hyvinvointi](#esports-urheilijan-fyysinen-ja-psykologinen-hyvinvointi)
   - [Miten ammattilaiseksi pääsee?](#miten-ammattilaiseksi-pääsee)
-    - [Yhteenveto](#yhteenveto)
+    - [Oppimisen teoriaa Counter-Striken näkökulmasta](#oppimisen-teoriaa-counter-striken-näkökulmasta)
   - [Tiimidynamiikka](#tiimidynamiikka)
     - [Erikoistumisrooleja tai termejä](#erikoistumisrooleja-tai-termejä)
     - [Yleisiä rooleja](#yleisiä-rooleja)
-    - [Pelin ulkopuolinen johtajuus](#pelin-ulkopuolinen-johtajuus)
   - [Tehtäviä](#tehtäviä)
-    - [**Tehtävä**: Kommunkaation analyysi](#tehtävä-kommunkaation-analyysi)
+    - [**Tehtävä**: kommunikaation analyysi](#tehtävä-kommunikaation-analyysi)
+    - [Teoriaa](#teoriaa)
     - [**Tehtävä**: Oman ja joukkueen tekemisen analysointi](#tehtävä-oman-ja-joukkueen-tekemisen-analysointi)
     - [**Tehtävä**: Mieti omia ja joukkueesi vahvuuksia ollevan videon perusteella. Mitkä ovat videon viisi tärkeintä osa-aluetta, joihin aiot keskittyä?](#tehtävä-mieti-omia-ja-joukkueesi-vahvuuksia-ollevan-videon-perusteella-mitkä-ovat-videon-viisi-tärkeintä-osa-aluetta-joihin-aiot-keskittyä)
     - [**Tehtävä**: Järjestä tiimipalaveri hyödyntäen pelin ulkopuolisia työkaluja. Miten muut pelaajat suhtautuivat?](#tehtävä-järjestä-tiimipalaveri-hyödyntäen-pelin-ulkopuolisia-työkaluja-miten-muut-pelaajat-suhtautuivat)
-    - [**Tehtävä**: Tutustu alla olevaan materiaaliin liittyen pelilliseen johtajuuteen ja tee alla olevat tehtävät.](#tehtävä-tutustu-alla-olevaan-materiaaliin-liittyen-pelilliseen-johtajuuteen-ja-tee-alla-olevat-tehtävät)
-    - [Pelin ulkopuolinen toiminta pelaajan ja joukkueen näkökulmasta](#pelin-ulkopuolinen-toiminta-pelaajan-ja-joukkueen-näkökulmasta)
-  - [Konfliktinratkaisu](#konfliktinratkaisu)
-    - [Pelin aikaiset konfliktit](#pelin-aikaiset-konfliktit)
-    - [Pelin ulkopuoliset konfliktit](#pelin-ulkopuoliset-konfliktit)
-  - [Tekninen osaaminen](#tekninen-osaaminen)
-    - [Laitteisto- ja ohjelmisto-osaaminen](#laitteisto--ja-ohjelmisto-osaaminen)
-    - [Striimaus- ja sisällöntuotantotaidot](#striimaus--ja-sisällöntuotantotaidot)
-  - [Liiketoimintaosaaminen](#liiketoimintaosaaminen)
-    - [Sopimusneuvottelut](#sopimusneuvottelut)
-    - [Taloudenhallinta](#taloudenhallinta)
-  - [Oman brandin rakentaminen](#oman-brandin-rakentaminen)
-    - [Sosiaalisen median hallinta](#sosiaalisen-median-hallinta)
-  - [Kielitaito ja kulttuurinen osaaminen](#kielitaito-ja-kulttuurinen-osaaminen)
-    - [Englannin kielen taito](#englannin-kielen-taito)
-  - [Mitä uran jälkeen?](#mitä-uran-jälkeen)
-    - [Valmentaminen ja analytiikka](#valmentaminen-ja-analytiikka)
-    - [Muut urat](#muut-urat)
-  - [Laaja tehtävä innokkaille opiskelijoille](#laaja-tehtävä-innokkaille-opiskelijoille)
+    - [**Tehtävä**: Tutustu alla olevaan materiaaliin liittyen pelilliseen johtajuuteen ja tee alla olevat tehtävät](#tehtävä-tutustu-alla-olevaan-materiaaliin-liittyen-pelilliseen-johtajuuteen-ja-tee-alla-olevat-tehtävät)
+    - [**Tehtävä**: Laadi alla olevan tiedon perusteella lista/kuva/kartta oman joukkueesi "callouteista". Mieti mitkä ovat hyvän calloutin piirteet?](#tehtävä-laadi-alla-olevan-tiedon-perusteella-listakuvakartta-oman-joukkueesi-callouteista-mieti-mitkä-ovat-hyvän-calloutin-piirteet)
+    - [\*Tehtävä: Katso alla olevat videot ja vastaa alla oleviin kysymyksiin](#tehtävä-katso-alla-olevat-videot-ja-vastaa-alla-oleviin-kysymyksiin)
+  - [Lopputehtävä](#lopputehtävä)
     - [Tehtävän kuvaus](#tehtävän-kuvaus)
     - [Vaiheet](#vaiheet)
-      - [Resurssit](#resurssit)
+    - [Resurssit](#resurssit)
     - [Esimerkkikurssi: **League of Legends**](#esimerkkikurssi-league-of-legends)
-    - [🏆 **Arviointi**](#-arviointi)
+    - [Arviointi](#arviointi)
   - [Resursseja](#resursseja)
   - [Seuraava aihe](#seuraava-aihe)
   - [Edellinen aihe](#edellinen-aihe)
@@ -73,11 +58,11 @@ E-urheilulla ja perinteisellä urheilulla on hyvin paljon yhtäläisyyksiä, vai
 
 Tässä osiossa käydään läpi pelimekaniikkoja Counter-Striken näkökulmasta. Erilaisia mekaniikkoja, jotka pelaajan täytyy hallita ovat seuraavat pelimekaniikat: ampuminen, liikkuminen, erilaisten peliobjektien kuten granaattien tuntemus, taktiikka ja ns. metagame, pelin ekonomia, visuaaliset elementit kuten ääni ja kuva (pelaajien äänet, varjot) ja pelin tavoitteet kuten pommin toiminta.
 
-#### Ampuminen
+### Ampuminen
 
 Ampumapeleissä luonnollisesti ensimmäinen asia on tähtääminen mahdollisimman nopeasti ja tarkasti vastustajaan. Tähän on kehitetty omia uusia työkaluja, joiden avulla ns. "1st bullet accuracya" voidaan kehittää. Esimerkkeinä mainittakoot Steamista löytyvä ilmainen [Aimlabs](https://store.steampowered.com/app/714010/Aimlabs/) tai selaimessa toimiva [Mouseaccuracy](https://mouseaccuracy.com/game). Nopea ja tarkka ampuminen on kuitenkin vain yksi osa kilpapelaamista ja esimerkiksi Counter-Strikessa erilaisia ampumistyylejä on useita erilaisia. Parhaat pelaajat hyödyntävät erilaisia tyylejä tilanteen mukaan. Esimerkiksi, jos joukkue tietää, että vastustaja säästää ja heillä ei ole suojia, on tietyissä tilanteissa järkevää tähdätä vartaloon, jolloin ilman suojaa olevat pelaajat hidastuvat ja heidän tähtäämisensä muuttuu mahdottomaksi ns. "aim punchin" takia, jolloin tähtäin hyppii mihin sattuu. Esimerkiksi huippujoukkue Astraliksen pelaajat saattoivat muuttaa tähätäimensä sijaintia ekonomian perusteella.
 
-[![How to use modern tools to develop aim by Styko](https://img.youtube.com/vi/1vN2H0rzd5U/0.jpg)](https://www.youtube.com/watch?v=1vN2H0rzd5U)
+[![How to use modern tools to develop aim by Styko](https://img.youtube.com/vi/1vN2H0rzd5U/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=1vN2H0rzd5U)
 
 *Ammattipelaaja Stykon näkemyksiä tähtäystyökalun käytöstä. Yksilön mekaaninen osaaminen ei yksin riitä huipulle asti, vaan myös muita ominaisuuksia vaaditaan.*
 
@@ -93,29 +78,31 @@ Pre aiming tarkoittaa siis kykyä visualioida sitä, mitä hetken päästä tapa
 
 Usein tilanteiden voittamien onkin paljon muuta kuin sitä kuka painaa nopeiten ja pystyy siirtämään hiirtään nopeiten eri koordinaattien välillä (tällä on myös iso rooli kuten tämän hetken supertähti Donk on osoittanut). Kyseinen mekaaniikka vaikuttaa luonnollisesti puolustavassa asemassa olevan pelaajan toimintaan, jolloin oman sijoittumisen miettiminen kierrosten alussa, tai ennen peliä on iso rooli pelissä menestymiselle. Samassa paikassa oleva pelaaja on usein helppo saalis vastustajan joukkueelle.
 
-[![Why you still strugling with moving targets?](https://img.youtube.com/vi/DP954gl592E/0.jpg)](https://www.youtube.com/watch?v=DP954gl592E)
+[![Why you still strugling with moving targets?](https://img.youtube.com/vi/DP954gl592E/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=DP954gl592E)
 
 *Vihjeita liikkuvien kohteiden seuraamiseen ja työkaluja oman pelaamisen kehittämiseen.*
 
-https://www.youtube.com/watch?v=VN4b2c_CdIo&ab_channel=minigodcs aimtrainerdemo
+[![How aim trainers can help isolating problems](https://img.youtube.com/vi/VN4b2c_CdIo/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=VN4b2c_CdIo&ab_channel=minigodcs)
+
+*Tähtäyksen kehittäminen työkalun avulla voi olla hyödyllistä ja nykyään myös ammattipelaajat käyttävät työkaluja hyväkseen.*
 
 ---
 
-#### Liikkuminen
+### Liikkuminen
 
 Tämä osio käsittelee liikkumisen avainkonsepteja, käyttäen ensisijaisesti Counter-Strike 2:ta (CS2) esimerkkinä, vaikka monet periaatteet pätevät muihinkin peleihin. Liikkuminen ei ole vain paikkojen välillä liikkumista, vaan huippupelaajat liikkuvat ja ampuvat samaan aikaan, niin, että tarkkuus ei kärsi. Pelissä liikkumiseen liitty hahmon nopeus ja kiihtyvyys, joihin pelaaja voi vaikuttaa painamalla eteen, taakse, oikealla ja vasemmalle nappeja. Ehkä tärkein yksittäinen liikkumiseen ja ampumiseen liittyvä mekaniikka on ns. "counter strafing", jossa pelaaja painaa vasemmalle liikkuessaan (A-nappi näppäimistössä) D-nappia, jolloin pelihahmo pysähtyy samalla hetkellä ja tällöin ampuminen tarkasti on mahdollista. Edellisessä osiossa puhuimme ampumisesta ilman liikettä, mutta kuten tulemme huomaamaan, paikallaan oleva pelaaja ei pelissä pärjää. Ilman vastaliikettä ammukset lähtevät mihin sattuvat. Jos pelaaja taas päästää irti tässä tapauksessa A-napista, kestää hahmolla pieni hetki pysähtyä. Toinen tapa liikuttaa omaa hahmoa on mennä kyykkyyn, joka myös pysäyttää hahmon ja näin ollen tekee ampumisesta tarkkaa (itseasiassa kaikkein tarkin tapa ampua on olla kyykyssä), jollon myös hahmon koko ruudulla pienenee, mutta vastaavasti liikkumiseen tulee viivettä ja se hidastuu. Kyykkyyn meneminen on myös äärimmäisen tärkeä tapa sotkea ampumisosiossa puhuttua ennakoivaa ampumista, koska pelaajan pää voi olla kahdella eri korkeudella riippuen tuleeko pelaaja kyykyssä vai seisten. Vauhtiin taas vaikuttaa tuleeko pelaaja juosten vai kävellen (lisäksi pienellä vastaliikkeellä hahmo saavuttaa hetkellisen korkeimman mahdollisen kiihtyvyyden).
 
-[![The Ultimate Guide to Counter Strafing in CS"](https://img.youtube.com/vi/Li4J09ei8ro/0.jpg)](https://www.youtube.com/watch?v=Li4J09ei8ro&ab_channel=CSSeb)
+[![The Ultimate Guide to Counter Strafing in CS"](https://img.youtube.com/vi/Li4J09ei8ro/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=Li4J09ei8ro&ab_channel=CSSeb)
 
 *Liikkumisen ja ampumisen perusteet.*
 
-[![Donk 1 v 5 keystrokes](https://img.youtube.com/vi/qIHmRN93Oj0/0.jpg)](https://www.youtube.com/watch?v=qIHmRN93Oj0&ab_channel=Leetify)
+[![Donk 1 v 5 keystrokes](https://img.youtube.com/vi/qIHmRN93Oj0/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=qIHmRN93Oj0&ab_channel=Leetify)
 
 *Maailman parhaan pelaajan taidonnäyte.*
 
 Liikkuminen on keskeinen taito, joka erottaa huippupelaajat muista pelaajista ja vaikuttaa pelin jokaiseen osa-alueeseen. Erilaisten liikkumistekniikoiden hallitseminen voi yllättää vastustajan, koska tietyttyihin paikkoihin pääseminen nopeasti vaatii peruspelaajalle haastavien liikkeiden suorittamista (esimerkiksi CS2-kartta Miragen ikkunasta mutkaan hyppy CT:nä). Liikkumisella vaikeutetaan myös vastustajan tähtäämistä, josta pääsemme tarkemmin erilaisiin tapoihin tulla esiin nurkkien tai muiden esteiden takaa Pelissä voi myös hypätä, jolla voi päästä nopeasti vaikeisiin paikkoihin, harhauttaa vastustajan tähtäimen paikkaa jne. Erilaiset hypyt ja liikkuminen ovat luoneet omia pelimuotoja, jossa pelaajat kilpailevat ja emme tässä materiaalissa syvenny aiheeseen sen enempää. Alla olevasta videoista voi aloittaa tutustumisen hyppyjen maailmaan.
 
-[![How To Do Every Skill Jump in CS2](https://img.youtube.com/vi/goFpDwLvFqs/0.jpg)](https://www.youtube.com/watch?v=goFpDwLvFqs&ab_channel=dabewie)
+[![How To Do Every Skill Jump in CS2](https://img.youtube.com/vi/goFpDwLvFqs/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=goFpDwLvFqs&ab_channel=dabewie)
 
 *Counter-Strike on täynnä erilaisia vaikeita hyppyjä, joilla voi saavuttaa etuja.*
 
@@ -135,7 +122,7 @@ Liikkumiseen liittyy hyvin vahvasti karttatuntemus, koska optimaalisen reitin l�
 
 ---
 
-#### Pelitietämys
+### Pelitietämys
 
 Useissa peleissä on peruselementtien, kuten tässä tapauksessa liikkuminen ja ampuminen, erilaisia elementtejä, joiden hyödyntäminen erottaa parhaat pelaajat ja varsinkin joukkueet toisistaan. Counterstrikesta löytyy ainakin seuraavat konseptit, jotka kilpailullisesti pelaavan pelaajan tulee hallita:
 
@@ -151,7 +138,7 @@ Awp onkin niin niin merkityksellinen, että sen ympärille on joukkeissa rakenne
 
 Pelin historiassa on ollut jaksoja, joissa tietyt aseet ovat olleet niin vahvoja, että niiden ostaminen usein osoittautui liian tehokkaaksi taktiikaksi. Yllä mainittu AWP on yksi näistä ja aseen kanssa liikkumista ja ampumista jouduttiinkin muuttamaan, koska osa huippupelaajista oli aseen kanssa liian hyviä. Erilaiset pistoolit ovat myös olleet varsin hyviä eri vaiheissa pelejä, koska pelin kehittäjät ovat pyrkineet antamaan jokaiselle kierrokselle panosta. Yksittäisen aseiden muutokset voivat vaikuttaa pelin sisällä ostettaviin asioihin suuresti, joten ekonomian ja metan tunteminen on yksi ehdottomista vaatimuksista huipputasolla. Alla video nykyäänkin olemassa olevasta TEC-9 pistoolista jolloin se oli vielä parempi.
 
-[![Tec9 too good](https://img.youtube.com/vi/edigZqRlMeI/0.jpg)](https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault)  
+[![Tec9 too good](https://img.youtube.com/vi/edigZqRlMeI/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=edigZqRlMeI&ab_channel=TheDemoVault)  
 
 *Tec9 oli pienen hetken ase, joka teki jokaisesta kierroksesta voitettavan. Olofmaister sai aseen takia lempinimen "Tec9master".*
 
@@ -159,7 +146,7 @@ Pelin historiassa on ollut jaksoja, joissa tietyt aseet ovat olleet niin vahvoja
 
 Käydään aluksi läpi asioita  yksilöllisen pelaajan näkökulmasta, joka haluaa kehittää omaa pelillistä osaamistaa ja tavoittelee kilpauraa eurheilijana. Pelaajan on hyvä tietää ja tuntea ajoitukset, joilla pelaajat kerkeävät kartan kriittisiin paikkoihin. Tästä esimerkkinä voisi olla Mirage-kartan terroristien vs puolustavan joukkueen taistelu keskustan hallinnasta. Parhaalla lähdöllä oleva puolustava pelaaja kerkeää ikkunaan, josta keskustaa pääsee nopeiten katsomaan. Toisena Dust2, jossa puolutajapelaajat kerkeävät paremmilla lähdöillä ensiksi suoralle, joka vaikuttaa siihen miten hyvät pelaajat tekevät valintoja erien alussa ja peleissä kuulekin kommentteja, kuten "minulla on hyvä lähtö suoralle", joka voi muuttaa molempien puolten erän aloitusta. Alla video, jossa on suurin osa kilpailullisten karttojen alkuajoituksista, jotka yksilöllisen pelaajan on hyvä tietää. Aloittelevat ja kehittyneemmätkin pelaajat tulevat usein yllätetyiksi siitä, missä vastustajat ovat.
 
-[![New CS2 spawn timings for every map 2024](https://img.youtube.com/vi/63vBcSgtk3I/0.jpg)](https://www.youtube.com/watch?v=63vBcSgtk3I)
+[![New CS2 spawn timings for every map 2024](https://img.youtube.com/vi/63vBcSgtk3I/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=63vBcSgtk3I)
 
 *Video eri lähtöjen ajoituksista kaikkiin karttoihin, jotka olivat 2024 kilpailullisessa karttapoolissa.*
 
@@ -177,7 +164,7 @@ Ammattilaistasolla utilityn käyttö on lähes taidetta ja osa pelaajista kuten 
 
 CS2:n utility ei ole pelkästään työkalu vahingon tekemiseen tai näkyvyyden estämiseen – se on tärkeä osa strategiaa, tiedon saantia, aluekontrollia ja ajankäyttöä.
 
-#### Utility muiden pelien kontekstissa
+### Utility muiden pelien kontekstissa
 
 Utility ei ole ilmiönä rajoittunut vain Counter-Striken kaltaisiin peleihin, vaan se esiintyy monessa muodossa eri peleissä.
 
@@ -191,7 +178,7 @@ Utilityn merkitys kasvaa sitä mukaa kun pelaajien ymmärrys pelin strategisista
 
 ---
 
-#### Äänet
+### Äänet
 
 **Äänet** ovat äärimmäisen tärkeä osa pelejä ja yhtäkkiä aihe voi kuulostaa yksinkertaiselta, mutta alla esimerkkejä äänistä ja mitä niistä voidaan päätellä CS2:ssa:
 
@@ -203,11 +190,11 @@ Utilityn merkitys kasvaa sitä mukaa kun pelaajien ymmärrys pelin strategisista
 
 Yllä on vain pieni osa äänistä ja siitä mitä niistä voi päätellä, joten tarkemman kuvauksen eri äänistä saat alta olevalta videolta.
 
-[![Everything You Need to Know About CS2 Sounds](https://img.youtube.com/vi/bQrm_QbsKzQ/0.jpg)](https://www.youtube.com/watch?v=bQrm_QbsKzQ&ab_channel=WilsonCS2)
+[![Everything You Need to Know About CS2 Sounds](https://img.youtube.com/vi/bQrm_QbsKzQ/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=bQrm_QbsKzQ&ab_channel=WilsonCS2)
 
 *Äänet ovat monimutkaisempi asia kun yhtäkkiä voisi päätellä ja onkin tärkeä tietää mitkä äänet kuuluvat myös vastustajalle.*
 
-#### Äänet muiden pelien kontekstissa
+### Äänet muiden pelien kontekstissa
 
 🔮 **Dota 2:ssa** loitsujen ja esineiden äänet ovat olennainen osa peliä. Kun pelaaja käyttää loitsun tai aktivoi esineen, ääni kuuluu kaikille pelaajille, jotka ovat sen kuuluvuusetäisyydellä. Pelissä käytetään paikallista äänentoistoa (ns. "positionaalista audiota"), mikä tarkoittaa, että pelaajat voivat usein päätellä hyökkäyksen suunnan pelkästään äänen perusteella.
 
@@ -223,7 +210,7 @@ Kuten Dota 2:ssa, myös League of Legendsissä pelaajat voivat säätää ääni
 
 ---
 
-#### Visuaaliset avustimet
+### Visuaaliset avustimet
 
 Counter-Strikessa visuaalisia efektejä ei ole yhtä runsaasti kuin esimerkiksi moba-peleissä, joissa loitsut ja kyvyt näkyvät näyttävinä animaatioina. Silti pelaajan on tärkeä tuntea pelin visuaaliset mekaniikat, kuten valaistuksen vaikutus varjoihin, dynaamiset savut, minikkartan tarjoamat hyödyt sekä HUD:n (Heads-up display), joka tarkoittaa graafisia elementtejä peruspelin päällä, kuten minikartta, tähtäin, joukkuetoverien määrä ja utility jne.
 
@@ -247,7 +234,7 @@ Myös muut elementit, kuten ammusmäärän, rahatilanteen, ajastimen ja joukkuee
 
 Kuvan 1. alue eli minikartta kertoo omien sijoittumisen eri värisillä ja kokoisilla palloilla,  omat äänet vihreällä ympyrällä, vastustajan sijainnin äänet tai näköyhteyden perusteella ?-ikonilla, eri pommialueet ja mihin pommi voidaan laittaa. Kuvan 2. alueella nähdään nopeasti oman ja vastustajajoukkueen elossa olevien pelaajien lukumäärä ja omien aseet sekä utility. Kuvan 3. alueella nähdään ns. killfeed, joka kertoo kun pelaajat kukistuvat. Ammattilaispeleissä tästä voidaan nopeasti päätellä miltä alueelta pelaaja kukistui ilman, että siitä tarvitsee edes sanoa. Kuvan 4. osiosta nähdään omat aseet ja utility ja kuvan 5. osiosta näet rahatilanteesi, elämäpisteet (max 100) ja suojien määrän (max 100).
 
-#### Visuaaliset avustimet muiden pelien kontekstissa
+### Visuaaliset avustimet muiden pelien kontekstissa
 
 🔮 **Dota 2:ssa** visuaaliset vihjeet ovat kriittinen osa päätöksentekoa ja reagointia. Jokainen loitsu ja esineanimaatio on suunniteltu antamaan pelaajalle tietoa tilanteesta – joskus jopa sekunteja ennen kuin vaikutus alkaa.
 
@@ -273,7 +260,7 @@ Kyseisen pelin yhtenä ongelmana pidetään kuiten sitä, että pelin sisäiset 
 
 ---
 
-#### Henkinen peli – mikä erottaa huippupelaajat muista?
+### Henkinen peli – mikä erottaa huippupelaajat muista?
 
 Monissa peleissä – erityisesti kilpailullisissa – yksilötaidot ja refleksit ovat tärkeitä, mutta ne eivät yksin riitä. Ammattilaispelaajat erottuvat usein muista henkisen vahvuuden, tilannetajun ja oppimiskyvyn ansiosta.
 
@@ -301,7 +288,7 @@ Peleissä on joukko universaaleja taitoja, jotka siirtyvät lajista toiseen.
 
 *Osa taidoista on universaaleja, mutta usein pelaajat yrittävät tehdä siirtymiä peligenrejen sisällä. Harvoin esimerkiksi CS-ammattilainen päätyy DOTA2 ammattilaiseksi.*
 
-#### Esports-urheilijan fyysinen ja psykologinen hyvinvointi
+### Esports-urheilijan fyysinen ja psykologinen hyvinvointi
 
 Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa se huippupelaajat merkittävän fyysisen ja psyykkisen kuormituksen alle. Pitkä ura e-urheilijana vaatii kokonaisvaltaista panostusta psykologisiin ja fyysisiin aspekteihin.
 
@@ -317,13 +304,15 @@ Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa
 
 - **Räätälöity ruokavalio on avainasemassa suorituskyvyn ja reaktioaikojen optimoinnissa.** Säännöllinen uni on myös olennainen osa yleistä hyvinvointia ja suorituskykyä. Hyvin nukkuminen itsessään ei tee sinusta parempaa pelaajaa, mutta se on yhteydessä yleiseen hyvinvointiin ja kykyyn keskittyä, joka taas parantaa pelinaikaista suorittamista.
 
-[![Esports players are training like professional athletes](https://img.youtube.com/vi/uyF6ZwtLon/0.jpg)](https://www.youtube.com/watch?v=uyF6ZwtLonM&ab_channel=Quartz)
+[![Esports players are training like professional athletes](https://img.youtube.com/vi/uyF6ZwtLonM/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=uyF6ZwtLonM&ab_channel=Quartz)
 
 *Esimerkki ammatilaisorganisaation toiminnasta ja kilpailuedun saavuttamisesta kaikin mahdollisin keinoin.*
 
-[![Can Working Out Make You a Gaming God?](https://img.youtube.com/vi/O4Dx1sWCKt/0.jpg)](https://www.youtube.com/watch?v=O4Dx1sWCKtM&ab_channel=eAthleteLabs)
+[![Can Working Out Make You a Gaming God?](https://img.youtube.com/vi/O4Dx1sWCKtM/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=O4Dx1sWCKtM&ab_channel=eAthleteLabs)
 
-*Urheilun hyödyt e-urheilijalle.
+*Fyysisen treenin hyödyt e-urheilussa ovat todellisia.*
+
+---
 
 🧠 **Psykologiset vaatimukset**
 
@@ -341,11 +330,11 @@ Vaikka e-urheilu on ulospäin paikallaan olevaa ja staattista toimintaa, asettaa
 
 - **Rutiinit ja tavat luovat päivien rakenteen ja voivat olla erittäin hyödyllisiä tavoitteiden saavuttamisessa, kuten e-urheilijana kehittymisessä.** Päivittäiset rutiinit ovat hyödyllisiä mielenterveydelle, sillä ne voivat esimerkiksi vähentää stressiä, toimia selviytymiskeinona ja lievittää ahdistusta. Hyvät päivittäiset tavat heijastuvat suoraan pelaajan kehitykseen ja suoritukseen pelipalvelimella.
 
-[![Meet the Esports Psychologist Who Led Astralis to a 'Counter-Strike' Championship](https://img.youtube.com/vi/1FB76xQ8XL4/0.jpg)](https://www.youtube.com/watch?v=1FB76xQ8XL4&ab_channel=Mashable)
+[![Meet the Esports Psychologist Who Led Astralis to a 'Counter-Strike' Championship](https://img.youtube.com/vi/1FB76xQ8XL4/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=1FB76xQ8XL4&ab_channel=Mashable)
 
 *Suomalainen psykologi, joka aloitti Astraliksen kuuluisan Counter-Strike voittojen putken.*
 
-[![S02 E01: The psychology behind esports with Xirreth](https://img.youtube.com/vi/FLtYPGGxxSs/0.jpg)](https://www.youtube.com/watch?v=FLtYPGGxxSs&t=1754s&ab_channel=TurtleBeachPC)
+[![S02 E01: The psychology behind esports with Xirreth](https://img.youtube.com/vi/FLtYPGGxxSs/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=FLtYPGGxxSs&t=1754s&ab_channel=TurtleBeachPC)
 
 *Team Roccatin psykologi kertoo useista eri osa-alueista psykologian ja e-urhelun näkökulmasta.*
 
@@ -365,27 +354,53 @@ Jos oikeasti tavoittelet e-urheilin kirkkainta tähteä tulee sinun kohdella pel
 
 Yksi realiteetti on myös se, että sinulla tulee olla tarpeeksi lahjakkuutta, jotta voit päästä huipulle. Alla Stykon vihjeita ammattilaisuuteen, jos hän aloittaisi uudelleen.
 
-[![How I'd Go Pro in CS2 If I Started Again](https://img.youtube.com/vi/tonzxoJQpbA/0.jpg)](https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO)
+[![How I'd Go Pro in CS2 If I Started Again](https://img.youtube.com/vi/tonzxoJQpbA/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=tonzxoJQpbA&ab_channel=STYKO)
 
 *Styko kertoo kuinka aloittaisi, jos haluaisi uudelleen ammattilaiseksi.*
 
 Palon nähnyt entinen pelaaja, opettaja ja valmentaja MithR kertoo mitä ammattilaisuus vaatii. Oletko oikeasti valmis ja tahdotko ammattipelaajaksi?
 
-[![How Is Counter-Strike Taught In Danish Schools?](https://img.youtube.com/vi/zhAxECqGZSQ/0.jpg)](https://www.youtube.com/watch?v=zhAxECqGZSQ&ab_channel=STYKO)
+[![How Is Counter-Strike Taught In Danish Schools?](https://img.youtube.com/vi/zhAxECqGZSQ/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=zhAxECqGZSQ&ab_channel=STYKO)
 
 *Näkökulmia ammattilaiseksi pääsemisestä ja siitä kuinka Counter-Strikea opetetaan Tanskassa.*
 
-### Yhteenveto
+[![How to get into pro Counter-Strike w/ gla1ve](https://img.youtube.com/vi/bCNYZw5O22U/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=bCNYZw5O22U&ab_channel=ENCEEsports)
 
-1. FaceIt tai jokin muu alusta, josta löytyy erilaisia leaderboardeja. Pelaamalla hyvin ja erottumalla yksilätaidolla sinut voidaan löytää ja pääset näin osaksi puoli- tai ammattitason joukkuetta.
-2. Samanhenkisten pelaajien etsiminen ja joukkueena kehittyminen, joka vaatii enemmän vaivaa ja voikin olla aika-ajoin varsin turhauttavaa, koska pelaajien löytäminen ei ole helppoa. Kuitenkin oikealla joukkueella pelaaminen hyvin erilaista kuin vaikkapa FaceIT 10 tason pelit.
-3. Striimaaminen. Voit myös pelata ammatiksesi olematta varsinaisesti osana kilpailullista joukkuetta striimauksen kautta. Usein pelaajilla on erilaisia taitoja (hyvä pelissä, karismaattinen, hauska tai hyvä opettaja), jonka avulla hän kerää itselleen katsojia ja pystyy tuomaan organisaatioille arvoa tätä kautta. Striimin kautta sinut voidaan myös bongata osaksi e-urheilujoukkuetta.
+*Enchen Gla1ve kertoo kuinka päästä mukaan CS-skenee.*
+
+[Mitä on pelitaito ja miten sitä voidaan kehittää?](https://findresearcher.sdu.dk/ws/portalfiles/portal/173482556/The_Play_of_Champions_final_pre_print.pdf)
+
+*Pelitaitoon liittyvää teoriaa.*
+
+### Oppimisen teoriaa Counter-Striken näkökulmasta
+
+Yllä olevassa videossa MithR puhuu paljon intentiosta eli harjoittelun tarkoituksenmukaisuudesta. Erilaiset oppimisstrategiat voivat olla myöds hyödyllisiä pelaajille, jotka haluavat kehittyä mahdollisimman nopeasti. Kovalle työlle ei ole korvaajaa, mutta suunniteltu ja älykäs työ on vielä tehokkaampaa.
+
+- **Säännöllinen kertaaminen kasvavin aikavälein (Spaced Retrieval Practice)**
+  
+Counter-Strikessa tämä voisi tarkoittaa pelaajan opetellessa uusia karttakutsuja (callout). Sen sijaan, että ne vain muistettaisiin kerran, pelaaja voisi aktiivisesti testata muistiaan kutsuihin liittyen harjoitussession jälkeen, sitten seuraavana päivänä ja taas muutaman päivän kuluttua. Samoin joukkue voisi kerrata tiettyä taktista pelikuviota, jonka he ovat oppineet, harjoitellen sitä aluksi useissa peräkkäisissä erissä ja sitten sisällyttäen sen uudelleen harjoitusrutiiniinsa yhä harvemmissa välein varmistaakseen, että joukkue muistaa kaikki sen yksityiskohdat. Tämä auttaa tiedon pitkäaikaisessa muistamisessa ja usein jopa ammatilaistason peleissä savut ym. menevät pieleen kriittisillä hetkillä, koska oikea lineup ei ole jäänyt täysin mieleen.
+
+- **Harjoitusten monipuolistaminen/lomittaminen (Interleaving)**
+
+Counter-Strike-pelaaja, joka keskittyy tähtäämisensä kehittämiseen, voisi monipuolistaa harjoitteluaan sen sijaan, että hän käyttäisi koko session vain AK-47:ää AimLabsissa tai DM-palvelimella. Pelaaja voisi vaihdella eri aseiden (esim. M4A4, AWP, pistooli) välillä. Hän voisi myös yhdistää tähtäysharjoittelun eri kurkistustyylien (peeking styles) harjoitteluun eri kulmista kartalla tai erilaisten kranaatinheittojen (utility) harjoitteluun eri tilanteita varten. Tämä pakottaa pelaajan sopeutumaan ja soveltamaan taitojaan erilaisissa tilanteissa. Tästä toinen esimerkki voisi olla tähtäimen tietoinen sijoittaminen hieman eri kohtiin vastustajaa, joka antaa aivoille uusia tapoja tulkita tilanteita.
+
+- **Pelillisten konspetien selittäminen (Eloboration)**
+
+Pelaaja voi katsoa Counter-Strike-ottelun analyysin (kuten Stykon "demokatselmus"), jonka jälkeen hän selittää käytettyjä strategioita yksityiskohtaisesti joukkuetoverilleen tai jopa itselleen. Pelaaja voi kuvailla, miksi joukkue osti tai ei ostanut tietyllä kierroksella, eritellen mahdollisia hyötyjä ja riskejä. Samoin, jos joukkue työskentelee uuden puolustusmuodostelman parissa kartalla, jokainen pelaaja voisi selittää oman roolinsa ja vastuunsa yksityiskohtaisesti, selventäen, miten hänen sijoittumisensa ja toimintansa edistävät kokonaisstrategiaa. Tämä syventää pelaajien ymmärrystä taustalla olevista periaatteista ja parantaa heidän kykyään toimia pelipalvelimella.
+
+- **Tietoinen ajattelu ja ongelman ratkaisu (Generation)**
+
+Kun Counter-Strike-joukkue analysoi hävittyä erää, valmentaja tai pelaajat voisivat aktiivisesti miettiä ja kertoa mikä heidän mielestään meni vikaan eikä katsoa suoraan demosta mitä tapahtui. Hän voisi esittää kysymyksiä kuten: "Oliko meillä tietoa vastustajan strategiasta?", "mitä päätöksiä teimme?" ja "mitä olisimme voineet tehdä toisin?". Aktiivinen muistiin palauttaminen ja ongelmanratkaisu ennen vastauksen saamista auttaa pelaajia kehittämään syvempää ymmärrystä pelistä ja omista päätöksentekoprosesseistaan. Samalla tavalla uusien callouttien kohdalla pelaaja voisi yrittää muistaa tietyn alueen nimen kartalla ennen sen tarkistamista.
+
+- **Reflektointi (Reflection) eli oman suorituksen säännöllinen analysointi, kehittämiskohteet ja oman harjoittelun suunnittelu**
+
+Counter-Strike-pelaajat ja -joukkueet harjoittavat usein reflektiota analysoimalla aiempia otteluitaan katsomalla tallenteita harjoitusotteluistaan tai virallisista peleistään (kuten NAVI:n ja Fazen-G2:n kommunikaatioanalyysitehtävä). Ammattipelaajat tunnistavat toistuvia virheitä ja heikkouksia kommunikaatiossaan tai utilityn käytössä avaintilanteissa ja pyrkivät korjaaman ne yksin ja tiiminn kanssa. Refelktoinnin apuna voi käyttää esimerkiksi viikottain "Start, Stop, Continue" -menetelmää hyödyntävää retrospektiiviä.
 
 ## Tiimidynamiikka
 
-Menestyvä esports-joukkue rakentuu tiimidynamiikan ympärille, jossa on selkeät roolit, tehokas kommunkaatio, taktista osaamista ja tukeva organisaatio sekä valmentaja.
+Menestyvä esports-joukkue rakentuu tiimidynamiikan ympärille, jossa on selkeät roolit, tehokas kommunkaatio, taktista osaamista, tukeva organisaatio sekä valmentaja.
 
-🤝 Vahva joukkueen sisäinen dynamiikka tarkoittaa sitä kuinka hyvin pelaajat kommunikoivat ja viihtyvät keskenään. Tämä on tärkeä osa yhteisöllisyyden rakentamista, joka parantaa yhteistyötä, luottamusta ja yleistä suoriutumista. E-urheilu on yhteisöllinen kokemus, joka korostaa joukkueen dynamiikkaa toimintaa, luottamusta ja kommunikaatiota. 
+🤝 Vahva joukkueen sisäinen dynamiikka tarkoittaa sitä kuinka hyvin pelaajat kommunikoivat ja viihtyvät keskenään. Tämä on tärkeä osa yhteisöllisyyden rakentamista, joka parantaa yhteistyötä, luottamusta ja yleistä suoriutumista. E-urheilu on yhteisöllinen kokemus, joka korostaa joukkueen dynamiikkaa toimintaa, luottamusta ja kommunikaatiota.
 
 💬 Selkeä kommunikaatio on osa menestystä ja perinteisesti parhaat joukkueet ovat usein olleet samaa kieltä puhuvia, mutta viimeaikoina ainakin CS2:ssa kansainväliset joukkueet ovat nousseet huipulle, mutta matka on ollut pitkä ja vaatii kaikilta yhteistä kielitaitoa. Callouttien tulee olla tarkkoja, ajoitusten kunnossa koko joukkueen osalta. Tehokas kommunikaatio on turvallista, selkeää ja tavoitteisiin tähtäävää ja mahdollistaa myös palautteen antamisen ja vastaanottamisen oikealla hetkellä. Hyvä joukku pystyy rehellisyyteen ja rakentavaan palautteeseen.
 
@@ -405,7 +420,7 @@ Ottaa isoa roolia avausen hakemisessa ja on usein joukkueen tähtipelaaja, joka 
 
 4. 💣 Support (tukipelaaja): heittää tiimille utilityä, joka mahdollistaa muiden etenemisen (flashit, savut, molotovit).
 
-Osaa kaikki mahdolliset utilityt eri kartoissa voi heittää niitä muiden puolesta ja on myös usein IGL-roolissa (AleksiB, Apex)
+Osaa kaikki mahdolliset utilityt eri kartoissa ja voi heittää niitä muiden puolesta. Toimii myös usein IGL-roolissa (AleksiB, Apex)
 
 5. 🕵️ Lurker (väijyjä): pelaa erillään muista, pyrkii katkaisemaan rotaatioita ja yllättämään vastustajan.
   
@@ -415,7 +430,7 @@ Etenee hitaasti, etsii oikeat hetket iskeä. Tarvitsee hyvän pelisilmän ja mal
 
 HLTV-jakaa joka vuosi [palkintoja](https://www.hltv.org/news/40752/all-the-winners-of-the-hltv-awards) erilaisista osa-alueista, jotka kertovat pelaajan roolista enemmän kuin yllä mainitut perinteiset roolit.
 
-Palkintoja oli kategorioista:
+Palkintoja löytyy seuraavista kategorioista:
 
 💥 Opener (avaaja, entry). Tarkoittaa usein entry fraggeria, mutta voi olla myös muuten agressiivinen pelaaja, joka saa paljon avauksia aikaiseksi.
 
@@ -439,33 +454,39 @@ Palkintoja oli kategorioista:
 
 📈 Säännölliset suoritusarvioinnit mahdollistavat avoimen kommunikoinnin ja rakentavan palautteen kehityskohteiden tunnistamiseksi. Jatkuva harjoittelu ja taitojen kehittäminen, mukaan lukien kommunikointi ja tiimityö ovat olennaisia. Pelaajat ovat raportoineet tyytymättömyyttä harjoittelu- ja kehittymisprosesseihinsa eri organisaatioissa, mutta esports on nuori ala, joka kehittyy jatkuvast myös tällä osa-alueella.
 
-🛠️ Menestyvä organisaatio sisältää usein henkilöitä, joilla on e-urheiluosaamista, ammattilaisurheiluosaamista ja ammattimaista liiketoimintaosaamista. Ihannetilanteessa organisaation nuoremmat jäsenet tuovat energiaa, intoa ja e-urheilukokemusta, kun taas vanhemmat jäsenet tarjoavat kokemusta, asiantuntemusta ja ammattimaisuutta.
+🛠️ Menestyvä organisaatio sisältää usein henkilöitä, joilla on e-urheiluosaamista, ammattilaisurheiluosaamista ja ammattimaista liiketoimintaosaamista. Ihannetilanteessa organisaation nuoremmat jäsenet tuovat energiaa ja intoa, kun taas vanhemmat jäsenet tarjoavat kokemusta, asiantuntemusta ja ammattimaisuutta.
 
 ---
 
-**Käytännön esimerkkejä ja harjoituksia:**  
-
-- Joukkueilla voi olla erilaisia koodisanoja tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter-Strikessa](https://totalcsgo.com/callouts).
-- Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter-Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä perääntyä.
-
-### Pelin ulkopuolinen johtajuus
-
-
- [![OG.Ceb motivational teamleading](https://img.youtube.com/vi/mb9xmqhJnv/0.jpg)](https://www.youtube.com/watch?v=mb9xmqhJnvM&ab_channel=KickasS_____)
-
- *Esimerkki Dota2-joukkueen pelienvälisestä toiminnasta esimerkkinä OG.Ceb.*
-
 ## Tehtäviä
 
-### **Tehtävä**: Kommunkaation analyysi
+### **Tehtävä**: kommunikaation analyysi
+
+### Teoriaa
+
+**Tehokas viestintä on olennainen osa menestystä kaikissa tiimipohjaisissa toimissa, eikä e-urheilu ole poikkeus.** Selkeä ja hyvin toteutettu viestintä voi merkittävästi parantaa tiimin koordinaatiota ja strategiaa, mikä lopulta johtaa parempaan suoritukseen. Toisaalta tehoton viestintä voi aiheuttaa sekaannusta ja edistää negatiivisia lopputuloksia.
+
+👂 **Aktiivisen kuuntelutaidon tärkeys**
+
+Aktiivinen kuuntelu on perusedellytys selkeän ymmärryksen varmistamiseksi tiimissä. Tämä tarkoittaa enemmän kuin vain joukkuetovereiden puheen kuulemista. Se vaatii huomion keskittämistä, läsnäoloa keskusteluissa, aktiivista selventävien kysymysten esittämistä ja uudelleenmuotoilua ymmärryksen varmistamiseksi. Harjoittamalla aktiivista kuuntelua tiimin jäsenet voivat minimoida väärinkäsitykset ja varmistaa, että kaikki ovat samalla sivulla.
+
+🫡 **Toisten kunnioittaminen**
+
+Kunnioittava ja selkeä viestintä luo turvallisen ilmapiirin, jossa pelaajat voivat tehdä nopeita päätöksiä ja luottaa toisiinsa. Sävy, kielen yksinkertaisuus ja paineensietokyky ovat olennaisia.
+
+🗣️ **Palautteen rooli tiimin sisäisen kommunikaation parantamisessa**
+
+Palaute, sekä sen antaminen että vastaanottaminen, on ratkaisevassa asemassa tiimin viestinnän ja yleisen tiimityön ja ymmärryksen jatkuvassa kehittämisessä. Rakentava palaute auttaa tiimin jäseniä tunnistamaan alueita, joilla heidän viestintänsä voisi olla tehokkaampaa, ja mukauttamaan tyylejään sen mukaisesti. Tiimiympäristö, joka kannustaa avointa ja rehellistä palautetta, on välttämätön kasvulle ja kehitykselle.
+
 
 1. Analysoi parin tai pienen tiimin kanssa Navi-Vitality pelin kommunikaatiota. Vastatkaa seuraaviin kysymyksiin:
-Millaisia erilaisia kommunikaatiotilanteita tunnistatte? Esimerkiksi onko kierroksen alussa, keskellä ja lopussa tapahtuvalla kommunikaatiolla eroja?
-Onko joukkueen strategia erän aikana selkeä? Toimiiko kommunikaatio selkeästi?
-Näkyykö paine kommunikaatiossa missään vaiheessa? Onko kommunikaatio erilaista alussa kuin lopun clutch-tilanteessa?
-Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
 
- [![Example of esports communication by NAVI](https://img.youtube.com/vi/dbvz1cn1PpU/0.jpg)](https://www.youtube.com/watch?v=dbvz1cn1PpU)  
+- Millaisia erilaisia kommunikaatiotilanteita tunnistatte? Esimerkiksi onko kierroksen alussa, keskellä ja lopussa tapahtuvalla kommunikaatiolla eroja?
+- Onko joukkueen strategia erän aikana selkeä? Toimiiko kommunikaatio selkeästi?
+- Näkyykö paine kommunikaatiossa missään vaiheessa? Onko kommunikaatio erilaista alussa kuin lopun clutch-tilanteessa?
+- Analysoi jokaisen pelaajan kommunikaatiota ja näkyvätkö pelaajien roolit kommunikaatiossa? Kenet laittaisitte pelilliseksi johtajaksi tämän näytteen perusteella?
+
+ [![Example of esports communication by NAVI](https://img.youtube.com/vi/dbvz1cn1PpU/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=dbvz1cn1PpU)  
 
 *Esimerkki Navin kommunikaatiosta.*
 
@@ -474,7 +495,7 @@ Huomaatteko joukkueiden kommunikaatiossa selkeitä eroja?
 Tunnistatteko eroja joukkueiden välillä, jotka puhuvat natiivisti samaa kieltä vs kaikki puhuvat englantia?
 Löydättekö näytteestä virheitä, jotka vaikuttivat kierroksen lopputulokseen?
 
-[![Clutch communication by Faze](https://img.youtube.com/vi/8owi_WvrGuk/0.jpg)](https://www.youtube.com/watch?v=8owi_WvrGuk)  
+[![Clutch communication by Faze](https://img.youtube.com/vi/8owi_WvrGuk/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=8owi_WvrGuk)  
 
 *JKS ja Ropz 2v5 tilanteen pelaaminen ja kommunikaatio.*
 
@@ -494,7 +515,7 @@ Tutustu alla oleviin videoihin ja mieti omaa kehittymistäsi pelaajana. Teetkö 
 
 ### **Tehtävä**: Mieti omia ja joukkueesi vahvuuksia ollevan videon perusteella. Mitkä ovat videon viisi tärkeintä osa-aluetta, joihin aiot keskittyä?
 
-[![The Competitive Advantage of Teamwork with Patrick Lencioni](https://img.youtube.com/vi/cIGLI3eWfsc/0.jpg)](https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc.)  
+[![The Competitive Advantage of Teamwork with Patrick Lencioni](https://img.youtube.com/vi/cIGLI3eWfsc/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=cIGLI3eWfsc&ab_channel=PagerDutyInc.)  
 
 *Kilpailuedun saavuttaminen yhteistyöllä esportsin ulkopuolelta. Samoja asioita voi hyödyntää ja peilata esportsiin.*
 
@@ -503,7 +524,7 @@ Tutustu alla oleviin videoihin ja mieti omaa kehittymistäsi pelaajana. Teetkö 
 - Järjestä **viikoittainen retrospektiivi** käyttäen [*"Start, Stop, Continue"* -metodia](https://www.betterup.com/blog/start-stop-continue).  Metodin idea miettiä mitä asioita kannattaa aloittaa, joita ei tehdä. Mitä olevassa olevia toimintamalleja ei kannattaisi jatkaa ja mitkä toimivat hyvin.
 - Usein joukkueet ja tiimit osallistuvat **tiimirakennusaktiviteetteihin** (esim. pelataan yhteistyöpohjaista peliä kuten [*Overcooked*](https://en.wikipedia.org/wiki/Overcooked)).
 
-### **Tehtävä**: Tutustu alla olevaan materiaaliin liittyen pelilliseen johtajuuteen ja tee alla olevat tehtävät.
+### **Tehtävä**: Tutustu alla olevaan materiaaliin liittyen pelilliseen johtajuuteen ja tee alla olevat tehtävät
 
 [Aleksi B IGL Tutorial](https://www.youtube.com/watch?v=-DfqcmHVYt0&ab_channel=betwayesports)
 [Launders 3 things every IGL needs to know](https://www.youtube.com/watch?v=7WhcLTTArw4&ab_channel=launders)
@@ -512,139 +533,27 @@ Tutustu alla oleviin videoihin ja mieti omaa kehittymistäsi pelaajana. Teetkö 
 - Joukkue voi harjoitella pelaamista niin, että eri pelaajat kokeilevat **IGL-roolia** harjoituksissa oppiakseen eri pelaajan näkemyksiä tai erilaisia tyylejä johtaa joukkuetta. Vaihtakaa koko pelin ajaksi tai puoliskoksi IGL-pelaajaa. Raportoi mitkä asiat menivät hyvin ja mitkä huonosti.
 - Valitse omalle pelillesi sopiva videopätkä tai kokonainen ottelu. Analysoi ammattilaisten **päätöksentekoa** ja mieti miksi pelaajat tekevät mitä he tekevät. Voit pohtia asiaa joukkueen ja/tai  yksittäisen pelaajan näkökulmasta.
 
----
+### **Tehtävä**: Laadi alla olevan tiedon perusteella lista/kuva/kartta oman joukkueesi "callouteista". Mieti mitkä ovat hyvän calloutin piirteet?
 
-### Pelin ulkopuolinen toiminta pelaajan ja joukkueen näkökulmasta
+- Joukkueilla voi olla erilaisia koodisanoja tietyille paikoille tai taktiikoille. (esim. "Smoke pit" tarkoittaa savun heittämistä tiettyyn kohtaan tai "Flash Temple" tarkoittaa valon heittämistä tietylle alueelle). Seuraavana linkin takaa löydät yhden otannan paikkojen nimistä. On hyvä huomata, että eri kielillä ns. "Call outit" ovat aivan erilaisia ja myös kielten sisällä paikat voivat olla kaveri piirien sisäpiirinimiä tai jotain muuta! [Paikkojen nimiä Counter-Strikessa](https://totalcsgo.com/callouts).
 
-- **Tiimikokoukset:** Säännölliset tapaamiset strategioiden, heikkouksien ja vahvuuksien käsittelyyn.  
-- **Vertaispalaute:** Rakentavan palautteen antaminen ilman syyllistämistä (esim. "Viimeisessä roundissa olisi kannattanut…").  
+- Muissa peleissä kuten Dota2:ssa kommunikaatio voi perustua "ping"-tomintoon (löytyy myös Counter-Strikesta nykyään), mutta isojen taistelujen aikainen kommunikaatio on myös äärimmäisen tärkeää, jotta joukkue tietää kehen hyökkäys kohdistetaan tai onko joukkueen syytä perääntyä.
 
-- **Tietotekninen analyysi osaksi pelaajana kehittymistä:**  
-  - Käyttöön työkaluja kuten [Leetify](https://leetify.com/) (CS2) tai [Mobalytics](https://mobalytics.gg/) (LoL) tunnistamaan heikkoudet.  
-- **Psykologinen tuki:**  
-  - Joukkueet kuten Fnatic käyttävät urheilupsykologeja käsittelemään kilpailupaineita.  
+### *Tehtävä: Katso alla olevat videot ja vastaa alla oleviin kysymyksiin
 
----
+ [![OG.Ceb motivational teamleading](https://img.youtube.com/vi/mb9xmqhJnvM/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=mb9xmqhJnvM&ab_channel=KickasS_____)
 
-## Konfliktinratkaisu
+ *Esimerkki Dota2-joukkueen pelienvälisestä toiminnasta esimerkkinä OG.Ceb.*
 
-### Pelin aikaiset konfliktit
+ [![OG.Ceb motivational teamleading](https://img.youtube.com/vi/6gv3-CfpH7c/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=6gv3-CfpH7c&t=10s&ab_channel=theScoreesports)
 
-- **Paineen hallinta:** Konfliktit syntyvät usein stressaavissa tilanteissa (esim. häviöputki). Tärkeää on keskittyä ratkaisuun, ei syyllisten etsimiseen.  
-
-**Lähestymistavat:**  
-
-- Käytä **timeoutteja** (esim. 1 min tauko kierroksen välissä) toisinsanoen "älä tilttaa" eli mene omaan kuoreesi ja toivo, että asiat muuttuvat ilman tietoista toimintaa ja ongelmanratkaisua.  
-- **De-eskalaatio:** "Tämä on vaikea tilanne, mutta pystymme siihen yhdessä." tai "Tiedän, että olemme tehneet virheitä, mutta ne pitää nyt jättää taakse ja keskittyä seuraavaan kierrokseen."
-
-**Käytännön esimerkkejä ja harjoituksia:**  
-
-- Harjoittele konfliktinratkaisua **harjoituspeleissä tai soolopeleissa** (esim. solo FaceIt, jossa tiimi on 0-5 tappiolla). Voit esimerkiksi koittaa erilaisia oppimiasi tekniikoita omien pelaajien rauhoittamiseen.
+- Arvioi Cebin johtajuustaitoja. Mikä tekee hänestä hyvän johtajan? Vaikuttiko hänen valmentajataustansa joukkueen menestykseen jollain tavalla?
+- Miten kuvailisit Cebin tapaa kommunikoida joukkueensa kanssa? Mitä hän saa aikaan muissa pelaajissa?
+- Pohdi aikaisemman teorian perusteella Ceb:n tai jonkun oman pelisi pelillisen johtajan vahvuuksia, jota arvostat korkealle. Kerro palautuksessa pelaajan nimi, miksi valitsit hänet ja mikä tekee hänestä vahvan pelaajan?
 
 ---
 
-### Pelin ulkopuoliset konfliktit
-
-- **Strategiaerimielisyydet:** Erilaiset näkemykset pelin yleisistä tai karttakohtaisista taktiikoista, metasta (liittyy taktiikoihin) tai rooleista.  
-- **Henkilökohtaiset jännitteet:** Esim. aikatauluongelmat, kommunikaatiotyylien yhteensopimattomuus tai yleiset henkilökemiaongelmat.  
-
-**Lähestymistavat:**  
-
-- **Meditaatio:** Kolmannen osapuolen apu (esim. valmentaja) neutraalina välittäjänä, nykyään myös psykologit ja erilaiset mentaalivalmentajat.  
-- **Selkeys sopimuksissa:** Kirjataan ylös tiimisäännöt (esim. harjoitusaikataulut, viestintäkanavat).  
-
----
-
-
-## Tekninen osaaminen
-
-### Laitteisto- ja ohjelmisto-osaaminen
-
-Tunne pelilaitteistosi (esim. hiiren DPI, näytön virkistystaajuus) ja optimoi asetukset (esim. **NVIDIA Control Panel**).  
-
-**Resurssit:**  
-
-- Opas: [PC Gamer Hardware Guide](https://www.pcgamer.com)  
-- Video: *"How to Optimize Windows for Gaming"* (YouTube, Linus Tech Tips)  
-
----
-
-### Striimaus- ja sisällöntuotantotaidot
-
-**Käytännön tehtävät:**  
-
-- Striimaa peliä **Twitchissä** käyttäen **OBS Studiota** (harjoittele overlayn ja chatbotin käyttöä).  
-- Editoi highlight-video valitsemallasi työkalulla kuten [Clipchamp](https://app.clipchamp.com/login), jos olet Windows käyttäjä.  
-
-**Resurssit:**  
-
-- Kurssi: [Skillshare: Streaming 101](https://www.skillshare.com)  
-
----
-
-## Liiketoimintaosaaminen
-
-### Sopimusneuvottelut
-
-**Vinkit:**  
-
-- Tutustu **standardi sopimusmalleihin** (esim. **Esports Agreement Template** LawDepotista).  
-- Käytä **agenttia**, jos et ymmärrä lakitekstejä.  
-
-**Resurssit:**  
-
-- Artikkeli: [How to Negotiate an Esports Contract](https://www.esportsinsider.com)  
-
----
-
-### Taloudenhallinta
-
-**Käytännön työkalut:**  
-
-- Käytä **Exceliä** tai **Mint**-sovellusta tulojen ja menojen seurantaan.  
-
----
-
-## Oman brandin rakentaminen
-
-### Sosiaalisen median hallinta
-
-**Strategiat:**  
-
-- **Twitter:** Jaa päivittäisiä päivityksiä pelikokemuksistasi.  
-- **TikTok:** Luo lyhyitä, humoristisia pätkiä epäonnistumistasi ja voitoistasi.  
-
-**Resurssit:**  
-
-- Kurssi: [Hootsuite Social Media Marketing](https://www.hootsuite.com)  
-
----
-
-## Kielitaito ja kulttuurinen osaaminen
-
-### Englannin kielen taito
-
-**Tehtävät:**  
-
-- Osallistu **Redditin r/GlobalOffensive**-keskusteluihin.  
-- Kuuntele **The Esports Podcast** -jaksoja ja kirjoita tiivistelmä.  
-
----
-
-## Mitä uran jälkeen?
-
-### Valmentaminen ja analytiikka
-
-**Resurssit:**  
-
-- Kurssi: [Gamer Sensei Coach Training](https://www.gamersensei.com)  
-- Työkalu: [Mobalytics] (https://mobalytics.gg/), [Leetify CS](https://leetify.com/home/)
-
-### Muut urat  
-
-- **Sisällöntuotanto:** Aloita oma YouTube-kanava.  
-
-## Laaja tehtävä innokkaille opiskelijoille
+## Lopputehtävä
 
 <details>
 
@@ -692,7 +601,7 @@ Esimerkkejä:
 **Päivä 4:** Analysoi peliä analytiikkatyökaluilla ja anna palautetta toisille opiskelijoille.
 **Päivä 5:** Suunnittele päivän ruokavalio ja aseta lyhyen ja pitkän tähtäimen tavoitteet.
 
-#### Resurssit
+### Resurssit
 
 🗓️ **Kurssin aikataulu**
 
@@ -720,23 +629,19 @@ Arvioi kurssin tehokkuus ja opiskelijoiden kehitys. Kerää palautetta osallistu
 
 ---
 
-### 🏆 **Arviointi**
+### Arviointi
 
 Kerää palautetta osallistujilta ja arvioi kurssin toteutuksen mahdolliset kehityskohdat.
 
 </details>
+
+---
 
 ## Resursseja
 
 [Natun ja Robun podcast](https://open.spotify.com/show/6nXZmspwDgIdPxBpjhreQV?si=b87a32ed64284ed8)
 
 [Pelaamisen kehittämiseen keskittyviä podcasteja](https://open.spotify.com/show/4v91zLNxqDFlFeFYcZpTZV?si=4c74a416e69349b1)
-
-[How to get into pro Counter-Strike w/ gla1ve](https://www.youtube.com/watch?v=bCNYZw5O22U&ab_channel=ENCEEsports)
-
-[Mitä on pelitaito ja miten sitä voidaan kehittää?](https://findresearcher.sdu.dk/ws/portalfiles/portal/173482556/The_Play_of_Champions_final_pre_print.pdf)
-
----
 
 ## Seuraava aihe
 

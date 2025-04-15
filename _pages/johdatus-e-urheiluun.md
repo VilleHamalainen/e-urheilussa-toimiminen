@@ -146,7 +146,7 @@ Suomessa E-urheilun nousu on ollut osa maailmanlaajuista kehitystä. Suomessa on
 
 Suomalaisia menestyneitä pelaajia on useita ja olemmekin sijalla 14 maailman rankingeissa. Menestystä on tullut yksittäisille pelaajille PUBG:ssa, Valorantissa, Rainbow Six Siegessä, Owerwatchissa, Fortnitessa, Lolissa, Hearthstonessa ja myös elektronisissa ajopeleissä. Tarkempia tietoja tienesteistä voit katsoa [Esports Earning sivulta](https://www.esportsearnings.com/countries/fi).
 
-[![The International 2018](https://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg)](https://www.youtube.com/watch?v=Bv4CqIxqTMA)
+[![The International 2018](https://img.youtube.com/vi/Bv4CqIxqTMA/0.jpg){: .centered-video-thumbnail }](https://www.youtube.com/watch?v=Bv4CqIxqTMA)
 
 *Huikea TI-behind the scenes, jossa on mukana myös suomalaisia Dota-tähtiä!*
 
