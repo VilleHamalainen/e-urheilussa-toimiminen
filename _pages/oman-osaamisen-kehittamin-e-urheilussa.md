@@ -555,9 +555,7 @@ Tutustu alla oleviin videoihin ja mieti omaa kehittymistäsi pelaajana. Teetkö 
 
 ## Lopputehtävä
 
-<details>
-
-<Summary>**Avaa tehtävä:** Suunnitelkaa ja toteuttakaa oma pienen mittakaavat esports-pelikurssi! </Summary>
+**Suunnitelkaa ja toteuttakaa oma pienen mittakaavat esports-pelikurssi!**
 
 ### Tehtävän kuvaus
 
@@ -632,8 +630,6 @@ Arvioi kurssin tehokkuus ja opiskelijoiden kehitys. Kerää palautetta osallistu
 ### Arviointi
 
 Kerää palautetta osallistujilta ja arvioi kurssin toteutuksen mahdolliset kehityskohdat.
-
-</details>
 
 ---
 
